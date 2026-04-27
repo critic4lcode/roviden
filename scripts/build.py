@@ -283,7 +283,8 @@ def _build_support_block(channel_support: dict) -> str:
     )
 
 
-def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str, transcript_block: str, root: str = "..", source_rel: str = "", channel_support: dict | None = None) -> str:
+def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str, transcript_block: str, root: str = "..", source_rel: str = "", channel_data: dict | None = None) -> str:
+    # channel_support also carries affiliation/direction/notes from channels.yaml (canonical)
     video_id = html.escape(str(fm.get("video_id", "")))
     video_url = html.escape(str(fm.get("video_url", f"https://www.youtube.com/watch?v={video_id}")))
     title = str(fm.get("title", ""))
@@ -299,9 +300,10 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
         "YouTube felirat" if fm.get("transcript_source") == "youtube_subtitle" else "Whisper ASR"
     )
     summary_model = html.escape(str(fm.get("summary_model", "")))
-    affiliation = str(fm.get("affiliation", "") or "").strip()
-    direction = str(fm.get("direction", "") or "").strip()
-    notes = str(fm.get("notes", "") or "").strip()
+    ch = channel_data or {}
+    affiliation = str(ch.get("affiliation") or fm.get("affiliation") or "").strip()
+    direction = str(ch.get("direction") or fm.get("direction") or "").strip()
+    notes = str(ch.get("notes") or fm.get("notes") or "").strip()
     notes_attr = f' data-notes="{html.escape(notes)}" title="{html.escape(notes)}"' if notes else ""
     notes_class = " has-notes" if notes else ""
     meta_chips = []
@@ -324,7 +326,7 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
     details_html = md_lib.markdown(details_md, extensions=["nl2br", "tables", "md_in_html"]) if details_md else ""
     uncertain_html = md_lib.markdown(uncertain_md, extensions=["nl2br", "tables", "md_in_html"]) if uncertain_md else ""
     tldr_block = f'<section class="tldr">\n    <div class="tldr-label">tl;dr</div>\n    {tldr_html}\n  </section>' if tldr_html else ""
-    support_block = _build_support_block(channel_support or {})
+    support_block = _build_support_block(channel_data or {})
     details_block = f'<section class="summary">\n    {details_html}\n  </section>' if details_html else ""
     uncertain_block = (
         f'<section class="uncertain">\n'
@@ -648,8 +650,12 @@ def _build_index(data: list[dict]) -> str:
 
 # ── Main build ────────────────────────────────────────────────────────────────
 
-def _load_channel_support(site_root: Path) -> dict[str, dict]:
-    """Load donate/patreon/merch links keyed by channel slug."""
+def _load_channel_data(site_root: Path) -> dict[str, dict]:
+    """Load all channel metadata keyed by channel slug.
+
+    Returns a dict of slug → {affiliation, direction, notes, donate, donate_1pct, patreon, merch}.
+    These values are the canonical source of truth and override frontmatter.
+    """
     channels_file = site_root / "channels.yaml"
     if not channels_file.exists():
         return {}
@@ -664,11 +670,11 @@ def _load_channel_support(site_root: Path) -> dict[str, dict]:
         slug = ch.get("slug")
         if not slug:
             continue
-        support = {}
-        for key in ("donate", "donate_1pct", "patreon", "merch"):
+        entry = {}
+        for key in ("affiliation", "direction", "notes", "donate", "donate_1pct", "patreon", "merch"):
             if ch.get(key):
-                support[key] = ch[key]
-        result[slug] = support
+                entry[key] = ch[key]
+        result[slug] = entry
     return result
 
 
@@ -677,7 +683,7 @@ def build(site_root: Path, out_dir: Path) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "v").mkdir(exist_ok=True)
 
-    channel_support_map = _load_channel_support(site_root)
+    channel_data_map = _load_channel_data(site_root)
 
     # Copy static assets
     style = site_root / "scripts/style.css"
@@ -703,8 +709,8 @@ def build(site_root: Path, out_dir: Path) -> None:
         # Generate video page HTML
         source_rel = md_path.relative_to(content_dir).as_posix()
         ch_slug = str(fm.get("channel_slug", ""))
-        ch_support = channel_support_map.get(ch_slug, {})
-        page_html = _build_video_page(fm, tldr_md, details_md, uncertain_md, transcript_block, root=root, source_rel=source_rel, channel_support=ch_support)
+        ch_data = channel_data_map.get(ch_slug, {})
+        page_html = _build_video_page(fm, tldr_md, details_md, uncertain_md, transcript_block, root=root, source_rel=source_rel, channel_data=ch_data)
         out_page = out_dir / page_url
         out_page.parent.mkdir(parents=True, exist_ok=True)
         out_page.write_text(page_html, encoding="utf-8")
@@ -729,9 +735,9 @@ def build(site_root: Path, out_dir: Path) -> None:
             "duration_display": _fmt_duration(duration_sec),
             "page_url": page_url,
             "teaser": plain_summary[:200],
-            "affiliation": str(fm.get("affiliation", "") or ""),
-            "direction": str(fm.get("direction", "") or ""),
-            "notes": str(fm.get("notes", "") or ""),
+            "affiliation": str(ch_data.get("affiliation") or fm.get("affiliation") or ""),
+            "direction": str(ch_data.get("direction") or fm.get("direction") or ""),
+            "notes": str(ch_data.get("notes") or fm.get("notes") or ""),
         })
 
     # Sort newest-first by published_at (falls back to date), so videos appear
