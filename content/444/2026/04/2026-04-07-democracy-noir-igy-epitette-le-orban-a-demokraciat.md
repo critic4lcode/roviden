@@ -1,12 +1,12 @@
 ---
-date: '2026-04-27'
+date: '2026-04-07'
 title: 'Democracy Noir: Így építette le Orbán a demokráciát'
 description: ''
 video_id: pLAx8yV5vYg
 video_url: https://www.youtube.com/watch?v=pLAx8yV5vYg
 channel_slug: '444'
 channel_name: '444'
-published_at: ''
+published_at: '2026-04-07T17:05:04+00:00'
 duration_sec: 5557
 tags:
 - jogállam

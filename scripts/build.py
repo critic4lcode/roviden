@@ -174,7 +174,7 @@ _VIDEO_TMPL = """\
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="{desc}">
-<title>{title} — Röviden</title>
+<title>{title} - Röviden</title>
 <link rel="stylesheet" href="{root}/style.css">
 </head>
 <body>
@@ -289,7 +289,8 @@ def _card_html(entry: dict) -> str:
 
     return (
         f'<a class="card" href="{html.escape(entry["page_url"])}"'
-        f' data-channel="{html.escape(entry["channel_slug"])}">\n'
+        f' data-channel="{html.escape(entry["channel_slug"])}"'
+        f' data-date="{html.escape(entry["date"])}">\n'
         f'  <div class="card-thumb">\n'
         f'    <img src="https://i.ytimg.com/vi/{html.escape(entry["video_id"])}/hqdefault.jpg"'
         f' alt="" loading="lazy">\n'
@@ -309,13 +310,16 @@ def _card_html(entry: dict) -> str:
     )
 
 
+PAGE_SIZE = 20
+
+
 _INDEX_TMPL = """\
 <!doctype html>
 <html lang="hu">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Röviden — Hosszú beszélgetések, podcastek és interjúk dióhéjban</title>
+<title>Röviden - Hosszú beszélgetések, podcastek és interjúk dióhéjban</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -339,6 +343,7 @@ _INDEX_TMPL = """\
     </div>
   </div>
 </div>
+<button id="about-fab" class="about-fab" type="button" onclick="ytmOpenWelcome()" aria-label="Az oldalról">Az oldalról</button>
 <header class="site-header">
   <div class="site-header-inner">
     <h1>Röviden</h1>
@@ -355,29 +360,73 @@ _INDEX_TMPL = """\
 <div id="pag"></div>
 <script>
 (function(){{
-  try{{
-    if(!localStorage.getItem('ytm_welcome_seen')){{
-      var m=document.getElementById('welcome-modal');
-      if(m){{m.hidden=false;document.body.classList.add('modal-open');}}
-    }}
-  }}catch(e){{}}
+  window.ytmOpenWelcome=function(){{
+    var m=document.getElementById('welcome-modal');
+    if(m){{m.hidden=false;document.body.classList.add('modal-open');}}
+  }};
   window.ytmCloseWelcome=function(){{
     var m=document.getElementById('welcome-modal');
     if(m){{m.hidden=true;document.body.classList.remove('modal-open');}}
     try{{localStorage.setItem('ytm_welcome_seen','1');}}catch(e){{}}
   }};
+  try{{
+    if(!localStorage.getItem('ytm_welcome_seen')){{
+      window.ytmOpenWelcome();
+    }}
+  }}catch(e){{}}
 }})();
 (function(){{
-  var N=20,page=1,fil='';
-  function allCards(){{return Array.from(document.querySelectorAll('#feed .card'));}}
-  function visible(){{
-    return allCards().filter(function(c){{return !fil||c.dataset.channel===fil;}});
+  var N={page_size},TOTAL={total},page=1,fil='',data=null,loading=null;
+  var feed=document.getElementById('feed');
+
+  function loadData(){{
+    if(data) return Promise.resolve(data);
+    if(loading) return loading;
+    loading=fetch('data.json',{{cache:'no-cache'}}).then(function(r){{return r.json();}}).then(function(j){{data=j;return j;}});
+    return loading;
   }}
-  function render(){{
-    var vis=visible(),tot=vis.length,pages=Math.max(1,Math.ceil(tot/N));
-    if(page>pages)page=pages;
-    allCards().forEach(function(c){{c.style.display='none';}});
-    vis.slice((page-1)*N,page*N).forEach(function(c){{c.style.display='';}});
+
+  function esc(s){{var d=document.createElement('div');d.textContent=s==null?'':String(s);return d.innerHTML;}}
+
+  function cardHtml(e){{
+    var dur=e.duration_display?'<span class="dur">'+esc(e.duration_display)+'</span>':'';
+    var srcBadge=e.transcript_source==='youtube_subtitle'?'▶ felirat':'🎙 whisper';
+    var tags=(e.tags||[]).map(function(t){{return '<span class="tag">'+esc(t)+'</span>';}}).join('');
+    var teaser=e.teaser?'<div class="card-teaser">'+esc(e.teaser)+'&hellip;</div>':'';
+    return '<a class="card" href="'+esc(e.page_url)+'" data-channel="'+esc(e.channel_slug)+'" data-date="'+esc(e.date)+'">'
+      +'<div class="card-thumb"><img src="https://i.ytimg.com/vi/'+esc(e.video_id)+'/hqdefault.jpg" alt="" loading="lazy">'+dur+'</div>'
+      +'<div class="card-body">'
+        +'<div class="card-badges">'
+          +'<span class="badge-ch">'+esc(e.channel_name)+'</span>'
+          +'<span class="badge-src">'+srcBadge+'</span>'
+          +'<time class="card-date">'+esc(e.date_display||e.date)+'</time>'
+        +'</div>'
+        +'<div class="card-title">'+esc(e.title)+'</div>'
+        +teaser
+        +'<div class="tag-row">'+tags+'</div>'
+      +'</div>'
+    +'</a>';
+  }}
+
+  function dayHeaderHtml(e){{
+    return '<h2 class="day-header" data-date="'+esc(e.date)+'">'+esc(e.date_display||e.date)+'</h2>';
+  }}
+
+  function renderFromData(){{
+    var vis=fil?data.filter(function(e){{return e.channel_slug===fil;}}):data;
+    var pages=Math.max(1,Math.ceil(vis.length/N));
+    if(page>pages) page=pages;
+    var slice=vis.slice((page-1)*N,page*N);
+    var html='',last=null;
+    slice.forEach(function(e){{
+      if(e.date!==last){{last=e.date;html+=dayHeaderHtml(e);}}
+      html+=cardHtml(e);
+    }});
+    feed.innerHTML=html;
+    renderPag(pages);
+  }}
+
+  function renderPag(pages){{
     var pag=document.getElementById('pag');
     if(pages<=1){{pag.innerHTML='';return;}}
     pag.innerHTML='<div class="pag">'
@@ -386,17 +435,29 @@ _INDEX_TMPL = """\
       +'<button class="pag-btn"'+(page>=pages?' disabled':'')+' onclick="ytmNext()">Következő &#8594;</button>'
       +'</div>';
   }}
-  window.ytmPrev=function(){{if(page>1){{page--;render();window.scrollTo(0,0);}}}};
-  window.ytmNext=function(){{page++;render();window.scrollTo(0,0);}};
+
+  // Initial pagination reflects server-rendered first page; clicking it triggers data.json fetch.
+  if(TOTAL>N) renderPag(Math.ceil(TOTAL/N));
+
+  function navigate(){{
+    loadData().then(function(){{
+      renderFromData();
+      window.scrollTo(0,0);
+    }});
+  }}
+
+  window.ytmPrev=function(){{if(page>1){{page--;navigate();}}}};
+  window.ytmNext=function(){{page++;navigate();}};
+
   var chips=document.querySelectorAll('.chip');
   chips.forEach(function(c){{
     c.addEventListener('click',function(){{
       chips.forEach(function(x){{x.classList.remove('active');}});
       c.classList.add('active');
-      fil=c.dataset.f;page=1;render();
+      fil=c.dataset.f;page=1;
+      loadData().then(renderFromData);
     }});
   }});
-  render();
 }})();
 </script>
 </body>
@@ -416,9 +477,21 @@ def _build_index(data: list[dict]) -> str:
         f'{html.escape(name)}</button>'
         for slug, name in seen.items()
     )
-    cards = "\n".join(_card_html(e) for e in data)
+    parts: list[str] = []
+    current_date: str | None = None
+    for e in data[:PAGE_SIZE]:
+        d = e["date"]
+        if d != current_date:
+            current_date = d
+            parts.append(
+                f'<h2 class="day-header" data-date="{html.escape(d)}">'
+                f'{html.escape(_fmt_date(d))}</h2>'
+            )
+        parts.append(_card_html(e))
+    cards = "\n".join(parts)
     return _INDEX_TMPL.format(
         total=len(data),
+        page_size=PAGE_SIZE,
         channel_chips=channel_chips,
         cards=cards,
     )
@@ -461,20 +534,31 @@ def build(site_root: Path, out_dir: Path) -> None:
         # Build data.json entry
         teaser_md = tldr_md or details_md
         plain_summary = re.sub(r"<[^>]+>", "", md_lib.markdown(teaser_md)).strip()
+        date_iso = str(fm.get("date", ""))[:10]
+        duration_sec = int(fm.get("duration_sec") or 0)
         data.append({
             "video_id": str(fm.get("video_id", "")),
             "title": str(fm.get("title", "")),
             "channel_slug": str(fm.get("channel_slug", "")),
             "channel_name": str(fm.get("channel_name", "")),
-            "date": str(fm.get("date", ""))[:10],
+            "date": date_iso,
+            "date_display": _fmt_date(date_iso),
             "published_at": str(fm.get("published_at", fm.get("date", ""))),
             "tags": fm.get("tags") or [],
             "transcript_source": str(fm.get("transcript_source", "")),
             "summary_model": str(fm.get("summary_model", "")),
-            "duration_sec": int(fm.get("duration_sec") or 0),
+            "duration_sec": duration_sec,
+            "duration_display": _fmt_duration(duration_sec),
             "page_url": page_url,
             "teaser": plain_summary[:200],
         })
+
+    # Sort newest-first by published_at (falls back to date), so videos appear
+    # in date order even when interleaved across channel subfolders.
+    data.sort(
+        key=lambda e: (e.get("published_at") or e.get("date") or "", e.get("video_id") or ""),
+        reverse=True,
+    )
 
     # Write data.json and index.html
     (out_dir / "data.json").write_text(
