@@ -431,7 +431,8 @@ _INDEX_TMPL = """\
 }})();
 (function(){{
   var N={page_size},TOTAL={total},page=1,data=null,loading=null;
-  var filters={{channel:'',direction:'',affiliation:''}};
+  var filters={{channel:'',direction:[],affiliation:[]}};
+  var MULTI={{direction:true,affiliation:true}};
   var feed=document.getElementById('feed');
 
   function loadData(){{
@@ -470,8 +471,8 @@ _INDEX_TMPL = """\
   function renderFromData(){{
     var vis=data.filter(function(e){{
       if(filters.channel && e.channel_slug!==filters.channel) return false;
-      if(filters.direction && (e.direction||'')!==filters.direction) return false;
-      if(filters.affiliation && (e.affiliation||'')!==filters.affiliation) return false;
+      if(filters.direction.length && filters.direction.indexOf(e.direction||'')===-1) return false;
+      if(filters.affiliation.length && filters.affiliation.indexOf(e.affiliation||'')===-1) return false;
       return true;
     }});
     var pages=Math.max(1,Math.ceil(vis.length/N));
@@ -513,9 +514,29 @@ _INDEX_TMPL = """\
   chips.forEach(function(c){{
     c.addEventListener('click',function(){{
       var group=c.dataset.group;
-      document.querySelectorAll('.chip[data-group="'+group+'"]').forEach(function(x){{x.classList.remove('active');}});
-      c.classList.add('active');
-      filters[group]=c.dataset.f;page=1;
+      var val=c.dataset.f;
+      if(MULTI[group]){{
+        var allChip=document.querySelector('.chip[data-group="'+group+'"][data-f=""]');
+        if(val===''){{
+          document.querySelectorAll('.chip[data-group="'+group+'"]').forEach(function(x){{x.classList.remove('active');}});
+          c.classList.add('active');
+          filters[group]=[];
+        }} else {{
+          if(allChip) allChip.classList.remove('active');
+          c.classList.toggle('active');
+          var sel=[];
+          document.querySelectorAll('.chip[data-group="'+group+'"].active').forEach(function(x){{
+            if(x.dataset.f) sel.push(x.dataset.f);
+          }});
+          if(sel.length===0 && allChip) allChip.classList.add('active');
+          filters[group]=sel;
+        }}
+      }} else {{
+        document.querySelectorAll('.chip[data-group="'+group+'"]').forEach(function(x){{x.classList.remove('active');}});
+        c.classList.add('active');
+        filters[group]=val;
+      }}
+      page=1;
       loadData().then(renderFromData);
     }});
   }});
