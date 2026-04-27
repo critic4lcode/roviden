@@ -9,8 +9,9 @@ channel_name: Partizán
 published_at: '2026-04-25T17:48:06+00:00'
 duration_sec: 2255
 tags:
-- interjú
-- közélet
+- politika
+- kormányalakítás
+- választás
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---

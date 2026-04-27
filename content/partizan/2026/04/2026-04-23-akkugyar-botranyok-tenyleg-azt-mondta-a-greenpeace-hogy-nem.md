@@ -9,8 +9,9 @@ channel_name: Partizán
 published_at: '2026-04-23T07:13:20+00:00'
 duration_sec: 3065
 tags:
-- interjú
-- közélet
+- oknyomozás
+- környezetvédelem
+- egészségügy
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---

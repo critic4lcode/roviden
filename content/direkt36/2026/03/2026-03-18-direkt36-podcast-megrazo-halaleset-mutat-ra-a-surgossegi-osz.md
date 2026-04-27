@@ -9,6 +9,7 @@ channel_name: Direkt36
 published_at: '2026-03-18T05:00:25+00:00'
 duration_sec: 4601
 tags:
+- egészségügy
 - oknyomozás
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5

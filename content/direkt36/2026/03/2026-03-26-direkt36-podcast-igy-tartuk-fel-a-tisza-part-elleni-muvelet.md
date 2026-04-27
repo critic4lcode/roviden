@@ -10,6 +10,8 @@ published_at: '2026-03-26T15:19:31+00:00'
 duration_sec: 4356
 tags:
 - oknyomozás
+- politika
+- titkosszolgálat
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---

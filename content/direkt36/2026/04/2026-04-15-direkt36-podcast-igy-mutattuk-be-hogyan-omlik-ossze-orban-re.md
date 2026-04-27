@@ -9,6 +9,8 @@ channel_name: Direkt36
 published_at: '2026-04-15T04:00:52+00:00'
 duration_sec: 5093
 tags:
+- politika
+- választás
 - oknyomozás
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5

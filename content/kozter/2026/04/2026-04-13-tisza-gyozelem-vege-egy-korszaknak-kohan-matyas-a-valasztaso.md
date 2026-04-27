@@ -27,7 +27,10 @@ channel_slug: kozter
 channel_name: KözTér
 published_at: '2026-04-13T00:00:00Z'
 duration_sec: 4375
-tags: []
+tags:
+- választás
+- politika
+- oknyomozás
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---

@@ -11,7 +11,9 @@ published_at: '2026-04-24T16:01:25+00:00'
 duration_sec: 4450
 tags:
 - interjú
-- közélet
+- politika
+- választás
+- kormányalakítás
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---
