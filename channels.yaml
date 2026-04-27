@@ -330,20 +330,13 @@ channels:
   default_tags:
   - közélet
   notes: Megadja Gábor és Hortay Olivér eszmetörténeti podcast
-- id: UCo5n7Ub3bd-0dUsZWDIAUBQ
-  slug: ridikul
-  display_name: Ridikül
-  affiliation: fidesz-aligned
-  direction: conservative
-  default_tags:
-  - életmód
-  notes: Szórakoztató, de fideszbarát közegben működő csatorna
 - id: UCHK7_j6bpGgsyWe5ZqXbY1w
   slug: inforadio
   display_name: InfoRádió - Infostart
   affiliation: independent
   direction: conservative
   default_tags:
+  - közélet
   - életmód
 - id: UCFyfoQmQSAlmujW8aLKRLPw
   slug: momentum
@@ -415,14 +408,6 @@ channels:
   default_tags:
   - közélet
   notes: Krug Emília prémium közéleti podcastja, kiegyensúlyozott vendégkörrel
-- id: UCxxj0paij6p2nqt5vjziTgQ
-  slug: egy-bogar-naploja
-  display_name: Egy Bogár Naplója
-  affiliation: fidesz-aligned
-  direction: conservative
-  default_tags:
-  - közélet
-  notes: Jobboldali kommentár, közéleti tartalom
 - id: UCwRgC4e0TcESJKeYt7bZVFw
   slug: hit-radio
   display_name: Hit Rádió
