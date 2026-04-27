@@ -31,8 +31,10 @@ published_at: '2026-04-21T00:00:00Z'
 duration_sec: 5605
 tags:
 - interjú
-- politika
-- környezetvédelem
+- botrány
+- belpolitika
+- sajtószabadság
+- közmédia
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---

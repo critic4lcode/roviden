@@ -10,9 +10,10 @@ channel_name: Partizán
 published_at: '2026-04-24T06:01:33+00:00'
 duration_sec: 3174
 tags:
-- interjú
+- roma kisebbség
 - választás
-- politika
+- interjú
+- korrupció
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---

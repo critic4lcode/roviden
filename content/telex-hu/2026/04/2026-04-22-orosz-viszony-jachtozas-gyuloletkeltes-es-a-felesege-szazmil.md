@@ -27,7 +27,12 @@ channel_slug: telex-hu
 channel_name: Telex․hu
 published_at: '2026-04-22T00:00:00Z'
 duration_sec: 11700
-tags: []
+tags:
+- választás
+- politika
+- oroszország
+- külügy
+- szijjártó péter
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---

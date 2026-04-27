@@ -29,8 +29,10 @@ published_at: '2026-04-13T00:00:00Z'
 duration_sec: 4375
 tags:
 - választás
-- politika
-- oknyomozás
+- politikai elemzés
+- fidesz
+- tisza párt
+- kormányváltás
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---

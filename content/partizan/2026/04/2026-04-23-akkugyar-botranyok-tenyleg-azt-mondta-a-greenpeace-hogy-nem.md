@@ -12,6 +12,7 @@ tags:
 - oknyomozás
 - környezetvédelem
 - egészségügy
+- korrupció
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---

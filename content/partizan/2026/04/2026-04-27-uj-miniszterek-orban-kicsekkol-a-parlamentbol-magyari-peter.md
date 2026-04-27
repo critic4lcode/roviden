@@ -10,10 +10,11 @@ channel_name: Partizán
 published_at: '2026-04-27T08:54:11+00:00'
 duration_sec: 6680
 tags:
-- interjú
+- belpolitika
 - választás
-- kormányalakítás
-- politika
+- közvélemény-kutatás
+- ellenzék
+- külpolitika
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---
