@@ -225,6 +225,7 @@ _VIDEO_TMPL = """\
   </aside>
 
   {tldr_block}
+  {support_block}
   {details_block}
   {uncertain_block}
 
@@ -248,7 +249,41 @@ _VIDEO_TMPL = """\
 """
 
 
-def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str, transcript_block: str, root: str = "..", source_rel: str = "") -> str:
+def _build_support_block(channel_support: dict) -> str:
+    """Build a prominent support/donate call-to-action block."""
+    links = []
+    if channel_support.get("donate"):
+        links.append(('💛 Támogatás', channel_support["donate"]))
+    if channel_support.get("donate_1pct"):
+        links.append(('🏛️ 1% felajánlás', channel_support["donate_1pct"]))
+    if channel_support.get("patreon"):
+        links.append(('🎁 Patreon', channel_support["patreon"]))
+    if channel_support.get("merch"):
+        links.append(('🛍️ Merch', channel_support["merch"]))
+    if not links:
+        return ""
+
+    if len(links) == 1:
+        label, url = links[0]
+        intro = f'Ha tetszett a tartalom, <strong>támogasd a csatornát!</strong>'
+        links_html = f'<a class="support-link" href="{html.escape(url)}" target="_blank" rel="noopener noreferrer">{label}</a>'
+    else:
+        intro = f'Ha tetszett a tartalom, <strong>támogasd a csatornát</strong> – több lehetőség is van:'
+        links_html = " ".join(
+            f'<a class="support-link" href="{html.escape(url)}" target="_blank" rel="noopener noreferrer">{label}</a>'
+            for label, url in links
+        )
+
+    return (
+        f'<aside class="support-block">\n'
+        f'  <span class="support-icon">🙏</span>\n'
+        f'  <div class="support-text">{intro}</div>\n'
+        f'  <div class="support-links">{links_html}</div>\n'
+        f'</aside>'
+    )
+
+
+def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str, transcript_block: str, root: str = "..", source_rel: str = "", channel_support: dict | None = None) -> str:
     video_id = html.escape(str(fm.get("video_id", "")))
     video_url = html.escape(str(fm.get("video_url", f"https://www.youtube.com/watch?v={video_id}")))
     title = str(fm.get("title", ""))
@@ -289,6 +324,7 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
     details_html = md_lib.markdown(details_md, extensions=["nl2br", "tables", "md_in_html"]) if details_md else ""
     uncertain_html = md_lib.markdown(uncertain_md, extensions=["nl2br", "tables", "md_in_html"]) if uncertain_md else ""
     tldr_block = f'<section class="tldr">\n    <div class="tldr-label">tl;dr</div>\n    {tldr_html}\n  </section>' if tldr_html else ""
+    support_block = _build_support_block(channel_support or {})
     details_block = f'<section class="summary">\n    {details_html}\n  </section>' if details_html else ""
     uncertain_block = (
         f'<section class="uncertain">\n'
@@ -319,6 +355,7 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
         video_id=video_id,
         video_url=video_url,
         tldr_block=tldr_block,
+        support_block=support_block,
         details_block=details_block,
         uncertain_block=uncertain_block,
         transcript_html=transcript_html,
@@ -611,10 +648,36 @@ def _build_index(data: list[dict]) -> str:
 
 # ── Main build ────────────────────────────────────────────────────────────────
 
+def _load_channel_support(site_root: Path) -> dict[str, dict]:
+    """Load donate/patreon/merch links keyed by channel slug."""
+    channels_file = site_root / "channels.yaml"
+    if not channels_file.exists():
+        return {}
+    try:
+        with channels_file.open(encoding="utf-8") as f:
+            raw = yaml.safe_load(f) or {}
+    except Exception as e:
+        print(f"WARN: could not load channels.yaml: {e}")
+        return {}
+    result = {}
+    for ch in raw.get("channels", []):
+        slug = ch.get("slug")
+        if not slug:
+            continue
+        support = {}
+        for key in ("donate", "donate_1pct", "patreon", "merch"):
+            if ch.get(key):
+                support[key] = ch[key]
+        result[slug] = support
+    return result
+
+
 def build(site_root: Path, out_dir: Path) -> None:
     content_dir = site_root / "content"
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "v").mkdir(exist_ok=True)
+
+    channel_support_map = _load_channel_support(site_root)
 
     # Copy static assets
     style = site_root / "scripts/style.css"
@@ -639,7 +702,9 @@ def build(site_root: Path, out_dir: Path) -> None:
 
         # Generate video page HTML
         source_rel = md_path.relative_to(content_dir).as_posix()
-        page_html = _build_video_page(fm, tldr_md, details_md, uncertain_md, transcript_block, root=root, source_rel=source_rel)
+        ch_slug = str(fm.get("channel_slug", ""))
+        ch_support = channel_support_map.get(ch_slug, {})
+        page_html = _build_video_page(fm, tldr_md, details_md, uncertain_md, transcript_block, root=root, source_rel=source_rel, channel_support=ch_support)
         out_page = out_dir / page_url
         out_page.parent.mkdir(parents=True, exist_ok=True)
         out_page.write_text(page_html, encoding="utf-8")

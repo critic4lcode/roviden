@@ -7,6 +7,8 @@ channels:
   default_tags:
   - közélet
   notes: Napi közéleti műsor, fiatalos liberális
+  merch: https://kopaszcsimpanz.hu/
+  patreon: https://www.patreon.com/fokuszcsoport
 - id: UCEFpEvuosfPGlV1VyUF6QOA
   slug: partizan
   display_name: Partizán
@@ -17,6 +19,7 @@ channels:
   - közélet
   notes: Legnagyobb független, liberális YouTube médium, rendszerkritikus
   donate: https://szja.partizan.hu/
+  merch: https://shop.partizan.hu/
 - id: UCM-1sd-cXSuCsfWp8QMY_OQ
   slug: telex-hu
   display_name: Telex.hu
@@ -26,6 +29,8 @@ channels:
   - közélet
   notes: 2020-ban alapított független hírportál
   donate: https://telex.hu/tamogatas
+  donate_1pct: https://telexalapitvany.hu/egyszazalek
+  merch: https://shop.telex.hu/
 - id: UCgkd27yNbaq1L3miQ6-WSEg
   slug: direkt36
   display_name: Direkt36
@@ -34,7 +39,7 @@ channels:
   default_tags:
   - oknyomozás
   notes: Pethő András vezette tényfeltáró nonprofit
-  donate: https://www.direkt36.hu/en/tamogass-minket/
+  donate: https://www.direkt36.hu/tamogass-minket/
 - id: UCGoLa-QhHmTxLEdjv_8dxrg
   slug: '444'
   display_name: 444.hu
@@ -44,6 +49,7 @@ channels:
   - közélet
   notes: Magyar Jeti kiadó, progresszív-liberális
   donate: https://magyarjeti.hu/kor/csomagok
+  merch: https://magyarjeti.hu/shop/
 - id: UCV2hxHpDvOvuXh5pifAZlww
   slug: atlatszo
   display_name: Átlátszó
@@ -53,6 +59,7 @@ channels:
   - oknyomozás
   notes: atlatszo.hu tényfeltáró oknyomozó nonprofit
   donate: https://atlatszo.hu/tamogatom/
+  patreon: https://www.patreon.com/cw/atlatszo
 - id: UC3T5ogRHZVB3jEO5WFvzmIQ
   slug: valsagtab
   display_name: Válságstáb
@@ -62,6 +69,8 @@ channels:
   - gazdaság
   - közélet
   notes: Független közgazdasági és politikai elemzések
+  merch: https://kopaszcsimpanz.hu/
+  patreon: https://www.patreon.com/fokuszcsoport
 - id: UC2LCz1KRAx0JaosGy-7RcKg
   slug: hvg
   display_name: HVG Videó
@@ -71,6 +80,7 @@ channels:
   - gazdaság
   - közélet
   notes: HVG hetilap, gazdasági-liberális hagyomány
+  donate: https://tamogatas.hvg.hu/
 - id: UCw0oJgCjz3NvAICbqWImH-A
   slug: 24-hu
   display_name: 24.hu
@@ -79,6 +89,7 @@ channels:
   default_tags:
   - közélet
   notes: Central Médiacsoport, mérsékelt mainstream
+  donate: https://24.hu/
 - id: UCk4Xm32zEO4ymAxK1NJ5Tmw
   slug: valasz-online
   display_name: Válasz Online
@@ -96,6 +107,7 @@ channels:
   default_tags:
   - közélet
   notes: Inga Kultúrkávézó - tudatosan centrista, frontális kritika
+  donate: https://www.donably.com/szelsokozep
 - id: UCQAeX1_gw45xb3Cg-OwEFcw
   slug: friderikusz-podcast
   display_name: Friderikusz Podcast
@@ -105,6 +117,7 @@ channels:
   - interjú
   notes: Friderikusz Sándor interjúsorozata
   donate: https://www.donably.com/friderikusz-podcast
+  patreon: https://www.patreon.com/FriderikuszPodcast
 - id: UCnlMwO6KqQQKn7byzHRbvlQ
   slug: magyar-hang
   display_name: Magyar Hang
@@ -113,7 +126,7 @@ channels:
   default_tags:
   - közélet
   notes: Volt Magyar Nemzet stáb, konzervatív de kormánykritikus
-  donate: https://hang.hu/informacio/tamogatas-100267
+  donate: https://hang.hu/informacio/tamogatas
 - id: UCdVH7Fu-tTa0avhvvwPUE0Q
   slug: merce
   display_name: Mérce
@@ -123,6 +136,7 @@ channels:
   - közélet
   notes: merce.hu baloldali-progresszív portál
   donate: https://merce.hu/tamogatas/
+  donate_1pct: https://merce.hu/1szazalek/
 - id: UCXxUjsYxbL1llIe9Ra6wcyQ
   slug: atv
   display_name: ATV Magyarország
@@ -139,7 +153,7 @@ channels:
   default_tags:
   - közélet
   notes: Online független hírrádió
-  donate: https://www.klubradio.hu/tamogatas
+  donate: https://klubradio.hu/tamogatas
 - id: UC7ivXUYaRoZb5WDLKksETUA
   slug: puzser-robert
   display_name: Puzsér Róbert
@@ -148,6 +162,8 @@ channels:
   default_tags:
   - közélet
   notes: Publicista, Polgári Ellenállás, konzervatív rendszerkritikus
+  merch: https://shop.puzser.hu/
+  donate: https://www.donably.com/szelsokozep
 - id: UCfS72Yr7hFsHClD3krlP9UA
   slug: kokusz-plusz
   display_name: Kókusz+
@@ -157,6 +173,7 @@ channels:
   - közélet
   notes: A Fókuszcsoport közösség prémium csatornája; egyértelműen kormánykritikus,
     de párthoz nem kötött
+  patreon: https://www.patreon.com/fokuszcsoport
 - id: UCjFwLuNhlww-ScXaEtcEj3Q
   slug: jelen
   display_name: Jelen hetilap
@@ -165,6 +182,7 @@ channels:
   default_tags:
   - közélet
   notes: jelen.media független hetilap
+  donate: https://jelen.media/elofizetes
 - id: UCnkeJ2NOYRmWQIzfLu-zyDg
   slug: nepszava
   display_name: Népszava
@@ -173,6 +191,7 @@ channels:
   default_tags:
   - közélet
   notes: Baloldali-szociáldemokrata napilap 1873 óta
+  donate: https://xximedia.hu/nepszava
 - id: UCzek_Q7jEhjLX9MQPomIC5g
   slug: hadhazy-akos
   display_name: Hadházy Ákos
@@ -182,6 +201,7 @@ channels:
   - közélet
   - korrupció
   notes: Független képviselő, korrupcióellenes
+  donate: https://hadhazyakos.hu/tamogatas/
 - id: UCDHjSN4vbfmzb8Cdfsob9Gg
   slug: magyar-peter
   display_name: Magyar Péter Hivatalos
@@ -400,6 +420,7 @@ channels:
   - közélet
   - politika
   notes: Dull Szabolcs politikai elemző csatornája, pártatlan szakmai megközelítéssel
+  donate: https://dullszabolcs.substack.com/
 - id: UCJMAfdmkuI5UqqFk5ZjBTdw
   slug: klasszis-media
   display_name: Klasszis Média
@@ -410,6 +431,7 @@ channels:
   - közélet
   notes: Gazdasági-üzleti fókuszú médiacsoport (Privátbankár, Mfor); tartalmai kritikusak
     a Fidesz-kormánnyal szemben, de gazdasági alapon, nem pártpolitikailag
+  donate: https://mfor.hu/klasszis/elofizetes
 - id: UCX32YkhuN63IPAx1ji5RZGg
   slug: szinen-tul
   display_name: Színen túl
@@ -418,6 +440,8 @@ channels:
   default_tags:
   - közélet
   notes: Krug Emília prémium közéleti podcastja, kiegyensúlyozott vendégkörrel
+  donate: https://telex.hu/tamogatas
+  donate_1pct: https://telexalapitvany.hu/egyszazalek
 - id: UCwRgC4e0TcESJKeYt7bZVFw
   slug: hit-radio
   display_name: Hit Rádió
