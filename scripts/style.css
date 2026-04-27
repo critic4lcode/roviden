@@ -31,6 +31,20 @@ a { color: inherit; }
 
   --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+
+  --dir-liberal: #2563eb;
+  --dir-centrist: #9333ea;
+  --dir-conservative: #dc2626;
+  --dir-far-right: #991b1b;
+  --dir-liberal-rgb: 37, 99, 235;
+  --dir-centrist-rgb: 147, 51, 234;
+  --dir-conservative-rgb: 220, 38, 38;
+  --dir-far-right-rgb: 153, 27, 27;
+
+  --aff-fidesz: #ea580c;
+  --aff-tisza: #1e3a8a;
+  --aff-fidesz-rgb: 234, 88, 12;
+  --aff-tisza-rgb: 30, 58, 138;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -49,6 +63,20 @@ a { color: inherit; }
     --tag-text: #c8c7c2;
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
     --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
+
+    --dir-liberal: #60a5fa;
+    --dir-centrist: #c084fc;
+    --dir-conservative: #fca5a5;
+    --dir-far-right: #f87171;
+    --dir-liberal-rgb: 96, 165, 250;
+    --dir-centrist-rgb: 192, 132, 252;
+    --dir-conservative-rgb: 252, 165, 165;
+    --dir-far-right-rgb: 248, 113, 113;
+
+    --aff-fidesz: #fb923c;
+    --aff-tisza: #60a5fa;
+    --aff-fidesz-rgb: 251, 146, 60;
+    --aff-tisza-rgb: 96, 165, 250;
   }
 }
 
@@ -183,6 +211,71 @@ p + p { margin-top: 0.75em; }
 .filter-row[data-group="affiliation"] .chip[data-f]:not([data-f=""]).active::before {
   background: currentColor;
   box-shadow: inset 0 0 0 2px var(--text);
+}
+
+/* Direction-tinted chips */
+.filter-row[data-group="direction"] .chip[data-f="liberal"] { --dir: var(--dir-liberal); --dir-rgb: var(--dir-liberal-rgb); }
+.filter-row[data-group="direction"] .chip[data-f="centrist"] { --dir: var(--dir-centrist); --dir-rgb: var(--dir-centrist-rgb); }
+.filter-row[data-group="direction"] .chip[data-f="conservative"] { --dir: var(--dir-conservative); --dir-rgb: var(--dir-conservative-rgb); }
+.filter-row[data-group="direction"] .chip[data-f="far-right"] { --dir: var(--dir-far-right); --dir-rgb: var(--dir-far-right-rgb); }
+.filter-row[data-group="direction"] .chip[data-f]:not([data-f=""]) {
+  color: var(--dir);
+  background: rgba(var(--dir-rgb), 0.08);
+  border-color: rgba(var(--dir-rgb), 0.3);
+}
+.filter-row[data-group="direction"] .chip[data-f]:not([data-f=""]):hover {
+  background: rgba(var(--dir-rgb), 0.16);
+}
+.filter-row[data-group="direction"] .chip[data-f]:not([data-f=""]).active {
+  background: var(--dir);
+  color: var(--bg);
+  border-color: var(--dir);
+}
+.filter-row[data-group="direction"] .chip[data-f]:not([data-f=""]).active::before {
+  background: var(--bg);
+  box-shadow: inset 0 0 0 2px var(--dir);
+}
+
+/* Affiliation-tinted chips */
+.filter-row[data-group="affiliation"] .chip[data-f="fidesz-aligned"] { --aff: var(--aff-fidesz); --aff-rgb: var(--aff-fidesz-rgb); }
+.filter-row[data-group="affiliation"] .chip[data-f="tisza-aligned"] { --aff: var(--aff-tisza); --aff-rgb: var(--aff-tisza-rgb); }
+.filter-row[data-group="affiliation"] .chip[data-f="fidesz-aligned"],
+.filter-row[data-group="affiliation"] .chip[data-f="tisza-aligned"] {
+  color: var(--aff);
+  background: rgba(var(--aff-rgb), 0.08);
+  border-color: rgba(var(--aff-rgb), 0.3);
+}
+.filter-row[data-group="affiliation"] .chip[data-f="fidesz-aligned"]:hover,
+.filter-row[data-group="affiliation"] .chip[data-f="tisza-aligned"]:hover {
+  background: rgba(var(--aff-rgb), 0.16);
+}
+.filter-row[data-group="affiliation"] .chip[data-f="fidesz-aligned"].active,
+.filter-row[data-group="affiliation"] .chip[data-f="tisza-aligned"].active {
+  background: var(--aff);
+  color: var(--bg);
+  border-color: var(--aff);
+}
+.filter-row[data-group="affiliation"] .chip[data-f="fidesz-aligned"].active::before,
+.filter-row[data-group="affiliation"] .chip[data-f="tisza-aligned"].active::before {
+  background: var(--bg);
+  box-shadow: inset 0 0 0 2px var(--aff);
+}
+
+/* Card direction accent (left) */
+.card[data-direction="liberal"] { --dir-rgb: var(--dir-liberal-rgb); }
+.card[data-direction="centrist"] { --dir-rgb: var(--dir-centrist-rgb); }
+.card[data-direction="conservative"] { --dir-rgb: var(--dir-conservative-rgb); }
+.card[data-direction="far-right"] { --dir-rgb: var(--dir-far-right-rgb); }
+.card[data-direction]:not([data-direction=""]) {
+  border-left: 3px solid rgba(var(--dir-rgb), 0.55);
+}
+
+/* Card affiliation accent (right) */
+.card[data-affiliation="fidesz-aligned"] { --aff-rgb: var(--aff-fidesz-rgb); }
+.card[data-affiliation="tisza-aligned"] { --aff-rgb: var(--aff-tisza-rgb); }
+.card[data-affiliation="fidesz-aligned"],
+.card[data-affiliation="tisza-aligned"] {
+  border-right: 3px solid rgba(var(--aff-rgb), 0.55);
 }
 
 /* ── Feed grid ──────────────────────────────────────────────────────────── */
@@ -420,21 +513,13 @@ p + p { margin-top: 0.75em; }
   border: 1px solid var(--border);
   font-weight: 500;
 }
-.ch-meta-dir-liberal { color: #2563eb; border-color: rgba(37,99,235,0.3); }
-.ch-meta-dir-centrist { color: #9333ea; border-color: rgba(147,51,234,0.3); }
-.ch-meta-dir-conservative { color: #166534; border-color: rgba(22,101,52,0.3); }
-.ch-meta-dir-far-right { color: #991b1b; border-color: rgba(153,27,27,0.3); }
+.ch-meta-dir-liberal { color: var(--dir-liberal); border-color: rgba(var(--dir-liberal-rgb),0.3); }
+.ch-meta-dir-centrist { color: var(--dir-centrist); border-color: rgba(var(--dir-centrist-rgb),0.3); }
+.ch-meta-dir-conservative { color: var(--dir-conservative); border-color: rgba(var(--dir-conservative-rgb),0.3); }
+.ch-meta-dir-far-right { color: var(--dir-far-right); border-color: rgba(var(--dir-far-right-rgb),0.3); }
 .ch-meta-aff-independent { color: var(--text-muted); }
-.ch-meta-aff-fidesz-aligned { color: #c2410c; border-color: rgba(194,65,12,0.3); }
-.ch-meta-aff-tisza-aligned { color: #0e7490; border-color: rgba(14,116,144,0.3); }
-@media (prefers-color-scheme: dark) {
-  .ch-meta-dir-liberal { color: #60a5fa; }
-  .ch-meta-dir-centrist { color: #c084fc; }
-  .ch-meta-dir-conservative { color: #4ade80; }
-  .ch-meta-dir-far-right { color: #f87171; }
-  .ch-meta-aff-fidesz-aligned { color: #fb923c; }
-  .ch-meta-aff-tisza-aligned { color: #22d3ee; }
-}
+.ch-meta-aff-fidesz-aligned { color: var(--aff-fidesz); border-color: rgba(var(--aff-fidesz-rgb),0.3); }
+.ch-meta-aff-tisza-aligned { color: var(--aff-tisza); border-color: rgba(var(--aff-tisza-rgb),0.3); }
 .ch-meta.has-notes { cursor: help; border-style: dashed; position: relative; }
 .ch-meta.has-notes:hover::after {
   content: attr(data-notes);
