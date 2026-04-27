@@ -1,6 +1,6 @@
 channels:
 - id: UC9qpYwK7N9EB0-SECANa23g
-  slug: jolvanezígy
+  slug: jolvanezigy
   display_name: JÓLVANEZÍGY
   affiliation: independent
   direction: liberal
@@ -17,7 +17,7 @@ channels:
   - közélet
   notes: Legnagyobb független, liberális YouTube médium, rendszerkritikus
 - id: UCM-1sd-cXSuCsfWp8QMY_OQ
-  slug: telex
+  slug: telex-hu
   display_name: Telex.hu
   affiliation: independent
   direction: liberal
@@ -67,7 +67,7 @@ channels:
   - közélet
   notes: HVG hetilap, gazdasági-liberális hagyomány
 - id: UCw0oJgCjz3NvAICbqWImH-A
-  slug: 24hu
+  slug: 24-hu
   display_name: 24.hu
   affiliation: independent
   direction: centrist
