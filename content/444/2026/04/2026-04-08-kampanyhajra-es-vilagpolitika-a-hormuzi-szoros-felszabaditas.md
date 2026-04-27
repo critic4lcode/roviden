@@ -17,6 +17,9 @@ tags:
 - választás
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
+affiliation: independent
+direction: liberal
+notes: Magyar Jeti kiadó, progresszív-liberális
 ---
 
 ## Összefoglaló

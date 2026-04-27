@@ -35,6 +35,9 @@ tags:
 - kormányváltás
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
+affiliation: fidesz-aligned
+direction: conservative
+notes: Kurucz Dániel (ex-Fidelitas), kormányközeli YT csatórna
 ---
 
 ## Összefoglaló

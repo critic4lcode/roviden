@@ -16,6 +16,9 @@ tags:
 - tisza párt
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
+affiliation: independent
+direction: liberal
+notes: Gulyás Márton - legnagyobb független YouTube médium, rendszerkritikus
 ---
 
 ## Összefoglaló
