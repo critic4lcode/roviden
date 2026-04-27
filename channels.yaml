@@ -220,6 +220,7 @@ channels:
   direction: conservative
   default_tags:
   - közélet
+  - megafon
   notes: Megafon ernyőcsatórna (Apáti, Trombitás, Vukics, Bohár)
 - id: UCBRpGiA8cKjhbVsUJbmKSHA
   slug: kozter
@@ -228,6 +229,7 @@ channels:
   direction: conservative
   default_tags:
   - közélet
+  - megafon
   notes: Kurucz Dániel (ex-Fidelitas), kormányközeli YT csatórna
 - id: UChUByu3QDGaVD6iyt0jzngw
   slug: ultrahang
@@ -237,6 +239,7 @@ channels:
   default_tags:
   - külpolitika
   - biztonságpolitika
+  - megafon
   notes: Király Tamás - kül-/biztonságpolitika (Nógrádi, Spöttle)
 - id: UC1uyU2pJMWDYAru9h4RlVNg
   slug: ultrahang-plusz
@@ -309,6 +312,7 @@ channels:
   direction: conservative
   default_tags:
   - közélet
+  - megafon
   notes: Megafon riporter saját csatórnája
 - id: UCtM4A1Q6XDwrG0MbBDAEagg
   slug: politikai-hobbista
@@ -443,3 +447,14 @@ channels:
   default_tags:
   - közélet
   notes: A HírTV fideszközeli médiabirodalom (KESMA) része
+- id: UCjNyOjPHoNXNMXKMLe3Vriw
+  slug: the-fair-right
+  display_name: The Fair Right
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - podcast
+  - közélet
+  - megafon
+  notes: Markánsan jobboldali, a fidesz-narratívát támogató, a Tisza pártot kritizáló
+    csatorna.
