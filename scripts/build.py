@@ -443,21 +443,33 @@ _INDEX_TMPL = """\
     <h1>Röviden</h1>
     <p class="site-sub">Hosszú beszélgetések, podcastek és interjúk dióhéjban</p>
   </div>
-  <div class="filter-groups">
-    <div class="filter-row" data-group="channel">
-      <span class="filter-label">Csatorna:</span>
-      <button class="chip active" data-group="channel" data-f="">Összes ({total})</button>
-      {channel_chips}
-    </div>
-    <div class="filter-row" data-group="direction">
-      <span class="filter-label">Irányultság:</span>
-      <button class="chip active" data-group="direction" data-f="">Összes</button>
-      {direction_chips}
-    </div>
-    <div class="filter-row" data-group="affiliation">
-      <span class="filter-label">Kötődés:</span>
-      <button class="chip active" data-group="affiliation" data-f="">Összes</button>
-      {affiliation_chips}
+  <div class="filter-bar">
+    <button class="filter-toggle" id="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-groups" onclick="ytmToggleFilters()">
+      <span class="filter-toggle-hamburger" aria-hidden="true">
+        <span></span><span></span><span></span>
+      </span>
+      <span class="filter-toggle-label">Szűrők</span>
+      <span class="filter-active-badge" id="filter-badge" aria-live="polite"></span>
+      <span class="filter-toggle-icon" aria-hidden="true">▾</span>
+    </button>
+    <div class="filter-groups" id="filter-groups" hidden>
+      <div class="filter-row" data-group="channel">
+        <span class="filter-label">Csatorna:</span>
+        <select class="filter-select" id="channel-select" data-group="channel">
+          <option value="">Összes ({total})</option>
+          {channel_options}
+        </select>
+      </div>
+      <div class="filter-row" data-group="direction">
+        <span class="filter-label">Irányultság:</span>
+        <button class="chip active" data-group="direction" data-f="">Összes</button>
+        {direction_chips}
+      </div>
+      <div class="filter-row" data-group="affiliation">
+        <span class="filter-label">Kötődés:</span>
+        <button class="chip active" data-group="affiliation" data-f="">Összes</button>
+        {affiliation_chips}
+      </div>
     </div>
   </div>
 </header>
@@ -562,6 +574,41 @@ _INDEX_TMPL = """\
 
   window.ytmPrev=function(){{if(page>1){{page--;navigate();}}}};
   window.ytmNext=function(){{page++;navigate();}};
+  function updateFilterBadge(){{
+    var badge=document.getElementById('filter-badge');
+    if(!badge) return;
+    var count=0;
+    if(filters.channel) count++;
+    if(filters.direction && filters.direction.length) count+=filters.direction.length;
+    if(filters.affiliation && filters.affiliation.length) count+=filters.affiliation.length;
+    if(count>0){{
+      badge.textContent=count;
+      badge.classList.add('visible');
+    }} else {{
+      badge.textContent='';
+      badge.classList.remove('visible');
+    }}
+  }}
+
+  window.ytmToggleFilters=function(){{
+    var fg=document.getElementById('filter-groups');
+    var btn=document.getElementById('filter-toggle');
+    if(!fg||!btn) return;
+    var open=fg.hidden;
+    fg.hidden=!open;
+    btn.setAttribute('aria-expanded', open?'true':'false');
+    btn.querySelector('.filter-toggle-icon').textContent=open?'▴':'▾';
+  }};
+
+  var chanSel=document.getElementById('channel-select');
+  if(chanSel){{
+    chanSel.addEventListener('change',function(){{
+      filters.channel=chanSel.value;
+      page=1;
+      updateFilterBadge();
+      loadData().then(renderFromData);
+    }});
+  }}
 
   var chips=document.querySelectorAll('.chip');
   chips.forEach(function(c){{
@@ -590,6 +637,7 @@ _INDEX_TMPL = """\
         filters[group]=val;
       }}
       page=1;
+      updateFilterBadge();
       loadData().then(renderFromData);
     }});
   }});
@@ -607,9 +655,8 @@ def _build_index(data: list[dict]) -> str:
         if slug not in seen:
             seen[slug] = e["channel_name"]
 
-    channel_chips = "\n      ".join(
-        f'<button class="chip" data-group="channel" data-f="{html.escape(slug)}">'
-        f'{html.escape(name)}</button>'
+    channel_options = "\n          ".join(
+        f'<option value="{html.escape(slug)}">{html.escape(name)}</option>'
         for slug, name in seen.items()
     )
 
@@ -641,7 +688,7 @@ def _build_index(data: list[dict]) -> str:
     return _INDEX_TMPL.format(
         total=len(data),
         page_size=PAGE_SIZE,
-        channel_chips=channel_chips,
+        channel_options=channel_options,
         direction_chips=direction_chips,
         affiliation_chips=affiliation_chips,
         cards=cards,
