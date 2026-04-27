@@ -114,6 +114,34 @@ p + p { margin-top: 0.75em; }
   gap: 0.5rem;
 }
 
+.filter-groups {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 1.25rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+}
+.filter-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-subtle);
+  margin-right: 0.25rem;
+  min-width: 6.5rem;
+}
+@media (max-width: 640px) {
+  .filter-groups { padding: 0 1rem 0.85rem; }
+  .filter-label { min-width: 0; flex-basis: 100%; }
+}
+
 .chip {
   padding: 0.4rem 0.85rem;
   font-size: 0.875rem;
@@ -350,6 +378,48 @@ p + p { margin-top: 0.75em; }
 }
 
 .vp-head .tag-row { margin-top: 0; }
+
+.ch-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.75rem;
+}
+.ch-meta {
+  font-size: 0.72rem;
+  padding: 0.18rem 0.55rem;
+  border-radius: 4px;
+  background: var(--surface-2);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  font-weight: 500;
+}
+.ch-meta-dir-liberal { color: #2563eb; border-color: rgba(37,99,235,0.3); }
+.ch-meta-dir-centrist { color: #9333ea; border-color: rgba(147,51,234,0.3); }
+.ch-meta-dir-conservative { color: #166534; border-color: rgba(22,101,52,0.3); }
+.ch-meta-dir-far-right { color: #991b1b; border-color: rgba(153,27,27,0.3); }
+.ch-meta-aff-independent { color: var(--text-muted); }
+.ch-meta-aff-fidesz-aligned { color: #c2410c; border-color: rgba(194,65,12,0.3); }
+.ch-meta-aff-tisza-aligned { color: #0e7490; border-color: rgba(14,116,144,0.3); }
+@media (prefers-color-scheme: dark) {
+  .ch-meta-dir-liberal { color: #60a5fa; }
+  .ch-meta-dir-centrist { color: #c084fc; }
+  .ch-meta-dir-conservative { color: #4ade80; }
+  .ch-meta-dir-far-right { color: #f87171; }
+  .ch-meta-aff-fidesz-aligned { color: #fb923c; }
+  .ch-meta-aff-tisza-aligned { color: #22d3ee; }
+}
+.ch-meta.has-notes { cursor: help; border-style: dashed; position: relative; }
+.ch-meta.has-notes:hover::after {
+  content: attr(data-notes);
+  position: absolute;
+  left: 0; bottom: calc(100% + 6px);
+  background: var(--text); color: var(--bg);
+  padding: 0.4rem 0.6rem; border-radius: 4px;
+  font-size: 0.72rem; line-height: 1.35;
+  width: max-content; max-width: 280px;
+  z-index: 10;
+}
 
 /* Thumbnail with play button */
 .thumb-link {

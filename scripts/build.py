@@ -30,6 +30,22 @@ HU_MONTHS = [
     'július', 'augusztus', 'szeptember', 'október', 'november', 'december',
 ]
 
+DIRECTION_LABELS = {
+    "liberal": "Liberális",
+    "centrist": "Centrista",
+    "conservative": "Konzervatív",
+    "far-right": "Szélsőjobb",
+}
+
+AFFILIATION_LABELS = {
+    "independent": "Független",
+    "fidesz-aligned": "Fidesz-közeli",
+    "tisza-aligned": "Tisza-közeli",
+}
+
+DIRECTION_ORDER = ["liberal", "centrist", "conservative", "far-right"]
+AFFILIATION_ORDER = ["independent", "fidesz-aligned", "tisza-aligned"]
+
 
 def _fmt_date(date_str: str) -> str:
     try:
@@ -188,6 +204,7 @@ _VIDEO_TMPL = """\
     </div>
     <h1>{title_esc}</h1>
     <div class="tag-row">{tags_html}</div>
+    {channel_meta_block}
   </header>
 
   <a class="thumb-link" href="{video_url}" target="_blank" rel="noopener noreferrer">
@@ -238,6 +255,27 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
         "YouTube felirat" if fm.get("transcript_source") == "youtube_subtitle" else "Whisper ASR"
     )
     summary_model = html.escape(str(fm.get("summary_model", "")))
+    affiliation = str(fm.get("affiliation", "") or "").strip()
+    direction = str(fm.get("direction", "") or "").strip()
+    notes = str(fm.get("notes", "") or "").strip()
+    notes_attr = f' data-notes="{html.escape(notes)}" title="{html.escape(notes)}"' if notes else ""
+    notes_class = " has-notes" if notes else ""
+    meta_chips = []
+    if direction:
+        dir_label = DIRECTION_LABELS.get(direction, direction)
+        meta_chips.append(
+            f'<span class="ch-meta ch-meta-dir ch-meta-dir-{html.escape(direction)}{notes_class}"{notes_attr}>'
+            f'Irányultság: {html.escape(dir_label)}</span>'
+        )
+    if affiliation:
+        aff_label = AFFILIATION_LABELS.get(affiliation, affiliation)
+        meta_chips.append(
+            f'<span class="ch-meta ch-meta-aff ch-meta-aff-{html.escape(affiliation)}{notes_class}"{notes_attr}>'
+            f'Kötődés: {html.escape(aff_label)}</span>'
+        )
+    channel_meta_block = (
+        f'<div class="ch-meta-row">{"".join(meta_chips)}</div>' if meta_chips else ""
+    )
     tldr_html = md_lib.markdown(tldr_md, extensions=["nl2br", "tables", "md_in_html"]) if tldr_md else ""
     details_html = md_lib.markdown(details_md, extensions=["nl2br", "tables", "md_in_html"]) if details_md else ""
     uncertain_html = md_lib.markdown(uncertain_md, extensions=["nl2br", "tables", "md_in_html"]) if uncertain_md else ""
@@ -272,6 +310,7 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
         transcript_html=transcript_html,
         source_label=source_label,
         summary_model=summary_model,
+        channel_meta_block=channel_meta_block,
     )
 
 
@@ -290,6 +329,8 @@ def _card_html(entry: dict) -> str:
     return (
         f'<a class="card" href="{html.escape(entry["page_url"])}"'
         f' data-channel="{html.escape(entry["channel_slug"])}"'
+        f' data-direction="{html.escape(entry.get("direction", ""))}"'
+        f' data-affiliation="{html.escape(entry.get("affiliation", ""))}"'
         f' data-date="{html.escape(entry["date"])}">\n'
         f'  <div class="card-thumb">\n'
         f'    <img src="https://i.ytimg.com/vi/{html.escape(entry["video_id"])}/hqdefault.jpg"'
@@ -349,9 +390,22 @@ _INDEX_TMPL = """\
     <h1>Röviden</h1>
     <p class="site-sub">Hosszú beszélgetések, podcastek és interjúk dióhéjban</p>
   </div>
-  <div class="filters">
-    <button class="chip active" data-f="">Összes ({total})</button>
-    {channel_chips}
+  <div class="filter-groups">
+    <div class="filter-row" data-group="channel">
+      <span class="filter-label">Csatorna:</span>
+      <button class="chip active" data-group="channel" data-f="">Összes ({total})</button>
+      {channel_chips}
+    </div>
+    <div class="filter-row" data-group="direction">
+      <span class="filter-label">Irányultság:</span>
+      <button class="chip active" data-group="direction" data-f="">Összes</button>
+      {direction_chips}
+    </div>
+    <div class="filter-row" data-group="affiliation">
+      <span class="filter-label">Kötődés:</span>
+      <button class="chip active" data-group="affiliation" data-f="">Összes</button>
+      {affiliation_chips}
+    </div>
   </div>
 </header>
 <main class="feed" id="feed">
@@ -376,7 +430,8 @@ _INDEX_TMPL = """\
   }}catch(e){{}}
 }})();
 (function(){{
-  var N={page_size},TOTAL={total},page=1,fil='',data=null,loading=null;
+  var N={page_size},TOTAL={total},page=1,data=null,loading=null;
+  var filters={{channel:'',direction:'',affiliation:''}};
   var feed=document.getElementById('feed');
 
   function loadData(){{
@@ -393,7 +448,7 @@ _INDEX_TMPL = """\
     var srcBadge=e.transcript_source==='youtube_subtitle'?'▶ felirat':'🎙 whisper';
     var tags=(e.tags||[]).map(function(t){{return '<span class="tag">'+esc(t)+'</span>';}}).join('');
     var teaser=e.teaser?'<div class="card-teaser">'+esc(e.teaser)+'&hellip;</div>':'';
-    return '<a class="card" href="'+esc(e.page_url)+'" data-channel="'+esc(e.channel_slug)+'" data-date="'+esc(e.date)+'">'
+    return '<a class="card" href="'+esc(e.page_url)+'" data-channel="'+esc(e.channel_slug)+'" data-direction="'+esc(e.direction||'')+'" data-affiliation="'+esc(e.affiliation||'')+'" data-date="'+esc(e.date)+'">'
       +'<div class="card-thumb"><img src="https://i.ytimg.com/vi/'+esc(e.video_id)+'/hqdefault.jpg" alt="" loading="lazy">'+dur+'</div>'
       +'<div class="card-body">'
         +'<div class="card-badges">'
@@ -413,7 +468,12 @@ _INDEX_TMPL = """\
   }}
 
   function renderFromData(){{
-    var vis=fil?data.filter(function(e){{return e.channel_slug===fil;}}):data;
+    var vis=data.filter(function(e){{
+      if(filters.channel && e.channel_slug!==filters.channel) return false;
+      if(filters.direction && (e.direction||'')!==filters.direction) return false;
+      if(filters.affiliation && (e.affiliation||'')!==filters.affiliation) return false;
+      return true;
+    }});
     var pages=Math.max(1,Math.ceil(vis.length/N));
     if(page>pages) page=pages;
     var slice=vis.slice((page-1)*N,page*N);
@@ -452,9 +512,10 @@ _INDEX_TMPL = """\
   var chips=document.querySelectorAll('.chip');
   chips.forEach(function(c){{
     c.addEventListener('click',function(){{
-      chips.forEach(function(x){{x.classList.remove('active');}});
+      var group=c.dataset.group;
+      document.querySelectorAll('.chip[data-group="'+group+'"]').forEach(function(x){{x.classList.remove('active');}});
       c.classList.add('active');
-      fil=c.dataset.f;page=1;
+      filters[group]=c.dataset.f;page=1;
       loadData().then(renderFromData);
     }});
   }});
@@ -472,10 +533,24 @@ def _build_index(data: list[dict]) -> str:
         if slug not in seen:
             seen[slug] = e["channel_name"]
 
-    channel_chips = "\n    ".join(
-        f'<button class="chip" data-f="{html.escape(slug)}">'
+    channel_chips = "\n      ".join(
+        f'<button class="chip" data-group="channel" data-f="{html.escape(slug)}">'
         f'{html.escape(name)}</button>'
         for slug, name in seen.items()
+    )
+
+    present_directions = {e.get("direction") for e in data if e.get("direction")}
+    direction_chips = "\n      ".join(
+        f'<button class="chip" data-group="direction" data-f="{html.escape(code)}">'
+        f'{html.escape(DIRECTION_LABELS[code])}</button>'
+        for code in DIRECTION_ORDER if code in present_directions
+    )
+
+    present_affiliations = {e.get("affiliation") for e in data if e.get("affiliation")}
+    affiliation_chips = "\n      ".join(
+        f'<button class="chip" data-group="affiliation" data-f="{html.escape(code)}">'
+        f'{html.escape(AFFILIATION_LABELS[code])}</button>'
+        for code in AFFILIATION_ORDER if code in present_affiliations
     )
     parts: list[str] = []
     current_date: str | None = None
@@ -493,6 +568,8 @@ def _build_index(data: list[dict]) -> str:
         total=len(data),
         page_size=PAGE_SIZE,
         channel_chips=channel_chips,
+        direction_chips=direction_chips,
+        affiliation_chips=affiliation_chips,
         cards=cards,
     )
 
@@ -551,6 +628,9 @@ def build(site_root: Path, out_dir: Path) -> None:
             "duration_display": _fmt_duration(duration_sec),
             "page_url": page_url,
             "teaser": plain_summary[:200],
+            "affiliation": str(fm.get("affiliation", "") or ""),
+            "direction": str(fm.get("direction", "") or ""),
+            "notes": str(fm.get("notes", "") or ""),
         })
 
     # Sort newest-first by published_at (falls back to date), so videos appear
