@@ -961,3 +961,18 @@ body.modal-open .about-fab { display: none; }
     font-size: 0.8rem;
   }
 }
+
+.ai-disclaimer {
+  margin: 0 0 1rem;
+  padding: 0.6rem 0.85rem;
+  border-left: 3px solid var(--accent, #888);
+  background: rgba(0,0,0,0.04);
+  font-size: 0.85rem;
+  line-height: 1.45;
+  border-radius: 4px;
+}
+.ai-disclaimer strong { margin-right: 0.25rem; }
+.ai-disclaimer a { text-decoration: underline; }
+@media (prefers-color-scheme: dark) {
+  .ai-disclaimer { background: rgba(255,255,255,0.06); }
+}

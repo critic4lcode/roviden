@@ -46,6 +46,9 @@ AFFILIATION_LABELS = {
 DIRECTION_ORDER = ["liberal", "centrist", "conservative", "far-right"]
 AFFILIATION_ORDER = ["independent", "fidesz-aligned", "tisza-aligned"]
 
+GITHUB_REPO_URL = "https://github.com/critic4lcode/roviden"
+ISSUES_URL = f"{GITHUB_REPO_URL}/issues"
+
 
 def _fmt_date(date_str: str) -> str:
     try:
@@ -216,6 +219,11 @@ _VIDEO_TMPL = """\
   </a>
 
   {tldr_block}
+  <aside class="ai-disclaimer" role="note">
+    <strong>AI-generált összefoglaló.</strong>
+    Hiba esetén <a href="{edit_url}" target="_blank" rel="noopener noreferrer">javítsd közvetlenül a forrásfájlt</a>
+    (a ceruza ikon a GitHubon), vagy <a href="{issues_url}" target="_blank" rel="noopener noreferrer">jelezd hibajegyben</a>.
+  </aside>
   {details_block}
   {uncertain_block}
 
@@ -239,7 +247,7 @@ _VIDEO_TMPL = """\
 """
 
 
-def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str, transcript_block: str, root: str = "..") -> str:
+def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str, transcript_block: str, root: str = "..", source_rel: str = "") -> str:
     video_id = html.escape(str(fm.get("video_id", "")))
     video_url = html.escape(str(fm.get("video_url", f"https://www.youtube.com/watch?v={video_id}")))
     title = str(fm.get("title", ""))
@@ -293,8 +301,13 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
     plain_summary = re.sub(r"<[^>]+>", "", tldr_html or details_html).strip()
     desc = html.escape(plain_summary[:160])
 
+    edit_url = html.escape(f"{GITHUB_REPO_URL}/blob/main/content/{source_rel}") if source_rel else html.escape(GITHUB_REPO_URL)
+    issues_url = html.escape(ISSUES_URL)
+
     return _VIDEO_TMPL.format(
         root=root,
+        edit_url=edit_url,
+        issues_url=issues_url,
         title=title,
         title_esc=title_esc,
         desc=desc,
@@ -377,7 +390,7 @@ _INDEX_TMPL = """\
     </ul>
     <h3>Egy őszinte aggály</h3>
     <p>Be kell vallanunk, hogy ezzel a projekttel kapcsolatban vannak fenntartásaink. Egyértelmű volt az igény a közönség részéről a többórás videók rövid összefoglalóira, viszont fennáll a veszélye annak, hogy a látogatók csak az AI-összefoglalókat olvassák el, és nem nézik meg magát a videót. Ez hosszú távon <strong>csökkentheti a csatornák nézettségét</strong>, ami egyrészt megnehezíti a médiumok számára, hogy felmérjék a közönségük valós igényeit, másrészt <strong>bevételkiesést</strong> is okozhat számukra.</p>
-    <p>Amennyiben Ön egy érintett médium képviselője, és ezt a problémát valósnak találja – vagy bármilyen észrevétele, kérése van az oldallal kapcsolatban –, kérjük, vegye fel velünk a kapcsolatot az <a href="mailto:sssh38@proton.me">sssh38@proton.me</a> címen.</p>
+    <p>Amennyiben Ön egy érintett médium képviselője, és ezt a problémát valósnak találja – vagy bármilyen észrevétele, kérése van az oldallal kapcsolatban – kérjük, vegye fel velünk a kapcsolatot az <a href="mailto:info@jegyezve.com">info@jegyezve.com</a> címen.</p>
     <p class="modal-outro">Köszönjük a megértést, és jó olvasást / videózást kívánunk!</p>
     <div class="modal-actions">
       <button class="modal-btn" type="button" onclick="ytmCloseWelcome()">Megértettem</button>
@@ -624,7 +637,8 @@ def build(site_root: Path, out_dir: Path) -> None:
         root = _root_prefix(page_url)
 
         # Generate video page HTML
-        page_html = _build_video_page(fm, tldr_md, details_md, uncertain_md, transcript_block, root=root)
+        source_rel = md_path.relative_to(content_dir).as_posix()
+        page_html = _build_video_page(fm, tldr_md, details_md, uncertain_md, transcript_block, root=root, source_rel=source_rel)
         out_page = out_dir / page_url
         out_page.parent.mkdir(parents=True, exist_ok=True)
         out_page.write_text(page_html, encoding="utf-8")
