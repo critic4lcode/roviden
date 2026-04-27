@@ -16,6 +16,7 @@ channels:
   - interjú
   - közélet
   notes: Legnagyobb független, liberális YouTube médium, rendszerkritikus
+  donate: https://szja.partizan.hu/
 - id: UCM-1sd-cXSuCsfWp8QMY_OQ
   slug: telex-hu
   display_name: Telex.hu
@@ -24,6 +25,7 @@ channels:
   default_tags:
   - közélet
   notes: 2020-ban alapított független hírportál
+  donate: https://telex.hu/tamogatas
 - id: UCgkd27yNbaq1L3miQ6-WSEg
   slug: direkt36
   display_name: Direkt36
@@ -32,6 +34,7 @@ channels:
   default_tags:
   - oknyomozás
   notes: Pethő András vezette tényfeltáró nonprofit
+  donate: https://www.direkt36.hu/en/tamogass-minket/
 - id: UCGoLa-QhHmTxLEdjv_8dxrg
   slug: '444'
   display_name: 444.hu
@@ -40,6 +43,7 @@ channels:
   default_tags:
   - közélet
   notes: Magyar Jeti kiadó, progresszív-liberális
+  donate: https://magyarjeti.hu/kor/csomagok
 - id: UCV2hxHpDvOvuXh5pifAZlww
   slug: atlatszo
   display_name: Átlátszó
@@ -48,6 +52,7 @@ channels:
   default_tags:
   - oknyomozás
   notes: atlatszo.hu tényfeltáró oknyomozó nonprofit
+  donate: https://atlatszo.hu/tamogatom/
 - id: UC3T5ogRHZVB3jEO5WFvzmIQ
   slug: valsagtab
   display_name: Válságstáb
@@ -82,6 +87,7 @@ channels:
   default_tags:
   - közélet
   notes: Volt Heti Válasz utódja, polgári konzervatív
+  donate: https://www.valaszonline.hu/tamogatas/
 - id: UCHdkcNjZq3CpIvMdWX8maMg
   slug: szelsokozep
   display_name: Szélsőközép
@@ -98,6 +104,7 @@ channels:
   default_tags:
   - interjú
   notes: Friderikusz Sándor interjúsorozata
+  donate: https://www.donably.com/friderikusz-podcast
 - id: UCnlMwO6KqQQKn7byzHRbvlQ
   slug: magyar-hang
   display_name: Magyar Hang
@@ -106,6 +113,7 @@ channels:
   default_tags:
   - közélet
   notes: Volt Magyar Nemzet stáb, konzervatív de kormánykritikus
+  donate: https://hang.hu/informacio/tamogatas-100267
 - id: UCdVH7Fu-tTa0avhvvwPUE0Q
   slug: merce
   display_name: Mérce
@@ -114,6 +122,7 @@ channels:
   default_tags:
   - közélet
   notes: merce.hu baloldali-progresszív portál
+  donate: https://merce.hu/tamogatas/
 - id: UCXxUjsYxbL1llIe9Ra6wcyQ
   slug: atv
   display_name: ATV Magyarország
@@ -130,6 +139,7 @@ channels:
   default_tags:
   - közélet
   notes: Online független hírrádió
+  donate: https://www.klubradio.hu/tamogatas
 - id: UC7ivXUYaRoZb5WDLKksETUA
   slug: puzser-robert
   display_name: Puzsér Róbert

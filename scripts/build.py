@@ -217,13 +217,14 @@ _VIDEO_TMPL = """\
       <span class="play-btn" aria-hidden="true">&#9654;</span>
     </div>
   </a>
-
-  {tldr_block}
   <aside class="ai-disclaimer" role="note">
     <strong>AI-generált összefoglaló.</strong>
     Hiba esetén <a href="{edit_url}" target="_blank" rel="noopener noreferrer">javítsd közvetlenül a forrásfájlt</a>
-    (a ceruza ikon a GitHubon), vagy <a href="{issues_url}" target="_blank" rel="noopener noreferrer">jelezd hibajegyben</a>.
+    (a ceruza ikon a GitHubon), vagy <a href="{issues_url}" target="_blank" rel="noopener noreferrer">jelezd hibajegyben
+  </a>.
   </aside>
+
+  {tldr_block}
   {details_block}
   {uncertain_block}
 

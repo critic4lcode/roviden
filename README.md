@@ -54,7 +54,7 @@ AI-generált. Ha hibát találsz, két lehetőséged van:
 
 ## Kapcsolat
 
-Médium képviselőként vagy egyéb észrevétellel: `info@pjegyezve.com`.
+Médium képviselőként vagy egyéb észrevétellel: `info@jegyezve.com`.
 
 ## Licenc
 
