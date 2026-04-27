@@ -19,7 +19,11 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-A Greenpeace által végzett mérések szerint három akkumulátorgyár (Göd, Komárom, Sóskút) közelében nem találtak NMP (N-metil-pirolidon) szennyezést a talajvízben – azonban ez egyáltalán nem jelenti azt, hogy az akkumulátorgyárak nem okoznak környezeti és egészségügyi károkat. Simon Gergely, a Greenpeace vegyianyag-szakértője szerint az elmúlt évek során dokumentáltan több tonna NMP került ki a Gödi Samsung-gyárból a levegőbe, a dolgozókat határérték-sokszorosában érte a szennyezés, és a kommunális szennyvízben is kimutattak NMP-t. A magyar hatóságok szándékosan félreértelmezték az uniós szabályokat, túl magas kibocsátási határértékeket engedélyeztek, és évekig visszatartották az adatokat. Emellett a Greenpeace egy másik súlyos problémát is feltárt: osztrák kőbányákból származó azbeszt-tartalmú zúzalék került Magyarországra, ahol játszóterek, parkolók és utcák borítottak le vele – Szombathelyen a levegőben az azbeszszál-koncentráció a munkaegészségügyi határérték 30-szorosát, az osztrák lakosági normál határérték 300-szorosát érte el.
+A Greenpeace 2026 márciusában megmérte a talajvizet három akkumulátorgyár – a Gödi Samsung-üzem, a Komáromi gyár és a Sóskúti NMP-feldolgozó – közelében, és nem talált NMP-szennyezést. Ez azonban Simon Gergely, a Greenpeace vegyianyag-szakértője szerint egyáltalán nem jelenti azt, hogy ezek a gyárak ne okoznának súlyos környezeti és egészségügyi károkat.
+
+Az elmúlt évek során dokumentáltan több tonna NMP került ki a Gödi Samsung-gyárból a levegőbe, a dolgozókat a határérték sokszorosában érte a szennyezés, és a kommunális szennyvízben is kimutatták az anyagot. Mindez részben azért volt lehetséges, mert a magyar hatóságok szándékosan félreértelmezték az uniós szabályokat: az NMP-re vonatkozó 2 mg/m³-es határérték helyett 150-et engedélyeztek, évekig visszatartották az adatokat, és a bejelentésekre érdemben soha nem reagáltak.
+
+A riportban egy másik, az akkumulátorgyáraktól független, de legalább annyira súlyos ügy is szóba kerül. Osztrák kőbányákból azbeszt-tartalmú zúzalék érkezett Magyarországra, amellyel játszótereket, parkolókat és utcákat borítottak le – többek között Szombathelyen az Oladi Plató városrész összes utcáját. A levegőben mért azbeszszál-koncentráció elérte a munkaegészségügyi határérték 30-szorosát, az osztrák lakossági határérték 300-szorosát. Az osztrák hatóságok már 2011 óta tudták, hogy a kőzet azbeszt-tartalmú, mégis azbeszt-mentesként igazolták az exportra kerülő anyagot.
 
 # Részletes összefoglaló
 

@@ -20,7 +20,15 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-Aba-Horváth István, az Országos Roma Önkormányzat vezetője és a Roma Nemzetiségi Lista vezetője beszél a 2026. április 12-i választási vereségről, amely során a 47 ezer feliratkozott helyett mindössze 19 ezer érvényes szavazat gyűlt össze. Ezt a kudarcot összetett okokra vezeti vissza: a regisztrációs munka felületességére, a szavazólapok visszaélésszerű kezelésére, valamint arra, hogy a roma közösség eltávolodott a politikai elitektől. Kritizálja a Fidesz belső működését, különösen a választókerületi elnökök „döbrögiesítésének" jelenségét, akik hatalmi ráhatással befolyásolják a szavazatokat. Ugyanakkor visszautasítja az adatbázis-építésre és szavazatvásárlásra vonatkozó vádakat. A Tisza Párt sikerét annak tulajdonítja, hogy mélyebbre ment a szegény közösségekhez, míg a Fidesz elidegenedett a néptől. Hosszú távú célja a nemzetiségi önkormányzati rendszer reformja, amely valódi érdekképviseleti szereppel ruházná fel a roma közösségeket. Bár továbbra is büszke fideszes marad, nyitott az együttműködésre a Tiszával, ha az a roma közösség érdekeit szolgálja.
+Aba-Horváth István, az Országos Roma Önkormányzat és a Roma Nemzetiségi Lista vezetője a 2026. április 12-i választási vereséget elemzi. A 47 ezer regisztrált helyett mindössze 19 ezer érvényes szavazat gyűlt össze – ez elmaradt a parlamenti küszöböt jelentő 25 ezertől, bár történelmi összehasonlításban nem szégyenteljes eredmény.
+
+A kudarcot három fő tényezőre vezeti vissza: a regisztrációs kampány felületességére, a szavazólapok visszaélésszerű kezelésére (érvénytelen szavazatok, hazavitt lapok), valamint arra, hogy a roma közösség politikailag elidegenedett a pártelitektől. Ez utóbbi jelenségért részben a Fidesz belső működését okolja: a választókerületi elnökök „döbrögiesítése" – vagyis kiskirályként való viselkedése – szerinte eltávolította a pártot a szegény közösségektől.
+
+A Tisza Párt sikerét ezzel összefüggésben értelmezi: Magyar Péter mozgalma mélyebbre ment a szegény rétegekhez, és az elégedetlenséget, kilátástalanságot hatékonyan tudta megszólítani – míg a Fidesz, saját szavaival, „eltávolodott a néptől".
+
+Visszautasítja az adatbázis-építésre és szavazatvásárlásra vonatkozó vádakat, és a szociális tevékenységét – faosztás, húsosztás – emberbaráti alapon végzett munkának nevezi, amelyhez nem kötött adatgyűjtési feltételt.
+
+Hosszú távon a nemzetiségi önkormányzati rendszer reformját tartja a legfontosabb célnak: valódi finanszírozást, szakmai képviseletet és érdemi bevonást szeretne elérni. Bár nyitott az együttműködésre a Tiszával, ha az a roma közösség javát szolgálja, büszke fideszesnek vallja magát, és nem kíván átpártolni.
 
 #  Részletes összefoglaló
 

@@ -18,7 +18,17 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-A Direkt36 feltárt egy összetett, titkosszolgálati nyomásra alapuló műveletet a Tisza Párt ellen. Az eset központjában egy ismeretlen személy (Henry) áll, aki 2025 elején egy fiatal informatikust (Gundalf) próbált bevonni a párt informatikai rendszereibe való behatolásra. Az Alkotmányvédelmi Hivatal szokatlan módon befolyásolta a rendőrségi nyomozást: a gyermekpornográfia gyanújára alapozott házkutatás helyett végül haditechnikai eszközzel való visszaéléssel gyanúsították meg az informatikusokat. A Nemzeti Nyomozóiroda nyomozói azonban árnyéknyomozást végeztek, és az egyik nyomozó, Szabó Bence százados nyíltan beszélt az ügyrő, majd hivatali visszaéléssel gyanúsították meg. Az eset rávilágít arra, hogy a hatóságok nem a valódi fenyegetésre (Henry azonosítása, a művelet felderítése) koncentrálnak, hanem az információ nyilvánosságra kerülésének megakadályozására.
+A Direkt36 feltárt egy összetett, titkosszolgálati háttérrel rendelkező műveletet a Tisza Párt ellen. Az eset központjában egy ismeretlen személy („Henry") áll, aki 2025 elején egy fiatal informatikust (Gundalf) próbált rávenni a párt informatikai rendszereibe való behatolásra. Gundalf azonban nem működött együtt: inkább információkat igyekezett kiszedni Henryből, és mindent megosztott egy társával (Budha), aki a párt vezetését is tájékoztatta.
+
+Az ügy rendőrségi szála legalább annyira aggályos, mint maga a beszervezési kísérlet. Az Alkotmányvédelmi Hivatal (AH) szokatlan módon befolyásolta a nyomozást:
+
+- Még a hivatalos bejelentés előtt tudott az ügyről.
+- Nyomást gyakorolt a rendőrségre a nyomozás irányának meghatározásában.
+- A gyermekpornográfia gyanújára indított házkutatás végül haditechnikai eszközzel való visszaéléssé „alakult át", anélkül hogy bármilyen gyermekpornográfiai anyagot találtak volna.
+
+A Nemzeti Nyomozóiroda nyomozói felismerték a politikai nyomásgyakorlást, és frusztrációjukban árnyéknyomozást végeztek. Egyikük, Szabó Bence százados nyíltan beszélt a Direkt36-nak arról, hogyan akadályozták a valódi nyomozást. A cikk megjelenése után azonnal hivatali visszaéléssel gyanúsították meg.
+
+Az eset lényege tehát az, hogy a hatóságok nem a valódi fenyegetésre koncentrálnak – Henry kilétének felderítésére, a Tisza Párt elleni művelet hátterének feltárására –, hanem arra, hogy az információ ne kerüljön nyilvánosságra, és hogy megtorolják annak kiszivárogtatását.
 
 # Részletes összefoglaló
 

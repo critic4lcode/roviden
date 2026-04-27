@@ -18,7 +18,11 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-A Direkt36 szerkesztősége visszatekint az Orbán-rendszer utolsó négy évére (2022–2026), amely végül a miniszterelnök vereségéhez és Magyar Péter Tisza Pártjának győzelméhez vezetett. A beszélgetésben három kulcstéma dominálja az elemzést: az ellenzék szervezeti összeomlása a 2022-es választások után, az Orbán-kormány gazdaságpolitikájának rövidtávú szemlélete és annak hosszú távú kudarca, valamint a kegyelmi botrány mint a rendszer sebezhetőségének szimbóluma. A szerkesztők szerint a gazdasági válság, az infláció, az EU-pénzek hiánya és a kormányon belüli morális eltávolodás együttesen vezettek a Fidesz bukásához. Fontos megállapítás, hogy a független sajtó nem a választások kimenetelét „okozta", hanem a már létező társadalmi igényeket és valós problémákat dokumentálta, amelyeket a kormány nem tudott megoldani.
+A Direkt36 szerkesztősége visszatekint az Orbán-rendszer utolsó négy évére (2022–2026), amely végül a miniszterelnök vereségéhez és Magyar Péter Tisza Pártjának győzelméhez vezetett. 
+
+A beszélgetésben három kulcstéma dominálja az elemzést: az ellenzék szervezeti összeomlása a 2022-es választások után, az Orbán-kormány gazdaságpolitikájának rövidtávú szemlélete és annak hosszú távú kudarca, valamint a kegyelmi botrány mint a rendszer sebezhetőségének szimbóluma. 
+
+A szerkesztők szerint a gazdasági válság, az infláció, az EU-pénzek hiánya és a kormányon belüli morális eltávolodás együttesen vezettek a Fidesz bukásához. Fontos megállapítás, hogy a független sajtó nem a választások kimenetelét „okozta", hanem a már létező társadalmi igényeket és valós problémákat dokumentálta, amelyeket a kormány nem tudott megoldani.
 
 ---
 

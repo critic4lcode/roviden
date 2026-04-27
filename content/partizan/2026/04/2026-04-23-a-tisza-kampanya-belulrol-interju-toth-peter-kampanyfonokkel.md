@@ -19,8 +19,19 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-Tóth Péter, a Tisza Párt kampányfőnöke első interjújában a választás után részletesen beszél a párt rekordméretű sikeréről és a kampány kulcsfontosságú elemeiről. Kiemeli, hogy a győzelem nem egyéni érdemének, hanem 50 000 önkéntes és 3,4 millió szavazó közös munkájának eredménye. A kampány alapja a terepen végzett politikai munka, az adatbázis-építés és a személyes kapcsolatok voltak. Tóth hangsúlyozza, hogy nem hisz a negatív kampányban, és tudatosan visszatartott olyan kompromittáló anyagokat, amelyeket az ellenfél ellen használhatott volna. A Tisza sikerét a szervezeti fegyelem, az organikus online jelenlét, az offline aktivitás (9-10 alkalommal minden településre eljutottak), valamint a fiatalok és vidéki választók mobilizációjának kombinációja tette lehetővé. A kampány költsége a 0–5 milliárd forint közötti sávban mozgott – töredéke a Fidesz becsült költségvetésének.
+Tóth Péter, a Tisza Párt kampányfőnöke első – és valószínűleg utolsó – interjújában számol be a párt rekordméretű választási sikeréről. Hangsúlyozza, hogy a győzelem nem az ő egyéni érdeme, hanem 50 000 önkéntes és 3,4 millió szavazó közös munkájának eredménye.
 
+A kampány három pillérre épült: adatbázis-alapú terepen végzett politikai munkára, személyes kapcsolatokra és fegyelmezett szervezeti működésre. A Tiszaszigetek önkéntes hálózata 9-10 alkalommal jutott el minden magyar településre, a „Tiszta Hang" kiadvány pedig 3,74 millió postaládát ért el. Az online jelenlét ezzel párhuzamosan organikus maradt – fizetett influencer-kampány nélkül értek el 650 milliós közösségi médiás elérést.
+
+Tóth tudatosan kerülte a negatív kampányt: kompromittáló anyagokat, amelyek politikusok családjait érintették volna, visszatartott, etikai megfontolásból. A kampány költsége a 0–5 milliárd forintos sávban mozgott, töredéke a Fidesz becsült büdzséjének.
+
+A siker legfontosabb összetevői röviden:
+- a régi ellenzéki pártoktól való teljes elhatárolódás
+- a vidéki és fiatal szavazók célzott mobilizációja
+- a jelöltek szigorú, értékalapú kiválasztása
+- a szervezeti fegyelem, amelyet nem külső kényszer, hanem belső meggyőződés tartott össze
+
+Tóth a jövőben nem tervez közéleti szerepet: a kampány lezárásával a szerinte elvégzett feladatot befejezettnek tekinti, és a családjához tér vissza.
 # Részletes összefoglaló
 
 ## Tóth Péter szerepe és motivációja

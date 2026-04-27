@@ -174,11 +174,11 @@ _VIDEO_TMPL = """\
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="{desc}">
-<title>{title} — YouTube Monitor</title>
+<title>{title} — Röviden</title>
 <link rel="stylesheet" href="{root}/style.css">
 </head>
 <body>
-<nav class="nav"><a href="{root}/">← YouTube Monitor</a></nav>
+<nav class="nav"><a href="{root}/">← Röviden</a></nav>
 <article class="vp">
   <header class="vp-head">
     <div class="vp-meta">
@@ -315,14 +315,34 @@ _INDEX_TMPL = """\
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>YouTube Monitor</title>
+<title>Röviden — Hosszú beszélgetések, podcastek és interjúk dióhéjban</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div id="welcome-modal" class="modal-overlay" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="welcome-title">
+    <button class="modal-close" type="button" aria-label="Bezárás" onclick="ytmCloseWelcome()">&times;</button>
+    <h2 id="welcome-title">Üdvözöllek!</h2>
+    <p>Ez a weboldal <strong>AI által készített összefoglalókat</strong> tartalmaz hosszú videókhoz – kifejezetten azoknak, akik szeretnék gyorsan átlátni egy-egy hosszabb tartalom lényegét.</p>
+    <h3>Fontos tudnivalók</h3>
+    <ul>
+      <li>Csak <strong>30 percnél hosszabb</strong> videókról készítünk összefoglalót.</li>
+      <li>Az összefoglalók <strong>nem helyettesítik</strong> az eredeti tartalmat – a kontextus, az árnyalatok és az alkotói munka csak a videó megtekintésével élhető át igazán.</li>
+      <li>Kérünk, <strong>támogasd az érintett médiumokat és csatornákat</strong>: nézd meg az eredeti videót, iratkozz fel, oszd meg, vagy támogasd őket anyagilag, ha van rá módod. Az ő munkájuk nélkül ez az oldal sem létezne.</li>
+    </ul>
+    <h3>Egy őszinte aggály</h3>
+    <p>Be kell vallanunk, hogy ezzel a projekttel kapcsolatban vannak fenntartásaink. Egyértelmű volt az igény a közönség részéről a többórás videók rövid összefoglalóira, viszont fennáll a veszélye annak, hogy a látogatók csak az AI-összefoglalókat olvassák el, és nem nézik meg magát a videót. Ez hosszú távon <strong>csökkentheti a csatornák nézettségét</strong>, ami egyrészt megnehezíti a médiumok számára, hogy felmérjék a közönségük valós igényeit, másrészt <strong>bevételkiesést</strong> is okozhat számukra.</p>
+    <p>Amennyiben Ön egy érintett médium képviselője, és ezt a problémát valósnak találja – vagy bármilyen észrevétele, kérése van az oldallal kapcsolatban –, kérjük, vegye fel velünk a kapcsolatot az <a href="mailto:sssh38@proton.me">sssh38@proton.me</a> címen.</p>
+    <p class="modal-outro">Köszönjük a megértést, és jó olvasást / videózást kívánunk!</p>
+    <div class="modal-actions">
+      <button class="modal-btn" type="button" onclick="ytmCloseWelcome()">Megértettem</button>
+    </div>
+  </div>
+</div>
 <header class="site-header">
   <div class="site-header-inner">
-    <h1>YouTube Monitor</h1>
-    <p class="site-sub">Magyar YouTube csatornák automatikus átiratai és összefoglalói</p>
+    <h1>Röviden</h1>
+    <p class="site-sub">Hosszú beszélgetések, podcastek és interjúk dióhéjban</p>
   </div>
   <div class="filters">
     <button class="chip active" data-f="">Összes ({total})</button>
@@ -334,6 +354,19 @@ _INDEX_TMPL = """\
 </main>
 <div id="pag"></div>
 <script>
+(function(){{
+  try{{
+    if(!localStorage.getItem('ytm_welcome_seen')){{
+      var m=document.getElementById('welcome-modal');
+      if(m){{m.hidden=false;document.body.classList.add('modal-open');}}
+    }}
+  }}catch(e){{}}
+  window.ytmCloseWelcome=function(){{
+    var m=document.getElementById('welcome-modal');
+    if(m){{m.hidden=true;document.body.classList.remove('modal-open');}}
+    try{{localStorage.setItem('ytm_welcome_seen','1');}}catch(e){{}}
+  }};
+}})();
 (function(){{
   var N=20,page=1,fil='';
   function allCards(){{return Array.from(document.querySelectorAll('#feed .card'));}}

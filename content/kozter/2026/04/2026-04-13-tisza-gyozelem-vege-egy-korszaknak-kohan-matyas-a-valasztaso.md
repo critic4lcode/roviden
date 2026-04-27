@@ -36,10 +36,18 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-A Tisza Párt meggyőző fölénnyel nyerte a 2026-os magyarországi választásokat, 138 mandátummal szemben a Fidesz 55 mandátumának. Kohán Mátyás, a Mandiner főmunkatársa szerint ez nem elsősorban Szabó Bence „coming out" sorozatának, hanem strukturális okoknak köszönhető: a jobboldali kutatóintézetek nem azonosították helyesen a rejtőzködő Tisza-szavazókat, míg a Tisza-intézetek igen. A Fidesz gazdasági fundamentumainak hiánya lehetetlenné tette a pozitív kampányt, így az Ukrajna-téma dominanciája nem volt kikerülhető. A Tisza szavazóbázisa döntő többségében korábban nem szavazók (inaktívak, bizonytalanok, első szavazók) voltak, nem pedig Fidesz-szavazók. Magyar Péter kormánya előtt az elszámoltatás ígérete áll, de Kohán szerint nem lesz igazi demokrácia – egy egypárti rendszer alakul majd ki. A jobboldali média és újságírás szintje az elmúlt 16 évben csökkent, de a Mandiner és hasonló médiumok készen állnak egy minőségi ellenzéki újságírásra. A Fidesz hosszú távon megmaradhat, ha megújul, de 2030-ig nem valószínű a visszatérés – leghamarabb 2027–2028-ban lehetséges, ha Magyar Péter súlyosan elszúrja a kormányzást.
+A Tisza Párt meggyőző fölénnyel nyerte a 2026-os magyarországi választásokat, 138 mandátummal szemben a Fidesz 55 mandátumának. Kohán Mátyás, a Mandiner főmunkatársa szerint a győzelem mögött elsősorban strukturális okok állnak: a jobboldali kutatóintézetek tévesen azonosították a rejtőzködő szavazókat, míg a Tisza-közeli intézetek – köztük a Medián – helyesen mérték fel ezt a csoportot. A szavazattöbblet döntő részét nem átszavazó fideszesek, hanem korábban inaktív, bizonytalan vagy először szavazó választók adták.
 
----
+A Fidesz kampányának alapproblémája nem a narratíva vagy a tematizálás volt, hanem a gazdasági fundamentumok hiánya. Az elmúlt négy évben nem volt meg az az alap, amelyre pozitív, fejlődésről szóló kampányt lehetett volna építeni – az Ukrajna-téma dominanciája így nem stratégiai választás, hanem kényszerpálya volt.
 
+Magyar Péter kormánya előtt szinte korlátlan lehetőségek állnak, de Kohán szerint nem várható tőle igazi demokrácia. A 138 mandátumos többség strukturálisan egy egypárti rendszert teremt, és az elszámoltatás ígérete sem fog teljesülni az ígért mértékben – a „fideszes korrupció" nagy része ugyanis jogi értelemben nem bizonyítható. Kohán a következő szimbolikus lépéseket valószínűsíti az első időszakban:
+
+- csatlakozás az Európai Ügyészséghez
+- a Türk Államok Szervezete megfigyelőtagságának feladása
+- az ukrán vétó elengedése
+- az EU-s pénzek felszabadítása
+
+A Fidesz hosszú távon megmaradhat, ha megújul, de Orbán Viktor nem fog eltűnni a politikai színtérről – inkább menedzselt átmenetet hajt majd végre. A visszatérés 2030-ra nem valószínű, legkorábban 2027–2028-ban képzelhető el, ha Magyar Péter súlyosan elszúrja a kormányzást. A jobboldali médiában is változás várható: a bombasztikus, adatvezérelt megközelítés helyett minőségi ellenzéki újságírás jöhet, amelyre a Mandiner és hasonló médiumok Kohán szerint készen állnak.
 #  Részletes összefoglaló
 
 ## A választási eredmény és a kutatási hibák
