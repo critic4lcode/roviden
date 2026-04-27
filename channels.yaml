@@ -1,10 +1,445 @@
 channels:
-  - id: UCEFpEvuosfPGlV1VyUF6QOA
-    slug: partizan
-    display_name: Partizán
-    default_tags: [interjú, közélet]
-
-  - id: UCgkd27yNbaq1L3miQ6-WSEg
-    slug: direkt36
-    display_name: Direkt36
-    default_tags: [oknyomozás]
+- id: UC9qpYwK7N9EB0-SECANa23g
+  slug: jolvanezígy
+  display_name: JÓLVANEZÍGY
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: Napi közéleti műsor, fiatalos liberális
+- id: UCEFpEvuosfPGlV1VyUF6QOA
+  slug: partizan
+  display_name: Partizán
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - interjú
+  - közélet
+  notes: Legnagyobb független, liberális YouTube médium, rendszerkritikus
+- id: UCM-1sd-cXSuCsfWp8QMY_OQ
+  slug: telex
+  display_name: Telex.hu
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: 2020-ban alapított független hírportál
+- id: UCgkd27yNbaq1L3miQ6-WSEg
+  slug: direkt36
+  display_name: Direkt36
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - oknyomozás
+  notes: Pethő András vezette tényfeltáró nonprofit
+- id: UCGoLa-QhHmTxLEdjv_8dxrg
+  slug: '444'
+  display_name: 444.hu
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: Magyar Jeti kiadó, progresszív-liberális
+- id: UCV2hxHpDvOvuXh5pifAZlww
+  slug: atlatszo
+  display_name: Átlátszó
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - oknyomozás
+  notes: atlatszo.hu tényfeltáró oknyomozó nonprofit
+- id: UC3T5ogRHZVB3jEO5WFvzmIQ
+  slug: valsagtab
+  display_name: Válságstáb
+  affiliation: independent
+  direction: centrist
+  default_tags:
+  - gazdaság
+  - közélet
+  notes: Független közgazdasági és politikai elemzések
+- id: UC2LCz1KRAx0JaosGy-7RcKg
+  slug: hvg
+  display_name: HVG Videó
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - gazdaság
+  - közélet
+  notes: HVG hetilap, gazdasági-liberális hagyomány
+- id: UCw0oJgCjz3NvAICbqWImH-A
+  slug: 24hu
+  display_name: 24.hu
+  affiliation: independent
+  direction: centrist
+  default_tags:
+  - közélet
+  notes: Central Médiacsoport, mérsékelt mainstream
+- id: UCk4Xm32zEO4ymAxK1NJ5Tmw
+  slug: valasz-online
+  display_name: Válasz Online
+  affiliation: independent
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Volt Heti Válasz utódja, polgári konzervatív
+- id: UCHdkcNjZq3CpIvMdWX8maMg
+  slug: szelsokozep
+  display_name: Szélsőközép
+  affiliation: independent
+  direction: centrist
+  default_tags:
+  - közélet
+  notes: Inga Kultúrkávézó - tudatosan centrista, frontális kritika
+- id: UCQAeX1_gw45xb3Cg-OwEFcw
+  slug: friderikusz-podcast
+  display_name: Friderikusz Podcast
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - interjú
+  notes: Friderikusz Sándor interjúsorozata
+- id: UCnlMwO6KqQQKn7byzHRbvlQ
+  slug: magyar-hang
+  display_name: Magyar Hang
+  affiliation: independent
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Volt Magyar Nemzet stáb, konzervatív de kormánykritikus
+- id: UCdVH7Fu-tTa0avhvvwPUE0Q
+  slug: merce
+  display_name: Mérce
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: merce.hu baloldali-progresszív portál
+- id: UCXxUjsYxbL1llIe9Ra6wcyQ
+  slug: atv
+  display_name: ATV Magyarország
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: ATV kereskedelmi tévé (Hit Gyülekezet tulajdon), kormánykritikus
+- id: UC6jNYMLmsMRMjRQ5o12nMiw
+  slug: klubradio
+  display_name: Klubrádió
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: Online független hírrádió
+- id: UC7ivXUYaRoZb5WDLKksETUA
+  slug: puzser-robert
+  display_name: Puzsér Róbert
+  affiliation: independent
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Publicista, Polgári Ellenállás, konzervatív rendszerkritikus
+- id: UCfS72Yr7hFsHClD3krlP9UA
+  slug: kokusz-plusz
+  display_name: Kókusz+
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: A Fókuszcsoport közösség prémium csatornája; egyértelműen kormánykritikus,
+    de párthoz nem kötött
+- id: UCjFwLuNhlww-ScXaEtcEj3Q
+  slug: jelen
+  display_name: Jelen hetilap
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: jelen.media független hetilap
+- id: UCnkeJ2NOYRmWQIzfLu-zyDg
+  slug: nepszava
+  display_name: Népszava
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: Baloldali-szociáldemokrata napilap 1873 óta
+- id: UCzek_Q7jEhjLX9MQPomIC5g
+  slug: hadhazy-akos
+  display_name: Hadházy Ákos
+  affiliation: independent
+  direction: centrist
+  default_tags:
+  - közélet
+  - korrupció
+  notes: Független képviselő, korrupcióellenes
+- id: UCDHjSN4vbfmzb8Cdfsob9Gg
+  slug: magyar-peter
+  display_name: Magyar Péter Hivatalos
+  affiliation: tisza-aligned
+  direction: centrist
+  default_tags:
+  - közélet
+  notes: Tisza Párt elnökének hivatalos csatórnája
+- id: UCdGCcuu66SuqaDQoSuh5wyA
+  slug: tisza
+  display_name: TISZA Hivatalos
+  affiliation: tisza-aligned
+  direction: centrist
+  default_tags:
+  - közélet
+  notes: TISZA Párt hivatalos szervezeti csatórnája
+- id: UC86bUQtguMqK-S_2hS1Cvxg
+  slug: tisza-europa
+  display_name: TISZA Európa
+  affiliation: tisza-aligned
+  direction: centrist
+  default_tags:
+  - közélet
+  - EU
+  notes: Tisza Párt EP-frakció csatórnája
+- id: UCW_zf7VdaFoeZqVTlYht4oA
+  slug: kontroll
+  display_name: Kontroll
+  affiliation: tisza-aligned
+  direction: centrist
+  default_tags:
+  - közélet
+  notes: kontroll.hu - Magyar Márton, Tisza-közeli szerkesztőségi média
+- id: UCKY8HrMpm32WAMK0lauLAZA
+  slug: index
+  display_name: Index.hu
+  affiliation: fidesz-aligned
+  direction: centrist
+  default_tags:
+  - közélet
+  notes: 2020 óta vitatott függetlenségű hírportál
+- id: UCR09wFPwRrCHKr36Wc6qKcw
+  slug: patriota
+  display_name: Patrióta
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Megafon ernyőcsatórna (Apáti, Trombitás, Vukics, Bohár)
+- id: UCBRpGiA8cKjhbVsUJbmKSHA
+  slug: kozter
+  display_name: KözTér
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Kurucz Dániel (ex-Fidelitas), kormányközeli YT csatórna
+- id: UChUByu3QDGaVD6iyt0jzngw
+  slug: ultrahang
+  display_name: Ultrahang
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - külpolitika
+  - biztonságpolitika
+  notes: Király Tamás - kül-/biztonságpolitika (Nógrádi, Spöttle)
+- id: UC1uyU2pJMWDYAru9h4RlVNg
+  slug: ultrahang-plusz
+  display_name: Ultrahang Plusz
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - külpolitika
+  notes: Ultrahang másodlagos csatórnája
+- id: UCAvx9uxtvhnxNpnjutUei5A
+  slug: hir-tv
+  display_name: Hír TV
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Mediaworks/KESMA kormánypárti hírTévé
+- id: UCIv5RQGZomRsayFJngRlk2g
+  slug: bayer-show
+  display_name: Bayer Show HírTV
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Bayer Zsolt heti show
+- id: UCrt2WXYcl3ePyz5acWHS87A
+  slug: magyar-nemzet
+  display_name: Magyar Nemzet
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Mediaworks/KESMA zászlóshajó napilap
+- id: UCJPny77nNKt9Jv9D9a7_qrg
+  slug: mandiner
+  display_name: Mandiner
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: MCC-tulajdon, konzervatív intellektuális
+- id: UCtyWrDfSsIxMePDMMQdpq5g
+  slug: origo
+  display_name: ORIGO
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: origo.hu - Mediaworks, 2016 óta kormánypárti
+- id: UCYQZ6JElMNwQrkiwm__jx_g
+  slug: hir-fm
+  display_name: Hír FM
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Jobboldali közéleti rádió
+- id: UCgpqnOK4fvNRevAPjBFHhFw
+  slug: ripost
+  display_name: Ripost Online
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Ripost - Mediaworks/KESMA bulvár-politikai
+- id: UCb_I2X-ogeaqUtb-xyk3-GQ
+  slug: bohar-daniel
+  display_name: Bohár Dániel
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Megafon riporter saját csatórnája
+- id: UCtM4A1Q6XDwrG0MbBDAEagg
+  slug: politikai-hobbista
+  display_name: Politikai Hobbista
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Jeszenszky Zsolt (Hardcore Hobbista)
+- id: UC2YTf1zjCRitMJEO6EPrwEg
+  slug: kontextus
+  display_name: Kontextus
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Megadja Gábor és Hortay Olivér eszmetörténeti podcast
+- id: UCo5n7Ub3bd-0dUsZWDIAUBQ
+  slug: ridikul
+  display_name: Ridikül
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - életmód
+  notes: Szórakoztató, de fideszbarát közegben működő csatorna
+- id: UCHK7_j6bpGgsyWe5ZqXbY1w
+  slug: inforadio
+  display_name: InfoRádió - Infostart
+  affiliation: independent
+  direction: conservative
+  default_tags:
+  - életmód
+- id: UCFyfoQmQSAlmujW8aLKRLPw
+  slug: momentum
+  display_name: Momentum Mozgalom
+  affiliation: opposition
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: Momentum hivatalos csatórnája
+- id: UC0VsXYTd-5wjJQW9MMTqvvw
+  slug: lmp
+  display_name: LMP - Magyarország Zöld Pártja
+  affiliation: opposition
+  direction: liberal
+  default_tags:
+  - közélet
+  - környezet
+  notes: LMP - Magyarország Zöld Pártja
+- id: UCECE6HyBx-bRVWc6J1riw_Q
+  slug: mi-hazank
+  display_name: Mi Hazánk Mozgalom
+  affiliation: opposition
+  direction: far-right
+  default_tags:
+  - közélet
+  notes: Toroczkai László szélsőjobboldali pártja
+- id: UC-ZBFbpGZvEVSAGaNsvxgKQ
+  slug: toroczkai
+  display_name: Toroczkai László
+  affiliation: opposition
+  direction: far-right
+  default_tags:
+  - közélet
+  - politika
+  notes: Toroczkai László Youtube csatórnája
+- id: UCu_mXU_UgY2ZwmozQXsVa4Q
+  slug: klikktv
+  display_name: KlikkTV
+  affiliation: opposition
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: Egyértelműen kormánykritikus, liberális-demokrata hangvételű csatorna; többen
+    Tisza-szimpatizánsként azonosítják
+- id: UCWv4tPRbBfgWAK1Dciq2ttA
+  slug: otpontban
+  display_name: Ötpontban
+  affiliation: independent
+  direction: centrist
+  default_tags:
+  - közélet
+  - politika
+  notes: Dull Szabolcs politikai elemző csatornája, pártatlan szakmai megközelítéssel
+- id: UCJMAfdmkuI5UqqFk5ZjBTdw
+  slug: klasszis-media
+  display_name: Klasszis Média
+  affiliation: independent
+  direction: centrist
+  default_tags:
+  - gazdaság
+  - közélet
+  notes: Gazdasági-üzleti fókuszú médiacsoport (Privátbankár, Mfor); tartalmai kritikusak
+    a Fidesz-kormánnyal szemben, de gazdasági alapon, nem pártpolitikailag
+- id: UCX32YkhuN63IPAx1ji5RZGg
+  slug: szinen-tul
+  display_name: Színen túl
+  affiliation: independent
+  direction: centrist
+  default_tags:
+  - közélet
+  notes: Krug Emília prémium közéleti podcastja, kiegyensúlyozott vendégkörrel
+- id: UCxxj0paij6p2nqt5vjziTgQ
+  slug: egy-bogar-naploja
+  display_name: Egy Bogár Naplója
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Jobboldali kommentár, közéleti tartalom
+- id: UCwRgC4e0TcESJKeYt7bZVFw
+  slug: hit-radio
+  display_name: Hit Rádió
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Keresztény rádió, szorosan kötődik a kormány egyházpolitikájához
+- id: UCvVAGgfZ6uGAcVl6p74NNAQ
+  slug: fekete-rita
+  display_name: Fekete Rita
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: Közéleti influencer, nyíltan kormánypárti pozícióban
+- id: UC6V-s3CdZMGv9UJw1woqwgw
+  slug: sajtoklub-hirtv
+  display_name: SajtóKlub HírTV
+  affiliation: fidesz-aligned
+  direction: conservative
+  default_tags:
+  - közélet
+  notes: A HírTV fideszközeli médiabirodalom (KESMA) része
