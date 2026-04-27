@@ -25,7 +25,7 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-Nagy Batmán műsorvezetővel beszélget Stier Gábor, a Moszater.com alapító főszerkesztője az április 12-i magyar választások európai kontextusáról és a patrióta mozgalom jövőjéről. A beszélgetés központi témája, hogy Orbán Viktor és a szuverenista-patrióta erők vereséget szenvedtek, de ez nem jelenti a mozgalom végét, csupán lelassítja annak terjedését. Stier szerint az európai liberális mainstream közvetett beavatkozással próbálta meg befolyásolni a magyar választásokat, és hasonló küzdelmek várhatóak Franciaországban és másutt. Magyar Péter kormánya pragmatikus megoldásokra kényszerül az EU-s pénzek miatt, ami korlátozza a radikális jobboldali politikát. Orbán Viktornak továbbra is szüksége van a patrióta mozgalomnak, de már nem lesz az egyedüli vezető, és személyes jövője attól függ, hogy a Fidesz hogyan újul meg az április 28-ai kongresszuson. Az európai erőviszonyok kiegyenlítődésére számít Stier, nem pedig egy gyors áttörésre a patrióta erők javára.
+Nagy-Bató Jonatán műsorvezetővel beszélget Stier Gábor, a Moszater.com alapító főszerkesztője az április 12-i magyar választások európai kontextusáról és a patrióta mozgalom jövőjéről. A beszélgetés központi témája, hogy Orbán Viktor és a szuverenista-patrióta erők vereséget szenvedtek, de ez nem jelenti a mozgalom végét, csupán lelassítja annak terjedését. Stier szerint az európai liberális mainstream közvetett beavatkozással próbálta meg befolyásolni a magyar választásokat, és hasonló küzdelmek várhatóak Franciaországban és másutt. Magyar Péter kormánya pragmatikus megoldásokra kényszerül az EU-s pénzek miatt, ami korlátozza a radikális jobboldali politikát. Orbán Viktornak továbbra is szüksége van a patrióta mozgalomnak, de már nem lesz az egyedüli vezető, és személyes jövője attól függ, hogy a Fidesz hogyan újul meg az április 28-ai kongresszuson. Az európai erőviszonyok kiegyenlítődésére számít Stier, nem pedig egy gyors áttörésre a patrióta erők javára.
 
 # Részletes összefoglaló
 
@@ -102,7 +102,7 @@ Azonban Stier szerint az új kormányzat ügyelni fog arra, hogy ne jusson el od
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- „Nagy Batmán" – a műsorvezető neve valószínűleg más, de az átiratban így szerepel, és nem egyértelmű, hogy valódi név vagy becenév-e
+- „Nagy-Bató Jonatán" – a műsorvezető neve valószínűleg más, de az átiratban így szerepel, és nem egyértelmű, hogy valódi név vagy becenév-e
 - „stírgábor a mosatér.com" – az ASR „Stier Gábor" és „Moszater.com" helyesen, de az átiratban torzított alakban szerepel
 - „Rumen Radev" – az átiratban többször eltérő alakban jelenik meg, de a kontextusból egyértelmű, hogy a bolgár elnökről van szó
 - „Bojkó Borisov" – az átiratban „Bojkó Boriszó" alakban szerepel, de a kontextus alapján a bolgár konzervatív politikusról van szó
@@ -117,7 +117,7 @@ Azonban Stier szerint az új kormányzat ügyelni fog arra, hogy ne jusson el od
 
 [00:00:00](https://www.youtube.com/watch?v=EuBIp1qZrlQ&t=0) Sok szeretettel köszöntöm a Hit Rádió minden kedves nézőt és hallgatóját.
 
-[00:00:01](https://www.youtube.com/watch?v=EuBIp1qZrlQ&t=1) Én Nagy Batmán vagyok.
+[00:00:01](https://www.youtube.com/watch?v=EuBIp1qZrlQ&t=1) Én Nagy-Bató Jonatán vagyok.
 
 [00:00:03](https://www.youtube.com/watch?v=EuBIp1qZrlQ&t=3) A következő percekben pedig Európáról fogunk beszélgetni.
 
