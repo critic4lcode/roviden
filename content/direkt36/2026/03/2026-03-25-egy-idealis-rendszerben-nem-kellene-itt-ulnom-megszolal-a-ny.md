@@ -18,7 +18,16 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-Szabó Bence, a Nemzeti Nyomozóiroda kiberbűnözési főosztályának kiemelt főnyomozója egy rendkívüli ügyet tárt fel, amely szerint a Tisza Párt informatikusait egy magyar titkosszolgálati szerv próbálta megkörnyékezni és beszervezni. Az ügy július 1-én kezdődött egy névtelen bejelentéssel gyermekpornográfiáról, amely azonban – Szabó szerint – valószínűleg az Alkotmányvédelmi Hivatal által készített csapdaként funkcionált. A bejelentés lehetővé tette a nyomozóosztálynak, hogy legálisan lefoglaljon minden elektronikus eszközt a Tisza Párt informatikai vezetőjétől (Buddha) és egy másik informatikusától (Gundalf). Az eszközökön talált képernyőfelvételek egy „Henry" nevű ismeretlen személy és Gundalf között folyó beszélgetést mutattak, amelyből kiderült, hogy Henry egy szervezett csapat tagja, amely a Tisza Párt informatikai rendszereibe akar behatolni, hogy a 2026-os választások előtt összeomlasztsa azt. A kommunikáció során Henry előre megjósolt adatszivárgásokat, amely azt sugallja, hogy a szervezet valós idejű megfigyelési képességekkel rendelkezik. Szabó és csapata úgy véli, hogy ez egy magyar titkosszolgálati akció, amely politikai célokra irányul – amit azonban nem írhattak le az iratokba. Az ügy során a nyomozóosztályra nyomás gyakoroltak, hogy Buddhát és Gundalfot gyanúsítottként hallgassák ki, pedig az ő nyomozásuk nem talált gyermekpornográfiára vonatkozó bizonyítékot. Szabó úgy döntött, hogy nyilvánosságra hozza az ügyet, mert úgy véli, hogy egy titkosszolgálat nem dolgozhat egy pártpolitikai cél érdekében, és ez alapvető jogállamisági probléma.
+Szabó Bence, a Nemzeti Nyomozóiroda kiberbűnözési főosztályának kiemelt főnyomozója egy rendkívüli ügyet tárt a nyilvánosság elé. 2025. július 1-jén egy anonim bejelentés érkezett, amely szerint három személy gyermekpornográf felvételek készítésére alkalmas, ruházatba rejtett kémeszközt birtokol. A nyomozás során azonban kiderült, hogy a bejelentés valódi célja nem a gyermekpornográfia felderítése volt, hanem egy politikai ellenzéki párt – a Tisza Párt – informatikai rendszereibe való behatolás fedőtörténeteként szolgált.
+
+A lefoglalt eszközökön talált képernyőfelvételekből egy beszervezési kísérlet rajzolódott ki. Egy „Henry" fedőnevű személy és csapata megpróbálta rávenni a Tisza Párt informatikusait az együttműködésre, kriptovalutában fizetve a hozzáférésekért. A végső cél a párt „bedöntése" volt a 2026-os választások előtt. A nyomozás során több jel is arra utalt, hogy Henry mögött egy magyar titkosszolgálati szerv – az Alkotmányvédelmi Hivatal – áll:
+
+- Henry valós időben ismerte a Tisza Párt belső levelezését és működését.
+- Képes volt személyek megfigyelésére és lehallgatására.
+- Előre megjósolta a Tisza Párthoz köthető adatszivárgásokat, amelyek másnap be is következtek.
+- Az AH a bejelentés előtt már rendelkezett olyan információkkal, amelyek nem szerepeltek az anonim bejelentésben.
+
+Szabó Bence szerint a nyomozás során folyamatos politikai nyomás nehezedett rá: az AH egymás után próbált különböző bűncselekményi tényállásokat konstruálni az informatikusok ellen, miközben a tényleges bűncselekmény – a titkosszolgálati beszervezési kísérlet és az adatszivárgások – feltárását nem engedélyezték. Az ártatlan emberek gyanúsítása helyett Szabó Bence „árnyéknyomozást" indított, és végül a nyilvánossághoz fordult, mert meggyőződése szerint az intézményrendszer nem képes önmagát korrigálni. Mint mondta: „Egy ideális rendszerben nem kellene itt ülnöm."
 
 # Részletes összefoglaló
 
