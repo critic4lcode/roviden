@@ -1,0 +1,10 @@
+channels:
+  - id: UCEFpEvuosfPGlV1VyUF6QOA
+    slug: partizan
+    display_name: Partizán
+    default_tags: [interjú, közélet]
+
+  - id: UCgkd27yNbaq1L3miQ6-WSEg
+    slug: direkt36
+    display_name: Direkt36
+    default_tags: [oknyomozás]
