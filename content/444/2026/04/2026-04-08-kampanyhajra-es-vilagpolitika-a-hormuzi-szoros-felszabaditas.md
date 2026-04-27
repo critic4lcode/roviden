@@ -229,8 +229,6 @@ A Kreml megpróbál az érce úgy manőverezni, hogy lehetőség szerint a rezsi
 
 - **"Szűkebb fajta"**: Az átiratban "szűkebb fajta" alakban szerepel – valószínűleg **szűkület** vagy **szűkös** volt az eredeti szó.
 
-- **"Futzálos", "futcár"**: Az átiratban nem szerepel, de a kontextusban lehetséges, hogy **futsal** vagy hasonló sportág neve.
-
 - **"Starling"**: Az átiratban "Starling" alakban szerepel – valószínűleg a **Starlink** (Elon Musk műholdas internetes szolgáltatása) a helyes alak.
 
 - **"Levada Központ"**: Az átiratban "Nevada központ" alakban is szerepel – valószínűleg a **Levada Center** (független orosz közvéleménykutató intézmény) a helyes alak.

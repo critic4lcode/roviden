@@ -117,9 +117,7 @@ Lakner végül az MSZP történetét hozza fel figyelmeztetésként. Az MSZP nem
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- "Rubovski Ritát" – valószínűleg Rubovszky Rita vagy hasonló név, de az átirat nem egyértelmű
-- "futzálos", "futcár" típusú szavak nem fordulnak elő az átiratban, de az ASR-hibák miatt több helyen bizonytalan kifejezések vannak
-- "Sziartó Péter" vs. "Szijártó Péter" – az átirat ingadozik, de a helyes név Szijártó Péter
+- "Rubovski Ritát" – valószínűleg Rubovszky Rita vagy hasonló név, de az átirat nem egyértelmű- "Sziartó Péter" vs. "Szijártó Péter" – az átirat ingadozik, de a helyes név Szijártó Péter
 - "Bálint" vs. "Bálind" – az átirat többször "Bálind"-ként írja Ruf Bálintot, de a helyes név Ruf Bálint
 - "Kósza vélemények" – valószínűleg "kócos" vagy "kaotikus" vélemények, de az átirat "kósza"-ként szerepel
 - "Mondiner" – valószínűleg egy médium neve, de az átirat nem egyértelmű

@@ -204,8 +204,6 @@ Azt mondja, hogy az új kormánynak kell megoldania a megtisztulás és az igazs
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- **„Futzálos" / „futcár"**: Az átirat több helyen tartalmaz értelmezhetetlen szavakat, amelyek valószínűleg ASR-hibák. A kontextus alapján nem sikerült egyértelműen azonosítani, hogy mi volt az eredeti szó.
-
 - **Néhány személynév és intézmény**: Az átirat helyenként zavaros, például „Balog Leventit" említenek, de nem teljesen világos a kontextus. A „Csadó" név is bizonytalan lehet.
 
 - **Egyes gazdasági adatok**: Az átirat néhány helyén számok és százalékok szerepelnek, amelyek ASR-hibák miatt torzulhattak, de az általános értelmet nem befolyásolják.

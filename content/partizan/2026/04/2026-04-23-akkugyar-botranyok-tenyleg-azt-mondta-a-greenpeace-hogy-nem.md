@@ -137,8 +137,6 @@ Simon Gergely szerint egy normális világban le kellene tudni ülni a hatóság
 
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
-
-- **"futzálos", "futcár", "futszcáros"**: Az átiratban nem szerepel ilyen szó, valószínűleg nem volt szükség javításra.
 - **"Benöszel", "Benköző Szilérd"**: Az átiratban nem szerepel ilyen név. A beszélgetésben szereplő szakértő Simon Gergely.
 - **"Szí László"**: Az átiratban nem szerepel ilyen név.
 - **"a a a"**: Több helyen is előfordul az ismételt "a" névelő, amely az ASR-hiba jellegzetes esete. Ezeket az értelmes szövegkörnyezet alapján javítottam.

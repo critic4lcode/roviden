@@ -139,8 +139,6 @@ Amit vissza lehetett szerezni: két kilogramm arany, egy vámpírkesztyű aranyk
 
 - **"Benöszel" / "Benköző Szilérd"**: Az átirat több helyen félreismeri a neveket, de a kontextusból nem egyértelmű, hogy kire vonatkoznak. Ezek az nevek nem szerepelnek a végső szövegben, mivel nem azonosíthatók egyértelműen.
 
-- **"Futzálos", "futcár", "futszcáros"**: Valószínűleg "futsal" szóról van szó, de az átiratban nem szerepel egyértelműen.
-
 - **"Sziártó orosz nyelvű háttetoválása"**: Az átirat "Szíj László" helyett "Sziártó"-t ír, de a kontextusból nem egyértelmű, hogy kire vonatkozik. Az "orosz nyelvű háttetoválása" valószínűleg egy vicc vagy metafora.
 
 - **"Petrás János a M1-el"**: Az átirat "Petrás"-nak írja, de nem egyértelmű, hogy kire vonatkozik.

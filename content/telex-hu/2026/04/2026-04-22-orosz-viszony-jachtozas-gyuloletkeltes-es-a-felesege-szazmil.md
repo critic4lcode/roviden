@@ -162,8 +162,6 @@ Azt mondta, hogy egy nagy beruházás, amely több tízezer munkahelyet teremt, 
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- **"futzálos", "futcár", "futszcáros"**: Az ASR valószínűleg a "futsal" szót ismerte fel többféleképpen. A kontextus alapján (sportról van szó, gyerekek játszanak) a "futsal" a helyes forma.
-
 - **"Benöszel", "Benköző Szilérd"**: Az ASR többször hibázott ebben a névben. A helyes forma: **Benköző Szilárd** (Szijjártó Péter legjobb barátja).
 
 - **"Szí László"**: Valószínűleg **Szíj László** vagy **Szíjjártó László** – az ASR nem tisztázta egyértelműen ezt a nevet, de a kontextus alapján egy oligarchára utal.
@@ -3136,10 +3134,6 @@ Azt mondta, hogy egy nagy beruházás, amely több tízezer munkahelyet teremt, 
 [02:53:14](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10394) És amikor ilyen honvéd MTK meccs van, én mindig előtte, mind az edzőknek, mind a játékosoknak, mind a szülőknek a figyelmét felhívom arra, hogy nem szeretnék hallani egyetlen egy kritikát sem a srácok felé, mert senki nem tett arról, hogy ki az édesapja, ki az édesanyja.
 
 [02:53:31](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10411) Nincsen helye a gyerekeknek a politikában, meg nincsen helye a politikának a gyerekek életében.
-
-[02:53:38](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10418) Tehát nincs Benőszel, bocsánat, Benköző Sziled az olyan futzálos barátra.
-
-[02:53:41](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10421) Nem futszcáros barátom, mert már sokkalsokkal azelőtt a legjobb barátom volt, hogy egyáltalán tudtuk, hogy mi az a futcár.
 
 [02:53:48](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10428) Ő kapott támogatást bármilyen cégen keresztül a Külittal?
 

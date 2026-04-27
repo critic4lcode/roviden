@@ -186,8 +186,6 @@ Már bebizonyította, hogy nyilvánosan vitára bocsátkozik a kormányzat képv
 
 - **"Partizán"**: Az interjú során többször említik a "Partizán" csatornát, amely az interjúzó médiacsatorna.
 
-- Több helyen az ASR félreismert szavakat, például "futzálos" helyett valószínűleg "futsal"-ról van szó, de az átiratban nem szerepel.
-
 - Az interjú során több olyan rész van, ahol az ASR nem tudta pontosan felismerni a szavakat, de a kontextus alapján az értelmezés világos.
 
 </details>

@@ -119,9 +119,7 @@ A fővállalkozó ukrán, és sok az ukrán munkás, magyar alig van. Egy szomsz
 - **„Benöszel", „Benköző Szilérd"** → valószínűleg **Benkő Szilárd** (nem azonosítható egyértelműen az átiratból, de a kontextus alapján politikai szereplőről van szó)
 - **„Szí László"** → valószínűleg **Szíj László** (politikus, de az átiratban nem egyértelmű a kontextus)
 - **„Tiszás informatikusa kő lekémezé"** → értelmezhetetlen szótöredék, valószínűleg egy Tisza-párti informatikusról van szó, de a pontos szöveg nem rekonstruálható
-- **„Panyi lekémezésével"** → bizonytalan kifejezés, valószínűleg egy személy nevéről van szó, de nem azonosítható
-- **„Futzálos", „futcár", „futszcáros"** → valószínűleg **futsal** (a szövegkörnyezet alapján azonban nem világos, hogy ez a kifejezés hol fordul elő az átiratban)
-- **„Cséklamot A paplaci izét"** → értelmezhetetlen, valószínűleg egy technikai vagy AI-hoz kapcsolódó kifejezés, de nem rekonstruálható
+- **„Panyi lekémezésével"** → bizonytalan kifejezés, valószínűleg egy személy nevéről van szó, de nem azonosítható- **„Cséklamot A paplaci izét"** → értelmezhetetlen, valószínűleg egy technikai vagy AI-hoz kapcsolódó kifejezés, de nem rekonstruálható
 - **„Vaszlavi gazember László"** → valószínűleg **Vaszlavi László** vagy egy hasonló név, de az „gazember" jelző bizonytalan
 - **„Sudai Storai Go"** → valószínűleg **The Clash** vagy egy hasonló punk zenekar, de az átirat nem egyértelmű
 - **„Sinom Keresz De Sudai Stor Sudigo"** → értelmezhetetlen szótöredék, valószínűleg zenei hivatkozás, de nem rekonstruálható

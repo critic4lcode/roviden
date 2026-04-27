@@ -142,11 +142,7 @@ Kovalcsik Tamás országjárást szervez, ahol élő közönség előtt beszél 
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- Az átirat több helyen tartalmaz ASR-hibákat, amelyeket a kontextus alapján javítottam:
-  - „Benőszel" → „Benkő" (valószínűleg Benkő Szilárd)
-  - „Szí László" → „Szíj László"
-  - „futzálos", „futcár" → valószínűleg „futsal" vagy hasonló, de a kontextusban nem egyértelmű
-  - „Lázár Jánosra" helyesen: Lázár János
+- Az átirat több helyen tartalmaz ASR-hibákat, amelyeket a kontextus alapján javítottam:  - „Szí László" → „Szíj László"  - „Lázár Jánosra" helyesen: Lázár János
   - Több helyen „Tiszaszigetek" helyesen: Tisza-szigetek (a Tisza párt képviselői)
   - „Barátságolaj vezeték" helyesen: Barátság olajtöltékvezeték
   - Az EU szankciós csomag pontos számozása és részletei helyenként bizonytalan az ASR miatt

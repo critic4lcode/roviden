@@ -151,10 +151,6 @@ Tóth szerint a kormányzat legfontosabb feladata az önkormányzatok és a köz
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- **„Benőszel", „Benköző Szilérd"**: Az átirat több helyen félreismeri Benkő Szilárd nevét, de az interjúban nem szerepel ilyen személy, így valószínűleg ASR-hiba vagy kontextus nélküli említés.
-
-- **„futzálos", „futcár", „futszcáros"**: Az átiratban nem találtam ilyen szavakat, de ha előfordulnának, valószínűleg „futsal" lenne a helyes forma.
-
 - **Néhány helyen az átirat szövege zavaros vagy hiányos**, például: „Ühüm", „Így van", „Bocsánat" – ezek természetes beszéd-szüneteket jelölnek, de néhány mondat logikai kapcsolata nem teljesen világos az automatikus felismerés hibái miatt.
 
 - **Személynevek és intézmények**: Az átiratban több helyen bizonytalan a pontos név (pl. „Gundal Szabó Bence Botránban" – valószínűleg más a helyes forma), de a kontextusból általában érthető, hogy kiről van szó.

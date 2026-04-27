@@ -124,11 +124,7 @@ Az egyik kérdés az volt, hogy van-e olyan magyar sportoló a jelenből, akinek
 
 - **"Hormozis szoros megnyitása"** – az átirat több helyen említi ezt a kifejezést, de kontextusból nem világos, hogy pontosan mit jelent. Valószínűleg egy politikai vagy geopolitikai kifejezésről van szó, de az ASR nem ismerte fel helyesen.
 
-- **"Benőszel", "Benköző Szilérd"** – ezek valószínűleg "Benkő Szilárd" helyett szerepelnek az átiratban, de a szövegkörnyezetben nem egyértelmű, hogy ki ez a személy.
-
 - **"Szí László"** – valószínűleg "Szíj László" vagy hasonló név, de az átirat nem tisztázza.
-
-- **"Futzálos", "futcár", "futszcáros"** – ezek valószínűleg ugyanarról a szóról vannak szó, de az ASR nem ismerte fel helyesen. Lehetséges, hogy "futsal" vagy hasonló sportág neve.
 
 - **"Kínai nénizek"** – az átirat több helyen említi ezt, de nem világos, hogy pontosan mit jelent. Valószínűleg egy hobbi vagy tevékenység, de az ASR nem ismerte fel helyesen.
 

@@ -288,8 +288,6 @@ Ez a barát végül Bécsben kezdett dolgozni, ahol jobb körülmények voltak.
 
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
-
-- Az átirat több helyen tartalmaz félreismert szavakat és értelmetlen szótöredékeket (pl. „futzálos", „futcár", „futszcáros" helyesen „futsal" lehetne, de az adott kontextusban nem értelmezhető). Ezeket az ASR-hibákat a kontextus alapján javítottam.
 - Néhány helyen a beszélgetés szövege összefüggéstelen vagy hiányos (pl. „Ezt ezt azóta nyilván megkérdeztük a kórháztól is, választ nem kaptunk"), de az általános értelme világos maradt.
 - A „Takács Péter" név említése egy fiókban eldugott adatokra utal, de nem egyértelmű, hogy ki ez a személy – valószínűleg egy minisztériumi tisztviselő, de az átirat nem világosítja meg.
 - Az „LNGK" rövidítés az átiratban szerepel, de nem egyértelmű, hogy mit jelent – valószínűleg egy egészségügyi szervezet, de a kontextusból nem derül ki pontosan.

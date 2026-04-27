@@ -171,8 +171,6 @@ Az ügy jelenleg az alábbi helyzetben van:
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- **"Futzálos", "futcár" típusú szavak**: Az átirat több helyen tartalmaz értelmezhetetlen vagy félreismert szavakat, amelyeket az ASR nem tudott helyesen feldolgozni. Ezek általában technikai kifejezésekre vagy szervezeti rövidítésekre utalnak, de a kontextusból nem rekonstruálhatók egyértelműen.
-
 - **Szervezeti rövidítések**: Az átirat több rövidítést tartalmaz (NMH, AH, MBS, NBS, stb.), amelyeket a kontextus alapján azonosítottam, de néhány helyen az ASR hibái miatt bizonytalanok maradtak.
 
 - **"Radnai Márka"**: Valószínűleg egy politikus neve, de az átiratban nem egyértelműen azonosítható. Az ASR több variációban is előfordulhat.

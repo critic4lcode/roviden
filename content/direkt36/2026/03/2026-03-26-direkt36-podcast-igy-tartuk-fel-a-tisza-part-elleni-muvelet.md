@@ -128,8 +128,6 @@ Henry megjósolta a Tisza támogatói adatbázisának (Viszhang) kiszivárgásá
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- Az átirat több helyen tartalmaz félreismert szavakat és értelmetlen szótöredékeket (pl. „futzálos", „futcár" helyett valószínűleg „futsal" vagy hasonló; „Benöszel", „Benköző Szilérd" helyett valószínűleg „Benkő Szilárd"). Ezek az ASR-hibák a szövegkörnyezet alapján javítva lettek.
-
 - Az interjú több helyen tartalmaz olyan részeket, ahol a beszélgetőpartnerek félbeszakítják egymást, vagy ahol az ASR nem tudott követni a gyors beszédet. Ezek az esetek az összefoglalóban logikailag összekapcsolódtak.
 
 - Az öv felvételeiről szóló rész részben spekulatív, mivel a felvételek hiányosak és rosszul hallhatóak. Az összefoglaló ezt jelzi.
