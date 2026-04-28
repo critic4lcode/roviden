@@ -505,16 +505,16 @@ _INDEX_TMPL = """\
             </ul>
           </div>
         </div>
-        <span class="filter-label filter-label-mid">Irányultság:</span>
+        <span class="filter-label-group"><span class="filter-label filter-label-mid">Irányultság:</span>
         <span class="chip-group" data-group="direction">
           <button class="chip active" data-group="direction" data-f="">Összes</button>
           {direction_chips}
-        </span>
-        <span class="filter-label filter-label-mid">Kötődés:</span>
+        </span></span>
+        <span class="filter-label-group"><span class="filter-label filter-label-mid">Kötődés:</span>
         <span class="chip-group" data-group="affiliation">
           <button class="chip active" data-group="affiliation" data-f="">Összes</button>
           {affiliation_chips}
-        </span>
+        </span></span>
       </div>
     </div>
   </div>

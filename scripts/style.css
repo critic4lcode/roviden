@@ -43,10 +43,10 @@ a { color: inherit; }
 
   --aff-fidesz: #ea580c;
   --aff-tisza: #1e3a8a;
-  --aff-opposition: #6b21a8;
+  --aff-opposition: #166534;
   --aff-fidesz-rgb: 234, 88, 12;
   --aff-tisza-rgb: 30, 58, 138;
-  --aff-opposition-rgb: 107, 33, 168;
+  --aff-opposition-rgb: 22, 101, 52;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -77,10 +77,10 @@ a { color: inherit; }
 
     --aff-fidesz: #fb923c;
     --aff-tisza: #60a5fa;
-    --aff-opposition: #c084fc;
+    --aff-opposition: #4ade80;
     --aff-fidesz-rgb: 251, 146, 60;
     --aff-tisza-rgb: 96, 165, 250;
-    --aff-opposition-rgb: 192, 132, 252;
+    --aff-opposition-rgb: 74, 222, 128;
   }
 }
 
@@ -301,7 +301,16 @@ p + p { margin-top: 0.75em; }
   min-width: auto;
 }
 .filter-label-mid {
-  margin-left: 0.5rem;
+  margin-left: 0;
+}
+
+/* Keeps a filter label glued to its chip group when wrapping */
+.filter-label-group {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 0.4rem;
+  margin-top: 0.25rem;
 }
 
 /* Search input */
@@ -360,7 +369,7 @@ p + p { margin-top: 0.75em; }
   .site-header-right .filter-search { flex: 1; width: auto; min-width: 0; }
   .filter-bar { padding: 0 1rem 0.5rem; }
   .filter-label { min-width: 0; }
-  .filter-label-mid { margin-left: 0; }
+  .filter-label-group { flex-wrap: wrap; }
   .filter-select { max-width: 100%; width: 100%; }
   .filter-row-combined { gap: 0.35rem; }
 }
