@@ -809,6 +809,18 @@ __POSTHOG_SNIPPET__
       if(!window.posthog||!window.posthog.__loaded){{
         __POSTHOG_INIT_JS__
       }}
+      // Identify the user with a stable anonymous ID
+      var uid;
+      try{{uid=localStorage.getItem('ytm_uid');}}catch(e){{}}
+      if(!uid){{
+        uid='u-'+([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g,function(c){{
+          return(c^(crypto.getRandomValues(new Uint8Array(1))[0]&(15>>(c/4)))).toString(16);
+        }});
+        try{{localStorage.setItem('ytm_uid',uid);}}catch(e){{}}
+      }}
+      if(window.posthog&&window.posthog.identify){{
+        window.posthog.identify(uid);
+      }}
     }}catch(e){{}}
     if(typeof ytmStartTour==='function') ytmStartTour();
   }};
