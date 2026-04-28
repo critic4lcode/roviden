@@ -158,15 +158,6 @@ p + p { margin-top: 0.75em; }
   margin-top: 0.25rem;
 }
 
-.filters {
-  max-width: var(--maxw);
-  margin: 0 auto;
-  padding: 0 1.25rem 1rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
 /* ── Filter bar (collapsible) ───────────────────────────────────────────── */
 .filter-bar {
   max-width: var(--maxw);
@@ -336,34 +327,6 @@ p + p { margin-top: 0.75em; }
   background: var(--surface);
 }
 
-/* Channel select dropdown */
-.filter-select {
-  font: inherit;
-  font-size: 0.875rem;
-  font-weight: 500;
-  color: var(--text);
-  background: var(--surface-2);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  padding: 0.35rem 2rem 0.35rem 0.75rem;
-  cursor: pointer;
-  appearance: none;
-  -webkit-appearance: none;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%236b6a66' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
-  background-repeat: no-repeat;
-  background-position: right 0.6rem center;
-  transition: border-color var(--t-fast), background var(--t-fast);
-  max-width: 260px;
-}
-.filter-select:hover { border-color: var(--border-strong); }
-.filter-select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
-
-@media (prefers-color-scheme: dark) {
-  .filter-select {
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23a4a39e' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
-  }
-}
-
 @media (max-width: 640px) {
   .site-header-inner { flex-wrap: wrap; padding: 0.85rem 1rem 0.6rem; gap: 0.5rem; }
   .site-header-right {
@@ -374,7 +337,6 @@ p + p { margin-top: 0.75em; }
   .filter-bar { padding: 0 1rem 0.5rem; }
   .filter-label { min-width: 0; }
   .filter-label-group { flex-wrap: wrap; }
-  .filter-select { max-width: 100%; width: 100%; }
   .filter-row-combined { gap: 0.35rem; }
 }
 
@@ -452,32 +414,24 @@ p + p { margin-top: 0.75em; }
   box-shadow: inset 0 0 0 2px var(--dir);
 }
 
-/* Affiliation-tinted chips */
+/* Affiliation-tinted chips — variable mapping per value, shared rules below */
 .chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"] { --aff: var(--aff-fidesz); --aff-rgb: var(--aff-fidesz-rgb); }
 .chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"] { --aff: var(--aff-tisza); --aff-rgb: var(--aff-tisza-rgb); }
 .chip-group[data-group="affiliation"] .chip[data-f="opposition"] { --aff: var(--aff-opposition); --aff-rgb: var(--aff-opposition-rgb); }
-.chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"],
-.chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"],
-.chip-group[data-group="affiliation"] .chip[data-f="opposition"] {
+.chip-group[data-group="affiliation"] .chip[data-f]:not([data-f=""]) {
   color: var(--aff);
   background: rgba(var(--aff-rgb), 0.08);
   border-color: rgba(var(--aff-rgb), 0.3);
 }
-.chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"]:hover,
-.chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"]:hover,
-.chip-group[data-group="affiliation"] .chip[data-f="opposition"]:hover {
+.chip-group[data-group="affiliation"] .chip[data-f]:not([data-f=""]):hover {
   background: rgba(var(--aff-rgb), 0.16);
 }
-.chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"].active,
-.chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"].active,
-.chip-group[data-group="affiliation"] .chip[data-f="opposition"].active {
+.chip-group[data-group="affiliation"] .chip[data-f]:not([data-f=""]).active {
   background: var(--aff);
   color: var(--bg);
   border-color: var(--aff);
 }
-.chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"].active::before,
-.chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"].active::before,
-.chip-group[data-group="affiliation"] .chip[data-f="opposition"].active::before {
+.chip-group[data-group="affiliation"] .chip[data-f]:not([data-f=""]).active::before {
   background: var(--bg);
   box-shadow: inset 0 0 0 2px var(--aff);
 }
@@ -495,9 +449,7 @@ p + p { margin-top: 0.75em; }
 .card[data-affiliation="fidesz-aligned"] { --aff-rgb: var(--aff-fidesz-rgb); }
 .card[data-affiliation="tisza-aligned"] { --aff-rgb: var(--aff-tisza-rgb); }
 .card[data-affiliation="opposition"] { --aff-rgb: var(--aff-opposition-rgb); }
-.card[data-affiliation="fidesz-aligned"],
-.card[data-affiliation="tisza-aligned"],
-.card[data-affiliation="opposition"] {
+.card[data-affiliation]:not([data-affiliation=""]) {
   border-right: 3px solid rgba(var(--aff-rgb), 0.55);
 }
 
@@ -886,6 +838,32 @@ p + p { margin-top: 0.75em; }
 .collapsible-inner blockquote p { margin-bottom: 0.4em; }
 .collapsible-inner blockquote p:last-child { margin-bottom: 0; }
 
+/* Részletes összefoglaló — prominent blue/teal accent to signal "content continues" */
+.collapsible.summary {
+  border-color: var(--dir-liberal);
+  border-left: 3px solid var(--dir-liberal);
+}
+.collapsible.summary details > summary {
+  color: var(--text);
+  font-weight: 600;
+  background: rgba(var(--dir-liberal-rgb), 0.06);
+}
+.collapsible.summary details > summary::before {
+  color: var(--dir-liberal);
+}
+.collapsible.summary details > summary:hover {
+  background: rgba(var(--dir-liberal-rgb), 0.12);
+}
+
+@media (prefers-color-scheme: dark) {
+  .collapsible.summary details > summary {
+    background: rgba(var(--dir-liberal-rgb), 0.10);
+  }
+  .collapsible.summary details > summary:hover {
+    background: rgba(var(--dir-liberal-rgb), 0.18);
+  }
+}
+
 .uncertain-inner { color: var(--text-muted); }
 
 @media (max-width: 640px) {
@@ -924,7 +902,6 @@ p + p { margin-top: 0.75em; }
 @media (max-width: 640px) {
   .feed { padding: 1rem; gap: 1rem; grid-template-columns: 1fr; }
   .site-header-inner { padding: 1.2rem 1rem 0.75rem; }
-  .filters { padding: 0 1rem 0.85rem; }
   .vp { padding: 1rem 1rem 3rem; }
   .nav { padding: 1rem 1rem 0; }
   .play-btn { width: 52px; height: 52px; font-size: 1.15rem; }

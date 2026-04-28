@@ -847,6 +847,7 @@ __POSTHOG_SNIPPET__
 
   function saveFilters(){{
     try{{localStorage.setItem(FILTER_STORAGE_KEY,JSON.stringify(filters));}}catch(e){{}}
+    try{{localStorage.setItem('ytm_page',String(page));}}catch(e){{}}
   }}
 
   function loadSavedFilters(){{
@@ -858,6 +859,10 @@ __POSTHOG_SNIPPET__
       if(Array.isArray(saved.direction)) filters.direction=saved.direction;
       if(Array.isArray(saved.affiliation)) filters.affiliation=saved.affiliation;
       if(saved.search!==undefined) filters.search=saved.search;
+    }}catch(e){{}}
+    try{{
+      var sp=localStorage.getItem('ytm_page');
+      if(sp) page=Math.max(1,parseInt(sp,10)||1);
     }}catch(e){{}}
   }}
 
@@ -985,7 +990,7 @@ __POSTHOG_SNIPPET__
   function fuzzyMatch(query, e){{
     if(!query) return true;
     var haystack=(
-      (e.title||'')+' '+(e.teaser||'')+' '+(e.channel_name||'')
+      (e.title||'')+' '+(e.teaser||'')+' '+(e.channel_name||'')+' '+(e.tags||[]).join(' ')
     ).toLowerCase();
     var words=query.toLowerCase().split(/\\s+/).filter(Boolean);
     return words.every(function(w){{return haystack.indexOf(w)!==-1;}});
@@ -1001,6 +1006,19 @@ __POSTHOG_SNIPPET__
     }});
     var pages=Math.max(1,Math.ceil(vis.length/N));
     if(page>pages) page=pages;
+    // Sort filtered results: by date desc, then channel_order asc, then published_at desc
+    vis.sort(function(a,b){{
+      if(a.date>b.date) return -1;
+      if(a.date<b.date) return 1;
+      var oa=(a.channel_order!=null)?a.channel_order:9999;
+      var ob=(b.channel_order!=null)?b.channel_order:9999;
+      if(oa!==ob) return oa-ob;
+      var pa=a.published_at||a.date||'';
+      var pb=b.published_at||b.date||'';
+      if(pa>pb) return -1;
+      if(pa<pb) return 1;
+      return 0;
+    }});
     var slice=vis.slice((page-1)*N,page*N);
     var html='',last=null;
     slice.forEach(function(e){{
@@ -1026,7 +1044,8 @@ __POSTHOG_SNIPPET__
   applyFiltersToUI();
   updateFilterBadge();
   var _hasActiveFilters=(filters.search||filters.channel.length||filters.direction.length||filters.affiliation.length);
-  if(_hasActiveFilters){{
+  var _hasNonFirstPage=(page>1);
+  if(_hasActiveFilters||_hasNonFirstPage){{
     var fg=document.getElementById('filter-groups');
     var btn=document.getElementById('filter-toggle');
     if(fg){{fg.hidden=false;}}
@@ -1043,8 +1062,8 @@ __POSTHOG_SNIPPET__
     }});
   }}
 
-  window.ytmPrev=function(){{if(page>1){{page--;navigate();}}}};
-  window.ytmNext=function(){{page++;navigate();}};
+  window.ytmPrev=function(){{if(page>1){{page--;saveFilters();navigate();}}}};
+  window.ytmNext=function(){{page++;saveFilters();navigate();}};
   function updateFilterBadge(){{
     var badge=document.getElementById('filter-badge');
     if(!badge) return;
@@ -1297,11 +1316,11 @@ def _load_channel_data(site_root: Path) -> dict[str, dict]:
         print(f"WARN: could not load channels.yaml: {e}")
         return {}
     result = {}
-    for ch in raw.get("channels", []):
+    for idx, ch in enumerate(raw.get("channels", [])):
         slug = ch.get("slug")
         if not slug:
             continue
-        entry = {}
+        entry = {"_order": idx}
         for key in ("affiliation", "direction", "notes", "donate", "donate_1pct", "patreon", "merch"):
             if ch.get(key):
                 entry[key] = ch[key]
@@ -1389,13 +1408,18 @@ def build(site_root: Path, out_dir: Path) -> None:
             "affiliation": str(ch_data.get("affiliation") or fm.get("affiliation") or ""),
             "direction": str(ch_data.get("direction") or fm.get("direction") or ""),
             "notes": str(ch_data.get("notes") or fm.get("notes") or ""),
+            "channel_order": ch_data.get("_order", 9999),
         })
 
-    # Sort newest-first by published_at (falls back to date), so videos appear
-    # in date order even when interleaved across channel subfolders.
+    # Sort newest-first by date, then within the same day by channel order
+    # from channels.yaml (ascending), then by published_at descending as tiebreaker.
     data.sort(
-        key=lambda e: (e.get("published_at") or e.get("date") or "", e.get("video_id") or ""),
-        reverse=True,
+        key=lambda e: (
+            -(datetime.fromisoformat(str(e.get("date") or "1970-01-01").replace("Z", "+00:00")).toordinal()),
+            e.get("channel_order", 9999),
+            # within same channel+date, newest first
+            -(datetime.fromisoformat(str(e.get("published_at") or e.get("date") or "1970-01-01")[:19].replace("Z", "+00:00")).timestamp()),
+        ),
     )
 
     # Write sitemap.xml

@@ -1,14 +1,14 @@
 channels:
-- id: UC9qpYwK7N9EB0-SECANa23g
-  slug: jolvanezigy
-  display_name: JÓLVANEZÍGY
+- id: UCV2hxHpDvOvuXh5pifAZlww
+  slug: atlatszo
+  display_name: Átlátszó
   affiliation: independent
   direction: liberal
   default_tags:
-  - közélet
-  notes: Napi közéleti műsor, fiatalos liberális
-  merch: https://kopaszcsimpanz.hu/
-  patreon: https://www.patreon.com/fokuszcsoport
+  - oknyomozás
+  notes: atlatszo.hu tényfeltáró oknyomozó nonprofit
+  donate: https://atlatszo.hu/tamogatom/
+  patreon: https://www.patreon.com/cw/atlatszo
 - id: UCEFpEvuosfPGlV1VyUF6QOA
   slug: partizan
   display_name: Partizán
@@ -52,16 +52,6 @@ channels:
   notes: Magyar Jeti kiadó, progresszív-liberális
   donate: https://magyarjeti.hu/kor/csomagok
   merch: https://magyarjeti.hu/shop/
-- id: UCV2hxHpDvOvuXh5pifAZlww
-  slug: atlatszo
-  display_name: Átlátszó
-  affiliation: independent
-  direction: liberal
-  default_tags:
-  - oknyomozás
-  notes: atlatszo.hu tényfeltáró oknyomozó nonprofit
-  donate: https://atlatszo.hu/tamogatom/
-  patreon: https://www.patreon.com/cw/atlatszo
 - id: UC3T5ogRHZVB3jEO5WFvzmIQ
   slug: valsagtab
   display_name: Válságstáb
@@ -70,6 +60,7 @@ channels:
   default_tags:
   - gazdaság
   - közélet
+  - fókuszstúdió
   notes: Független közgazdasági és politikai elemzések
   merch: https://kopaszcsimpanz.hu/
   patreon: https://www.patreon.com/fokuszcsoport
@@ -101,6 +92,25 @@ channels:
   - közélet
   notes: Volt Heti Válasz utódja, polgári konzervatív
   donate: https://www.valaszonline.hu/tamogatas/
+- id: UCW_zf7VdaFoeZqVTlYht4oA
+  slug: kontroll
+  display_name: Kontroll
+  affiliation: tisza-aligned
+  direction: centrist
+  default_tags:
+  - közélet
+  notes: kontroll.hu - Magyar Márton, Tisza-közeli szerkesztőségi média
+- id: UC9qpYwK7N9EB0-SECANa23g
+  slug: jolvanezigy
+  display_name: JÓLVANEZÍGY
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  - fókuszstúdió
+  notes: Napi közéleti műsor, fiatalos liberális
+  merch: https://kopaszcsimpanz.hu/
+  patreon: https://www.patreon.com/fokuszcsoport
 - id: UCHdkcNjZq3CpIvMdWX8maMg
   slug: szelsokozep
   display_name: Szélsőközép
@@ -108,18 +118,40 @@ channels:
   direction: centrist
   default_tags:
   - közélet
+  - puzsér
   notes: Inga Kultúrkávézó - tudatosan centrista, frontális kritika
   donate: https://www.donably.com/szelsokozep
-- id: UCQAeX1_gw45xb3Cg-OwEFcw
-  slug: friderikusz-podcast
-  display_name: Friderikusz Podcast
+- id: UCIITmFAHQ4S1FMDWqhZyQKg
+  slug: fokuszcsoport
+  display_name: Fókuszcsoport
   affiliation: independent
   direction: liberal
   default_tags:
-  - interjú
-  notes: Friderikusz Sándor interjúsorozata
-  donate: https://www.donably.com/friderikusz-podcast
-  patreon: https://www.patreon.com/FriderikuszPodcast
+  - közélet
+  - fókuszstúdió
+  notes: A Fókusz Stúdió fő csatoránja
+  patreon: https://www.patreon.com/fokuszcsoport
+- id: UC7ivXUYaRoZb5WDLKksETUA
+  slug: puzser-robert
+  display_name: Puzsér Róbert
+  affiliation: independent
+  direction: conservative
+  default_tags:
+  - közélet
+  - puzsér
+  notes: Publicista, Polgári Ellenállás, konzervatív rendszerkritikus
+  merch: https://shop.puzser.hu/
+  donate: https://www.donably.com/szelsokozep
+- id: UCzek_Q7jEhjLX9MQPomIC5g
+  slug: hadhazy-akos
+  display_name: Hadházy Ákos
+  affiliation: independent
+  direction: centrist
+  default_tags:
+  - közélet
+  - korrupció
+  notes: Független képviselő, korrupcióellenes
+  donate: https://hadhazyakos.hu/tamogatas/
 - id: UCnlMwO6KqQQKn7byzHRbvlQ
   slug: magyar-hang
   display_name: Magyar Hang
@@ -147,6 +179,16 @@ channels:
   default_tags:
   - közélet
   notes: ATV kereskedelmi tévé (Hit Gyülekezet tulajdon), kormánykritikus
+- id: UCQAeX1_gw45xb3Cg-OwEFcw
+  slug: friderikusz-podcast
+  display_name: Friderikusz Podcast
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - interjú
+  notes: Friderikusz Sándor interjúsorozata
+  donate: https://www.donably.com/friderikusz-podcast
+  patreon: https://www.patreon.com/FriderikuszPodcast
 - id: UC6jNYMLmsMRMjRQ5o12nMiw
   slug: klubradio
   display_name: Klubrádió
@@ -156,26 +198,6 @@ channels:
   - közélet
   notes: Online független hírrádió
   donate: https://klubradio.hu/tamogatas
-- id: UC7ivXUYaRoZb5WDLKksETUA
-  slug: puzser-robert
-  display_name: Puzsér Róbert
-  affiliation: independent
-  direction: conservative
-  default_tags:
-  - közélet
-  notes: Publicista, Polgári Ellenállás, konzervatív rendszerkritikus
-  merch: https://shop.puzser.hu/
-  donate: https://www.donably.com/szelsokozep
-- id: UCfS72Yr7hFsHClD3krlP9UA
-  slug: kokusz-plusz
-  display_name: Kókusz+
-  affiliation: independent
-  direction: liberal
-  default_tags:
-  - közélet
-  notes: A Fókuszcsoport közösség prémium csatornája; egyértelműen kormánykritikus,
-    de párthoz nem kötött
-  patreon: https://www.patreon.com/fokuszcsoport
 - id: UCjFwLuNhlww-ScXaEtcEj3Q
   slug: jelen
   display_name: Jelen hetilap
@@ -194,16 +216,102 @@ channels:
   - közélet
   notes: Baloldali-szociáldemokrata napilap 1873 óta
   donate: https://xximedia.hu/nepszava
-- id: UCzek_Q7jEhjLX9MQPomIC5g
-  slug: hadhazy-akos
-  display_name: Hadházy Ákos
+- id: UCJMAfdmkuI5UqqFk5ZjBTdw
+  slug: klasszis-media
+  display_name: Klasszis Média
+  affiliation: independent
+  direction: centrist
+  default_tags:
+  - gazdaság
+  - közélet
+  notes: Gazdasági-üzleti fókuszú médiacsoport (Privátbankár, Mfor); tartalmai kritikusak
+    a Fidesz-kormánnyal szemben, de gazdasági alapon, nem pártpolitikailag
+  donate: https://mfor.hu/klasszis/elofizetes
+- id: UCX32YkhuN63IPAx1ji5RZGg
+  slug: szinen-tul
+  display_name: Színen túl
   affiliation: independent
   direction: centrist
   default_tags:
   - közélet
-  - korrupció
-  notes: Független képviselő, korrupcióellenes
-  donate: https://hadhazyakos.hu/tamogatas/
+  notes: Krug Emília prémium közéleti podcastja, kiegyensúlyozott vendégkörrel
+  donate: https://telex.hu/tamogatas
+  donate_1pct: https://telexalapitvany.hu/egyszazalek
+- id: UCWv4tPRbBfgWAK1Dciq2ttA
+  slug: otpontban
+  display_name: Ötpontban
+  affiliation: independent
+  direction: centrist
+  default_tags:
+  - közélet
+  - politika
+  notes: Dull Szabolcs politikai elemző csatornája, pártatlan szakmai megközelítéssel
+  donate: https://dullszabolcs.substack.com/
+- id: UCfS72Yr7hFsHClD3krlP9UA
+  slug: kokusz-plusz
+  display_name: Kókusz+
+  affiliation: independent
+  direction: liberal
+  default_tags:
+  - közélet
+  - fókuszstúdió
+  notes: A Fókuszcsoport közösség extra csatornája
+  patreon: https://www.patreon.com/fokuszcsoport
+- id: UCu_mXU_UgY2ZwmozQXsVa4Q
+  slug: klikktv
+  display_name: KlikkTV
+  affiliation: opposition
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: Egyértelműen kormánykritikus, liberális-demokrata hangvételű csatorna; többen
+    Tisza-szimpatizánsként azonosítják
+- id: UCECE6HyBx-bRVWc6J1riw_Q
+  slug: mi-hazank
+  display_name: Mi Hazánk Mozgalom
+  affiliation: opposition
+  direction: far-right
+  default_tags:
+  - közélet
+  notes: Toroczkai László szélsőjobboldali pártja
+- id: UC0VsXYTd-5wjJQW9MMTqvvw
+  slug: lmp
+  display_name: LMP - Magyarország Zöld Pártja
+  affiliation: opposition
+  direction: liberal
+  default_tags:
+  - közélet
+  - környezet
+  notes: LMP - Magyarország Zöld Pártja
+- id: UC-ZBFbpGZvEVSAGaNsvxgKQ
+  slug: toroczkai
+  display_name: Toroczkai László
+  affiliation: opposition
+  direction: far-right
+  default_tags:
+  - közélet
+  - politika
+  notes: Toroczkai László Youtube csatornája
+- id: UCdPhEv5wiw2uK6J0_wkc-RA
+  slug: bunvadaszok
+  display_name: Bűnvadászok
+  affiliation: opposition
+  direction: far-right
+  default_tags:
+  - nyomozás
+  - rendőrség
+  - mi hazánk
+  notes: A Bűnvadászok egy olyan, a Mi Hazánk Mozgalom támogatásával és a Magyar Önvédelmi
+    Mozgalom (MÖM) közreműködésével a közbiztonság hiányosságait kritizálva, helyszíni
+    „rendteremtő” akciókat és a bűnözés elleni civil fellépéseket mutatja be.
+- id: UCFyfoQmQSAlmujW8aLKRLPw
+  slug: momentum
+  display_name: Momentum Mozgalom
+  affiliation: opposition
+  direction: liberal
+  default_tags:
+  - közélet
+  notes: Momentum hivatalos csatórnája
 - id: UCDHjSN4vbfmzb8Cdfsob9Gg
   slug: magyar-peter
   display_name: Magyar Péter Hivatalos
@@ -229,14 +337,6 @@ channels:
   - közélet
   - EU
   notes: Tisza Párt EP-frakció csatornája
-- id: UCW_zf7VdaFoeZqVTlYht4oA
-  slug: kontroll
-  display_name: Kontroll
-  affiliation: tisza-aligned
-  direction: centrist
-  default_tags:
-  - közélet
-  notes: kontroll.hu - Magyar Márton, Tisza-közeli szerkesztőségi média
 - id: UCKY8HrMpm32WAMK0lauLAZA
   slug: index
   display_name: Index.hu
@@ -370,92 +470,6 @@ channels:
   default_tags:
   - közélet
   - életmód
-- id: UCFyfoQmQSAlmujW8aLKRLPw
-  slug: momentum
-  display_name: Momentum Mozgalom
-  affiliation: independent
-  direction: liberal
-  default_tags:
-  - közélet
-  notes: Momentum hivatalos csatórnája
-- id: UC0VsXYTd-5wjJQW9MMTqvvw
-  slug: lmp
-  display_name: LMP - Magyarország Zöld Pártja
-  affiliation: opposition
-  direction: liberal
-  default_tags:
-  - közélet
-  - környezet
-  notes: LMP - Magyarország Zöld Pártja
-- id: UCECE6HyBx-bRVWc6J1riw_Q
-  slug: mi-hazank
-  display_name: Mi Hazánk Mozgalom
-  affiliation: opposition
-  direction: far-right
-  default_tags:
-  - közélet
-  notes: Toroczkai László szélsőjobboldali pártja
-- id: UC-ZBFbpGZvEVSAGaNsvxgKQ
-  slug: toroczkai
-  display_name: Toroczkai László
-  affiliation: opposition
-  direction: far-right
-  default_tags:
-  - közélet
-  - politika
-  notes: Toroczkai László Youtube csatornája
-- id: UCu_mXU_UgY2ZwmozQXsVa4Q
-  slug: klikktv
-  display_name: KlikkTV
-  affiliation: opposition
-  direction: liberal
-  default_tags:
-  - közélet
-  notes: Egyértelműen kormánykritikus, liberális-demokrata hangvételű csatorna; többen
-    Tisza-szimpatizánsként azonosítják
-- id: UCdPhEv5wiw2uK6J0_wkc-RA
-  slug: bunvadaszok
-  display_name: Bűnvadászok
-  affiliation: opposition
-  direction: far-right
-  default_tags:
-  - nyomozás
-  - rendőrség
-  - mi hazánk
-  notes: A Bűnvadászok egy olyan, a Mi Hazánk Mozgalom támogatásával és a Magyar Önvédelmi
-    Mozgalom (MÖM) közreműködésével a közbiztonság hiányosságait kritizálva, helyszíni
-    „rendteremtő” akciókat és a bűnözés elleni civil fellépéseket mutatja be.
-- id: UCWv4tPRbBfgWAK1Dciq2ttA
-  slug: otpontban
-  display_name: Ötpontban
-  affiliation: independent
-  direction: centrist
-  default_tags:
-  - közélet
-  - politika
-  notes: Dull Szabolcs politikai elemző csatornája, pártatlan szakmai megközelítéssel
-  donate: https://dullszabolcs.substack.com/
-- id: UCJMAfdmkuI5UqqFk5ZjBTdw
-  slug: klasszis-media
-  display_name: Klasszis Média
-  affiliation: independent
-  direction: centrist
-  default_tags:
-  - gazdaság
-  - közélet
-  notes: Gazdasági-üzleti fókuszú médiacsoport (Privátbankár, Mfor); tartalmai kritikusak
-    a Fidesz-kormánnyal szemben, de gazdasági alapon, nem pártpolitikailag
-  donate: https://mfor.hu/klasszis/elofizetes
-- id: UCX32YkhuN63IPAx1ji5RZGg
-  slug: szinen-tul
-  display_name: Színen túl
-  affiliation: independent
-  direction: centrist
-  default_tags:
-  - közélet
-  notes: Krug Emília prémium közéleti podcastja, kiegyensúlyozott vendégkörrel
-  donate: https://telex.hu/tamogatas
-  donate_1pct: https://telexalapitvany.hu/egyszazalek
 - id: UCwRgC4e0TcESJKeYt7bZVFw
   slug: hit-radio
   display_name: Hit Rádió
