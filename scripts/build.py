@@ -26,6 +26,29 @@ import markdown as md_lib
 import yaml
 
 
+# ── PostHog snippet (consent-gated) ──────────────────────────────────────────
+_POSTHOG_SNIPPET = """\
+<script>
+(function(){
+  try{
+    if(localStorage.getItem('ytm_cookie_consent')==='1'){
+      !function(t,e){var o,n,p,r;e.__SV||(window.posthog&&window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="Ei Ni init zi Gi Nr Ui Xi Vi capture calculateEventProperties tn register register_once register_for_session unregister unregister_for_session an getFeatureFlag getFeatureFlagPayload getFeatureFlagResult isFeatureEnabled reloadFeatureFlags updateFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSurveysLoaded onSessionId getSurveys getActiveMatchingSurveys renderSurvey displaySurvey cancelPendingSurvey canRenderSurvey canRenderSurveyAsync ln identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset setIdentity clearIdentity get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException addExceptionStep captureLog startExceptionAutocapture stopExceptionAutocapture loadToolbar get_property getSessionProperty nn Qi createPersonProfile setInternalOrTestUser sn qi cn opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing get_explicit_consent_status is_capturing clear_opt_in_out_capturing Ji debug Fr rn getPageViewId captureTraceFeedback captureTraceMetric Bi".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+      posthog.init('phc_qjVik3YsYrLt6ZUjQbJZhneSwztCdFUmaZxfihqpjXVi',{api_host:'https://eu.i.posthog.com',defaults:'2026-01-30',person_profiles:'identified_only'});
+    }
+  }catch(e){}
+})();
+</script>"""
+
+# Same snippet for use inside Python format strings ({{ }} escaping not needed
+# here because _POSTHOG_SNIPPET is inserted via .replace(), not .format()).
+
+# Inline init call used inside the JS ytmCloseWelcome handler (already inside
+# a JS context so we only need the bare init logic, not the outer page script tag).
+_POSTHOG_INIT_JS = """\
+      !function(t,e){var o,n,p,r;e.__SV||(window.posthog&&window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="Ei Ni init zi Gi Nr Ui Xi Vi capture calculateEventProperties tn register register_once register_for_session unregister unregister_for_session an getFeatureFlag getFeatureFlagPayload getFeatureFlagResult isFeatureEnabled reloadFeatureFlags updateFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSurveysLoaded onSessionId getSurveys getActiveMatchingSurveys renderSurvey displaySurvey cancelPendingSurvey canRenderSurvey canRenderSurveyAsync ln identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset setIdentity clearIdentity get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException addExceptionStep captureLog startExceptionAutocapture stopExceptionAutocapture loadToolbar get_property getSessionProperty nn Qi createPersonProfile setInternalOrTestUser sn qi cn opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing get_explicit_consent_status is_capturing clear_opt_in_out_capturing Ji debug Fr rn getPageViewId captureTraceFeedback captureTraceMetric Bi".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+      posthog.init('phc_qjVik3YsYrLt6ZUjQbJZhneSwztCdFUmaZxfihqpjXVi',{api_host:'https://eu.i.posthog.com',defaults:'2026-01-30',person_profiles:'identified_only'});"""
+
+
 def _minify_css(css: str) -> str:
     """Basic but effective CSS minifier — no extra dependencies."""
     # Remove /* ... */ comments
@@ -212,6 +235,7 @@ _VIDEO_TMPL = """\
 <meta name="description" content="{desc}">
 <title>{title} - Röviden</title>
 <link rel="stylesheet" href="{root}/style.css">
+__POSTHOG_SNIPPET__
 </head>
 <body>
 <nav class="nav"><a href="{root}/">← Röviden</a></nav>
@@ -360,27 +384,30 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
     edit_url = html.escape(f"{GITHUB_REPO_URL}/blob/main/content/{source_rel}") if source_rel else html.escape(GITHUB_REPO_URL)
     issues_url = html.escape(ISSUES_URL)
 
-    return _VIDEO_TMPL.format(
-        root=root,
-        edit_url=edit_url,
-        issues_url=issues_url,
-        title=title,
-        title_esc=title_esc,
-        desc=desc,
-        channel_name=channel_name,
-        date_display=date_display,
-        duration_span=duration_span,
-        tags_html=tags_html,
-        video_id=video_id,
-        video_url=video_url,
-        tldr_block=tldr_block,
-        support_block=support_block,
-        details_block=details_block,
-        uncertain_block=uncertain_block,
-        transcript_html=transcript_html,
-        source_label=source_label,
-        summary_model=summary_model,
-        channel_meta_block=channel_meta_block,
+    return (
+        _VIDEO_TMPL.format(
+            root=root,
+            edit_url=edit_url,
+            issues_url=issues_url,
+            title=title,
+            title_esc=title_esc,
+            desc=desc,
+            channel_name=channel_name,
+            date_display=date_display,
+            duration_span=duration_span,
+            tags_html=tags_html,
+            video_id=video_id,
+            video_url=video_url,
+            tldr_block=tldr_block,
+            support_block=support_block,
+            details_block=details_block,
+            uncertain_block=uncertain_block,
+            transcript_html=transcript_html,
+            source_label=source_label,
+            summary_model=summary_model,
+            channel_meta_block=channel_meta_block,
+        )
+        .replace("__POSTHOG_SNIPPET__", _POSTHOG_SNIPPET)
     )
 
 
@@ -432,6 +459,7 @@ _INDEX_TMPL = """\
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Röviden - Hosszú beszélgetések, podcastek és interjúk dióhéjban</title>
 <link rel="stylesheet" href="style.css">
+__POSTHOG_SNIPPET__
 </head>
 <body>
 <div id="welcome-modal" class="modal-overlay" hidden>
@@ -449,8 +477,23 @@ _INDEX_TMPL = """\
     <p>Be kell vallanunk, hogy ezzel a projekttel kapcsolatban vannak fenntartásaink. Egyértelmű volt az igény a közönség részéről a többórás videók rövid összefoglalóira, viszont fennáll a veszélye annak, hogy a látogatók csak az AI-összefoglalókat olvassák el, és nem nézik meg magát a videót. Ez hosszú távon <strong>csökkentheti a csatornák nézettségét</strong>, ami egyrészt megnehezíti a médiumok számára, hogy felmérjék a közönségük valós igényeit, másrészt <strong>bevételkiesést</strong> is okozhat számukra.</p>
     <p>Amennyiben Ön egy érintett médium képviselője, és ezt a problémát valósnak találja – vagy bármilyen észrevétele, kérése van az oldallal kapcsolatban – kérjük, vegye fel velünk a kapcsolatot az <a href="mailto:info@jegyezve.com">info@jegyezve.com</a> címen.</p>
     <p class="modal-outro">Köszönjük a megértést, és jó olvasást / videózást kívánunk!</p>
+    <details class="cookie-policy">
+      <summary>Süti (cookie) tájékoztató</summary>
+      <div class="cookie-policy-body">
+        <p>Ez az oldal a <strong>PostHog</strong> elemző szolgáltatást használja látogatottsági adatok gyűjtésére. A következő adatokat rögzíthetjük:</p>
+        <ul>
+          <li>Megtekintett oldalak és videók</li>
+          <li>Kattintások és szűrőhasználat</li>
+          <li>Böngésző típusa, képernyőfelbontás, hozzávetőleges földrajzi helyzet (ország szintű)</li>
+          <li>Munkamenet-azonosító (véletlenszerűen generált, nem kapcsolható személyhez)</li>
+        </ul>
+        <p>Az adatokat <strong>nem adjuk át harmadik félnek</strong>, kizárólag az oldal fejlesztéséhez és a tartalom minőségének javításához használjuk. A PostHog adatait az EU-ban tároljuk (<code>eu.i.posthog.com</code>).</p>
+        <p>A „Megértettem és elfogadom" gombra kattintva hozzájárulsz a fenti sütik használatához. A „Csak megnézem" gombbal süti nélkül is teljes mértékben használhatod az oldalt – ebben az esetben nem gyűjtünk semmilyen adatot.</p>
+      </div>
+    </details>
     <div class="modal-actions">
-      <button class="modal-btn" type="button" onclick="ytmCloseWelcome()">Megértettem</button>
+      <button class="modal-decline" type="button" onclick="ytmDeclineWelcome()">Csak megnézem, köszönöm</button>
+      <button class="modal-btn" type="button" onclick="ytmCloseWelcome()">Megértettem és elfogadom</button>
     </div>
   </div>
 </div>
@@ -681,6 +724,13 @@ _INDEX_TMPL = """\
 }})();
 
 (function(){{
+  window.ytmDeclineWelcome=function(){{
+    var m=document.getElementById('welcome-modal');
+    if(m){{m.hidden=true;document.body.classList.remove('modal-open');}}
+    try{{localStorage.setItem('ytm_welcome_seen','1');}}catch(e){{}}
+    // no consent set — PostHog will not be initialised
+    if(typeof ytmStartTour==='function') ytmStartTour();
+  }};
   window.ytmOpenWelcome=function(){{
     var m=document.getElementById('welcome-modal');
     if(m){{m.hidden=false;document.body.classList.add('modal-open');}}
@@ -688,7 +738,16 @@ _INDEX_TMPL = """\
   window.ytmCloseWelcome=function(){{
     var m=document.getElementById('welcome-modal');
     if(m){{m.hidden=true;document.body.classList.remove('modal-open');}}
-    try{{localStorage.setItem('ytm_welcome_seen','1');}}catch(e){{}}
+    try{{
+      localStorage.setItem('ytm_welcome_seen','1');
+      localStorage.setItem('ytm_cookie_consent','1');
+    }}catch(e){{}}
+    // Initialise PostHog now that the user has consented
+    try{{
+      if(!window.posthog||!window.posthog.__loaded){{
+        __POSTHOG_INIT_JS__
+      }}
+    }}catch(e){{}}
     if(typeof ytmStartTour==='function') ytmStartTour();
   }};
   try{{
@@ -1124,13 +1183,17 @@ def _build_index(data: list[dict]) -> str:
             )
         parts.append(_card_html(e))
     cards = "\n".join(parts)
-    return _INDEX_TMPL.format(
-        total=len(data),
-        page_size=PAGE_SIZE,
-        channel_options=channel_options,
-        direction_chips=direction_chips,
-        affiliation_chips=affiliation_chips,
-        cards=cards,
+    return (
+        _INDEX_TMPL.format(
+            total=len(data),
+            page_size=PAGE_SIZE,
+            channel_options=channel_options,
+            direction_chips=direction_chips,
+            affiliation_chips=affiliation_chips,
+            cards=cards,
+        )
+        .replace("__POSTHOG_SNIPPET__", _POSTHOG_SNIPPET)
+        .replace("__POSTHOG_INIT_JS__", _POSTHOG_INIT_JS)
     )
 
 
