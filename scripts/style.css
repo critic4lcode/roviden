@@ -490,7 +490,7 @@ p + p { margin-top: 0.75em; }
   border-bottom: 1px solid var(--border);
   font-size: 1rem;
   font-weight: 600;
-  color: var(--muted, var(--text));
+  color: var(var(--text));
   letter-spacing: 0.02em;
 }
 
