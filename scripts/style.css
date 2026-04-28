@@ -436,6 +436,25 @@ p + p { margin-top: 0.75em; }
   box-shadow: inset 0 0 0 2px var(--aff);
 }
 
+/* Tag filter chips — neutral tint */
+.chip-group[data-group="tag"] .chip {
+  border-radius: 6px;
+}
+.chip-group[data-group="tag"] .chip[data-f]:not([data-f=""]) {
+  background: var(--tag-bg);
+  color: var(--tag-text);
+  border: 1px solid var(--border);
+}
+.chip-group[data-group="tag"] .chip[data-f]:not([data-f=""]):hover {
+  background: var(--border);
+  color: var(--text);
+}
+.chip-group[data-group="tag"] .chip[data-f]:not([data-f=""]).active {
+  background: var(--text);
+  color: var(--bg);
+  border-color: var(--text);
+}
+
 /* Card direction accent (left) */
 .card[data-direction="liberal"] { --dir-rgb: var(--dir-liberal-rgb); }
 .card[data-direction="centrist"] { --dir-rgb: var(--dir-centrist-rgb); }
@@ -595,6 +614,12 @@ p + p { margin-top: 0.75em; }
   background: var(--tag-bg);
   color: var(--tag-text);
   font-weight: 500;
+  cursor: pointer;
+  transition: background var(--t-fast), color var(--t-fast);
+}
+.tag:hover {
+  background: var(--border-strong);
+  color: var(--text);
 }
 
 /* ── Pagination ─────────────────────────────────────────────────────────── */

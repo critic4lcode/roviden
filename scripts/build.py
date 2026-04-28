@@ -18,7 +18,6 @@ import argparse
 import html
 import json
 import re
-import shutil
 from datetime import datetime
 from pathlib import Path
 
@@ -352,8 +351,12 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
     title_esc = html.escape(title)
     channel_name = html.escape(str(fm.get("channel_name", "")))
     date_display = html.escape(_fmt_date(str(fm.get("published_at", fm.get("date", "")))))
-    tags = fm.get("tags", []) or []
-    tags_html = "".join(f'<span class="tag">{html.escape(t)}</span>' for t in tags)
+    ch = channel_data or {}
+    tags = list(fm.get("tags", []) or [])
+    for dt in (ch.get("default_tags") or []):
+        if dt and dt not in tags:
+            tags.append(dt)
+    tags_html = "".join(f'<span class="tag" data-tag="{html.escape(t)}">{html.escape(t)}</span>' for t in tags)
     duration_sec = fm.get("duration_sec", 0) or 0
     dur = _fmt_duration(duration_sec)
     duration_span = f'<span class="badge-src">{html.escape(dur)}</span>' if dur else ""
@@ -361,7 +364,6 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
         "YouTube felirat" if fm.get("transcript_source") == "youtube_subtitle" else "Whisper ASR"
     )
     summary_model = html.escape(str(fm.get("summary_model", "")))
-    ch = channel_data or {}
     affiliation = str(ch.get("affiliation") or fm.get("affiliation") or "").strip()
     direction = str(ch.get("direction") or fm.get("direction") or "").strip()
     notes = str(ch.get("notes") or fm.get("notes") or "").strip()
@@ -469,7 +471,7 @@ def _card_html(entry: dict) -> str:
     teaser = html.escape(entry.get("teaser", "")[:200])
     title_esc = html.escape(entry["title"])
     tags_html = "".join(
-        f'<span class="tag">{html.escape(t)}</span>'
+        f'<span class="tag" data-tag="{html.escape(t)}">{html.escape(t)}</span>'
         for t in (entry.get("tags") or [])
     )
     src = entry.get("transcript_source", "")
@@ -614,6 +616,24 @@ __POSTHOG_SNIPPET__
                 <span class="ch-dropdown-all-btn">Összes ({total})</span>
               </li>
               {channel_options}
+            </ul>
+          </div>
+        </div>
+        <span class="filter-label filter-label-mid">Címke:</span>
+        <div class="ch-dropdown" id="tag-dropdown">
+          <button class="ch-dropdown-btn" id="tag-dropdown-btn" type="button" aria-haspopup="listbox" aria-expanded="false">
+            <span class="ch-dropdown-label" id="tag-dropdown-label">Összes címke</span>
+            <span class="ch-dropdown-arrow" aria-hidden="true">▾</span>
+          </button>
+          <div class="ch-dropdown-panel" id="tag-dropdown-panel" hidden role="listbox" aria-multiselectable="true">
+            <div class="ch-dropdown-search-wrap">
+              <input class="ch-dropdown-search" id="tag-dropdown-search" type="search" placeholder="Címke keresése…" autocomplete="off" spellcheck="false">
+            </div>
+            <ul class="ch-dropdown-list" id="tag-dropdown-list">
+              <li class="ch-dropdown-item ch-dropdown-all active" data-slug="" id="tag-all-item">
+                <span class="ch-dropdown-all-btn">Összes</span>
+              </li>
+              {tag_options}
             </ul>
           </div>
         </div>
@@ -839,7 +859,7 @@ __POSTHOG_SNIPPET__
 }})();
 (function(){{
   var N={page_size},TOTAL={total},page=1,data=null,loading=null;
-  var filters={{channel:[],direction:[],affiliation:[],search:''}};
+  var filters={{channel:[],direction:[],affiliation:[],tag:[],search:''}};
   var MULTI={{direction:true,affiliation:true}};
   var feed=document.getElementById('feed');
 
@@ -858,6 +878,7 @@ __POSTHOG_SNIPPET__
       if(saved.channel!==undefined) filters.channel=saved.channel;
       if(Array.isArray(saved.direction)) filters.direction=saved.direction;
       if(Array.isArray(saved.affiliation)) filters.affiliation=saved.affiliation;
+      if(Array.isArray(saved.tag)) filters.tag=saved.tag;
       if(saved.search!==undefined) filters.search=saved.search;
     }}catch(e){{}}
     try{{
@@ -873,6 +894,9 @@ __POSTHOG_SNIPPET__
     // channel checkboxes
     syncChannelCheckboxes();
     updateChannelBtnLabel();
+    // tag checkboxes
+    syncTagCheckboxes();
+    updateTagBtnLabel();
     // chips
     ['direction','affiliation'].forEach(function(group){{
       var arr=filters[group];
@@ -916,6 +940,7 @@ __POSTHOG_SNIPPET__
     data.forEach(function(e){{
       if(filters.direction.length && filters.direction.indexOf(e.direction||'')===-1) return;
       if(filters.affiliation.length && filters.affiliation.indexOf(e.affiliation||'')===-1) return;
+      if(filters.tag.length){{var et=e.tags||[];if(!filters.tag.some(function(t){{return et.indexOf(t)!==-1;}})) return;}}
       available[e.channel_slug]=true;
     }});
     var list=document.getElementById('ch-dropdown-list');
@@ -966,7 +991,7 @@ __POSTHOG_SNIPPET__
   function cardHtml(e){{
     var dur=e.duration_display?'<span class="dur">'+esc(e.duration_display)+'</span>':'';
     var srcBadge=e.transcript_source==='youtube_subtitle'?'▶ felirat':'🎙 whisper';
-    var tags=(e.tags||[]).map(function(t){{return '<span class="tag">'+esc(t)+'</span>';}}).join('');
+    var tags=(e.tags||[]).map(function(t){{return '<span class="tag" data-tag="'+esc(t)+'">'+esc(t)+'</span>';}}).join('');
     var teaser=e.teaser?'<div class="card-teaser">'+esc(e.teaser)+'&hellip;</div>':'';
     return '<a class="card" href="'+esc(e.page_url)+'" data-channel="'+esc(e.channel_slug)+'" data-direction="'+esc(e.direction||'')+'" data-affiliation="'+esc(e.affiliation||'')+'" data-date="'+esc(e.date)+'">'
       +'<div class="card-thumb"><img src="https://i.ytimg.com/vi/'+esc(e.video_id)+'/hqdefault.jpg" alt="" loading="lazy">'+dur+'</div>'
@@ -1001,6 +1026,7 @@ __POSTHOG_SNIPPET__
       if(filters.channel.length && filters.channel.indexOf(e.channel_slug)===-1) return false;
       if(filters.direction.length && filters.direction.indexOf(e.direction||'')===-1) return false;
       if(filters.affiliation.length && filters.affiliation.indexOf(e.affiliation||'')===-1) return false;
+      if(filters.tag.length){{var et=e.tags||[];if(!filters.tag.some(function(t){{return et.indexOf(t)!==-1;}})) return false;}}
       if(!fuzzyMatch(filters.search, e)) return false;
       return true;
     }});
@@ -1043,7 +1069,7 @@ __POSTHOG_SNIPPET__
   loadSavedFilters();
   applyFiltersToUI();
   updateFilterBadge();
-  var _hasActiveFilters=(filters.search||filters.channel.length||filters.direction.length||filters.affiliation.length);
+  var _hasActiveFilters=(filters.search||filters.channel.length||filters.direction.length||filters.affiliation.length||filters.tag.length);
   var _hasNonFirstPage=(page>1);
   if(_hasActiveFilters||_hasNonFirstPage){{
     var fg=document.getElementById('filter-groups');
@@ -1072,6 +1098,7 @@ __POSTHOG_SNIPPET__
     if(filters.channel && filters.channel.length) count+=filters.channel.length;
     if(filters.direction && filters.direction.length) count+=filters.direction.length;
     if(filters.affiliation && filters.affiliation.length) count+=filters.affiliation.length;
+    if(filters.tag && filters.tag.length) count+=filters.tag.length;
     if(count>0){{
       badge.textContent=count;
       badge.classList.add('visible');
@@ -1084,13 +1111,16 @@ __POSTHOG_SNIPPET__
   }}
 
   window.ytmClearFilters=function(){{
-    filters={{channel:[],direction:[],affiliation:[],search:''}};
+    filters={{channel:[],direction:[],affiliation:[],tag:[],search:''}};
     // Reset search input
     var si=document.getElementById('search-input');
     if(si) si.value='';
     // Reset channel dropdown
     syncChannelCheckboxes();
     updateChannelBtnLabel();
+    // Reset tag dropdown
+    syncTagCheckboxes();
+    updateTagBtnLabel();
     // Reset chips
     ['direction','affiliation'].forEach(function(group){{
       document.querySelectorAll('.chip[data-group="'+group+'"]').forEach(function(x){{x.classList.remove('active');}});
@@ -1205,6 +1235,105 @@ __POSTHOG_SNIPPET__
     }});
   }})();
 
+  // ── Tag multi-select dropdown ──
+  function syncTagCheckboxes(){{
+    var allItem=document.getElementById('tag-all-item');
+    var items=document.querySelectorAll('#tag-dropdown-list .ch-dropdown-item:not(.ch-dropdown-all)');
+    var sel=filters.tag;
+    if(!sel||sel.length===0){{
+      if(allItem) allItem.classList.add('active');
+      items.forEach(function(li){{var cb=li.querySelector('input[type=checkbox]');if(cb) cb.checked=false;}});
+    }} else {{
+      if(allItem) allItem.classList.remove('active');
+      items.forEach(function(li){{var cb=li.querySelector('input[type=checkbox]');if(cb) cb.checked=sel.indexOf(li.dataset.slug)!==-1;}});
+    }}
+  }}
+  function updateTagBtnLabel(){{
+    var lbl=document.getElementById('tag-dropdown-label');
+    if(!lbl) return;
+    var sel=filters.tag;
+    if(!sel||sel.length===0){{ lbl.textContent='Összes címke'; }}
+    else if(sel.length===1){{ lbl.textContent=sel[0]; }}
+    else {{ lbl.textContent=sel.length+' címke kiválasztva'; }}
+  }}
+  (function(){{
+    var btn=document.getElementById('tag-dropdown-btn');
+    var panel=document.getElementById('tag-dropdown-panel');
+    var searchInput=document.getElementById('tag-dropdown-search');
+    var list=document.getElementById('tag-dropdown-list');
+    if(!btn||!panel) return;
+    function openPanel(){{
+      panel.hidden=false;btn.setAttribute('aria-expanded','true');
+      btn.querySelector('.ch-dropdown-arrow').textContent='▴';
+      if(searchInput){{ searchInput.value=''; filterList(''); searchInput.focus(); }}
+    }}
+    function closePanel(){{
+      panel.hidden=true;btn.setAttribute('aria-expanded','false');
+      btn.querySelector('.ch-dropdown-arrow').textContent='▾';
+    }}
+    btn.addEventListener('click',function(e){{ e.stopPropagation(); if(panel.hidden) openPanel(); else closePanel(); }});
+    document.addEventListener('click',function(e){{ if(!panel.hidden && !panel.contains(e.target) && e.target!==btn) closePanel(); }});
+    document.addEventListener('keydown',function(e){{ if(e.key==='Escape'&&!panel.hidden) closePanel(); }});
+    function filterList(q){{
+      var items=list.querySelectorAll('.ch-dropdown-item:not(.ch-dropdown-all)');
+      var lq=q.toLowerCase();
+      items.forEach(function(li){{ var name=li.querySelector('label').textContent.toLowerCase(); li.hidden=lq&&name.indexOf(lq)===-1; }});
+    }}
+    if(searchInput){{
+      searchInput.addEventListener('input',function(){{ filterList(searchInput.value.trim()); }});
+      searchInput.addEventListener('click',function(e){{ e.stopPropagation(); }});
+    }}
+    var allItem=document.getElementById('tag-all-item');
+    if(allItem){{
+      allItem.addEventListener('click',function(){{
+        filters.tag=[];
+        list.querySelectorAll('.ch-dropdown-item:not(.ch-dropdown-all) input[type=checkbox]').forEach(function(cb){{cb.checked=false;}});
+        allItem.classList.add('active');
+        page=1; updateFilterBadge(); updateTagBtnLabel(); saveFilters();
+        loadData().then(function(){{ renderFromData(); updateChannelListAvailability(); }});
+      }});
+    }}
+    list.querySelectorAll('.ch-dropdown-item:not(.ch-dropdown-all)').forEach(function(li){{
+      var cb=li.querySelector('input[type=checkbox]');
+      if(!cb) return;
+      cb.addEventListener('change',function(){{
+        var slug=li.dataset.slug;
+        var idx=filters.tag.indexOf(slug);
+        if(cb.checked){{ if(idx===-1) filters.tag.push(slug); if(allItem) allItem.classList.remove('active'); }}
+        else {{ if(idx!==-1) filters.tag.splice(idx,1); if(filters.tag.length===0 && allItem) allItem.classList.add('active'); }}
+        page=1; updateFilterBadge(); updateTagBtnLabel(); saveFilters();
+        loadData().then(function(){{ renderFromData(); updateChannelListAvailability(); }});
+      }});
+    }});
+  }})();
+
+  // ── Tag click on cards → activate tag filter ──
+  feed.addEventListener('click',function(ev){{
+    var tag=ev.target.closest('[data-tag]');
+    if(!tag) return;
+    ev.preventDefault();
+    ev.stopPropagation();
+    var val=tag.dataset.tag;
+    if(!val) return;
+    // Open filter panel if closed
+    var fg=document.getElementById('filter-groups');
+    var btn=document.getElementById('filter-toggle');
+    if(fg && fg.hidden){{
+      fg.hidden=false;
+      if(btn){{btn.setAttribute('aria-expanded','true');btn.querySelector('.filter-toggle-icon').textContent='▴';}}
+    }}
+    // Toggle this tag in the filter
+    var idx=filters.tag.indexOf(val);
+    if(idx===-1) filters.tag.push(val); else filters.tag.splice(idx,1);
+    // Update dropdown UI
+    syncTagCheckboxes();
+    updateTagBtnLabel();
+    page=1;
+    updateFilterBadge();
+    saveFilters();
+    loadData().then(function(){{ renderFromData(); updateChannelListAvailability(); }});
+  }});
+
   var chips=document.querySelectorAll('.chip');
   chips.forEach(function(c){{
     c.addEventListener('click',function(){{
@@ -1258,6 +1387,14 @@ def _build_index(data: list[dict]) -> str:
         for slug, name in seen.items()
     )
 
+    # Collect all unique tags across all entries, sorted alphabetically
+    all_tags: set[str] = set()
+    for e in data:
+        for t in (e.get("tags") or []):
+            if t:
+                all_tags.add(t)
+    sorted_tags = sorted(all_tags, key=lambda t: t.lower())
+
     present_directions = {e.get("direction") for e in data if e.get("direction")}
     direction_chips = "\n      ".join(
         f'<button class="chip" data-group="direction" data-f="{html.escape(code)}">'
@@ -1270,6 +1407,12 @@ def _build_index(data: list[dict]) -> str:
         f'<button class="chip" data-group="affiliation" data-f="{html.escape(code)}">'
         f'{html.escape(AFFILIATION_LABELS[code])}</button>'
         for code in AFFILIATION_ORDER if code in present_affiliations
+    )
+    tag_options = "\n              ".join(
+        f'<li class="ch-dropdown-item" data-slug="{html.escape(t)}">'
+        f'<label><input type="checkbox" value="{html.escape(t)}"> {html.escape(t)}</label>'
+        f'</li>'
+        for t in sorted_tags
     )
     parts: list[str] = []
     current_date: str | None = None
@@ -1289,6 +1432,7 @@ def _build_index(data: list[dict]) -> str:
             page_size=PAGE_SIZE,
             site_base_url=_SITE_BASE_URL,
             channel_options=channel_options,
+            tag_options=tag_options,
             direction_chips=direction_chips,
             affiliation_chips=affiliation_chips,
             cards=cards,
@@ -1321,7 +1465,7 @@ def _load_channel_data(site_root: Path) -> dict[str, dict]:
         if not slug:
             continue
         entry = {"_order": idx}
-        for key in ("affiliation", "direction", "notes", "donate", "donate_1pct", "patreon", "merch"):
+        for key in ("affiliation", "direction", "notes", "donate", "donate_1pct", "patreon", "merch", "default_tags"):
             if ch.get(key):
                 entry[key] = ch[key]
         result[slug] = entry
@@ -1390,6 +1534,11 @@ def build(site_root: Path, out_dir: Path) -> None:
         plain_summary = re.sub(r"<[^>]+>", "", md_lib.markdown(teaser_md)).strip()
         date_iso = str(fm.get("date", ""))[:10]
         duration_sec = int(fm.get("duration_sec") or 0)
+        # Merge channel default_tags into article tags (deduplicated, preserving order)
+        article_tags = list(fm.get("tags") or [])
+        for dt in (ch_data.get("default_tags") or []):
+            if dt and dt not in article_tags:
+                article_tags.append(dt)
         data.append({
             "video_id": str(fm.get("video_id", "")),
             "title": str(fm.get("title", "")),
@@ -1398,7 +1547,7 @@ def build(site_root: Path, out_dir: Path) -> None:
             "date": date_iso,
             "date_display": _fmt_date(date_iso),
             "published_at": str(fm.get("published_at", fm.get("date", ""))),
-            "tags": fm.get("tags") or [],
+            "tags": article_tags,
             "transcript_source": str(fm.get("transcript_source", "")),
             "summary_model": str(fm.get("summary_model", "")),
             "duration_sec": duration_sec,
