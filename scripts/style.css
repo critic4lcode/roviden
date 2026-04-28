@@ -118,7 +118,27 @@ p + p { margin-top: 0.75em; }
 .site-header-inner {
   max-width: var(--maxw);
   margin: 0 auto;
-  padding: 1.6rem 1.25rem 1rem;
+  padding: 1rem 1.25rem 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.site-header-left {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.site-header-right {
+  display: flex;
+  align-items: stretch;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.site-header-right .filter-search {
+  width: 260px;
+  align-self: center;
 }
 
 .site-header h1 {
@@ -159,10 +179,11 @@ p + p { margin-top: 0.75em; }
   color: var(--text-muted);
   background: var(--surface-2);
   border: 1px solid var(--border);
-  border-radius: 999px;
+  border-radius: var(--radius-sm);
   cursor: pointer;
   transition: background var(--t-fast), color var(--t-fast), border-color var(--t-fast);
-  margin-bottom: 0.5rem;
+  margin-bottom: 0;
+  white-space: nowrap;
 }
 .filter-toggle:hover {
   background: var(--border);
@@ -232,9 +253,6 @@ p + p { margin-top: 0.75em; }
 }
 
 .filter-groups {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
   padding-bottom: 0.75rem;
 }
 .filter-groups[hidden] { display: none; }
@@ -244,6 +262,10 @@ p + p { margin-top: 0.75em; }
   align-items: center;
   gap: 0.4rem;
 }
+.filter-row-combined {
+  flex-wrap: wrap;
+  gap: 0.4rem 0.5rem;
+}
 .filter-label {
   font-size: 0.78rem;
   font-weight: 600;
@@ -251,7 +273,32 @@ p + p { margin-top: 0.75em; }
   letter-spacing: 0.04em;
   color: var(--text-subtle);
   margin-right: 0.25rem;
-  min-width: 6.5rem;
+  min-width: auto;
+}
+.filter-label-mid {
+  margin-left: 0.5rem;
+}
+
+/* Search input */
+.filter-search {
+  font: inherit;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--text);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.35rem 0.75rem;
+  width: 280px;
+  max-width: 100%;
+  transition: border-color var(--t-fast), background var(--t-fast), box-shadow var(--t-fast);
+}
+.filter-search::placeholder { color: var(--text-subtle); }
+.filter-search:hover { border-color: var(--border-strong); }
+.filter-search:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+  background: var(--surface);
 }
 
 /* Channel select dropdown */
@@ -283,9 +330,14 @@ p + p { margin-top: 0.75em; }
 }
 
 @media (max-width: 640px) {
+  .site-header-inner { flex-wrap: wrap; padding: 0.85rem 1rem 0.6rem; gap: 0.5rem; }
+  .site-header-right { width: 100%; }
+  .site-header-right .filter-search { flex: 1; width: auto; min-width: 0; }
   .filter-bar { padding: 0 1rem 0.5rem; }
-  .filter-label { min-width: 0; flex-basis: 100%; }
+  .filter-label { min-width: 0; }
+  .filter-label-mid { margin-left: 0; }
   .filter-select { max-width: 100%; width: 100%; }
+  .filter-row-combined { gap: 0.35rem; }
 }
 
 .chip {
@@ -305,16 +357,24 @@ p + p { margin-top: 0.75em; }
   color: var(--bg);
 }
 
+/* chip-group: inline flex wrapper for a set of chips */
+.chip-group {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  align-items: center;
+}
+
 /* Multi-select groups: squared chips with checkbox indicator */
-.filter-row[data-group="direction"] .chip,
-.filter-row[data-group="affiliation"] .chip {
+.chip-group[data-group="direction"] .chip,
+.chip-group[data-group="affiliation"] .chip {
   border-radius: 6px;
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
 }
-.filter-row[data-group="direction"] .chip[data-f]:not([data-f=""])::before,
-.filter-row[data-group="affiliation"] .chip[data-f]:not([data-f=""])::before {
+.chip-group[data-group="direction"] .chip[data-f]:not([data-f=""])::before,
+.chip-group[data-group="affiliation"] .chip[data-f]:not([data-f=""])::before {
   content: "";
   display: inline-block;
   width: 0.85em;
@@ -325,56 +385,56 @@ p + p { margin-top: 0.75em; }
   flex-shrink: 0;
   transition: background var(--t-fast), border-color var(--t-fast);
 }
-.filter-row[data-group="direction"] .chip[data-f]:not([data-f=""]).active::before,
-.filter-row[data-group="affiliation"] .chip[data-f]:not([data-f=""]).active::before {
+.chip-group[data-group="direction"] .chip[data-f]:not([data-f=""]).active::before,
+.chip-group[data-group="affiliation"] .chip[data-f]:not([data-f=""]).active::before {
   background: currentColor;
   box-shadow: inset 0 0 0 2px var(--text);
 }
 
 /* Direction-tinted chips */
-.filter-row[data-group="direction"] .chip[data-f="liberal"] { --dir: var(--dir-liberal); --dir-rgb: var(--dir-liberal-rgb); }
-.filter-row[data-group="direction"] .chip[data-f="centrist"] { --dir: var(--dir-centrist); --dir-rgb: var(--dir-centrist-rgb); }
-.filter-row[data-group="direction"] .chip[data-f="conservative"] { --dir: var(--dir-conservative); --dir-rgb: var(--dir-conservative-rgb); }
-.filter-row[data-group="direction"] .chip[data-f="far-right"] { --dir: var(--dir-far-right); --dir-rgb: var(--dir-far-right-rgb); }
-.filter-row[data-group="direction"] .chip[data-f]:not([data-f=""]) {
+.chip-group[data-group="direction"] .chip[data-f="liberal"] { --dir: var(--dir-liberal); --dir-rgb: var(--dir-liberal-rgb); }
+.chip-group[data-group="direction"] .chip[data-f="centrist"] { --dir: var(--dir-centrist); --dir-rgb: var(--dir-centrist-rgb); }
+.chip-group[data-group="direction"] .chip[data-f="conservative"] { --dir: var(--dir-conservative); --dir-rgb: var(--dir-conservative-rgb); }
+.chip-group[data-group="direction"] .chip[data-f="far-right"] { --dir: var(--dir-far-right); --dir-rgb: var(--dir-far-right-rgb); }
+.chip-group[data-group="direction"] .chip[data-f]:not([data-f=""]) {
   color: var(--dir);
   background: rgba(var(--dir-rgb), 0.08);
   border-color: rgba(var(--dir-rgb), 0.3);
 }
-.filter-row[data-group="direction"] .chip[data-f]:not([data-f=""]):hover {
+.chip-group[data-group="direction"] .chip[data-f]:not([data-f=""]):hover {
   background: rgba(var(--dir-rgb), 0.16);
 }
-.filter-row[data-group="direction"] .chip[data-f]:not([data-f=""]).active {
+.chip-group[data-group="direction"] .chip[data-f]:not([data-f=""]).active {
   background: var(--dir);
   color: var(--bg);
   border-color: var(--dir);
 }
-.filter-row[data-group="direction"] .chip[data-f]:not([data-f=""]).active::before {
+.chip-group[data-group="direction"] .chip[data-f]:not([data-f=""]).active::before {
   background: var(--bg);
   box-shadow: inset 0 0 0 2px var(--dir);
 }
 
 /* Affiliation-tinted chips */
-.filter-row[data-group="affiliation"] .chip[data-f="fidesz-aligned"] { --aff: var(--aff-fidesz); --aff-rgb: var(--aff-fidesz-rgb); }
-.filter-row[data-group="affiliation"] .chip[data-f="tisza-aligned"] { --aff: var(--aff-tisza); --aff-rgb: var(--aff-tisza-rgb); }
-.filter-row[data-group="affiliation"] .chip[data-f="fidesz-aligned"],
-.filter-row[data-group="affiliation"] .chip[data-f="tisza-aligned"] {
+.chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"] { --aff: var(--aff-fidesz); --aff-rgb: var(--aff-fidesz-rgb); }
+.chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"] { --aff: var(--aff-tisza); --aff-rgb: var(--aff-tisza-rgb); }
+.chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"],
+.chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"] {
   color: var(--aff);
   background: rgba(var(--aff-rgb), 0.08);
   border-color: rgba(var(--aff-rgb), 0.3);
 }
-.filter-row[data-group="affiliation"] .chip[data-f="fidesz-aligned"]:hover,
-.filter-row[data-group="affiliation"] .chip[data-f="tisza-aligned"]:hover {
+.chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"]:hover,
+.chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"]:hover {
   background: rgba(var(--aff-rgb), 0.16);
 }
-.filter-row[data-group="affiliation"] .chip[data-f="fidesz-aligned"].active,
-.filter-row[data-group="affiliation"] .chip[data-f="tisza-aligned"].active {
+.chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"].active,
+.chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"].active {
   background: var(--aff);
   color: var(--bg);
   border-color: var(--aff);
 }
-.filter-row[data-group="affiliation"] .chip[data-f="fidesz-aligned"].active::before,
-.filter-row[data-group="affiliation"] .chip[data-f="tisza-aligned"].active::before {
+.chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"].active::before,
+.chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"].active::before {
   background: var(--bg);
   box-shadow: inset 0 0 0 2px var(--aff);
 }

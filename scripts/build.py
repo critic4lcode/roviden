@@ -249,7 +249,7 @@ _VIDEO_TMPL = """\
 """
 
 
-def _build_support_block(channel_support: dict) -> str:
+def _build_support_block(channel_support: dict, channel_name: str = "") -> str:
     """Build a prominent support/donate call-to-action block."""
     links = []
     if channel_support.get("donate"):
@@ -265,10 +265,10 @@ def _build_support_block(channel_support: dict) -> str:
 
     if len(links) == 1:
         label, url = links[0]
-        intro = f'Ha tetszett a tartalom, <strong>támogasd a csatornát!</strong>'
+        intro = f'Ha tetszett a tartalom, <strong>támogasd a {html.escape(channel_name)} csatornát!</strong>'
         links_html = f'<a class="support-link" href="{html.escape(url)}" target="_blank" rel="noopener noreferrer">{label}</a>'
     else:
-        intro = f'Ha tetszett a tartalom, <strong>támogasd a csatornát</strong> – több lehetőség is van:'
+        intro = f'Ha tetszett a tartalom, <strong>támogasd a {html.escape(channel_name)} csatornát</strong> – több lehetőség is van:'
         links_html = " ".join(
             f'<a class="support-link" href="{html.escape(url)}" target="_blank" rel="noopener noreferrer">{label}</a>'
             for label, url in links
@@ -326,7 +326,7 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
     details_html = md_lib.markdown(details_md, extensions=["nl2br", "tables", "md_in_html"]) if details_md else ""
     uncertain_html = md_lib.markdown(uncertain_md, extensions=["nl2br", "tables", "md_in_html"]) if uncertain_md else ""
     tldr_block = f'<section class="tldr">\n    <div class="tldr-label">tl;dr</div>\n    {tldr_html}\n  </section>' if tldr_html else ""
-    support_block = _build_support_block(channel_data or {})
+    support_block = _build_support_block(channel_data or {}, channel_name=str(fm.get("channel_name", "")))
     details_block = f'<section class="summary">\n    {details_html}\n  </section>' if details_html else ""
     uncertain_block = (
         f'<section class="uncertain">\n'
@@ -440,35 +440,41 @@ _INDEX_TMPL = """\
 <button id="about-fab" class="about-fab" type="button" onclick="ytmOpenWelcome()" aria-label="Az oldalról">Az oldalról</button>
 <header class="site-header">
   <div class="site-header-inner">
-    <h1>Röviden</h1>
-    <p class="site-sub">Hosszú beszélgetések, podcastek és interjúk dióhéjban</p>
+    <div class="site-header-left">
+      <h1>Röviden</h1>
+      <p class="site-sub">Hosszú beszélgetések, podcastek és interjúk dióhéjban</p>
+    </div>
+    <div class="site-header-right">
+      <button class="filter-toggle" id="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-groups" onclick="ytmToggleFilters()">
+        <span class="filter-toggle-hamburger" aria-hidden="true">
+          <span></span><span></span><span></span>
+        </span>
+        <span class="filter-toggle-label">Szűrők</span>
+        <span class="filter-active-badge" id="filter-badge" aria-live="polite"></span>
+        <span class="filter-toggle-icon" aria-hidden="true">▾</span>
+      </button>
+      <input class="filter-search" id="search-input" type="search"
+             placeholder="Cím, csatorna, tartalom…" autocomplete="off">
+    </div>
   </div>
   <div class="filter-bar">
-    <button class="filter-toggle" id="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-groups" onclick="ytmToggleFilters()">
-      <span class="filter-toggle-hamburger" aria-hidden="true">
-        <span></span><span></span><span></span>
-      </span>
-      <span class="filter-toggle-label">Szűrők</span>
-      <span class="filter-active-badge" id="filter-badge" aria-live="polite"></span>
-      <span class="filter-toggle-icon" aria-hidden="true">▾</span>
-    </button>
     <div class="filter-groups" id="filter-groups" hidden>
-      <div class="filter-row" data-group="channel">
+      <div class="filter-row filter-row-combined">
         <span class="filter-label">Csatorna:</span>
         <select class="filter-select" id="channel-select" data-group="channel">
           <option value="">Összes ({total})</option>
           {channel_options}
         </select>
-      </div>
-      <div class="filter-row" data-group="direction">
-        <span class="filter-label">Irányultság:</span>
-        <button class="chip active" data-group="direction" data-f="">Összes</button>
-        {direction_chips}
-      </div>
-      <div class="filter-row" data-group="affiliation">
-        <span class="filter-label">Kötődés:</span>
-        <button class="chip active" data-group="affiliation" data-f="">Összes</button>
-        {affiliation_chips}
+        <span class="filter-label filter-label-mid">Irányultság:</span>
+        <span class="chip-group" data-group="direction">
+          <button class="chip active" data-group="direction" data-f="">Összes</button>
+          {direction_chips}
+        </span>
+        <span class="filter-label filter-label-mid">Kötődés:</span>
+        <span class="chip-group" data-group="affiliation">
+          <button class="chip active" data-group="affiliation" data-f="">Összes</button>
+          {affiliation_chips}
+        </span>
       </div>
     </div>
   </div>
@@ -496,9 +502,51 @@ _INDEX_TMPL = """\
 }})();
 (function(){{
   var N={page_size},TOTAL={total},page=1,data=null,loading=null;
-  var filters={{channel:'',direction:[],affiliation:[]}};
+  var filters={{channel:'',direction:[],affiliation:[],search:''}};
   var MULTI={{direction:true,affiliation:true}};
   var feed=document.getElementById('feed');
+
+  var FILTER_STORAGE_KEY='ytm_filters_v1';
+
+  function saveFilters(){{
+    try{{localStorage.setItem(FILTER_STORAGE_KEY,JSON.stringify(filters));}}catch(e){{}}
+  }}
+
+  function loadSavedFilters(){{
+    try{{
+      var raw=localStorage.getItem(FILTER_STORAGE_KEY);
+      if(!raw) return;
+      var saved=JSON.parse(raw);
+      if(saved.channel!==undefined) filters.channel=saved.channel;
+      if(Array.isArray(saved.direction)) filters.direction=saved.direction;
+      if(Array.isArray(saved.affiliation)) filters.affiliation=saved.affiliation;
+      if(saved.search!==undefined) filters.search=saved.search;
+    }}catch(e){{}}
+  }}
+
+  function applyFiltersToUI(){{
+    // search input
+    var si=document.getElementById('search-input');
+    if(si && filters.search) si.value=filters.search;
+    // channel select
+    var cs=document.getElementById('channel-select');
+    if(cs && filters.channel) cs.value=filters.channel;
+    // chips
+    ['direction','affiliation'].forEach(function(group){{
+      var arr=filters[group];
+      var allChip=document.querySelector('.chip[data-group="'+group+'"][data-f=""]');
+      if(!arr || arr.length===0){{
+        // ensure "Összes" is active
+        document.querySelectorAll('.chip[data-group="'+group+'"]').forEach(function(x){{x.classList.remove('active');}});
+        if(allChip) allChip.classList.add('active');
+      }} else {{
+        if(allChip) allChip.classList.remove('active');
+        document.querySelectorAll('.chip[data-group="'+group+'"]').forEach(function(x){{
+          x.classList.toggle('active', arr.indexOf(x.dataset.f)!==-1);
+        }});
+      }}
+    }});
+  }}
 
   function loadData(){{
     if(data) return Promise.resolve(data);
@@ -533,11 +581,21 @@ _INDEX_TMPL = """\
     return '<h2 class="day-header" data-date="'+esc(e.date)+'">'+esc(e.date_display||e.date)+'</h2>';
   }}
 
+  function fuzzyMatch(query, e){{
+    if(!query) return true;
+    var haystack=(
+      (e.title||'')+' '+(e.teaser||'')+' '+(e.channel_name||'')
+    ).toLowerCase();
+    var words=query.toLowerCase().split(/\\s+/).filter(Boolean);
+    return words.every(function(w){{return haystack.indexOf(w)!==-1;}});
+  }}
+
   function renderFromData(){{
     var vis=data.filter(function(e){{
       if(filters.channel && e.channel_slug!==filters.channel) return false;
       if(filters.direction.length && filters.direction.indexOf(e.direction||'')===-1) return false;
       if(filters.affiliation.length && filters.affiliation.indexOf(e.affiliation||'')===-1) return false;
+      if(!fuzzyMatch(filters.search, e)) return false;
       return true;
     }});
     var pages=Math.max(1,Math.ceil(vis.length/N));
@@ -562,8 +620,20 @@ _INDEX_TMPL = """\
       +'</div>';
   }}
 
-  // Initial pagination reflects server-rendered first page; clicking it triggers data.json fetch.
-  if(TOTAL>N) renderPag(Math.ceil(TOTAL/N));
+  // Restore saved filters on load
+  loadSavedFilters();
+  applyFiltersToUI();
+  updateFilterBadge();
+  var _hasActiveFilters=(filters.search||filters.channel||filters.direction.length||filters.affiliation.length);
+  if(_hasActiveFilters){{
+    var fg=document.getElementById('filter-groups');
+    var btn=document.getElementById('filter-toggle');
+    if(fg){{fg.hidden=false;}}
+    if(btn){{btn.setAttribute('aria-expanded','true');btn.querySelector('.filter-toggle-icon').textContent='▴';}}
+    loadData().then(renderFromData);
+  }} else if(TOTAL>N){{
+    renderPag(Math.ceil(TOTAL/N));
+  }}
 
   function navigate(){{
     loadData().then(function(){{
@@ -578,6 +648,7 @@ _INDEX_TMPL = """\
     var badge=document.getElementById('filter-badge');
     if(!badge) return;
     var count=0;
+    if(filters.search) count++;
     if(filters.channel) count++;
     if(filters.direction && filters.direction.length) count+=filters.direction.length;
     if(filters.affiliation && filters.affiliation.length) count+=filters.affiliation.length;
@@ -600,12 +671,28 @@ _INDEX_TMPL = """\
     btn.querySelector('.filter-toggle-icon').textContent=open?'▴':'▾';
   }};
 
+  var searchInput=document.getElementById('search-input');
+  var searchTimer=null;
+  if(searchInput){{
+    searchInput.addEventListener('input',function(){{
+      clearTimeout(searchTimer);
+      searchTimer=setTimeout(function(){{
+        filters.search=searchInput.value.trim();
+        page=1;
+        updateFilterBadge();
+        saveFilters();
+        loadData().then(renderFromData);
+      }},220);
+    }});
+  }}
+
   var chanSel=document.getElementById('channel-select');
   if(chanSel){{
     chanSel.addEventListener('change',function(){{
       filters.channel=chanSel.value;
       page=1;
       updateFilterBadge();
+      saveFilters();
       loadData().then(renderFromData);
     }});
   }}
@@ -638,6 +725,7 @@ _INDEX_TMPL = """\
       }}
       page=1;
       updateFilterBadge();
+      saveFilters();
       loadData().then(renderFromData);
     }});
   }});
