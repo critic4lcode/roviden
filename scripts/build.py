@@ -226,14 +226,34 @@ def _root_prefix(page_url: str) -> str:
 
 # ── HTML templates ────────────────────────────────────────────────────────────
 
+_SITE_BASE_URL = "https://roviden.jegyezve.com"
+
 _VIDEO_TMPL = """\
 <!doctype html>
 <html lang="hu">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="{desc}">
 <title>{title} - Röviden</title>
+<meta name="description" content="{desc}">
+<link rel="canonical" href="{canonical_url}">
+<!-- Open Graph -->
+<meta property="og:type" content="video.other">
+<meta property="og:site_name" content="Röviden">
+<meta property="og:url" content="{canonical_url}">
+<meta property="og:title" content="{title} - Röviden">
+<meta property="og:description" content="{desc}">
+<meta property="og:image" content="https://i.ytimg.com/vi/{video_id}/hqdefault.jpg">
+<meta property="og:image:width" content="480">
+<meta property="og:image:height" content="360">
+<meta property="og:locale" content="hu_HU">
+<!-- Twitter / X Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{title} - Röviden">
+<meta name="twitter:description" content="{desc}">
+<meta name="twitter:image" content="https://i.ytimg.com/vi/{video_id}/hqdefault.jpg">
+<!-- JSON-LD -->
+<script type="application/ld+json">{jsonld}</script>
 <link rel="stylesheet" href="{root}/style.css">
 __POSTHOG_SNIPPET__
 </head>
@@ -384,6 +404,31 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
     edit_url = html.escape(f"{GITHUB_REPO_URL}/blob/main/content/{source_rel}") if source_rel else html.escape(GITHUB_REPO_URL)
     issues_url = html.escape(ISSUES_URL)
 
+    # Canonical URL (page_url is relative like "v/channel/date-slug.html")
+    _page_rel = fm.get("_page_url_rel", "")
+    canonical_url = html.escape(f"{_SITE_BASE_URL}/{_page_rel}" if _page_rel else _SITE_BASE_URL)
+
+    # JSON-LD VideoObject
+    published_iso = str(fm.get("published_at", fm.get("date", "")))
+    _jsonld = {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": title,
+        "description": plain_summary[:300],
+        "thumbnailUrl": f"https://i.ytimg.com/vi/{fm.get('video_id', '')}/hqdefault.jpg",
+        "uploadDate": published_iso,
+        "embedUrl": f"https://www.youtube.com/embed/{fm.get('video_id', '')}",
+        "url": str(fm.get("video_url", f"https://www.youtube.com/watch?v={fm.get('video_id', '')}")),
+        "publisher": {
+            "@type": "Organization",
+            "name": str(fm.get("channel_name", "")),
+        },
+    }
+    if duration_sec:
+        h, m, s = duration_sec // 3600, (duration_sec % 3600) // 60, duration_sec % 60
+        _jsonld["duration"] = f"PT{h}H{m}M{s}S" if h else f"PT{m}M{s}S"
+    jsonld_str = html.escape(json.dumps(_jsonld, ensure_ascii=False), quote=False)
+
     return (
         _VIDEO_TMPL.format(
             root=root,
@@ -392,6 +437,8 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
             title=title,
             title_esc=title_esc,
             desc=desc,
+            canonical_url=canonical_url,
+            jsonld=jsonld_str,
             channel_name=channel_name,
             date_display=date_display,
             duration_span=duration_span,
@@ -458,6 +505,21 @@ _INDEX_TMPL = """\
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Röviden - Hosszú beszélgetések, podcastek és interjúk dióhéjban</title>
+<meta name="description" content="Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói – gyorsan átláthatod a lényeget.">
+<link rel="canonical" href="https://roviden.jegyezve.com/">
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Röviden">
+<meta property="og:url" content="https://roviden.jegyezve.com/">
+<meta property="og:title" content="Röviden - Hosszú beszélgetések, podcastek és interjúk dióhéjban">
+<meta property="og:description" content="Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói – gyorsan átláthatod a lényeget.">
+<meta property="og:locale" content="hu_HU">
+<!-- Twitter / X Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Röviden - Hosszú beszélgetések, podcastek és interjúk dióhéjban">
+<meta name="twitter:description" content="Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói – gyorsan átláthatod a lényeget.">
+<!-- JSON-LD -->
+<script type="application/ld+json">{{"@context":"https://schema.org","@type":"WebSite","name":"Röviden","url":"https://roviden.jegyezve.com/","description":"Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói.","inLanguage":"hu"}}</script>
 <link rel="stylesheet" href="style.css">
 __POSTHOG_SNIPPET__
 </head>
@@ -1260,6 +1322,7 @@ def build(site_root: Path, out_dir: Path) -> None:
         source_rel = md_path.relative_to(content_dir).as_posix()
         ch_slug = str(fm.get("channel_slug", ""))
         ch_data = channel_data_map.get(ch_slug, {})
+        fm["_page_url_rel"] = page_url
         page_html = _build_video_page(fm, tldr_md, details_md, uncertain_md, transcript_block, root=root, source_rel=source_rel, channel_data=ch_data)
         out_page = out_dir / page_url
         out_page.parent.mkdir(parents=True, exist_ok=True)
