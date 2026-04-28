@@ -411,6 +411,18 @@ channels:
   - közélet
   notes: Egyértelműen kormánykritikus, liberális-demokrata hangvételű csatorna; többen
     Tisza-szimpatizánsként azonosítják
+- id: UCdPhEv5wiw2uK6J0_wkc-RA
+  slug: bunvadaszok
+  display_name: Bűnvadászok
+  affiliation: opposition
+  direction: far-right
+  default_tags:
+  - nyomozás
+  - rendőrség
+  - mi hazánk
+  notes: A Bűnvadászok egy olyan, a Mi Hazánk Mozgalom támogatásával és a Magyar Önvédelmi
+    Mozgalom (MÖM) közreműködésével a közbiztonság hiányosságait kritizálva, helyszíni
+    „rendteremtő” akciókat és a bűnözés elleni civil fellépéseket mutatja be.
 - id: UCWv4tPRbBfgWAK1Dciq2ttA
   slug: otpontban
   display_name: Ötpontban
