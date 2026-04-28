@@ -1444,7 +1444,7 @@ body.modal-open .about-fab { display: none; }
 
 /* ── Cookie policy collapsible (inside welcome modal) ───────────────────── */
 .cookie-policy {
-  margin-top: 1rem;
+  margin: 1rem 0;
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
   overflow: hidden;
