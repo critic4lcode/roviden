@@ -10,7 +10,7 @@ channel_name: Szélsőközép
 affiliation: independent
 direction: centrist
 notes: Inga Kultúrkávézó - tudatosan centrista, frontális kritika
-published_at: '2026-04-27T16:00:00+00:00'
+published_at: '2026-04-27T16:00:06+00:00'
 duration_sec: 6996
 tags:
 - politika

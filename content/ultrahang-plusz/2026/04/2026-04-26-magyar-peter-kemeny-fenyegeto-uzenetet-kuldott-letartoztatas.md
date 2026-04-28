@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: 'Magyar Péter kemény fenyegető üzenetet küldött: letartóztatások jönnek? -
   Nagy Attila Tibor'
 description: ''
@@ -10,7 +10,7 @@ channel_name: Ultrahang Plusz
 affiliation: fidesz-aligned
 direction: conservative
 notes: Ultrahang másodlagos csatórnája
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T14:00:12+00:00'
 duration_sec: 2062
 tags:
 - magyar választások

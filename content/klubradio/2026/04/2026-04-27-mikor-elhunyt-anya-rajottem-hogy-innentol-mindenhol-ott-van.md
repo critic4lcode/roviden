@@ -9,7 +9,7 @@ channel_name: Klubrádió
 affiliation: independent
 direction: liberal
 notes: Online független hírrádió
-published_at: '2026-04-27T12:00:00+00:00'
+published_at: '2026-04-27T12:01:19+00:00'
 duration_sec: 1970
 tags:
 - interjú

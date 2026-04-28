@@ -10,7 +10,7 @@ channel_name: Puzsér Róbert
 affiliation: independent
 direction: conservative
 notes: Publicista, Polgári Ellenállás, konzervatív rendszerkritikus
-published_at: '2026-04-27T07:00:00+00:00'
+published_at: '2026-04-27T07:00:26+00:00'
 duration_sec: 3930
 tags:
 - elszámoltatás

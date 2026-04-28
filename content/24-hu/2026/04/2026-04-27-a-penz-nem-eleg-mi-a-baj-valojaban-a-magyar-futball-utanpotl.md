@@ -9,7 +9,7 @@ channel_name: 24.hu
 affiliation: independent
 direction: centrist
 notes: Central Médiacsoport, mérsékelt mainstream
-published_at: '2026-04-27T17:00:00+00:00'
+published_at: '2026-04-27T17:00:10+00:00'
 duration_sec: 4218
 tags:
 - futball

@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: 'A NER elszámoltatása; Leépítések a propagandánál; Sulyok Laposföld-díja |
   Önkényes Mérvadó #1192'
 description: ''
@@ -10,7 +10,7 @@ channel_name: Szélsőközép
 affiliation: independent
 direction: centrist
 notes: Inga Kultúrkávézó - tudatosan centrista, frontális kritika
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T10:00:07+00:00'
 duration_sec: 4468
 tags:
 - elszámoltatás

@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: Farkasverem - Ezt látta ’56-ban Moszkva és Washington - Hír.FM
 description: ''
 video_id: nV_sBdnnWVw
@@ -9,7 +9,7 @@ channel_name: Hír FM
 affiliation: fidesz-aligned
 direction: conservative
 notes: Jobboldali közéleti rádió
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T09:01:04+00:00'
 duration_sec: 2549
 tags:
 - '1956'

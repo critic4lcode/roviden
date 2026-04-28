@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: 'Tilla: Nem tudom a Tv2-t csak és kizárólag a politikai gépezet részeként nézni
   | Kritikus Én'
 description: ''
@@ -10,7 +10,7 @@ channel_name: Szélsőközép
 affiliation: independent
 direction: centrist
 notes: Inga Kultúrkávézó - tudatosan centrista, frontális kritika
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T17:00:06+00:00'
 duration_sec: 5235
 tags:
 - interjú

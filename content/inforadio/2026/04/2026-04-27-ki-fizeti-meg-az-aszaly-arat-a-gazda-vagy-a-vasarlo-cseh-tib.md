@@ -10,7 +10,7 @@ channel_name: InfoRádió - Infostart
 affiliation: independent
 direction: conservative
 notes: ''
-published_at: '2026-04-27T16:00:00+00:00'
+published_at: '2026-04-27T15:30:03+00:00'
 duration_sec: 2947
 tags:
 - mezőgazdaság

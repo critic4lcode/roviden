@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: Csörte - Megjavult jogállamiság - HírTV
 description: ''
 video_id: LN76ptd92r8
@@ -9,7 +9,7 @@ channel_name: Hír TV
 affiliation: fidesz-aligned
 direction: conservative
 notes: Mediaworks/KESMA kormánypárti hírTévé
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T18:45:01+00:00'
 duration_sec: 2190
 tags:
 - kormányváltás

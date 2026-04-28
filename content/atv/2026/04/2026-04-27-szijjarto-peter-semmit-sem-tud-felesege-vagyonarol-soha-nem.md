@@ -10,7 +10,7 @@ channel_name: ATV Magyarország
 affiliation: independent
 direction: liberal
 notes: ATV kereskedelmi tévé (Hit Gyülekezet tulajdon), kormánykritikus
-published_at: '2026-04-27T10:00:00+00:00'
+published_at: '2026-04-27T10:00:46+00:00'
 duration_sec: 3765
 tags:
 - választás

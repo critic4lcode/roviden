@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: Negyven évvel Csernobil után még ma is működnek Oroszországban ugyanolyan típusú
   reaktorok
 description: ''
@@ -10,7 +10,7 @@ channel_name: Index.hu
 affiliation: fidesz-aligned
 direction: centrist
 notes: 2020 óta vitatott függetlenségű hírportál
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T05:25:16+00:00'
 duration_sec: 2419
 tags:
 - csernobil

@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: Sajtóklub - Brüsszel játszmája
 description: ''
 video_id: C70zVwRVREI
@@ -9,7 +9,7 @@ channel_name: SajtóKlub HírTV
 affiliation: fidesz-aligned
 direction: conservative
 notes: A HírTV fideszközeli médiabirodalom (KESMA) része
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T17:45:01+00:00'
 duration_sec: 2140
 tags:
 - belpolitika

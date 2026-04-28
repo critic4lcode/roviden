@@ -9,7 +9,7 @@ channel_name: Ultrahang Plusz
 affiliation: fidesz-aligned
 direction: conservative
 notes: Ultrahang másodlagos csatórnája
-published_at: '2026-04-27T11:00:00+00:00'
+published_at: '2026-04-27T10:30:17+00:00'
 duration_sec: 2752
 tags:
 - magyar politika

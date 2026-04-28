@@ -9,7 +9,7 @@ channel_name: Hír TV
 affiliation: fidesz-aligned
 direction: conservative
 notes: Mediaworks/KESMA kormánypárti hírTévé
-published_at: '2026-04-27T12:00:00+00:00'
+published_at: '2026-04-27T12:10:40+00:00'
 duration_sec: 3540
 tags:
 - ukrán háború

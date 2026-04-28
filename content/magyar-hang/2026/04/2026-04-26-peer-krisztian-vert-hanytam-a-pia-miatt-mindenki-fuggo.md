@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: 'Peer Krisztián: Vért hánytam a pia miatt – Mindenki függő'
 description: ''
 video_id: vXANyutn518
@@ -9,7 +9,7 @@ channel_name: Magyar Hang
 affiliation: independent
 direction: conservative
 notes: Volt Magyar Nemzet stáb, konzervatív de kormánykritikus
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T17:00:06+00:00'
 duration_sec: 3549
 tags:
 - interjú

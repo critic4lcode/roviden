@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: Az Öreg - Megbillent a serpenyő - Hír.FM
 description: ''
 video_id: 194Q_ACuV_g
@@ -9,7 +9,7 @@ channel_name: Hír FM
 affiliation: fidesz-aligned
 direction: conservative
 notes: Jobboldali közéleti rádió
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T12:00:03+00:00'
 duration_sec: 2556
 tags:
 - magyar választások

@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: 'HAZAHÚZÓ – Adony: borászat, lovak, természet'
 description: ''
 video_id: sB2ZK5q6fR4
@@ -9,7 +9,7 @@ channel_name: ATV Magyarország
 affiliation: independent
 direction: liberal
 notes: ATV kereskedelmi tévé (Hit Gyülekezet tulajdon), kormánykritikus
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T05:30:34+00:00'
 duration_sec: 2720
 tags:
 - turizmus

@@ -10,7 +10,7 @@ channel_name: Fekete Rita
 affiliation: fidesz-aligned
 direction: conservative
 notes: Közéleti influencer, nyíltan kormánypárti pozícióban
-published_at: '2026-04-27T14:00:00+00:00'
+published_at: '2026-04-27T14:15:06+00:00'
 duration_sec: 2036
 tags:
 - geopolitika

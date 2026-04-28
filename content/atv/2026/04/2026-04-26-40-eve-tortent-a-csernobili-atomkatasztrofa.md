@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: 40 éve történt a csernobili atomkatasztrófa
 description: ''
 video_id: n2ViwNjT87g
@@ -9,7 +9,7 @@ channel_name: ATV Magyarország
 affiliation: independent
 direction: liberal
 notes: ATV kereskedelmi tévé (Hit Gyülekezet tulajdon), kormánykritikus
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T14:01:21+00:00'
 duration_sec: 4589
 tags:
 - atomenergia

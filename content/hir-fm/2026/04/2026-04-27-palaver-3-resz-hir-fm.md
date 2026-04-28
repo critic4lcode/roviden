@@ -9,7 +9,7 @@ channel_name: Hír FM
 affiliation: fidesz-aligned
 direction: conservative
 notes: Jobboldali közéleti rádió
-published_at: '2026-04-27T17:00:00+00:00'
+published_at: '2026-04-27T17:11:03+00:00'
 duration_sec: 2592
 tags:
 - fidesz

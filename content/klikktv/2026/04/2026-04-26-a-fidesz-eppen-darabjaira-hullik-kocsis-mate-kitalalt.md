@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: A Fidesz éppen darabjaira hullik - Kocsis Máté kitálalt
 description: ''
 video_id: 9qOO8UH--1s
@@ -10,7 +10,7 @@ affiliation: opposition
 direction: liberal
 notes: Egyértelműen kormánykritikus, liberális-demokrata hangvételű csatorna; többen
   Tisza-szimpatizánsként azonosítják
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T07:00:12+00:00'
 duration_sec: 2006
 tags:
 - fidesz

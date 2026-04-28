@@ -10,7 +10,7 @@ channel_name: Hit Rádió
 affiliation: fidesz-aligned
 direction: conservative
 notes: Keresztény rádió, szorosan kötődik a kormány egyházpolitikájához
-published_at: '2026-04-27T09:00:00+00:00'
+published_at: '2026-04-27T09:15:08+00:00'
 duration_sec: 2003
 tags:
 - tisza párt

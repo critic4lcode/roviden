@@ -11,7 +11,7 @@ affiliation: fidesz-aligned
 direction: conservative
 notes: Markánsan jobboldali, a fidesz-narratívát támogató, a Tisza pártot kritizáló
   csatorna.
-published_at: '2026-04-27T15:00:00+00:00'
+published_at: '2026-04-27T15:01:10+00:00'
 duration_sec: 1895
 tags:
 - magyar politika

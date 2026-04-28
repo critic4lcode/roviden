@@ -9,7 +9,7 @@ channel_name: Ridikül
 affiliation: ''
 direction: ''
 notes: ''
-published_at: '2026-04-27T17:00:00+00:00'
+published_at: '2026-04-27T16:26:03+00:00'
 duration_sec: 3000
 tags:
 - interjú

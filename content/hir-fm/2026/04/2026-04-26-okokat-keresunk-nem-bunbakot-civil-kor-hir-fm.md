@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: Okokat keresünk, nem bűnbakot - Civil Kör – Hír Fm
 description: ''
 video_id: RzaDezb6dBw
@@ -9,7 +9,7 @@ channel_name: Hír FM
 affiliation: fidesz-aligned
 direction: conservative
 notes: Jobboldali közéleti rádió
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T10:00:45+00:00'
 duration_sec: 2641
 tags:
 - fidesz

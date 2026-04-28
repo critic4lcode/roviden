@@ -9,7 +9,7 @@ channel_name: Hír TV
 affiliation: fidesz-aligned
 direction: conservative
 notes: Mediaworks/KESMA kormánypárti hírTévé
-published_at: '2026-04-27T07:00:00+00:00'
+published_at: '2026-04-27T06:58:58+00:00'
 duration_sec: 1888
 tags:
 - biztonságpolitika

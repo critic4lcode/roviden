@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: „Eddig és ne tovább” – Takács Péter a Bayer show-ban beszélt a politikai lincshangulatról
 description: ''
 video_id: J5rnXqp5Bk4
@@ -9,7 +9,7 @@ channel_name: Bayer Show HírTV
 affiliation: fidesz-aligned
 direction: conservative
 notes: Bayer Zsolt heti show
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T19:45:01+00:00'
 duration_sec: 2166
 tags:
 - belpolitika

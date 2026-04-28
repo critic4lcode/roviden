@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: 'Magyar Péterről: “NER lovagok helyett NER apródok kormányoznak” - Szanyi Tibor '
 description: ''
 video_id: sE59ZdE7VUY
@@ -9,7 +9,7 @@ channel_name: Ultrahang Plusz
 affiliation: fidesz-aligned
 direction: conservative
 notes: Ultrahang másodlagos csatórnája
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T07:45:05+00:00'
 duration_sec: 2130
 tags:
 - külpolitika

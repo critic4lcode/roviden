@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: Magyar Péter következő sztorija a Fidesz bűneinek feltárása lehet
 description: ''
 video_id: rdZtjRTarE0
@@ -9,7 +9,7 @@ channel_name: Ötpontban
 affiliation: independent
 direction: centrist
 notes: Dull Szabolcs politikai elemző csatornája, pártatlan szakmai megközelítéssel
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T06:00:43+00:00'
 duration_sec: 3432
 tags:
 - magyar választások

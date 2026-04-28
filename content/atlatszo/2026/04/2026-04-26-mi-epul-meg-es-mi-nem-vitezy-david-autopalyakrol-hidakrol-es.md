@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: Mi épül meg és mi nem? – Vitézy Dávid autópályákról, hidakról és vasútvonalakról
 description: ''
 video_id: tHoxLizrU9A
@@ -9,7 +9,7 @@ channel_name: Átlátszó
 affiliation: independent
 direction: liberal
 notes: atlatszo.hu tényfeltáró oknyomozó nonprofit
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T09:04:50+00:00'
 duration_sec: 2731
 tags:
 - vasút

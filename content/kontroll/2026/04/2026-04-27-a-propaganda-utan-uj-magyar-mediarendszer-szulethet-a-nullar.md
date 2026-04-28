@@ -9,7 +9,7 @@ channel_name: Kontroll
 affiliation: tisza-aligned
 direction: centrist
 notes: kontroll.hu - Magyar Márton, Tisza-közeli szerkesztőségi média
-published_at: '2026-04-27T16:00:00+00:00'
+published_at: '2026-04-27T16:01:10+00:00'
 duration_sec: 3433
 tags:
 - média

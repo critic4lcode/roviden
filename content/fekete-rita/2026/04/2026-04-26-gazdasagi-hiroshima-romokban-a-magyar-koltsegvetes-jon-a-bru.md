@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: 'Gazdasági Hiroshima: Romokban a magyar költségvetés, jön a brutális megszorítás?
   – Pogátsa Zoltán'
 description: ''
@@ -10,7 +10,7 @@ channel_name: Fekete Rita
 affiliation: fidesz-aligned
 direction: conservative
 notes: Közéleti influencer, nyíltan kormánypárti pozícióban
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T13:15:01+00:00'
 duration_sec: 3056
 tags:
 - gazdaságpolitika

@@ -10,7 +10,7 @@ channel_name: Mandiner
 affiliation: fidesz-aligned
 direction: conservative
 notes: MCC-tulajdon, konzervatív intellektuális
-published_at: '2026-04-27T17:00:00+00:00'
+published_at: '2026-04-27T16:45:06+00:00'
 duration_sec: 2626
 tags:
 - politikai elemzés

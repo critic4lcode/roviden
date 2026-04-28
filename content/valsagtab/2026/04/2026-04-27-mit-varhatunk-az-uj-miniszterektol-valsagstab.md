@@ -9,7 +9,7 @@ channel_name: Válságstáb
 affiliation: independent
 direction: centrist
 notes: Független közgazdasági és politikai elemzések
-published_at: '2026-04-27T04:00:00+00:00'
+published_at: '2026-04-27T04:00:20+00:00'
 duration_sec: 3834
 tags:
 - gazdaságpolitika

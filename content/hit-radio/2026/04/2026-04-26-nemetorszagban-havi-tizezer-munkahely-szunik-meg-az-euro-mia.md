@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: Németországban havi tízezer munkahely szűnik meg az euró miatt!?  - Kiszelly
   Zoltán
 description: ''
@@ -10,7 +10,7 @@ channel_name: Hit Rádió
 affiliation: fidesz-aligned
 direction: conservative
 notes: Keresztény rádió, szorosan kötődik a kormány egyházpolitikájához
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T09:15:05+00:00'
 duration_sec: 2239
 tags:
 - euró

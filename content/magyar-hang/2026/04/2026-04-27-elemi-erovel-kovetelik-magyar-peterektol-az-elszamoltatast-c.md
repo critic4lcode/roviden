@@ -9,7 +9,7 @@ channel_name: Magyar Hang
 affiliation: independent
 direction: conservative
 notes: Volt Magyar Nemzet stáb, konzervatív de kormánykritikus
-published_at: '2026-04-27T18:00:00+00:00'
+published_at: '2026-04-27T18:00:06+00:00'
 duration_sec: 3409
 tags:
 - elszámoltatás

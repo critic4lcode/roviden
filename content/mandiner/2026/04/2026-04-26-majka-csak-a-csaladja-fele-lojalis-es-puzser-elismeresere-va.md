@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: „MAJKA csak a családja felé lojális, és PUZSÉR elismerésére vágyik” – Dopeman
   | Hotel Lentulai
 description: ''
@@ -10,7 +10,7 @@ channel_name: Mandiner
 affiliation: fidesz-aligned
 direction: conservative
 notes: MCC-tulajdon, konzervatív intellektuális
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T08:00:06+00:00'
 duration_sec: 7225
 tags:
 - magyar politika

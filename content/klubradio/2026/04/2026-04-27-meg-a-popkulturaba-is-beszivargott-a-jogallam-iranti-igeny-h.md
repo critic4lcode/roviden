@@ -9,7 +9,7 @@ channel_name: Klubrádió
 affiliation: independent
 direction: liberal
 notes: Online független hírrádió
-published_at: '2026-04-27T14:00:00+00:00'
+published_at: '2026-04-27T14:00:54+00:00'
 duration_sec: 3305
 tags:
 - jogállam

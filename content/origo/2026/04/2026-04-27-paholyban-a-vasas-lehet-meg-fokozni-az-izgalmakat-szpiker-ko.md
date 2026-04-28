@@ -9,7 +9,7 @@ channel_name: ORIGO
 affiliation: fidesz-aligned
 direction: conservative
 notes: origo.hu - Mediaworks, 2016 óta kormánypárti
-published_at: '2026-04-27T14:00:00+00:00'
+published_at: '2026-04-27T13:29:30+00:00'
 duration_sec: 2596
 tags:
 - futball

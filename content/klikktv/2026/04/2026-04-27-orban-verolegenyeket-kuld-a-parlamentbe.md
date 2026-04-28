@@ -10,7 +10,7 @@ affiliation: opposition
 direction: liberal
 notes: Egyértelműen kormánykritikus, liberális-demokrata hangvételű csatorna; többen
   Tisza-szimpatizánsként azonosítják
-published_at: '2026-04-27T20:00:00+00:00'
+published_at: '2026-04-27T19:15:23+00:00'
 duration_sec: 3032
 tags:
 - magyar politika

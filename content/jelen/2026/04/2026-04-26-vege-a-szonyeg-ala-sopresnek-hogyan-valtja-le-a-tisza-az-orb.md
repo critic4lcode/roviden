@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: 'Vége a „szőnyeg alá söprésnek”: Hogyan váltja le a Tisza az orbáni politikai
   kormányzás modellt?'
 description: ''
@@ -10,7 +10,7 @@ channel_name: Jelen hetilap
 affiliation: independent
 direction: liberal
 notes: jelen.media független hetilap
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T07:29:20+00:00'
 duration_sec: 2749
 tags:
 - tisza párt

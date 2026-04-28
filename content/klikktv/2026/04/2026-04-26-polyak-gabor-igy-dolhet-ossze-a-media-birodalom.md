@@ -1,5 +1,5 @@
 ---
-date: '2026-04-27'
+date: '2026-04-26'
 title: 'Polyák Gábor: Így dőlhet össze a média-birodalom'
 description: ''
 video_id: TLP4rvttUuI
@@ -10,7 +10,7 @@ affiliation: opposition
 direction: liberal
 notes: Egyértelműen kormánykritikus, liberális-demokrata hangvételű csatorna; többen
   Tisza-szimpatizánsként azonosítják
-published_at: '2026-04-27T00:00:00+00:00'
+published_at: '2026-04-26T05:30:22+00:00'
 duration_sec: 1838
 tags:
 - média
