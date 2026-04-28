@@ -25,6 +25,22 @@ from pathlib import Path
 import markdown as md_lib
 import yaml
 
+
+def _minify_css(css: str) -> str:
+    """Basic but effective CSS minifier — no extra dependencies."""
+    # Remove /* ... */ comments
+    css = re.sub(r'/\*.*?\*/', '', css, flags=re.DOTALL)
+    # Collapse whitespace (spaces, tabs, newlines) to a single space
+    css = re.sub(r'\s+', ' ', css)
+    # Remove spaces around structural characters
+    css = re.sub(r'\s*([{};:,>~+])\s*', r'\1', css)
+    # Remove spaces around ! (e.g. !important)
+    css = re.sub(r'\s*!\s*', '!', css)
+    # Remove trailing semicolons before closing brace
+    css = re.sub(r';+\}', '}', css)
+    # Remove leading/trailing whitespace
+    return css.strip()
+
 HU_MONTHS = [
     'január', 'február', 'március', 'április', 'május', 'június',
     'július', 'augusztus', 'szeptember', 'október', 'november', 'december',
@@ -461,10 +477,23 @@ _INDEX_TMPL = """\
     <div class="filter-groups" id="filter-groups" hidden>
       <div class="filter-row filter-row-combined">
         <span class="filter-label">Csatorna:</span>
-        <select class="filter-select" id="channel-select" data-group="channel">
-          <option value="">Összes ({total})</option>
-          {channel_options}
-        </select>
+        <div class="ch-dropdown" id="ch-dropdown">
+          <button class="ch-dropdown-btn" id="ch-dropdown-btn" type="button" aria-haspopup="listbox" aria-expanded="false">
+            <span class="ch-dropdown-label" id="ch-dropdown-label">Összes csatorna</span>
+            <span class="ch-dropdown-arrow" aria-hidden="true">▾</span>
+          </button>
+          <div class="ch-dropdown-panel" id="ch-dropdown-panel" hidden role="listbox" aria-multiselectable="true">
+            <div class="ch-dropdown-search-wrap">
+              <input class="ch-dropdown-search" id="ch-dropdown-search" type="search" placeholder="Csatorna keresése…" autocomplete="off" spellcheck="false">
+            </div>
+            <ul class="ch-dropdown-list" id="ch-dropdown-list">
+              <li class="ch-dropdown-item ch-dropdown-all active" data-slug="" id="ch-all-item">
+                <span class="ch-dropdown-all-btn">Összes ({total})</span>
+              </li>
+              {channel_options}
+            </ul>
+          </div>
+        </div>
         <span class="filter-label filter-label-mid">Irányultság:</span>
         <span class="chip-group" data-group="direction">
           <button class="chip active" data-group="direction" data-f="">Összes</button>
@@ -502,7 +531,7 @@ _INDEX_TMPL = """\
 }})();
 (function(){{
   var N={page_size},TOTAL={total},page=1,data=null,loading=null;
-  var filters={{channel:'',direction:[],affiliation:[],search:''}};
+  var filters={{channel:[],direction:[],affiliation:[],search:''}};
   var MULTI={{direction:true,affiliation:true}};
   var feed=document.getElementById('feed');
 
@@ -528,9 +557,9 @@ _INDEX_TMPL = """\
     // search input
     var si=document.getElementById('search-input');
     if(si && filters.search) si.value=filters.search;
-    // channel select
-    var cs=document.getElementById('channel-select');
-    if(cs && filters.channel) cs.value=filters.channel;
+    // channel checkboxes
+    syncChannelCheckboxes();
+    updateChannelBtnLabel();
     // chips
     ['direction','affiliation'].forEach(function(group){{
       var arr=filters[group];
@@ -546,6 +575,41 @@ _INDEX_TMPL = """\
         }});
       }}
     }});
+  }}
+
+  function syncChannelCheckboxes(){{
+    var allItem=document.getElementById('ch-all-item');
+    var items=document.querySelectorAll('#ch-dropdown-list .ch-dropdown-item:not(.ch-dropdown-all)');
+    var sel=filters.channel;
+    if(!sel||sel.length===0){{
+      if(allItem) allItem.classList.add('active');
+      items.forEach(function(li){{
+        var cb=li.querySelector('input[type=checkbox]');
+        if(cb) cb.checked=false;
+      }});
+    }} else {{
+      if(allItem) allItem.classList.remove('active');
+      items.forEach(function(li){{
+        var cb=li.querySelector('input[type=checkbox]');
+        if(cb) cb.checked=sel.indexOf(li.dataset.slug)!==-1;
+      }});
+    }}
+  }}
+
+  function updateChannelBtnLabel(){{
+    var lbl=document.getElementById('ch-dropdown-label');
+    if(!lbl) return;
+    var sel=filters.channel;
+    if(!sel||sel.length===0){{
+      lbl.textContent='Összes csatorna';
+    }} else if(sel.length===1){{
+      // find name
+      var item=document.querySelector('#ch-dropdown-list .ch-dropdown-item[data-slug="'+sel[0]+'"]');
+      var name=item?item.querySelector('label').textContent.trim():sel[0];
+      lbl.textContent=name;
+    }} else {{
+      lbl.textContent=sel.length+' csatorna kiválasztva';
+    }}
   }}
 
   function loadData(){{
@@ -592,7 +656,7 @@ _INDEX_TMPL = """\
 
   function renderFromData(){{
     var vis=data.filter(function(e){{
-      if(filters.channel && e.channel_slug!==filters.channel) return false;
+      if(filters.channel.length && filters.channel.indexOf(e.channel_slug)===-1) return false;
       if(filters.direction.length && filters.direction.indexOf(e.direction||'')===-1) return false;
       if(filters.affiliation.length && filters.affiliation.indexOf(e.affiliation||'')===-1) return false;
       if(!fuzzyMatch(filters.search, e)) return false;
@@ -624,7 +688,7 @@ _INDEX_TMPL = """\
   loadSavedFilters();
   applyFiltersToUI();
   updateFilterBadge();
-  var _hasActiveFilters=(filters.search||filters.channel||filters.direction.length||filters.affiliation.length);
+  var _hasActiveFilters=(filters.search||filters.channel.length||filters.direction.length||filters.affiliation.length);
   if(_hasActiveFilters){{
     var fg=document.getElementById('filter-groups');
     var btn=document.getElementById('filter-toggle');
@@ -649,7 +713,7 @@ _INDEX_TMPL = """\
     if(!badge) return;
     var count=0;
     if(filters.search) count++;
-    if(filters.channel) count++;
+    if(filters.channel && filters.channel.length) count+=filters.channel.length;
     if(filters.direction && filters.direction.length) count+=filters.direction.length;
     if(filters.affiliation && filters.affiliation.length) count+=filters.affiliation.length;
     if(count>0){{
@@ -686,16 +750,82 @@ _INDEX_TMPL = """\
     }});
   }}
 
-  var chanSel=document.getElementById('channel-select');
-  if(chanSel){{
-    chanSel.addEventListener('change',function(){{
-      filters.channel=chanSel.value;
-      page=1;
-      updateFilterBadge();
-      saveFilters();
-      loadData().then(renderFromData);
+  // ── Channel multi-select dropdown ──
+  (function(){{
+    var btn=document.getElementById('ch-dropdown-btn');
+    var panel=document.getElementById('ch-dropdown-panel');
+    var searchInput=document.getElementById('ch-dropdown-search');
+    var list=document.getElementById('ch-dropdown-list');
+    if(!btn||!panel) return;
+
+    function openPanel(){{
+      panel.hidden=false;
+      btn.setAttribute('aria-expanded','true');
+      btn.querySelector('.ch-dropdown-arrow').textContent='▴';
+      if(searchInput){{ searchInput.value=''; filterList(''); searchInput.focus(); }}
+    }}
+    function closePanel(){{
+      panel.hidden=true;
+      btn.setAttribute('aria-expanded','false');
+      btn.querySelector('.ch-dropdown-arrow').textContent='▾';
+    }}
+    btn.addEventListener('click',function(e){{
+      e.stopPropagation();
+      if(panel.hidden) openPanel(); else closePanel();
     }});
-  }}
+    document.addEventListener('click',function(e){{
+      if(!panel.hidden && !panel.contains(e.target) && e.target!==btn){{
+        closePanel();
+      }}
+    }});
+    document.addEventListener('keydown',function(e){{
+      if(e.key==='Escape'&&!panel.hidden) closePanel();
+    }});
+
+    function filterList(q){{
+      var items=list.querySelectorAll('.ch-dropdown-item:not(.ch-dropdown-all)');
+      var lq=q.toLowerCase();
+      items.forEach(function(li){{
+        var name=li.querySelector('label').textContent.toLowerCase();
+        li.hidden=lq&&name.indexOf(lq)===-1;
+      }});
+    }}
+    if(searchInput){{
+      searchInput.addEventListener('input',function(){{ filterList(searchInput.value.trim()); }});
+      searchInput.addEventListener('click',function(e){{ e.stopPropagation(); }});
+    }}
+
+    // "Összes" button
+    var allItem=document.getElementById('ch-all-item');
+    if(allItem){{
+      allItem.addEventListener('click',function(){{
+        filters.channel=[];
+        list.querySelectorAll('.ch-dropdown-item:not(.ch-dropdown-all) input[type=checkbox]').forEach(function(cb){{cb.checked=false;}});
+        allItem.classList.add('active');
+        page=1; updateFilterBadge(); updateChannelBtnLabel(); saveFilters();
+        loadData().then(renderFromData);
+      }});
+    }}
+
+    // Individual channel checkboxes
+    list.querySelectorAll('.ch-dropdown-item:not(.ch-dropdown-all)').forEach(function(li){{
+      var cb=li.querySelector('input[type=checkbox]');
+      if(!cb) return;
+      cb.addEventListener('change',function(){{
+        var slug=li.dataset.slug;
+        var idx=filters.channel.indexOf(slug);
+        if(cb.checked){{
+          if(idx===-1) filters.channel.push(slug);
+          if(allItem) allItem.classList.remove('active');
+        }} else {{
+          if(idx!==-1) filters.channel.splice(idx,1);
+          if(filters.channel.length===0 && allItem) allItem.classList.add('active');
+        }}
+        page=1; updateFilterBadge(); updateChannelBtnLabel(); saveFilters();
+        loadData().then(renderFromData);
+      }});
+    }});
+  }})();
 
   var chips=document.querySelectorAll('.chip');
   chips.forEach(function(c){{
@@ -743,8 +873,10 @@ def _build_index(data: list[dict]) -> str:
         if slug not in seen:
             seen[slug] = e["channel_name"]
 
-    channel_options = "\n          ".join(
-        f'<option value="{html.escape(slug)}">{html.escape(name)}</option>'
+    channel_options = "\n              ".join(
+        f'<li class="ch-dropdown-item" data-slug="{html.escape(slug)}">'
+        f'<label><input type="checkbox" value="{html.escape(slug)}"> {html.escape(name)}</label>'
+        f'</li>'
         for slug, name in seen.items()
     )
 
@@ -820,10 +952,11 @@ def build(site_root: Path, out_dir: Path) -> None:
 
     channel_data_map = _load_channel_data(site_root)
 
-    # Copy static assets
+    # Copy static assets (minified)
     style = site_root / "scripts/style.css"
     if style.exists():
-        shutil.copy(style, out_dir / "style.css")
+        minified = _minify_css(style.read_text(encoding="utf-8"))
+        (out_dir / "style.css").write_text(minified, encoding="utf-8")
     (out_dir / ".nojekyll").touch()
 
     # Process each content file (sorted newest-first by filename, recursive)
