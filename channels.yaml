@@ -209,7 +209,7 @@ channels:
   direction: centrist
   default_tags:
   - közélet
-  notes: Tisza Párt elnökének hivatalos csatórnája
+  notes: Tisza Párt elnökének hivatalos csatornája
 - id: UCdGCcuu66SuqaDQoSuh5wyA
   slug: tisza
   display_name: TISZA Hivatalos
@@ -217,7 +217,7 @@ channels:
   direction: centrist
   default_tags:
   - közélet
-  notes: TISZA Párt hivatalos szervezeti csatórnája
+  notes: TISZA Párt hivatalos szervezeti csatornája
 - id: UC86bUQtguMqK-S_2hS1Cvxg
   slug: tisza-europa
   display_name: TISZA Európa
@@ -226,7 +226,7 @@ channels:
   default_tags:
   - közélet
   - EU
-  notes: Tisza Párt EP-frakció csatórnája
+  notes: Tisza Párt EP-frakció csatornája
 - id: UCW_zf7VdaFoeZqVTlYht4oA
   slug: kontroll
   display_name: Kontroll
@@ -251,7 +251,7 @@ channels:
   default_tags:
   - közélet
   - megafon
-  notes: Megafon ernyőcsatórna (Apáti, Trombitás, Vukics, Bohár)
+  notes: Megafon ernyőcsatorna (Apáti, Trombitás, Vukics, Bohár)
 - id: UCBRpGiA8cKjhbVsUJbmKSHA
   slug: kozter
   display_name: KözTér
@@ -260,7 +260,7 @@ channels:
   default_tags:
   - közélet
   - megafon
-  notes: Kurucz Dániel (ex-Fidelitas), kormányközeli YT csatórna
+  notes: Kurucz Dániel (ex-Fidelitas), kormányközeli YT csatorna
 - id: UChUByu3QDGaVD6iyt0jzngw
   slug: ultrahang
   display_name: Ultrahang
@@ -270,7 +270,7 @@ channels:
   - külpolitika
   - biztonságpolitika
   - megafon
-  notes: Király Tamás - kül-/biztonságpolitika (Nógrádi, Spöttle)
+  notes: Király Tamás - kül-/biztonságpolitika (Nógrádi, Spöttle), kormánypárti
 - id: UC1uyU2pJMWDYAru9h4RlVNg
   slug: ultrahang-plusz
   display_name: Ultrahang Plusz
@@ -278,7 +278,7 @@ channels:
   direction: conservative
   default_tags:
   - külpolitika
-  notes: Ultrahang másodlagos csatórnája
+  notes: Ultrahang másodlagos csatornája
 - id: UCAvx9uxtvhnxNpnjutUei5A
   slug: hir-tv
   display_name: Hír TV
@@ -343,7 +343,7 @@ channels:
   default_tags:
   - közélet
   - megafon
-  notes: Megafon riporter saját csatórnája
+  notes: Megafon riporter saját csatornája
 - id: UCtM4A1Q6XDwrG0MbBDAEagg
   slug: politikai-hobbista
   display_name: Politikai Hobbista
@@ -371,7 +371,7 @@ channels:
 - id: UCFyfoQmQSAlmujW8aLKRLPw
   slug: momentum
   display_name: Momentum Mozgalom
-  affiliation: opposition
+  affiliation: independent
   direction: liberal
   default_tags:
   - közélet
@@ -401,7 +401,7 @@ channels:
   default_tags:
   - közélet
   - politika
-  notes: Toroczkai László Youtube csatórnája
+  notes: Toroczkai László Youtube csatornája
 - id: UCu_mXU_UgY2ZwmozQXsVa4Q
   slug: klikktv
   display_name: KlikkTV

@@ -7,6 +7,18 @@ letölti a 30 percnél hosszabb videók átiratát, majd LLM segítségével rö
 részletesebb összefoglalót készít belőlük. A kimenet egy statikus weboldal: szűrhető lista,
 csatornánként/irányultság/kötődés szerint.
 
+### Szűrési lehetőségek a weboldalon
+
+- **Csatorna**: kereshető, többszörös kijelölést támogató legördülő lista. Ha irányultság
+  vagy kötődés szűrő is aktív, a nem egyező csatornák a lista aljára kerülnek és
+  kiszürkülnek.
+- **Irányultság** (liberális / centrista / konzervatív / szélsőjobb): többszörös kijelölés.
+- **Kötődés** (független / Fidesz-közeli / Tisza-közeli): többszörös kijelölés.
+- **Szabad szöveges keresés**: cím, csatorna, összefoglaló tartalom alapján.
+- **Szűrők törlése** gomb: egy kattintással visszaállítja az összes szűrőt.
+- Minden szűrőbeállítás **`localStorage`-ban tárolódik**, és az oldal újratöltésekor
+  automatikusan visszaáll.
+
 > ⚠️ Az összefoglalók **nem helyettesítik** az eredeti tartalmat. A kontextus, az árnyalatok
 > és az alkotói munka csak a videó megtekintésével élhető át igazán. Kérünk, támogasd
 > az érintett médiumokat: nézd meg az eredeti videót, iratkozz fel, oszd meg.
@@ -19,7 +31,8 @@ csatornánként/irányultság/kötődés szerint.
 - LLM-mel rövid `tl;dr`-t és részletes összefoglalót generál, megjelölve a bizonytalan
   szakaszokat is.
 - A `content/` mappába `.md` fájlokat ír YAML frontmatterrel.
-- A `scripts/build.py` ezekből statikus HTML oldalt épít a `_site/` könyvtárba.
+- A `scripts/build.py` ezekből statikus HTML oldalt épít a `_site/` könyvtárba,
+  a stíluslapot (`style.css`) minifikálva másolja ki.
 
 ## Repo szerkezete
 
@@ -39,6 +52,8 @@ python scripts/build.py --out <dir>  # tetszőleges kimeneti mappa
 ```
 
 Függőségek: `markdown`, `pyyaml`. (`pip install markdown pyyaml`)
+
+A build során a `style.css` automatikusan minifikálva kerül a kimenetbe (külön csomag nélkül).
 
 ## Hibajelentés és javítás
 

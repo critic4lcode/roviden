@@ -57,10 +57,11 @@ AFFILIATION_LABELS = {
     "independent": "Független",
     "fidesz-aligned": "Fidesz-közeli",
     "tisza-aligned": "Tisza-közeli",
+    "opposition": "Ellenzéki",
 }
 
 DIRECTION_ORDER = ["liberal", "centrist", "conservative", "far-right"]
-AFFILIATION_ORDER = ["independent", "fidesz-aligned", "tisza-aligned"]
+AFFILIATION_ORDER = ["independent", "fidesz-aligned", "tisza-aligned", "opposition"]
 
 GITHUB_REPO_URL = "https://github.com/critic4lcode/roviden"
 ISSUES_URL = f"{GITHUB_REPO_URL}/issues"
@@ -461,6 +462,7 @@ _INDEX_TMPL = """\
       <p class="site-sub">Hosszú beszélgetések, podcastek és interjúk dióhéjban</p>
     </div>
     <div class="site-header-right">
+      <button class="filter-clear" id="filter-clear" type="button" onclick="ytmClearFilters()" hidden>Szűrők törlése &times;</button>
       <button class="filter-toggle" id="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-groups" onclick="ytmToggleFilters()">
         <span class="filter-toggle-hamburger" aria-hidden="true">
           <span></span><span></span><span></span>
@@ -596,6 +598,35 @@ _INDEX_TMPL = """\
     }}
   }}
 
+  function updateChannelListAvailability(){{
+    if(!data) return;
+    // Find which slugs have at least one card matching current direction/affiliation filters (ignoring channel filter)
+    var available={{}};
+    data.forEach(function(e){{
+      if(filters.direction.length && filters.direction.indexOf(e.direction||'')===-1) return;
+      if(filters.affiliation.length && filters.affiliation.indexOf(e.affiliation||'')===-1) return;
+      available[e.channel_slug]=true;
+    }});
+    var list=document.getElementById('ch-dropdown-list');
+    if(!list) return;
+    var items=Array.from(list.querySelectorAll('.ch-dropdown-item:not(.ch-dropdown-all)'));
+    var available_items=[], unavailable_items=[];
+    items.forEach(function(li){{
+      var slug=li.dataset.slug;
+      if(available[slug]){{
+        li.classList.remove('ch-dropdown-item-unavailable');
+        available_items.push(li);
+      }} else {{
+        li.classList.add('ch-dropdown-item-unavailable');
+        unavailable_items.push(li);
+      }}
+    }});
+    // Re-order: available first, then unavailable
+    available_items.concat(unavailable_items).forEach(function(li){{
+      list.appendChild(li);
+    }});
+  }}
+
   function updateChannelBtnLabel(){{
     var lbl=document.getElementById('ch-dropdown-label');
     if(!lbl) return;
@@ -694,7 +725,7 @@ _INDEX_TMPL = """\
     var btn=document.getElementById('filter-toggle');
     if(fg){{fg.hidden=false;}}
     if(btn){{btn.setAttribute('aria-expanded','true');btn.querySelector('.filter-toggle-icon').textContent='▴';}}
-    loadData().then(renderFromData);
+    loadData().then(function(){{ renderFromData(); updateChannelListAvailability(); }});
   }} else if(TOTAL>N){{
     renderPag(Math.ceil(TOTAL/N));
   }}
@@ -723,7 +754,29 @@ _INDEX_TMPL = """\
       badge.textContent='';
       badge.classList.remove('visible');
     }}
+    var clearBtn=document.getElementById('filter-clear');
+    if(clearBtn) clearBtn.hidden=count===0;
   }}
+
+  window.ytmClearFilters=function(){{
+    filters={{channel:[],direction:[],affiliation:[],search:''}};
+    // Reset search input
+    var si=document.getElementById('search-input');
+    if(si) si.value='';
+    // Reset channel dropdown
+    syncChannelCheckboxes();
+    updateChannelBtnLabel();
+    // Reset chips
+    ['direction','affiliation'].forEach(function(group){{
+      document.querySelectorAll('.chip[data-group="'+group+'"]').forEach(function(x){{x.classList.remove('active');}});
+      var allChip=document.querySelector('.chip[data-group="'+group+'"][data-f=""]');
+      if(allChip) allChip.classList.add('active');
+    }});
+    page=1;
+    updateFilterBadge();
+    saveFilters();
+    loadData().then(function(){{ renderFromData(); updateChannelListAvailability(); }});
+  }};
 
   window.ytmToggleFilters=function(){{
     var fg=document.getElementById('filter-groups');
@@ -856,7 +909,7 @@ _INDEX_TMPL = """\
       page=1;
       updateFilterBadge();
       saveFilters();
-      loadData().then(renderFromData);
+      loadData().then(function(){{ renderFromData(); updateChannelListAvailability(); }});
     }});
   }});
 }})();
