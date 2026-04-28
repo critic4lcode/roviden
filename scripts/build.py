@@ -290,10 +290,10 @@ __POSTHOG_SNIPPET__
   {details_block}
   {uncertain_block}
 
-  <section class="transcript">
+  <section class="collapsible transcript">
     <details>
       <summary>Teljes átirat megjelenítése</summary>
-      <div class="transcript-inner">
+      <div class="collapsible-inner transcript-inner">
         {transcript_html}
       </div>
     </details>
@@ -388,12 +388,19 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
     uncertain_html = md_lib.markdown(uncertain_md, extensions=["nl2br", "tables", "md_in_html"]) if uncertain_md else ""
     tldr_block = f'<section class="tldr">\n    <div class="tldr-label">tl;dr</div>\n    {tldr_html}\n  </section>' if tldr_html else ""
     support_block = _build_support_block(channel_data or {}, channel_name=str(fm.get("channel_name", "")))
-    details_block = f'<section class="summary">\n    {details_html}\n  </section>' if details_html else ""
+    details_block = (
+        f'<section class="collapsible summary">\n'
+        f'    <details>\n'
+        f'      <summary>Részletes összefoglaló megjelenítése</summary>\n'
+        f'      <div class="collapsible-inner summary-inner">{details_html}</div>\n'
+        f'    </details>\n'
+        f'  </section>'
+    ) if details_html else ""
     uncertain_block = (
-        f'<section class="uncertain">\n'
+        f'<section class="collapsible uncertain">\n'
         f'    <details>\n'
         f'      <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>\n'
-        f'      <div class="uncertain-inner">{uncertain_html}</div>\n'
+        f'      <div class="collapsible-inner uncertain-inner">{uncertain_html}</div>\n'
         f'    </details>\n'
         f'  </section>'
     ) if uncertain_html else ""
