@@ -455,6 +455,15 @@ _INDEX_TMPL = """\
   </div>
 </div>
 <button id="about-fab" class="about-fab" type="button" onclick="ytmOpenWelcome()" aria-label="Az oldalról">Az oldalról</button>
+<div id="tour-overlay" class="tour-overlay" hidden></div>
+<div id="tour-tooltip" class="tour-tooltip" hidden role="dialog" aria-modal="true" aria-label="Bemutató">
+  <div class="tour-step-indicator" id="tour-step-indicator"></div>
+  <div class="tour-body" id="tour-body"></div>
+  <div class="tour-actions">
+    <button class="tour-btn-skip" type="button" onclick="ytmTourSkip()">Kihagyás</button>
+    <button class="tour-btn-next" type="button" id="tour-next-btn" onclick="ytmTourNext()">Következő →</button>
+  </div>
+</div>
 <header class="site-header">
   <div class="site-header-inner">
     <div class="site-header-left">
@@ -515,6 +524,162 @@ _INDEX_TMPL = """\
 </main>
 <div id="pag"></div>
 <script>
+// ── Guided tour ──────────────────────────────────────────────────────────
+(function(){{
+  var TOUR_KEY='ytm_tour_done_v1';
+  var tourStep=0;
+  var tourActive=false;
+
+  var STEPS=[
+    {{
+      targetId:'filter-toggle',
+      title:'Szűrők',
+      body:'Ezzel a gombbal nyithatod meg a szűrőket. Szűrhetsz csatornára, politikai irányultságra és kötődésre is.',
+      position:'bottom',
+      action: function(){{
+        // open the filter panel if not open
+        var fg=document.getElementById('filter-groups');
+        var btn=document.getElementById('filter-toggle');
+        if(fg && fg.hidden){{
+          fg.hidden=false;
+          if(btn) btn.setAttribute('aria-expanded','true');
+          var icon=btn&&btn.querySelector('.filter-toggle-icon');
+          if(icon) icon.textContent='▴';
+        }}
+      }}
+    }},
+    {{
+      targetId:'filter-groups',
+      title:'Irányultság',
+      body:'Az <strong>Irányultság</strong> szűrővel politikai spektrum szerint szűrhetsz: liberális, centrista, konzervatív vagy szélsőjobb. Egyszerre több is kijelölhető.',
+      position:'bottom',
+      highlight: function(){{ return document.querySelector('.chip-group[data-group="direction"]'); }}
+    }},
+    {{
+      targetId:'filter-groups',
+      title:'Kötődés',
+      body:'A <strong>Kötődés</strong> szűrővel a csatorna politikai kötődése szerint szűrhetsz: független, Fidesz-közeli, Tisza-közeli vagy ellenzéki.',
+      position:'bottom',
+      highlight: function(){{ return document.querySelector('.chip-group[data-group="affiliation"]'); }}
+    }},
+    {{
+      targetId:'ch-dropdown-btn',
+      title:'Csatorna szűrő',
+      body:'A <strong>Csatorna</strong> legördülőből egy vagy több konkrét csatornát is kiválaszthatsz. A lista a többi aktív szűrő alapján automatikusan rendezi magát.',
+      position:'bottom'
+    }},
+    {{
+      targetId:'search-input',
+      title:'Szabad szöveges keresés',
+      body:'Cím, csatorna neve vagy az összefoglaló tartalma alapján is kereshetsz. A szűrők és a keresés egyszerre is használhatók.',
+      position:'bottom'
+    }}
+  ];
+
+  function getTarget(step){{
+    if(step.highlight) return step.highlight();
+    return document.getElementById(step.targetId);
+  }}
+
+  function positionTooltip(el){{
+    var tooltip=document.getElementById('tour-tooltip');
+    if(!el||!tooltip) return;
+    var rect=el.getBoundingClientRect();
+    var tw=tooltip.offsetWidth||320;
+    var th=tooltip.offsetHeight||160;
+    var margin=12;
+    var scrollY=window.scrollY||window.pageYOffset;
+    var scrollX=window.scrollX||window.pageXOffset;
+    var vw=window.innerWidth;
+
+    // prefer below
+    var top=rect.bottom+scrollY+margin;
+    var left=rect.left+scrollX+rect.width/2-tw/2;
+
+    // clamp horizontally
+    if(left<8) left=8;
+    if(left+tw>vw-8) left=vw-tw-8;
+
+    // if would go off bottom, put above
+    if(rect.bottom+margin+th>window.innerHeight){{
+      top=rect.top+scrollY-th-margin;
+    }}
+
+    tooltip.style.top=top+'px';
+    tooltip.style.left=left+'px';
+  }}
+
+  function highlightEl(el){{
+    document.querySelectorAll('.tour-highlight').forEach(function(x){{x.classList.remove('tour-highlight');}});
+    if(el) el.classList.add('tour-highlight');
+  }}
+
+  function showStep(i){{
+    var tooltip=document.getElementById('tour-tooltip');
+    var overlay=document.getElementById('tour-overlay');
+    var body=document.getElementById('tour-body');
+    var indicator=document.getElementById('tour-step-indicator');
+    var nextBtn=document.getElementById('tour-next-btn');
+    if(!tooltip||!overlay) return;
+
+    var step=STEPS[i];
+    if(!step){{ endTour(); return; }}
+
+    // run any action (e.g. open filter panel)
+    if(step.action) step.action();
+
+    var target=getTarget(step);
+    body.innerHTML='<h3 class="tour-title">'+step.title+'</h3><p>'+step.body+'</p>';
+    indicator.textContent=(i+1)+' / '+STEPS.length;
+    nextBtn.textContent=(i===STEPS.length-1)?'Befejezés ✓':'Következő →';
+
+    overlay.hidden=false;
+    tooltip.hidden=false;
+
+    // position after paint
+    requestAnimationFrame(function(){{
+      requestAnimationFrame(function(){{
+        positionTooltip(target);
+        highlightEl(target);
+        // scroll target into view
+        if(target) target.scrollIntoView({{behavior:'smooth',block:'nearest',inline:'nearest'}});
+      }});
+    }});
+  }}
+
+  function endTour(){{
+    var tooltip=document.getElementById('tour-tooltip');
+    var overlay=document.getElementById('tour-overlay');
+    if(tooltip) tooltip.hidden=true;
+    if(overlay) overlay.hidden=true;
+    document.querySelectorAll('.tour-highlight').forEach(function(x){{x.classList.remove('tour-highlight');}});
+    tourActive=false;
+    try{{localStorage.setItem(TOUR_KEY,'1');}}catch(e){{}}
+  }}
+
+  window.ytmTourNext=function(){{
+    tourStep++;
+    if(tourStep>=STEPS.length){{ endTour(); return; }}
+    showStep(tourStep);
+  }};
+  window.ytmTourSkip=function(){{ endTour(); }};
+
+  window.ytmStartTour=function(){{
+    try{{ if(localStorage.getItem(TOUR_KEY)) return; }}catch(e){{}}
+    tourStep=0;
+    tourActive=true;
+    // small delay so modal close animation finishes
+    setTimeout(function(){{ showStep(0); }},400);
+  }};
+
+  // reposition on resize
+  window.addEventListener('resize',function(){{
+    if(!tourActive) return;
+    var step=STEPS[tourStep];
+    if(step) positionTooltip(getTarget(step));
+  }});
+}})();
+
 (function(){{
   window.ytmOpenWelcome=function(){{
     var m=document.getElementById('welcome-modal');
@@ -524,6 +689,7 @@ _INDEX_TMPL = """\
     var m=document.getElementById('welcome-modal');
     if(m){{m.hidden=true;document.body.classList.remove('modal-open');}}
     try{{localStorage.setItem('ytm_welcome_seen','1');}}catch(e){{}}
+    if(typeof ytmStartTour==='function') ytmStartTour();
   }};
   try{{
     if(!localStorage.getItem('ytm_welcome_seen')){{
