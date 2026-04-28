@@ -506,11 +506,11 @@ _INDEX_TMPL = """\
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Röviden - Hosszú beszélgetések, podcastek és interjúk dióhéjban</title>
 <meta name="description" content="Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói – gyorsan átláthatod a lényeget.">
-<link rel="canonical" href="https://roviden.jegyezve.com/">
+<link rel="canonical" href="{site_base_url}/">
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Röviden">
-<meta property="og:url" content="https://roviden.jegyezve.com/">
+<meta property="og:url" content="{site_base_url}/">
 <meta property="og:title" content="Röviden - Hosszú beszélgetések, podcastek és interjúk dióhéjban">
 <meta property="og:description" content="Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói – gyorsan átláthatod a lényeget.">
 <meta property="og:locale" content="hu_HU">
@@ -519,7 +519,7 @@ _INDEX_TMPL = """\
 <meta name="twitter:title" content="Röviden - Hosszú beszélgetések, podcastek és interjúk dióhéjban">
 <meta name="twitter:description" content="Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói – gyorsan átláthatod a lényeget.">
 <!-- JSON-LD -->
-<script type="application/ld+json">{{"@context":"https://schema.org","@type":"WebSite","name":"Röviden","url":"https://roviden.jegyezve.com/","description":"Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói.","inLanguage":"hu"}}</script>
+<script type="application/ld+json">{{"@context":"https://schema.org","@type":"WebSite","name":"Röviden","url":"{site_base_url}/","description":"Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói.","inLanguage":"hu"}}</script>
 <link rel="stylesheet" href="style.css">
 __POSTHOG_SNIPPET__
 </head>
@@ -1249,6 +1249,7 @@ def _build_index(data: list[dict]) -> str:
         _INDEX_TMPL.format(
             total=len(data),
             page_size=PAGE_SIZE,
+            site_base_url=_SITE_BASE_URL,
             channel_options=channel_options,
             direction_chips=direction_chips,
             affiliation_chips=affiliation_chips,
@@ -1302,6 +1303,24 @@ def build(site_root: Path, out_dir: Path) -> None:
         minified = _minify_css(style.read_text(encoding="utf-8"))
         (out_dir / "style.css").write_text(minified, encoding="utf-8")
     (out_dir / ".nojekyll").touch()
+
+    # robots.txt – allow all crawlers incl. social scrapers; point to sitemap
+    robots_txt = (
+        "User-agent: *\n"
+        "Allow: /\n"
+        "\n"
+        "User-agent: facebookexternalhit\n"
+        "Allow: /\n"
+        "\n"
+        "User-agent: Twitterbot\n"
+        "Allow: /\n"
+        "\n"
+        "User-agent: LinkedInBot\n"
+        "Allow: /\n"
+        "\n"
+        f"Sitemap: {_SITE_BASE_URL}/sitemap.xml\n"
+    )
+    (out_dir / "robots.txt").write_text(robots_txt, encoding="utf-8")
 
     # Process each content file (sorted newest-first by filename, recursive)
     md_files = sorted(content_dir.rglob("*.md"), reverse=True)
@@ -1359,6 +1378,21 @@ def build(site_root: Path, out_dir: Path) -> None:
         key=lambda e: (e.get("published_at") or e.get("date") or "", e.get("video_id") or ""),
         reverse=True,
     )
+
+    # Write sitemap.xml
+    _today = datetime.utcnow().strftime("%Y-%m-%d")
+    sitemap_urls = [f"  <url><loc>{_SITE_BASE_URL}/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>"]
+    for entry in data:
+        loc = f"{_SITE_BASE_URL}/{entry['page_url']}"
+        lastmod = entry.get("date") or _today
+        sitemap_urls.append(f"  <url><loc>{loc}</loc><lastmod>{lastmod}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>")
+    sitemap_xml = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "\n".join(sitemap_urls)
+        + "\n</urlset>\n"
+    )
+    (out_dir / "sitemap.xml").write_text(sitemap_xml, encoding="utf-8")
 
     # Write data.json and index.html
     (out_dir / "data.json").write_text(
