@@ -233,7 +233,7 @@ _VIDEO_TMPL = """\
 <html lang="hu">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1">
 <title>{title} - Röviden</title>
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{canonical_url}">
@@ -503,7 +503,7 @@ _INDEX_TMPL = """\
 <html lang="hu">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1">
 <title>Röviden - Hosszú beszélgetések, podcastek és interjúk dióhéjban</title>
 <meta name="description" content="Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói – gyorsan átláthatod a lényeget.">
 <link rel="canonical" href="{site_base_url}/">
