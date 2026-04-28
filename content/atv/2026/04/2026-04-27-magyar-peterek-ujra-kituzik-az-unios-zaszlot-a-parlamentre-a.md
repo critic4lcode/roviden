@@ -27,7 +27,7 @@ summary_model: anthropic/claude-haiku-4.5
 
 Az ATV Aktuál műsorában (2026. április 24.) Magyar Péter leendő kormányának új minisztereit mutatták be, valamint az Európai Unió zászlajának visszahelyezéséről és az Alkotmánybíróság feszült helyzetéről beszélgettek. A vendégek (Bot Péter Ákos volt jegybankelnök, Juhász Ferenc korábbi honvédelmi miniszter, Szentpéteri Nagyrihárd alkotmányjogász) szerint a technokrata kormány szakmai alapon jól összeállt, de az intézmények tisztítása és a Fidesz-korszak visszaéléseiből való felépülés hosszú folyamat lesz.
 
-Az új miniszterek között Lannert Judit (oktatás), Vitézi Dávid (közlekedés), Kátai Német Vilmos (szociális ügyek) szerepelnek – mindannyian szakemberek, akik korábban nem voltak politikai szereplők. A közönség 80%-a szerint nem mondanak le a kétharmaddal kinevezett állami tisztségviselők, hanem majd a jogalkotás rendezi ezt.
+Az új miniszterek között Lannert Judit (oktatás), Vitézy Dávid (közlekedés), Kátai Német Vilmos (szociális ügyek) szerepelnek – mindannyian szakemberek, akik korábban nem voltak politikai szereplők. A közönség 80%-a szerint nem mondanak le a kétharmaddal kinevezett állami tisztségviselők, hanem majd a jogalkotás rendezi ezt.
 
 Az Európai Unió zászlaja visszakerül a parlamentre, amit szimbolikus gesztusnak tartanak a Fidesz-korszak szakításáról és az EU-hoz való visszatérésről. Az Alkotmánybíróság elnöke, Polt Péter lemondására szólított fel egy bíró az ülésen, mivel a volt legfőbb ügyész múltja súlyosan rontja az intézmény hitelességét.
 
@@ -43,7 +43,7 @@ Magyar Péter bejelentette az első három minisztert. **Lannert Judit** lesz a 
 
 > „Tehát ezt kéne nem elég szeretni őket. Hinni is kell abban, hogy ők többre képesek. A kettő nem ugyanaz." – Lannert Judit [*](https://www.youtube.com/watch?v=0o24GdIFTfw&t=164)
 
-**Vitézi Dávid** közlekedési és beruházási miniszter lesz. Hosszú közlekedési szakmai pályafutása van: a Budapesti Közlekedési Központ első vezérigazgatója (2010–2014), majd miniszteri biztos, később a Budapest Fejlesztési Központ vezetője és közlekedési államtitkár. Legfontosabb feladata a válságban lévő vasút talpraállítása.
+**Vitézy Dávid** közlekedési és beruházási miniszter lesz. Hosszú közlekedési szakmai pályafutása van: a Budapesti Közlekedési Központ első vezérigazgatója (2010–2014), majd miniszteri biztos, később a Budapest Fejlesztési Központ vezetője és közlekedési államtitkár. Legfontosabb feladata a válságban lévő vasút talpraállítása.
 
 **Kátai Német Vilmos** szociális és családügyi miniszter lesz, aki a Tisza Párt színeiben szerzett mandátumot. Különlegessége, hogy 16 évesen vesztette el látását, és ő az első látásérőt, aki tárcavezetői pozícióba kerül. Kiemelt prioritása az akadálymentesítés és az esélyegyenlőség.
 
@@ -63,7 +63,7 @@ Azonban a szakértők hangsúlyozták, hogy a miniszter végül is „fogyóeszk
 
 ## A szakterületek szakmai támogatása
 
-Érdekes jelenség, hogy az egyes hivatásrendek és szakterületek nagy lelkesedéssel fogadták a bejelentett minisztereket. A pedagógusok Lannert Juditot, a közlekedési szakma Vitézi Dávidot, a szociális szféra Kátai Német Vilmost támogatja. Ez azonban csak szükséges, de nem elégséges feltétel a sikeres kormányzáshoz.
+Érdekes jelenség, hogy az egyes hivatásrendek és szakterületek nagy lelkesedéssel fogadták a bejelentett minisztereket. A pedagógusok Lannert Juditot, a közlekedési szakma Vitézy Dávidot, a szociális szféra Kátai Német Vilmost támogatja. Ez azonban csak szükséges, de nem elégséges feltétel a sikeres kormányzáshoz.
 
 > „Szóval az, hogy a hivatásrendek azok úgy érzik, hogy olyan ember ül be a kormányülésre, akinek van fogalma az adott szakterület alapszókészletéről legalább. Ez önmagában már javíthat, vagy pozitív hatást gyakorolhat az ágazatnak a működésére? Hát bocsánatot kérek, szükséges, de nem elégséges feltétel." – Bot Péter Ákos [*](https://www.youtube.com/watch?v=0o24GdIFTfw&t=725)
 
@@ -138,7 +138,7 @@ A közönség kommentjei között voltak olyanok, akik szerint az illetékesekne
 - „Szentpideri Nagyrihárd" – valószínűleg Szentpéteri Nagyrihárd, de az átirat torz alakja
 - „Bodac Balázs" – a műsorvezető neve, de az átiratban torz alakban szerepel
 - „Lannet Judit" vs. „Lannert Judit" – az átiratban mindkét forma előfordul, az utóbbi a helyes
-- „Vitézi Dávid" – az átiratban helyesen szerepel
+- „Vitézy Dávid" – az átiratban helyesen szerepel
 - „Erzta Bank" / „ERSE Bank" – valószínűleg az Erste Bank, de az átiratban torz alakban
 - „Matolcső" – valószínűleg Matolcsy György, de az átiratban torz alakban
 - „Jelasic Radován" – az Erste Bank elnökének neve, de az átiratban torz alakban
@@ -164,7 +164,7 @@ A közönség kommentjei között voltak olyanok, akik szerint az illetékesekne
 
 [00:00:27](https://www.youtube.com/watch?v=0o24GdIFTfw&t=27) Lannert Judit vezeti majd a gyermek és oktatási tárcát.
 
-[00:00:27](https://www.youtube.com/watch?v=0o24GdIFTfw&t=27) Vitézi Dávid lesz a közlekedési és beruházási miniszter.
+[00:00:27](https://www.youtube.com/watch?v=0o24GdIFTfw&t=27) Vitézy Dávid lesz a közlekedési és beruházási miniszter.
 
 [00:00:31](https://www.youtube.com/watch?v=0o24GdIFTfw&t=31) Kát német Filmos pedig a szociális és családügyeket felelmed a kormányban.
 
@@ -230,9 +230,9 @@ A közönség kommentjei között voltak olyanok, akik szerint az illetékesekne
 
 [00:02:44](https://www.youtube.com/watch?v=0o24GdIFTfw&t=164) A kettő nem ugyanaz.
 
-[00:02:48](https://www.youtube.com/watch?v=0o24GdIFTfw&t=168) A közlekedési és beruházási miniszter Vitézi Dávid lesz.
+[00:02:48](https://www.youtube.com/watch?v=0o24GdIFTfw&t=168) A közlekedési és beruházási miniszter Vitézy Dávid lesz.
 
-[00:02:48](https://www.youtube.com/watch?v=0o24GdIFTfw&t=168) Vitézi régóta a közéletben tevékenykedik.
+[00:02:48](https://www.youtube.com/watch?v=0o24GdIFTfw&t=168) Vitézy régóta a közéletben tevékenykedik.
 
 [00:02:52](https://www.youtube.com/watch?v=0o24GdIFTfw&t=172) Teljes forgalirányítása a tömegközlekedésben is.
 
@@ -368,7 +368,7 @@ A közönség kommentjei között voltak olyanok, akik szerint az illetékesekne
 
 [00:11:34](https://www.youtube.com/watch?v=0o24GdIFTfw&t=694) Azt mondják, hogy Lnert Júlia egy jó választás, aki a közlekedésben dolgozik.
 
-[00:11:38](https://www.youtube.com/watch?v=0o24GdIFTfw&t=698) Senki nem mondja azt, hogy Vitézi Dávidnak nincs egy rálátása a területre.
+[00:11:38](https://www.youtube.com/watch?v=0o24GdIFTfw&t=698) Senki nem mondja azt, hogy Vitézy Dávidnak nincs egy rálátása a területre.
 
 [00:11:42](https://www.youtube.com/watch?v=0o24GdIFTfw&t=702) Gazdaság pénzügyekhez.
 

@@ -282,11 +282,11 @@ Vitézy azt ígéri, hogy egy olyan új fejezetet szeretne nyitni Budapest és a
 
 [00:01:25](https://www.youtube.com/watch?v=tHoxLizrU9A&t=85) Ezt ostobaság fölszámolni.
 
-[00:01:30](https://www.youtube.com/watch?v=tHoxLizrU9A&t=90) És tegnapi nap bejelentése volt, hogy Vitézi Dávid lesz a közlekedési miniszter.
+[00:01:30](https://www.youtube.com/watch?v=tHoxLizrU9A&t=90) És tegnapi nap bejelentése volt, hogy Vitézy Dávid lesz a közlekedési miniszter.
 
 [00:01:33](https://www.youtube.com/watch?v=tHoxLizrU9A&t=93) Ma van egy különjárat, egy emlékmenet a bezárt vonalon.
 
-[00:01:38](https://www.youtube.com/watch?v=tHoxLizrU9A&t=98) Ö talán nem véletlen, hogy Vitézi Dávid bennünket is elhívott erre a erre az útra, ahol nyilatkozni fog nekünk.
+[00:01:38](https://www.youtube.com/watch?v=tHoxLizrU9A&t=98) Ö talán nem véletlen, hogy Vitézy Dávid bennünket is elhívott erre a erre az útra, ahol nyilatkozni fog nekünk.
 
 [00:01:50](https://www.youtube.com/watch?v=tHoxLizrU9A&t=110) Talán nem nehéz kitalálni, hogy be fogja jelenteni, hogy ezt újranyitják.
 

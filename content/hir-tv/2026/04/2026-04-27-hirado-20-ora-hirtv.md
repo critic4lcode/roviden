@@ -29,7 +29,7 @@ A HírTV 20 órás híradója 2026. április 27-én a Fidesz és KDNP parlamenti
 
 A Fidesz új frakcióvezetője Gulyás Gergely, aki a megújulást és az elmúlt 16 év eredményeinek megvédését hangsúlyozta, miközben felléptnek a kormánypárt önkényes döntéseivel szemben. A KDNP 8 fős frakcióját Rétvári Bence vezeti majd. Orbán Viktor április 28-ra összehívta az országos választmányi ülést, ahol döntés születhet a párt jövőjéről és a tisztújítás időpontjáról.
 
-Komoly korrupciós szálak merültek fel a leendő közlekedési miniszter, Vitézi Dávid múltjával kapcsolatban: szoros kapcsolatban állhatott az elmúlt évtizedek egyik legnagyobb korrupciós ügyének gyanúsítottjával, F. Zsolttal, aki a zuglói parkolási botrányban érintett. Magyar Péter adóügyi államtitkárnak Kövesdi Attilát jelölte, aki a Gyurcsány–Bajnai-korszak egyik legaktívabb tanácsadója volt.
+Komoly korrupciós szálak merültek fel a leendő közlekedési miniszter, Vitézy Dávid múltjával kapcsolatban: szoros kapcsolatban állhatott az elmúlt évtizedek egyik legnagyobb korrupciós ügyének gyanúsítottjával, F. Zsolttal, aki a zuglói parkolási botrányban érintett. Magyar Péter adóügyi államtitkárnak Kövesdi Attilát jelölte, aki a Gyurcsány–Bajnai-korszak egyik legaktívabb tanácsadója volt.
 
 Az ellenzéki Fidesz stratégiai megújulásra készül, miközben az alapjogokért Központ elemzője szerint az ellenzéki pozíció előnyeit már 2002 után is sikeresen kamatoztatták. Magyar Péter szerdán Brüsszelbe utazik az EU-s pénzek hazahozataláról tárgyalni, de az uniós vezetők komoly feltételeket támasztanak.
 
@@ -87,11 +87,11 @@ Az alapjogokért Központ vezetőelemzője szerint az ellenzéki pozíció előn
 
 ## Korrupciós szálak az új kormányban
 
-Komoly korrupciós szálak merültek fel a leendő közlekedési miniszter, Vitézi Dávid múltjával kapcsolatban. Szoros kapcsolatban állhatott az elmúlt évtizedek egyik legnagyobb korrupciós ügyének gyanúsítottjával, F. Zsolttal.
+Komoly korrupciós szálak merültek fel a leendő közlekedési miniszter, Vitézy Dávid múltjával kapcsolatban. Szoros kapcsolatban állhatott az elmúlt évtizedek egyik legnagyobb korrupciós ügyének gyanúsítottjával, F. Zsolttal.
 
 Az ügyet Karácsony Gergely már a főpolgármesteri vitában utalta meg. Pár éve derült ki, hogy az F. Zsolt cége által működtetett zuglói parkolási rendszer túlárazott szerződéseket állított ki. A férfira végül 2021 nyarán csapott le a NAV bűnszervezetben elkövetett költségvetési csalás gyanúja miatt.
 
-> „Azt mondtad, hogy én biztos jól ismerem az ugliai parkolást, te pedig Fuzik Zsoltot ismered jól. Csakhogy már Karácsony Gergely két évvel ezelőtti megszólalása is arra enged következtetni, hogy Vitézi Dávid múltja nem makulátlan." – Karácsony Gergely [*](https://www.youtube.com/watch?v=CoIV5ar_unI&t=849)
+> „Azt mondtad, hogy én biztos jól ismerem az ugliai parkolást, te pedig Fuzik Zsoltot ismered jól. Csakhogy már Karácsony Gergely két évvel ezelőtti megszólalása is arra enged következtetni, hogy Vitézy Dávid múltja nem makulátlan." – Karácsony Gergely [*](https://www.youtube.com/watch?v=CoIV5ar_unI&t=849)
 
 A nyomozatiratokból az is kiderül, hogy Zugló szocialista képviselői, Horvát Csaba és Tót Csaba is érintettek voltak az ügyben, mivel hozzájuk jutott a parkolást működtető cég bevételének fele, amiért cserébe az önkormányzat nem támadta meg a túlárazott szerződéseket.
 
@@ -527,13 +527,13 @@ Azóta egyébként a balhét is el kellett egyeseknek vinni, és néhány katona
 
 [00:13:44](https://www.youtube.com/watch?v=CoIV5ar_unI&t=824) Tehát volt módom együttműködni és Budapest érdekében közösen munkát végezni a Tiszafrakcióval.
 
-[00:13:52](https://www.youtube.com/watch?v=CoIV5ar_unI&t=832) Pénteken jelentette be Magyar Péter, hogy Vitézi Dávidot kérte fel közlekedési és beruházási miniszternek.
+[00:13:52](https://www.youtube.com/watch?v=CoIV5ar_unI&t=832) Pénteken jelentette be Magyar Péter, hogy Vitézy Dávidot kérte fel közlekedési és beruházási miniszternek.
 
 [00:13:58](https://www.youtube.com/watch?v=CoIV5ar_unI&t=838) A podmanic mozgalom vezetője pedig közösségi oldalán jelezte, hogy megtisztelőnek tartja a felkérést és el is fogadja.
 
 [00:14:05](https://www.youtube.com/watch?v=CoIV5ar_unI&t=845) Azt mondtad, hogy én biztos jól ismerem az ugliai parkolást, te pedig Fuzik Zsoltot ismered jól.
 
-[00:14:09](https://www.youtube.com/watch?v=CoIV5ar_unI&t=849) Csakhogy már Karácsony Gergely két évvel ezelőtti megszólalása is arra enged következtetni, hogy Vitézi Dávid múltja nem makulátlan.
+[00:14:09](https://www.youtube.com/watch?v=CoIV5ar_unI&t=849) Csakhogy már Karácsony Gergely két évvel ezelőtti megszólalása is arra enged következtetni, hogy Vitézy Dávid múltja nem makulátlan.
 
 [00:14:17](https://www.youtube.com/watch?v=CoIV5ar_unI&t=857) Erős szálak fűzhették az elmúlt évtizedek talán legnagyobb korrupciós ügyének gyanúsítottjához.
 

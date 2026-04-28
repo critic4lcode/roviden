@@ -81,7 +81,7 @@ Ranschburg szerint a külföldi befektetői bizalom helyreállítása sem gyors 
 
 ## A kormányalakítás és a „Fidesz Light" vita
 
-A kormányalakítás jobboldali szellemiségű, de Ranschburg szerint nem „Fidesz Light", ahogy Török Gábor nevezte. Sok miniszter a Fidesz-kormányokból érkezik (például Vitézi Dávid államtitkár volt), de nem a politikai felső körökből.
+A kormányalakítás jobboldali szellemiségű, de Ranschburg szerint nem „Fidesz Light", ahogy Török Gábor nevezte. Sok miniszter a Fidesz-kormányokból érkezik (például Vitézy Dávid államtitkár volt), de nem a politikai felső körökből.
 
 > „Én sokkal inkább azt látom ebben, hogy Magyar Péter tisztában van azzal, hogy mennyire nagyon sokszínű az a választói koalíció, amely a Tiszapártnak egy ilyen óriási felhatalmazást adott a választáson." [*](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1382)
 
@@ -142,7 +142,7 @@ Ranschburg szerint hamar kiderül, hogy a Fidesz kampányában mennyi minden nem
 
 - Az átirat elején „Fransbur Zoltán" helyett valószínűleg „Ranschburg Zoltán" – ezt az egész szöveg kontextusa alapján korrigáltam.
 - „Ligeti Miklósal" – valószínűleg Ligeti Miklós, a Transparency International Magyarország jogi igazgatója.
-- „Vitézi Dávid" – az átiratban „Vitézi Dávid" szerepel, de a kontextus alapján valószínűleg Vitézi Dávid főpolgármester-jelöltről van szó.
+- „Vitézy Dávid" – az átiratban „Vitézy Dávid" szerepel, de a kontextus alapján valószínűleg Vitézy Dávid főpolgármester-jelöltről van szó.
 - „Ruf Bálint" – az átiratban több helyen is szerepel, a Miniszterelnökséget vezető miniszter.
 - „Lannert Judit" – oktatási miniszter, az átiratban egyértelműen azonosítható.
 - Az átirat több helyen tartalmaz beszédhibákat, ismétléseket és töredékes mondatokat, amelyeket a szövegkörnyezet alapján értelmeztem és korrigáltam.
@@ -418,19 +418,19 @@ Ranschburg szerint hamar kiderül, hogy a Fidesz kampányában mennyi minden nem
 
 [00:20:43](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1243) Ö igen, hát erre majd később biztos visszatérünk, de a Fidesz kommunikációja, kommunikációjának házatáján vannak problémák az utóbbi hetekben.
 
-[00:20:53](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1253) Én nem hiszem, tehát biztos, hogy azok, akikről azt látjuk, hogy valamiféle fideszes kötődésük van, ugye Vitézi Dávid például ő államtitkár volt.
+[00:20:53](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1253) Én nem hiszem, tehát biztos, hogy azok, akikről azt látjuk, hogy valamiféle fideszes kötődésük van, ugye Vitézy Dávid például ő államtitkár volt.
 
 [00:21:04](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1264) Egyrészt nem a nem a politikai értelemben felső körökből jönnek.
 
-[00:21:09](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1269) Tehát Vitézi Dávid valóban egy Fidesz kormánynak volt államtitkára, de Vitézi Dávid mindig is elsősorban szakemberként volt ebben jelen, és nem fideszes politikusként.
+[00:21:09](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1269) Tehát Vitézy Dávid valóban egy Fidesz kormánynak volt államtitkára, de Vitézy Dávid mindig is elsősorban szakemberként volt ebben jelen, és nem fideszes politikusként.
 
 [00:21:19](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1279) De egyébként ezt csak azért, hogy valamivel igazolni próbáljam, hogy itt nem én magyarázom a a bizonyítványt, hanem hogy ezt a a választók nagy többsége is így gondolja.
 
 [00:21:29](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1289) Azt hiszem, hogy erre leginkább a 24-es főpolgármester választása bizonyíték.
 
-[00:21:34](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1294) Tehát hogyha ha a választók túlnyomó többsége Vitézi Dávidot egy fideszes kötődésű fideszes politikusnak tartaná, akkor nem hiszem, hogy pár szavazaton múlott volna Budapesten a különbség közte és Karácsony Gergely között a főpolgármester választáson.
+[00:21:34](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1294) Tehát hogyha ha a választók túlnyomó többsége Vitézy Dávidot egy fideszes kötődésű fideszes politikusnak tartaná, akkor nem hiszem, hogy pár szavazaton múlott volna Budapesten a különbség közte és Karácsony Gergely között a főpolgármester választáson.
 
-[00:21:46](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1306) De szerintem a legtöbben vitézi Dávidra egy szakemberként tekintenek.
+[00:21:46](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1306) De szerintem a legtöbben vitézy Dávidra egy szakemberként tekintenek.
 
 [00:21:52](https://www.youtube.com/watch?v=UyhVdeRkcPk&t=1312) Orbán Anita egy érdekes eset ebből a szempontból.
 

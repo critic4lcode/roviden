@@ -27,7 +27,7 @@ summary_model: anthropic/claude-haiku-4.5
 
 A Kontroll csatorna Szabadsajtó Klubjában Gulyás Balázs műsorvezető Tota V Árpád (Kispolgár), Stumpf András (Válasz Online) és Tompos Ádám (Magyar Hang) vendégekkel beszélget az új TISZA-kormány összetételéről, a Fidesz összeomlásáról és a politikai átrendeződésről.
 
-A beszélgetés fő témája az új miniszteri kinevezések értékelése: Vitézi Dávid közlekedési miniszter kinevezése vegyes fogadtatásban részesül (szakértelme elismert, de Fidesz-kötődése gyanús), míg Káltai Német Wilmosnak a szociális ügyekért felelős pozíciója történelmi pillanat (első vak miniszter Magyarországon). Ruf Bálint miniszterelnökséget vezető miniszter kinevezése meglepő, de szimbolikus: egy médiakommentátorból aktív politikus lesz, aki nyíltan szólt az elszámoltatás szükségességéről.
+A beszélgetés fő témája az új miniszteri kinevezések értékelése: Vitézy Dávid közlekedési miniszter kinevezése vegyes fogadtatásban részesül (szakértelme elismert, de Fidesz-kötődése gyanús), míg Káltai Német Wilmosnak a szociális ügyekért felelős pozíciója történelmi pillanat (első vak miniszter Magyarországon). Ruf Bálint miniszterelnökséget vezető miniszter kinevezése meglepő, de szimbolikus: egy médiakommentátorból aktív politikus lesz, aki nyíltan szólt az elszámoltatás szükségességéről.
 
 A Fidesz politikai helyzetéről: a párt 25% alá csúszott a legfrissebb közvéleménykutatáson, míg a TISZA 65%-ot ér el. A vendégek szerint további zuhanás várható, mivel a Fidesz elvesztette propagandaeszközeit (közmédia, pénz, titkos szolgálat), és a bűnügyek még csak kezdődnek.
 
@@ -45,17 +45,17 @@ A TISZA 284 fős frakciója nagy kihívás: összetartása még bizonytalan, de 
 
 A beszélgetés az új TISZA-kormány személyi összetételének értékelésével kezdődik. A vendégek egyetértenek abban, hogy **Magyar Péter szándékosan olyan embereket választott, akik értenek a saját szakterületükhöz**, szemben az Orbán-kormány gyakorlatával, ahol gyakran politikai hűség volt az elsődleges szempont.
 
-### Vitézi Dávid – közlekedési miniszter
+### Vitézy Dávid – közlekedési miniszter
 
-Vitézi Dávid kinevezése vegyes fogadtatásban részesül. Tota V Árpád szerint **Vitézi Dávid a közlekedésben valóban szakértő**, és már hat éves kora óta készülhetett erre a feladatra. Azonban Stumpf András árnyaltabban látja a helyzetet:
+Vitézy Dávid kinevezése vegyes fogadtatásban részesül. Tota V Árpád szerint **Vitézy Dávid a közlekedésben valóban szakértő**, és már hat éves kora óta készülhetett erre a feladatra. Azonban Stumpf András árnyaltabban látja a helyzetet:
 
-> „Vitézi Dávidnak azért a múltjában tényleg voltak olyan dolgok, amikor konkrétan a búránkba belehazudott, hogy ő márpedig nem lesz a Fidesznek a főpolgármestere. Aztán lett." – Stumpf András [*](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=242)
+> „Vitézy Dávidnak azért a múltjában tényleg voltak olyan dolgok, amikor konkrétan a búránkba belehazudott, hogy ő márpedig nem lesz a Fidesznek a főpolgármestere. Aztán lett." – Stumpf András [*](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=242)
 
-A vendégek megjegyzik, hogy Vitézi Dávid a 2024-es kampányban kulcsszerepet játszott: **Szent Királyi Alexandra támogatása révén megnyitotta a lehetőséget a Fidesz-szavazók számára, hogy másra szavazzanak**, megtörve a 14 éves hagyományt. Ez politikai hála lehet Magyar Péter részéről.
+A vendégek megjegyzik, hogy Vitézy Dávid a 2024-es kampányban kulcsszerepet játszott: **Szent Királyi Alexandra támogatása révén megnyitotta a lehetőséget a Fidesz-szavazók számára, hogy másra szavazzanak**, megtörve a 14 éves hagyományt. Ez politikai hála lehet Magyar Péter részéről.
 
-Aggályként merül fel azonban, hogy Vitézi Dávid **mindig a Fidesz-klánhoz kötődött**, és most is egy hatalmas portfólió jut neki (közlekedés, városligeti beruházások, délipályaudvar-projekt). Tota V Árpád szerint tiszta lapot adnak neki, de figyelni kell, hogy nem ismétlődnek-e a NER-szerű összefonódások.
+Aggályként merül fel azonban, hogy Vitézy Dávid **mindig a Fidesz-klánhoz kötődött**, és most is egy hatalmas portfólió jut neki (közlekedés, városligeti beruházások, délipályaudvar-projekt). Tota V Árpád szerint tiszta lapot adnak neki, de figyelni kell, hogy nem ismétlődnek-e a NER-szerű összefonódások.
 
-> „Egy elképesztő hatalmi centrum lesz Vitézi Dávid alatt. Nem tudom, hogy ebből mi fog kijönni, meg hogy ez így jó lesz-e. Remélem, hogy igen." – Tota V Árpád [*](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=350)
+> „Egy elképesztő hatalmi centrum lesz Vitézy Dávid alatt. Nem tudom, hogy ebből mi fog kijönni, meg hogy ez így jó lesz-e. Remélem, hogy igen." – Tota V Árpád [*](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=350)
 
 ### Káltai Német Wilmosnak a szociális ügyekért felelős pozíciója
 
@@ -202,7 +202,7 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- „vitézi ménével" – valószínűleg „vitézi ménesével" vagy hasonló, de a kontextus nem egyértelmű
+- „vitézy ménével" – valószínűleg „vitézy ménesével" vagy hasonló, de a kontextus nem egyértelmű
 - „Káltai német Wilmos" – az ASR-ben többféleképpen szerepel, de a helyes név: Káltai Német Wilmosnak
 - „Szent Királyi Alexandra" – az átiratban „Szent Királyi Alexandra", helyes forma: Szentkirályi Alexandra
 - „Ungár Péter, akinek az anyu azért meglehetősen mélyen van a Fideszben" – az átirat homályos, de valószínűleg Ungár Péter anyja Fidesz-közeli
@@ -270,7 +270,7 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:01:48](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=108) Az oktatási minisztert még nem tudjuk, amikor fölvesszük ezt az adást, de de lehet, hogy addigra kiderül is.
 
-[00:01:54](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=114) És ez biztos, hogy kiderül, mire ez adásba megyünk, mert kettő-kor videóban jelenti be majd a viszont tudjuk a közlekedési minisztert, aki vitézi Dávid, meglepődtetek a személyén?
+[00:01:54](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=114) És ez biztos, hogy kiderül, mire ez adásba megyünk, mert kettő-kor videóban jelenti be majd a viszont tudjuk a közlekedési minisztert, aki vitézy Dávid, meglepődtetek a személyén?
 
 [00:02:06](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=126) Hát annyiban igen, hogy neki ugye van egy munkája pillanatnyilag, hogy fővárosi [torokköszörülés] képvisel, de annyiban meg nem, hogy hát én is őt választanám tulajdonképpen.
 
@@ -316,7 +316,7 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:03:33](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=213) Amúgy ahhoz képest, ami eddig volt, ez mindenképpen lehetőség Budapestnek is, meg az országnak is.
 
-[00:03:38](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=218) Én egy kicsit árnyaltabban látom a vitézi szerepét, nem vitatva azt, hogy tényleg nagyon szereti a közlekedést és nagyon bele is ásta magát, és már nagyon régóta ért ehhez.
+[00:03:38](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=218) Én egy kicsit árnyaltabban látom a vitézy szerepét, nem vitatva azt, hogy tényleg nagyon szereti a közlekedést és nagyon bele is ásta magát, és már nagyon régóta ért ehhez.
 
 [00:03:49](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=229) Nem vagyok az, aki azt tartja elsődlegesnek, miközben valami szakértelem azért nem árt.
 
@@ -324,7 +324,7 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:04:00](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=240) De de szerintem ez nem feltétlenül elsődleges.
 
-[00:04:02](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=242) Vitézi Dávidnak azért a múltjában tényleg voltak olyan dolgok, amikor konkrétan a búránkba belehazudott, hogy ő márpedig nem lesz a Fidesznek a főpolgármesteröltje.
+[00:04:02](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=242) Vitézy Dávidnak azért a múltjában tényleg voltak olyan dolgok, amikor konkrétan a búránkba belehazudott, hogy ő márpedig nem lesz a Fidesznek a főpolgármesteröltje.
 
 [00:04:09](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=249) Aztán lett, aztán ott az összeszámlállási dolgoknál az, hogy a bocsandás nem lett a Fidesz főpolgármestere.
 
@@ -332,13 +332,13 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:04:21](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=261) Na, te indultál volna és a Fidesz beáll mögéd, hogy szia anyu itt vagyok a tévébe, de ha már anyu, ha már anyu, akkor ott volt mellette ugye Ungár Péter, akinek az anyu azért meglehetősen mélyen van a Fideszben.
 
-[00:04:33](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=273) Tehát én azt mondom, hogy minden miniszternek így Vitézi Dávidnak is, tehát én most a magam részéről rettentő kegyesen adok egy tiszta lapot, megnézzük, hogy mit csinál, de amennyiben mondjuk Smith Máriának a cége fogja építgetni a délipályaudvar helyére a nem tudom mekkora rohadt nagy beruházásokat, akkor azért felvonom a szemöldököm.
+[00:04:33](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=273) Tehát én azt mondom, hogy minden miniszternek így Vitézy Dávidnak is, tehát én most a magam részéről rettentő kegyesen adok egy tiszta lapot, megnézzük, hogy mit csinál, de amennyiben mondjuk Smith Máriának a cége fogja építgetni a délipályaudvar helyére a nem tudom mekkora rohadt nagy beruházásokat, akkor azért felvonom a szemöldököm.
 
 [00:04:49](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=289) Tehát, hogy ezekre érdemes lesz figyelni, hogy az a beágyazottsága, amely mindig megvolt, ő mindig a fideszes klánnak volt a tagja, abból kapott mindenféle dolgokat.
 
 [00:04:55](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=295) Én örültem volna, hogyha egyszer az életében végigcsinál egy ciklust úgy, ahogy azt elkezdte, abban a pozícióban, végigharcolja, és aztán utána mondjuk elindul főpolgármesternek öt év után, és megnyeri, és akkor ő a főpolgármester, és tök jó, és leváltja a karácsonyt sok-sok munka után, úgyhogy mondjuk eltölt valahol él életében egyszer tényleg egy teljes ciklust.
 
-[00:05:13](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=313) Ez nem történt meg most sem, mert mindig van egy melegebb szék, ahova vitézi Dávid valahogy valahogy mindig be tud ülni.
+[00:05:13](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=313) Ez nem történt meg most sem, mert mindig van egy melegebb szék, ahova vitézy Dávid valahogy valahogy mindig be tud ülni.
 
 [00:05:18](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=318) De ez a szék egyébként, ezt mondom, ezt én sem akarom elvitatni, lehet, hogy a legmegfelelőbb szék számára, meg a nemzet számára, úgyhogy tényleg tisztalap.
 
@@ -346,7 +346,7 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:05:28](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=328) Nagyon remélem, hogy tök jó, hogy a MÁVAL mindenel, de közben elképesztő, ami hozzátartozik.
 
-[00:05:34](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=334) Azt nézzétek meg, hogy ugyanaz a tehát nem az van, hogy azt az elképesztő birodalmat, ami a Lázáré volt, azt szétszedték értelmes darabokra, és akkor a Málvért közlekedés fel a vártól kezdve a városligeten át a mindenféle izé tartozik, egy elképesztő hatalmi centrum lesz Vitézi Dávid alatt.
+[00:05:34](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=334) Azt nézzétek meg, hogy ugyanaz a tehát nem az van, hogy azt az elképesztő birodalmat, ami a Lázáré volt, azt szétszedték értelmes darabokra, és akkor a Málvért közlekedés fel a vártól kezdve a városligeten át a mindenféle izé tartozik, egy elképesztő hatalmi centrum lesz Vitézy Dávid alatt.
 
 [00:05:50](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=350) Nem tudom, hogy hogy ebből mi fog kijönni, meg hogy ez így jó lesz-e.
 
@@ -360,7 +360,7 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:06:10](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=370) Nem hiszem.
 
-[00:06:10](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=370) Teljesen más karakter vitézi Dávid és Lázár János.
+[00:06:10](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=370) Teljesen más karakter vitézy Dávid és Lázár János.
 
 [00:06:13](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=373) Tehát mi a külön mi a különbség?
 
@@ -370,21 +370,21 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:06:23](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=383) Ühüm.
 
-[00:06:25](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=385) Hog például, hogy az a az a hozzáállás, amit Vitézi Dávid tanúsított, tehát az a az a konstruktivitás, az minden korábbi vitát félretett a Karácsony Gergelyel, és mondta, hogy ez Budapest érdeke, nem lehet, hogy oda Mohamed Alabár felhúzzon valami egészen tors szörny szülött mecsettel kombinált felhőkarcolót.
+[00:06:25](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=385) Hog például, hogy az a az a hozzáállás, amit Vitézy Dávid tanúsított, tehát az a az a konstruktivitás, az minden korábbi vitát félretett a Karácsony Gergelyel, és mondta, hogy ez Budapest érdeke, nem lehet, hogy oda Mohamed Alabár felhúzzon valami egészen tors szörny szülött mecsettel kombinált felhőkarcolót.
 
 [00:06:43](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=403) Míg Lázár Jánosnak ugye némi érdekeltsége [torokköszörülés] volt ebben a sztoriban, tehát hogy ez ez egy nagyon ez egy nagyon más történet.
 
-[00:06:50](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=410) A a szakértelme az nyilvánvalóan az evidens szerintem körülbelül hat éves kora óta erre készülhetett vitézi Dávid erre a villamos volt a jele a lovében pozícióban igen Gárpát te ugye már meg akartad tenni őt főpolgármester helyettesnek is a a városban ilyen közlekedés ügyért ami ami szerintem izgalmasabb az ő kezés bocs nem csak én akartam megtenni egyébként ez asztalon volt ez a lehetőség meg ez az opció csak nem sikerült ugye megsz jó csak a főváros meg azt láttuk hogy ott tett keresztbe, [torokköszörülés] ahol csak tudott.
+[00:06:50](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=410) A a szakértelme az nyilvánvalóan az evidens szerintem körülbelül hat éves kora óta erre készülhetett vitézy Dávid erre a villamos volt a jele a lovében pozícióban igen Gárpát te ugye már meg akartad tenni őt főpolgármester helyettesnek is a a városban ilyen közlekedés ügyért ami ami szerintem izgalmasabb az ő kezés bocs nem csak én akartam megtenni egyébként ez asztalon volt ez a lehetőség meg ez az opció csak nem sikerült ugye megsz jó csak a főváros meg azt láttuk hogy ott tett keresztbe, [torokköszörülés] ahol csak tudott.
 
 [00:07:22](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=442) Tehát hogy tényleg a tehát ott a teljesen fölösleges csatákban ment bele azért, hogy gáncsolja a karácsonyt, mert valahogy nehezen bírta elviselni, hogy nem az övé a a hatalom.
 
 [00:07:31](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=451) Ami meg ami ami viszont az valóban, amit András említett, ez a pártpolitikai háttere, az az baromi izgalmas.
 
-[00:07:36](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=456) Tehát egyrészről ott van a amit én a a 24-es kampányban így magamban csak vitézi faktornak neveztem, az az, hogy láttam a környezetemben, hogy egészen addig volt nagyon sok vitézi rajongó szavazó, ellenzéki, kimondottan ellenzéki szavazó, ameddig hát az ominózus pénteki napig, amíg Szent Királyi Alexandra nem lépett vissza a javára.
+[00:07:36](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=456) Tehát egyrészről ott van a amit én a a 24-es kampányban így magamban csak vitézy faktornak neveztem, az az, hogy láttam a környezetemben, hogy egészen addig volt nagyon sok vitézy rajongó szavazó, ellenzéki, kimondottan ellenzéki szavazó, ameddig hát az ominózus pénteki napig, amíg Szent Királyi Alexandra nem lépett vissza a javára.
 
-[00:08:00](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=480) És ugye még az volt a nagyon izgalmas, hogy még Orbán Viktor vasárnap is, mikor megkérdezték, hogy kire szavazott a főpolgármesterlistán, ő nem mondta, hogy vitézi Dávidra.
+[00:08:00](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=480) És ugye még az volt a nagyon izgalmas, hogy még Orbán Viktor vasárnap is, mikor megkérdezték, hogy kire szavazott a főpolgármesterlistán, ő nem mondta, hogy vitézy Dávidra.
 
-[00:08:10](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=490) Ő azt mondta, hogy akire az Alexandra javasolt, és ugye ennek az a az a funkciója, és ez a ez a nagyon fontos, és szerintem Magyar Péter részéről ez valamiféle ilyen politikai hála lehet, mert Vitézi Dávid volt az a személy, akivel ha ha közvetve is van köze hozzám, mert aki közvetlenül csinálta, az Szent Királyi Alexandra volt, aki megtörte azt a ten, hát akkor 14 éves hagyományt, hogy a Fideszre szavazni csak úgy lehetett, ugye a fideszes vezérkar szerint, hogy csak a Fidesz, ha másra szavazták, mint a Fidesz, akkor megerőszakolta az anyádat egy migráns.
+[00:08:10](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=490) Ő azt mondta, hogy akire az Alexandra javasolt, és ugye ennek az a az a funkciója, és ez a ez a nagyon fontos, és szerintem Magyar Péter részéről ez valamiféle ilyen politikai hála lehet, mert Vitézy Dávid volt az a személy, akivel ha ha közvetve is van köze hozzám, mert aki közvetlenül csinálta, az Szent Királyi Alexandra volt, aki megtörte azt a ten, hát akkor 14 éves hagyományt, hogy a Fideszre szavazni csak úgy lehetett, ugye a fideszes vezérkar szerint, hogy csak a Fidesz, ha másra szavazták, mint a Fidesz, akkor megerőszakolta az anyádat egy migráns.
 
 [00:08:44](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=524) Elpusztultál belső vérzéses nukleáris holokausztban.
 
@@ -406,11 +406,11 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:09:15](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=555) És azzal tulajdonképpen egy csomó fideszesnek megnyitotta a lehetőséget arra, hogy hogy megossza a szavazat.
 
-[00:09:20](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=560) Hát lehet, hogy csomó mindenki egyébként, mint láttuk az eredményekből egyébként a mi hazánkra szavazott, és nem nem húzta be a vitézire, hanem listán leszavazott a a Fideszre és egy és a főpolgármester jelöltre, meg a a Mi Hazánk jelöltjére.
+[00:09:20](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=560) Hát lehet, hogy csomó mindenki egyébként, mint láttuk az eredményekből egyébként a mi hazánkra szavazott, és nem nem húzta be a vitézyre, hanem listán leszavazott a a Fideszre és egy és a főpolgármester jelöltre, meg a a Mi Hazánk jelöltjére.
 
 [00:09:35](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=575) Nem, nem jött össze, de akkor elindult már a a Fideszben az a az a fajta gondolkodás, hogy utat adtak ennek a lehetőségnek, hogy lehet megosztani a szavazatot egyébként, ami aztán milyen jól sikerült 26-ra.
 
-[00:09:45](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=585) Ott a választás után a Vitézi körül volt erről egy találgatás, hogy lehet, hogy a Fidesz többet ártott neki ezzel a támogatással, mint amennyit használt.
+[00:09:45](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=585) Ott a választás után a Vitézy körül volt erről egy találgatás, hogy lehet, hogy a Fidesz többet ártott neki ezzel a támogatással, mint amennyit használt.
 
 [00:09:55](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=595) Hát hát azért mikor megnézted, hogyha ös összeszámolásnál, újraszámolásnál milyen milyen milyen akciók voltak ottan, hogyan hogyan tudta nagyon jól, hogy a Fidesz a Fidesz támogatása az azért nem feltétlenül hoz.
 
@@ -454,7 +454,7 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:11:23](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=683) Persze ez ez óriási különbség.
 
-[00:11:23](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=683) Arra azért kíváncsi vagyok, hogy mi lesz a Lázár János lovaival meg a izé, ami most szintén vitézi ménével.
+[00:11:23](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=683) Arra azért kíváncsi vagyok, hogy mi lesz a Lázár János lovaival meg a izé, ami most szintén vitézy ménével.
 
 [00:11:28](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=688) De lehet, hogy lóvasút lesz megint bevezetve, vagy valami.
 
@@ -464,7 +464,7 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:11:37](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=697) Odá tudunk áttérni egy, hogy a másik minisztereknél is úgy tűnik, hogy ez volt a szempont érte ahhoz a szakterülethez, amit például Káltai német Wilmos ugye és akkor így kötök át, azt hittem, hogy te is ezt akarod, hogy lefutott egy vonatot.
 
-[00:11:51](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=711) egy vonatot és igen, hogy a kár volt kihagyni a nagy poén, hogy hogy a vitézi meg azért lett kinevezve, hogy négy év múlva már ne tudja lefutni a vonatot a látásérült frakciótársa vagy min frakciótársa, minisztertársa.
+[00:11:51](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=711) egy vonatot és igen, hogy a kár volt kihagyni a nagy poén, hogy hogy a vitézy meg azért lett kinevezve, hogy négy év múlva már ne tudja lefutni a vonatot a látásérült frakciótársa vagy min frakciótársa, minisztertársa.
 
 [00:12:02](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=722) Így van.
 
@@ -510,9 +510,9 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:13:40](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=820) Azt azt tudom tanúsítani.
 
-[00:13:40](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=820) Igen, ez némiképp ez meglepő, de egy csak egy tényleg egy abszolút apró gondolat elejéig vissza a a vitézihez, és hogy hogy mi az, amit amit láthatunk.
+[00:13:40](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=820) Igen, ez némiképp ez meglepő, de egy csak egy tényleg egy abszolút apró gondolat elejéig vissza a a vitézyhez, és hogy hogy mi az, amit amit láthatunk.
 
-[00:13:49](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=829) esetleg a kollégádnak, magyi Péternek volt egy nagyon jó cikke még a hát még nagyon-nagyon 2024-ben, mikor a Magyar Péter felbukkant, és akkor is a Vitézi már így a tán még a kampányban jelent meg ugye a párhuzamos életrajzok, és ugye így összevetettel, hogy Igen, Igen, igen.
+[00:13:49](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=829) esetleg a kollégádnak, magyi Péternek volt egy nagyon jó cikke még a hát még nagyon-nagyon 2024-ben, mikor a Magyar Péter felbukkant, és akkor is a Vitézy már így a tán még a kampányban jelent meg ugye a párhuzamos életrajzok, és ugye így összevetettel, hogy Igen, Igen, igen.
 
 [00:14:08](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=848) Hogy hogy honnan honnan kerültek, hova, hogy tulajdonképpen ez a két ember valahol a megtestesítője annak, amit egyébként úgy országszerte láttunk.
 
@@ -536,7 +536,7 @@ Az ügynökakták nyilvánosságra hozatala a múlt lezárásáról szól, nem p
 
 [00:15:30](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=930) Én is kicsit dolgoztam vele, de majd Zsupán kolléga írja meg.
 
-[00:15:33](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=933) Tehát, hogy pont mondjuk ebben a portfólióban, ami a Lázár most már vitézi portfólió is, olyan hát nem csontvázak, hanem egyszerűen olyan bekalkulálhatatlan mínuszok vannak, amiket most most hirtelen sok milliárdot elő kell teremteni.
+[00:15:33](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=933) Tehát, hogy pont mondjuk ebben a portfólióban, ami a Lázár most már vitézy portfólió is, olyan hát nem csontvázak, hanem egyszerűen olyan bekalkulálhatatlan mínuszok vannak, amiket most most hirtelen sok milliárdot elő kell teremteni.
 
 [00:15:45](https://www.youtube.com/watch?v=YsYdPFSHA2s&t=945) Különben rendszerek omlanak össze azonnal.
 

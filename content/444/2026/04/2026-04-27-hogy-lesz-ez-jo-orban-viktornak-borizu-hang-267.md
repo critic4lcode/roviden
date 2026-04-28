@@ -210,7 +210,7 @@ Az egyik hallgató azt kérdezte, hogy van-e olyan magyar sportoló a jelenből,
 - „Szombathely" – az egyik beszélgetőpartner említi, hogy szombathelyi, de nem világos, hogy ki ez
 - „Budai Gyula" – az egyik beszélgetőpartner említi, hogy össze kellene állítani egy szupercsapatot Keller Lációból és Budai Gyulából, de nem világos, hogy ki Budai Gyula
 - „Gyopáros Alpár" – az egyik beszélgetőpartner említi, hogy Gyopáros Alpár se húzná be, de nem világos, hogy ki ez
-- „Vitézi Dávid" – az egyik beszélgetőpartner említi, hogy a Tisza indíthat Vitézi Dávidot, de nem világos, hogy ki ez
+- „Vitézy Dávid" – az egyik beszélgetőpartner említi, hogy a Tisza indíthat Vitézy Dávidot, de nem világos, hogy ki ez
 - „Karácsony Gergely" – az egyik beszélgetőpartner említi, hogy Karácsony Gergely indulhat, de nem világos, hogy ki ez
 - „Tarsó Csaba" – az egyik beszélgetőpartner említi, hogy Tarsó Csaba titkárát kihallgatják a Questor ügyben, de nem világos, hogy ki ez
 - „Polt Péter" – az egyik beszélgetőpartner említi, hogy Polt Péter lányával járt Tarsó Csaba, de nem világos, hogy ki Polt Péter
@@ -753,7 +753,7 @@ Az egyik hallgató azt kérdezte, hogy van-e olyan magyar sportoló a jelenből,
 
 [00:22:55](https://www.youtube.com/watch?v=b4WMK9G5Mbk&t=1375) Mi van akkor, hogyha mondjuk indul Karácsony Gergely és a Tisza indít valakit?
 
-[00:23:01](https://www.youtube.com/watch?v=b4WMK9G5Mbk&t=1381) Én azt is el tudom képzelni, hogy mondjuk Vitézi Dávidot.
+[00:23:01](https://www.youtube.com/watch?v=b4WMK9G5Mbk&t=1381) Én azt is el tudom képzelni, hogy mondjuk Vitézy Dávidot.
 
 [00:23:06](https://www.youtube.com/watch?v=b4WMK9G5Mbk&t=1386) Ebben az esetben az itt ülők például, akik közül feltételezem sokan a Tiszapárt jelöltjére szavaztak, kire szavaznának?
 

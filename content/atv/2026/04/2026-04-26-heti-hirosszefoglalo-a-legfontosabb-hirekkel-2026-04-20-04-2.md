@@ -26,7 +26,7 @@ summary_model: anthropic/claude-haiku-4.5
 
 Az ATV heti hírösszefoglalója (2026. április 20–24.) a kormányváltás előkészületeiről, a Fidesz vereségének feldolgozásáról és az új Tisza-kormány összetételéről számol be.
 
-Magyar Péter leendő miniszterelnök 16 minisztériumot működtetne majd, és már hét tárcavezetőt megnevezett: Kármán András (pénzügy), Kapitány István (gazdaság–energia), Orbán Anita (külügy), Hegedűs Zsolt (egészségügy), Ruszin-Szendi Romulusz (honvédelem), Gajdos László (környezet), Bóna Szabolcs (agrár). Később további minisztereket jelentett be, köztük Lannert Judit (oktatás), Vitézi Dávid (közlekedés), Kátai Német Vilmos (szociális ügyek). Az Országgyűlés alakuló ülése május 9-én lesz, amikor a képviselők a szent koronára teszik le esküjüket.
+Magyar Péter leendő miniszterelnök 16 minisztériumot működtetne majd, és már hét tárcavezetőt megnevezett: Kármán András (pénzügy), Kapitány István (gazdaság–energia), Orbán Anita (külügy), Hegedűs Zsolt (egészségügy), Ruszin-Szendi Romulusz (honvédelem), Gajdos László (környezet), Bóna Szabolcs (agrár). Később további minisztereket jelentett be, köztük Lannert Judit (oktatás), Vitézy Dávid (közlekedés), Kátai Német Vilmos (szociális ügyek). Az Országgyűlés alakuló ülése május 9-én lesz, amikor a képviselők a szent koronára teszik le esküjüket.
 
 Forst Hoffer Ágnes lesz az Országgyűlés leendő elnöke, Bujdosó Andrea pedig a Tisza frakció vezetője. Magyar Péter május 31-éig adott határidőt a közjogi tisztviselőknek, hogy önként távozzanak. A Tisza 141 fős frakciójában 5–6 frakcióvezetőhelyettes lesz, köztük Velkei György.
 
@@ -52,13 +52,13 @@ A bejelentett miniszterek között szerepel Kármán András pénzügyminiszterk
 
 Ezt követően további kilenc minisztériumot is bejelentett: Belügyminisztérium, Igazságügyi Minisztérium, Közlekedési és Beruházási Minisztérium, Oktatási Minisztérium, Szociális Minisztérium, Miniszterelnökség, Művelődési Minisztérium, valamint Digitális és Technológiai Minisztérium.
 
-Pénteken három újabb minisztert jelentett be: Lannert Judit gyermek- és oktatásügyi, Vitézi Dávid közlekedési és beruházási, valamint Kátai Német Vilmos szociális és családügyi miniszter lesz.
+Pénteken három újabb minisztert jelentett be: Lannert Judit gyermek- és oktatásügyi, Vitézy Dávid közlekedési és beruházási, valamint Kátai Német Vilmos szociális és családügyi miniszter lesz.
 
 **Lannert Judit** 1990 óta foglalkozik oktatáskutatással, a hazai oktatási egyenlőtlenségek és az iskolarendszer teljesítményének ismert elemzője. Új nemzeti alaptantervet sürget, és a tankerületeknek nagyobb autonómiát biztosítana.
 
 > „Nem elég szeretni őket. Hinni is kell abban, hogy ők többre képesek. A kettő nem ugyanaz." – Lannert Judit [*](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2156)
 
-**Vitézi Dávid** 2010 és 2014 között a Budapesti Közlekedési Központ első vezérigazgatója volt, majd 2015-től miniszteri biztos lett. 2024-ben főpolgármesterjelöltként indult, végül szoros versenyben maradt alul Karácsony Gergelyel szemben. Legfontosabb feladatának a válságban lévő vasút talpraállítását jelölte meg.
+**Vitézy Dávid** 2010 és 2014 között a Budapesti Közlekedési Központ első vezérigazgatója volt, majd 2015-től miniszteri biztos lett. 2024-ben főpolgármesterjelöltként indult, végül szoros versenyben maradt alul Karácsony Gergelyel szemben. Legfontosabb feladatának a válságban lévő vasút talpraállítását jelölte meg.
 
 **Kátai Német Vilmos** 16 évesen vesztette el látását, és az első láttássérült tárcavezető Magyarországon. Kiemelten fontos számára az akadálymentesítés és esélyegyenlőség.
 
@@ -821,11 +821,11 @@ Magyar Péter azt is közölte, hogy május 31-éig adott haladékot, hogy az á
 
 [00:34:44](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2084) Három újabb minisztert jelentett be Magyar Pénter pénteken.
 
-[00:34:49](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2089) Lannert Judit gyermek és oktatásügyi, Vitézi Dávid közlekedési és beruházási.
+[00:34:49](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2089) Lannert Judit gyermek és oktatásügyi, Vitézy Dávid közlekedési és beruházási.
 
 [00:34:53](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2093) Kátai Német Vilmos szociális és családügyi miniszter lesz.
 
-[00:34:58](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2098) Lanert új alaptantervet vitézi, a vasút talpra állítását sürgeti.
+[00:34:58](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2098) Lanert új alaptantervet vitézy, a vasút talpra állítását sürgeti.
 
 [00:34:58](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2098) A híradóknak nyilatkozó szakértők bizakodva fogadták a bejelentett tárcavezetők személyét.
 
@@ -859,9 +859,9 @@ Magyar Péter azt is közölte, hogy május 31-éig adott haladékot, hogy az á
 
 [00:36:26](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2186) század lehetőségeivel.
 
-[00:36:30](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2190) A közlekedési és beruházási miniszter Vitézi Dávid lesz.
+[00:36:30](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2190) A közlekedési és beruházási miniszter Vitézy Dávid lesz.
 
-[00:36:30](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2190) Vitézi régóta a közéletben tevékenykedik.
+[00:36:30](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2190) Vitézy régóta a közéletben tevékenykedik.
 
 [00:36:35](https://www.youtube.com/watch?v=c9H8buJ7PO4&t=2195) teljes forgalirányítása a tömegközlekedésben is.
 

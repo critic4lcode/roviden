@@ -32,7 +32,7 @@ Szijjártó Péter interjújában azt állítja, hogy nem beszélt a fiainak a k
 
 Ruff Bálint miniszterelnökséget vezető miniszter lesz, aki az ügynökakták nyilvánosságra hozatalát és a Nemzeti Vagyon Visszaszerzési és Védelmi Hivatal felállítását tűzte ki célul. A műsor résztvevői szerint ez a kinevezés jelzi, hogy Magyar Péter komolyan gondolja az elszámoltatást és a rendszerváltást.
 
-Vitézi Dávid közlekedési miniszter lesz, ami miatt Puzsér csalódott – remélt volna egy erősebb budapesti polgármester-jelöltet. Azonban a műsor végén egyetértenek, hogy Vitézi a közlekedési tárcánál jobb helyen van.
+Vitézy Dávid közlekedési miniszter lesz, ami miatt Puzsér csalódott – remélt volna egy erősebb budapesti polgármester-jelöltet. Azonban a műsor végén egyetértenek, hogy Vitézy a közlekedési tárcánál jobb helyen van.
 
 A Fidesz támogatottsága drasztikusan csökkent: a szavazókorú népesség ötöde, a szavazók közül pedig csak minden negyedik szavazna rájuk. Érdekes, hogy a megkérdezetteknek 59%-a emlékszik úgy, hogy Tiszára szavazott, miközben valójában 53% volt – és 26% azt mondja, hogy Fideszre, holott 39% volt.
 
@@ -88,17 +88,17 @@ Ruff Bálint állítása szerint a miniszterelnökség nem egy „halálcsillagk
 
 > „Az egyik az, hogy következetesség, a másik meg, hogy gerinc. Tehát, hogy akinél azt érzem, és nekem el kell, hogy mondjam, őszinte vallomás, hogy nagyon komoly fenntartásaim vannak a magyar politikai elit minden szereplőjével szemben." [*](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=3453)
 
-## Vitézi Dávid közlekedési miniszter
+## Vitézy Dávid közlekedési miniszter
 
-Vitézi Dávid közlekedési miniszter lesz, ami miatt Puzsér csalódott. Remélt volna, hogy Vitézi Budapest főpolgármestere lesz, és egy történelmi korszakon keresztül vezeti a várost, fejleszti azt európai normák szerint.
+Vitézy Dávid közlekedési miniszter lesz, ami miatt Puzsér csalódott. Remélt volna, hogy Vitézy Budapest főpolgármestere lesz, és egy történelmi korszakon keresztül vezeti a várost, fejleszti azt európai normák szerint.
 
 > „Én azt reméltem, hogy ő egy nap majd Budapest gazdája lesz. Én azt hittem, hogy ő Budapest iránt elkötelezett." [*](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=359)
 
-Puzsér szerint Vitézi Budapest főpolgármesterként nagyobb hatást tudna gyakorolni, mint közlekedési miniszterként. Azonban a műsor többi résztvevője szerint Vitézi a közlekedési tárcánál jobb helyen van, mert az ország közlekedési rendszere szükséges reformokra vár.
+Puzsér szerint Vitézy Budapest főpolgármesterként nagyobb hatást tudna gyakorolni, mint közlekedési miniszterként. Azonban a műsor többi résztvevője szerint Vitézy a közlekedési tárcánál jobb helyen van, mert az ország közlekedési rendszere szükséges reformokra vár.
 
-> „Én azt gondolom, hogy Vitézi Dávidnak a képessége, érdeklődése és [ __ ] rátermettsége jobban lefedi a közlekedési tárcát, mint egy ennyire nem homogén városvezetési feladatköröket." [*](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=663)
+> „Én azt gondolom, hogy Vitézy Dávidnak a képessége, érdeklődése és [ __ ] rátermettsége jobban lefedi a közlekedési tárcát, mint egy ennyire nem homogén városvezetési feladatköröket." [*](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=663)
 
-A beszélgetésben hangsúlyozzák, hogy az ország közlekedési rendszere az elmúlt 30 évben egy autópálya-fókuszú fejlesztést jelentett, és sok ember kimarad abból, hogy mobilis legyen. Vitézi feladata lesz, hogy ezt megváltoztassa.
+A beszélgetésben hangsúlyozzák, hogy az ország közlekedési rendszere az elmúlt 30 évben egy autópálya-fókuszú fejlesztést jelentett, és sok ember kimarad abból, hogy mobilis legyen. Vitézy feladata lesz, hogy ezt megváltoztassa.
 
 ## A Fidesz támogatottságának csökkenése
 
@@ -183,7 +183,7 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- Az átirat több helyen tartalmaz ASR-hibákat, amelyeket a kontextus alapján javítottam (pl. „Szártó" helyett „Szijjártó", „Ruf Báricól" helyett „Ruff Bálint", „Vitézi Dávidból" helyett „Vitézi Dávid").
+- Az átirat több helyen tartalmaz ASR-hibákat, amelyeket a kontextus alapján javítottam (pl. „Szártó" helyett „Szijjártó", „Ruf Báricól" helyett „Ruff Bálint", „Vitézy Dávidból" helyett „Vitézy Dávid").
 - Néhány szakasz erősen fragmentált és nehezen értelmezhető, különösen ahol a beszélgetésben több ember szól egymás után gyorsan, vagy ahol szleng és köznyelvesítés van (pl. „[ __ ]" jelölésekkel).
 - Az interjú hosszú részletei (különösen Szijjártó válaszai) olykor körülményes és kerülő megfogalmazásúak, amelyek az eredeti beszédből fakadnak.
 - Néhány név és hivatkozás bizonytalan (pl. „KG Béla" – valószínűleg egy korábbi szereplőre utalás, de nem egyértelmű).
@@ -283,7 +283,7 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:05:20](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=320) Az a mosógép volt a a torpedójátékban.
 
-[00:05:25](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=325) Vitézi Dávid közlekedési és egyéb miniszter lesz.
+[00:05:25](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=325) Vitézy Dávid közlekedési és egyéb miniszter lesz.
 
 [00:05:28](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=328) Én en én erre számítottam, sőt ennek drukkoltam.
 
@@ -309,7 +309,7 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:05:50](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=350) Rendben, rendben.
 
-[00:05:51](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=351) Én csalódott vagyok, amiért Vitézi Dávidból közlekedési miniszter lesz, mert én azt reméltem, hogy ő egy nap majd Budapest gazdája lesz.
+[00:05:51](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=351) Én csalódott vagyok, amiért Vitézy Dávidból közlekedési miniszter lesz, mert én azt reméltem, hogy ő egy nap majd Budapest gazdája lesz.
 
 [00:05:59](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=359) Én azt hittem, hogy ő Budapest iránt elkötelezett.
 
@@ -321,11 +321,11 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:07:45](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=465) És én én most azt látom, hogy ilyen körülmények között, hogy ő közlekedési miniszter lett, Karácsony Gergálynek nem lesz érdemleges kihívója, vagy legalábbis nagyon tartok attól, hogy nem lesz 29-ben érdemleges kívó.
 
-[00:08:01](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=481) Alexandra ne aggójál és marad az a persze a trollkodás az mindig kéznél van de éppen a városról beszélünk neki drukkolunk rá szavazunk edig minds van figyelj tartsz egy 20 perces monológot arról a hülyeségről már ne haragudjál hogy vitézi miért nem [ __ ] jó választás erre de a legjobb választás nincs az országban jó és te [ __ ] meg mert egy önző budapesti [ __ ] vag ezért te lenyúlnád őt magadnak abba a városb amelyik egyébként is az országhoz hasonlítva [ __ ] szerencsés helyzetben van.
+[00:08:01](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=481) Alexandra ne aggójál és marad az a persze a trollkodás az mindig kéznél van de éppen a városról beszélünk neki drukkolunk rá szavazunk edig minds van figyelj tartsz egy 20 perces monológot arról a hülyeségről már ne haragudjál hogy vitézy miért nem [ __ ] jó választás erre de a legjobb választás nincs az országban jó és te [ __ ] meg mert egy önző budapesti [ __ ] vag ezért te lenyúlnád őt magadnak abba a városb amelyik egyébként is az országhoz hasonlítva [ __ ] szerencsés helyzetben van.
 
 [00:08:31](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=511) Sokkal százszor élhetőbb hely Budapest, mint ez az egész, hadd fejezzem be most már én, mint az egész ország.
 
-[00:08:37](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=517) És ennek az országnak egy vitézire van szüksége, hogy országosan rendbe tegye azt a problémát, amit ma a közlekedés jelent, ami az elmúlt elmúlt 30 évben egy autópálya fókuszú fejlesztést jelentett, és [ __ ] sok ember kimarad abból, hogy mobilis legyen, és a gazdaságot is át kellene rállítani, hogy ne minden a rohadt autópályákon történjen.
+[00:08:37](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=517) És ennek az országnak egy vitézyre van szüksége, hogy országosan rendbe tegye azt a problémát, amit ma a közlekedés jelent, ami az elmúlt elmúlt 30 évben egy autópálya fókuszú fejlesztést jelentett, és [ __ ] sok ember kimarad abból, hogy mobilis legyen, és a gazdaságot is át kellene rállítani, hogy ne minden a rohadt autópályákon történjen.
 
 [00:08:54](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=534) Menjenek vissza a konténerek a vasútra.
 
@@ -333,7 +333,7 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:08:56](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=536) És és jussanak el emberek A-ból B-be olcsón, megfizethetően, jó minőségben, időben.
 
-[00:09:03](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=543) De te neked itt ez elkényeztetett Budapesten neked kell ez a vitézi.
+[00:09:03](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=543) De te neked itt ez elkényeztetett Budapesten neked kell ez a vitézy.
 
 [00:09:06](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=546) Ezt ne vigye el a magyar Péter, mert ő a tiéd, [ __ ] meg.
 
@@ -355,7 +355,7 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:09:49](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=589) Mert neked ide kell, mert itt ez még nem.
 
-[00:09:53](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=593) Bocs, hogy én azt képzeltem abból, hogy Vitézi Dávid Budapest főpolgármesterének jelentkezett.
+[00:09:53](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=593) Bocs, hogy én azt képzeltem abból, hogy Vitézy Dávid Budapest főpolgármesterének jelentkezett.
 
 [00:09:59](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=599) Bocs, hogy én azt feltételeztem, hogy Budapesttel van dolga.
 
@@ -365,13 +365,13 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:10:12](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=612) Hát lássuk be, hogy azért az nem a közlekedéshez tartozik az, ami mondjuk a Robinak a entúziasztikus, nem tudom mi mániája, a zöld tér meg az élhető ülök egy padon és nem a betont nézem.
 
-[00:10:25](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=625) De ebben a kettőben erős vitézi Dávid és én annyiban nyugtatnálak téged meg Robi, hogy az ország tartalmazza Budapestet is.
+[00:10:25](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=625) De ebben a kettőben erős vitézy Dávid és én annyiban nyugtatnálak téged meg Robi, hogy az ország tartalmazza Budapestet is.
 
-[00:10:31](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=631) És Vitézi Dávidnak a tényleg nagyon erős frontja meg érdeklődése az tényleg ez az urbanizmus és közlekedés.
+[00:10:31](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=631) És Vitézy Dávidnak a tényleg nagyon erős frontja meg érdeklődése az tényleg ez az urbanizmus és közlekedés.
 
 [00:10:39](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=639) Most ezen kívül egy város vezetéséhez tartozik nem tudom hulladékgazdálkodás, szakrendelők, lakásgazdálkodás, víz, csatorna, távhő, ki a [ __ ] érdekel szakértői szinten, színház, múzeum, könyvtár, szociális ügyek, hajléktalan ellátás, idős otthonok és a közlekedés.
 
-[00:11:03](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=663) Én azt gondolom, hogy Vitézi Dávidnak a képessége, érdeklődése és [ __ ] rátermettsége jobban lefedi a közlekedési tárcát, mint egy ennyire nem homogén városvezetési feladatköröket.
+[00:11:03](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=663) Én azt gondolom, hogy Vitézy Dávidnak a képessége, érdeklődése és [ __ ] rátermettsége jobban lefedi a közlekedési tárcát, mint egy ennyire nem homogén városvezetési feladatköröket.
 
 [00:11:17](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=677) Abszolút.
 
@@ -379,7 +379,7 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:11:33](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=693) Akor egy karrierpolitikusnak tart, aki az éppen aktuális ajánlatok közül válló.
 
-[00:11:38](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=698) De egyébként megnyugtatlak a Tiszát, úgy is megbuktatja majd a népharag, a a Fidesz visszatér, ugye erről beszéltünk még egy fél éve, hogy egy évet se húz ki, meg fog bukni és akkor majd lehet főpolgármester jelölt a vitézit.
+[00:11:38](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=698) De egyébként megnyugtatlak a Tiszát, úgy is megbuktatja majd a népharag, a a Fidesz visszatér, ugye erről beszéltünk még egy fél éve, hogy egy évet se húz ki, meg fog bukni és akkor majd lehet főpolgármester jelölt a vitézyt.
 
 [00:11:49](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=709) De most hadd legyen már legalább erre a két évre hadd legyen már közlekedési miniszter és még szerintem még ez alatt mág ha ezt, ha ezt egy kicsit is kiterjesztik a miniszterelnökről, ahogy te kívánod, akkor Karácsony Gergely már nem lehet főpolgármester sem.
 
@@ -387,17 +387,17 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:12:08](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=728) Na igen.
 
-[00:12:08](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=728) Szóval én a én én én azt én azt abban bízom ezek után, hogy vitézi vagy három év alatt elvégzi a dolgát és utána átveszi Budapestet.
+[00:12:08](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=728) Szóval én a én én én azt én azt abban bízom ezek után, hogy vitézy vagy három év alatt elvégzi a dolgát és utána átveszi Budapestet.
 
 [00:12:22](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=742) Ez is egy lehetőség.
 
 [00:12:22](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=742) Vagy pedig kinevel valakit a aki kihívhatja karácsonyt és akinek van városkoncepciója.
 
-[00:12:31](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=751) egyáltalán kiáll ki tud állítani ki tud állítani valakit, aki élvezi a Tisza támogatását és úgy gondolom, hogy a Tisza támogatásával 29-ben a város jó kezekbe kerülhet, ha nem is vitézi kezébe.
+[00:12:31](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=751) egyáltalán kiáll ki tud állítani ki tud állítani valakit, aki élvezi a Tisza támogatását és úgy gondolom, hogy a Tisza támogatásával 29-ben a város jó kezekbe kerülhet, ha nem is vitézy kezébe.
 
 [00:12:47](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=767) talán valaki olyas valaki kezébe, akinek van elképzelése a várossal, nem csak a pozíciót akarja megragadni, és nem ugródeszka neki Budapest főpolgármesteri címe, mondjuk, hogy miniszterelnök legyen, vagy mondjuk bolygókancellár.
 
-[00:13:02](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=782) Zubrecki Dávidot javaslom, ha megvan az urbanista blog egykori szerzője, tehát hogy ha valakinek be van kattanva az élett kutatás és prezentáció annyira, mint [horkantás] vitézi Dávidnak, akkor akkor az a Zubrecki csak ha már így meg kell nevezni valakit, illetve én bármilyen posztra természetesen Szent Királyi Alexandrát továbbra is.
+[00:13:02](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=782) Zubrecki Dávidot javaslom, ha megvan az urbanista blog egykori szerzője, tehát hogy ha valakinek be van kattanva az élett kutatás és prezentáció annyira, mint [horkantás] vitézy Dávidnak, akkor akkor az a Zubrecki csak ha már így meg kell nevezni valakit, illetve én bármilyen posztra természetesen Szent Királyi Alexandrát továbbra is.
 
 [00:13:24](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=804) Ő az, aki nem szállt [horkantás] ki a kampányból, nem mondott le, megtartotta az ígéretét, végigcsinálta, elindult, majdnem nyerte is.
 
@@ -407,9 +407,9 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:13:34](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=814) Úgyhogy rend.
 
-[00:13:37](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=817) egyébként nekem most karácsonnyal semmi bajom nincsen, de így azért a Vitézi felé dőlve mentem be a szavazó fülkébe, annak ellenére, hogy ugye mind a, hogy mondjam, az az egy ilyen furcsa jelenség, hogy nekem a Vitézi Dáviddal kapcsolatban volt, és egyébként megszűnt ez a kriptofideszes hunyorgásom.
+[00:13:37](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=817) egyébként nekem most karácsonnyal semmi bajom nincsen, de így azért a Vitézy felé dőlve mentem be a szavazó fülkébe, annak ellenére, hogy ugye mind a, hogy mondjam, az az egy ilyen furcsa jelenség, hogy nekem a Vitézy Dáviddal kapcsolatban volt, és egyébként megszűnt ez a kriptofideszes hunyorgásom.
 
-[00:13:58](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=838) Még neked is van egy ilyen hunyorgás, hogy csak az ungárral kapcsolatban, de a Vitézivel [horkantás] nem alakult ki, de én azt gondolom, hogy a Vitézi az elmúlt egy évben a közgyűlésben és a közszereplésében heti szinten bizonyította a cselekvésével, hogy hogy megérte-e rá szavaznom.
+[00:13:58](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=838) Még neked is van egy ilyen hunyorgás, hogy csak az ungárral kapcsolatban, de a Vitézyvel [horkantás] nem alakult ki, de én azt gondolom, hogy a Vitézy az elmúlt egy évben a közgyűlésben és a közszereplésében heti szinten bizonyította a cselekvésével, hogy hogy megérte-e rá szavaznom.
 
 [00:14:15](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=855) Egyébként [ __ ] drukkoltam is neki, de hogy mondjam, na az egy olyan szavazás volt, hogy nekem a Karácsony Gergge is izé tök funki.
 
@@ -475,17 +475,17 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:16:31](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=991) De jó.
 
-[00:16:31](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=991) V én valahol inkább örülök, hogy ennyire szenvedélyes vagy én nem gondoltam, hogy ez ennyire érzelmi kérdés, de tök jó, hogy nem érünk nem Budapest, hanem ez, hogy most a vitézik gyakorlatilag a majdnem fö főpolgármester az teljesen közlekedési miniszter lesz.
+[00:16:31](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=991) V én valahol inkább örülök, hogy ennyire szenvedélyes vagy én nem gondoltam, hogy ez ennyire érzelmi kérdés, de tök jó, hogy nem érünk nem Budapest, hanem ez, hogy most a vitézyk gyakorlatilag a majdnem fö főpolgármester az teljesen közlekedési miniszter lesz.
 
 [00:16:47](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=1007) Én ezt nekem ezt pró figyelj, ez ez ne nem lefelé bukott.
 
-[00:16:51](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=1011) Na de a a [horkantás] Vitézi megos beukott.
+[00:16:51](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=1011) Na de a a [horkantás] Vitézy megos beukott.
 
 [00:16:55](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=1015) Szóval szerinted [nevetés] bukott.
 
 [00:16:57](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=1017) Igen.
 
-[00:16:57](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=1017) Vitézi megoszt minket.
+[00:16:57](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=1017) Vitézy megoszt minket.
 
 [00:16:57](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=1017) Vár ez a dolog, ami vele történt, de mondjuk Ruf Bálintal kapcsolatban feltételezem, hogy 100%-osan elégedek.
 
@@ -1261,7 +1261,7 @@ Lannert Judit PhD fokozattal rendelkezik szociológiai tudományok terén, és a
 
 [00:57:33](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=3453) Tehát, hogy akinél azt érzem, és nekem el kell, hogy mondjam, őszinte vallomás, hogy nagyon komoly fenntartásaim vannak a magyar politikai elit minden szereplőjével szemben.
 
-[00:57:44](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=3464) Teljes bizalomvesztésben vagyok, leszavaztam a Tiszára, de rettegek tőle, hogy ők is át fognak [ __ ] mint ahogy a rendszerváltás óta mindenki [ __ ] És amikor azt látom, hogy Ruf Bálintot odaültetik pozícióba, akkor tudod, akkor egy ilyen kis daragi kis darab jég így lehasad a szívemről, és elkezd újra így dobogni, meg melegedni, hogy basszus, lehet, hogy tényleg lehet, hogy tényleg az lesz, hogy hogy olyan dolgok fognak történni, amikért ezt az egészet akartuk, ahogy hogy itt lesznek következmények, és olyan emberek kerülnek pozícióba, és Vitézivel is így vagyok, hogy nem tudok rá jobb embert, hogy milyen érzékkel választja ki, hogy nem az, hogy a az ő holdudvarából az ő kollég kollégiumi szobájából, az ő családjából, baráti köréből, hanem hogy ki az az ember, akiből meg tudunk egyezni, nemzeti konszenzus tud lenni, hogy a legjobb erre szerintem Ruf Bálint.
+[00:57:44](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=3464) Teljes bizalomvesztésben vagyok, leszavaztam a Tiszára, de rettegek tőle, hogy ők is át fognak [ __ ] mint ahogy a rendszerváltás óta mindenki [ __ ] És amikor azt látom, hogy Ruf Bálintot odaültetik pozícióba, akkor tudod, akkor egy ilyen kis daragi kis darab jég így lehasad a szívemről, és elkezd újra így dobogni, meg melegedni, hogy basszus, lehet, hogy tényleg lehet, hogy tényleg az lesz, hogy hogy olyan dolgok fognak történni, amikért ezt az egészet akartuk, ahogy hogy itt lesznek következmények, és olyan emberek kerülnek pozícióba, és Vitézyvel is így vagyok, hogy nem tudok rá jobb embert, hogy milyen érzékkel választja ki, hogy nem az, hogy a az ő holdudvarából az ő kollég kollégiumi szobájából, az ő családjából, baráti köréből, hanem hogy ki az az ember, akiből meg tudunk egyezni, nemzeti konszenzus tud lenni, hogy a legjobb erre szerintem Ruf Bálint.
 
 [00:58:31](https://www.youtube.com/watch?v=qkV3CGd8nVg&t=3511) Ugyanez a közlekedésnél, hogy hogy nem lehet jobbat találni nála, és akkor várom a további minisztereket, mert én innen kezdve maximálisan bizalommal vagyok, jó kapitánnyal kapcsolatban nincs ez az érzésem.
 

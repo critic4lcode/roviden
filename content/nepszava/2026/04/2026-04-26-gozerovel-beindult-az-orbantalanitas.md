@@ -83,7 +83,7 @@ A beszélgetők pozitívan értékelik a kormány összeállítását. Több szi
 
 - **Forcz Ágnes** házelnök helyett Kövér László – a női vezetés más stílust hozhat, meghallgatják az ellenvéleményt
 - **Kátai Vilmos** szociális miniszter (vak) – szimbolizálja, hogy az elfogadás nem felülről jövő kegyelem, hanem egyenlőség
-- **Vitézi Dávid** közlekedési miniszter – közlekedési aktivista, szimbolikus választás
+- **Vitézy Dávid** közlekedési miniszter – közlekedési aktivista, szimbolikus választás
 - **Ruff Bálint** Miniszterelnökséget vezető miniszter – politikai tanácsadó, jó kommunikátor
 - A képviselők 25%-a nő a Tiszánál, a Fideszben 10%
 
@@ -720,7 +720,7 @@ A műsorvezető szerint a melegítőt visszaveszi, és visszatér a normálisabb
 
 [00:29:55](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1795) Ez nagyon jó lenne, ha megváltozna, és minden minden esély és remény megvan arra, hogy szakemberekkel fogunk beszélgetni.
 
-[00:30:04](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1804) amire már Dóra utalt, ugye péntek délőtt vesszük fel adásunkat, úgyhogy Dóra és mindannyi nagy szívfájdalmára nem fogjuk most kibeszélni, hogy ki az új oktatási miniszter Magyar Péter így csöp nem nem hadd mondjam végig csöpögteti itt a hogy is mondjam a miniszter megnevezéseket ugye jó sómenként de mindenesetre már megnevezett ma is két minisztert Vitézi Dávidot közlekedési és beruházási miniszternek izgalmasan hangzik a portfólió elég szélesnek hangzik illetve KTA Vilmos urat, aki pedig majd a bocsánat puskázni fogok szociális és családügyi minisztériumot.
+[00:30:04](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1804) amire már Dóra utalt, ugye péntek délőtt vesszük fel adásunkat, úgyhogy Dóra és mindannyi nagy szívfájdalmára nem fogjuk most kibeszélni, hogy ki az új oktatási miniszter Magyar Péter így csöp nem nem hadd mondjam végig csöpögteti itt a hogy is mondjam a miniszter megnevezéseket ugye jó sómenként de mindenesetre már megnevezett ma is két minisztert Vitézy Dávidot közlekedési és beruházási miniszternek izgalmasan hangzik a portfólió elég szélesnek hangzik illetve KTA Vilmos urat, aki pedig majd a bocsánat puskázni fogok szociális és családügyi minisztériumot.
 
 [00:30:41](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1841) Ó, nem, nem is olyan nehéz.
 
@@ -728,11 +728,11 @@ A műsorvezető szerint a melegítőt visszaveszi, és visszatér a normálisabb
 
 [00:30:48](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1848) Tehát ez is azért egy nagyobb és azért látszik, hogy mire helyezik majd a súlypontot ezekben a minisztériumokban.
 
-[00:30:55](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1855) Na azért Vitézi az nem egy ismeretlen figura, hogy finom legyek.
+[00:30:55](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1855) Na azért Vitézy az nem egy ismeretlen figura, hogy finom legyek.
 
 [00:30:58](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1858) Úgyhogy most Dávidnak itt a nagy lehetősége.
 
-[00:31:00](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1860) Ugye Facebookon azért olvashattunk tőle rengeteget, és nagyon konkr egyébként szakmailag gondolom, hogy jó dolgokat most nem értek annyira közlekedéshez, de nagyon határozottan letette a garazs bizonyos dolgok mellett, úgyhogy itt lesz a nagy lehetőség most a bizonyításra vitézi Dávidnak.
+[00:31:00](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1860) Ugye Facebookon azért olvashattunk tőle rengeteget, és nagyon konkr egyébként szakmailag gondolom, hogy jó dolgokat most nem értek annyira közlekedéshez, de nagyon határozottan letette a garazs bizonyos dolgok mellett, úgyhogy itt lesz a nagy lehetőség most a bizonyításra vitézy Dávidnak.
 
 [00:31:16](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1876) Kátai Vilmosról megmondom őszintén még kevesebbet.
 
@@ -742,7 +742,7 @@ A műsorvezető szerint a melegítőt visszaveszi, és visszatér a normálisabb
 
 [00:31:24](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1884) Ő volt az, aki aki vakember létére leelőzte azt a bizonyos vonatot ott a hídon, mert annyira lassan ment.
 
-[00:31:31](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1891) És hát a Vitézi Dávid is eléggé a vonatok ról szokott rengeteget posztolni, de nyilván ezek az emberek ennél jóval többet tudnak, csak ez az, ami elsőre ugrik, főleg azért, mert ez szimbolikájában is ugye, hogy azért a vonatközlekedéssel volt elég sok probléma.
+[00:31:31](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1891) És hát a Vitézy Dávid is eléggé a vonatok ról szokott rengeteget posztolni, de nyilván ezek az emberek ennél jóval többet tudnak, csak ez az, ami elsőre ugrik, főleg azért, mert ez szimbolikájában is ugye, hogy azért a vonatközlekedéssel volt elég sok probléma.
 
 [00:31:47](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=1907) egyébként szerintem ez például a a Kátai Vilmasnak a jelölése abszolút szimbolikus is.
 
@@ -972,7 +972,7 @@ A műsorvezető szerint a melegítőt visszaveszi, és visszatér a normálisabb
 
 [00:48:24](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=2904) Tehát én ezt én ezt nem háttérbeszorításnak gondolom, csak azon kívül ugye azt lehetett tudni, tehát az első bejelentés, az első nem is tudom öt-h bejelentés az olyan értelemben nem volt váratlan, hogy azok már a a választás előtt gyakorlatilag tudni lehetett, hogy ők lesznek annak a területnek a miniszterei, és utána is ugye sorban lényegében a bejutott képviselőik, tehát a saját embereik közül válogatnak, illetve van egy, aki nem jutott be a Bónasz Szabolcs.
 
-[00:48:52](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=2932) Ö nyilván egy kicsit váratlan a Vitézi Dávid, de mégsem mégsem annyira, mert mert tulajdonképpen ő is ugyanezt a se nem jobb, se nem bal, de azért mégis inkább jobb, tehát hogy azt a azt a vonalat vitte.
+[00:48:52](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=2932) Ö nyilván egy kicsit váratlan a Vitézy Dávid, de mégsem mégsem annyira, mert mert tulajdonképpen ő is ugyanezt a se nem jobb, se nem bal, de azért mégis inkább jobb, tehát hogy azt a azt a vonalat vitte.
 
 [00:49:07](https://www.youtube.com/watch?v=6x2zJlxsNX8&t=2947) Közlekedésben szerintem nem tudnánk mást így említeni, tehát ő is azért egy szimbolikus arcává vált a mai politikának.
 

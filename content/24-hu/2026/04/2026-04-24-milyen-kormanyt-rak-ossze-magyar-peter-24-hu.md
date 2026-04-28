@@ -25,7 +25,7 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-A 24.hu politikai műsora (Kernner Zsolt, Pető Péter, Jankovics Márton) Magyar Péter leendő kormányának összetételét és politikai jelentőségét elemzi. A beszélgetés központi témája, hogy a 16 év Orbán-kormányzat után hogyan alakul egy új politikai képzet, és milyen üzenetet hordoznak a kinevezett miniszterek. A kormány összeállítása nem a szokásos politikai képleteket követi – olyan szakemberek kerülnek pozícióba (Ruff Bálint, Vitézi Dávid, Gajdos László), akik személyes vízióval és hitelességgel rendelkeznek, de ez egyben kockázatot is jelent.
+A 24.hu politikai műsora (Kernner Zsolt, Pető Péter, Jankovics Márton) Magyar Péter leendő kormányának összetételét és politikai jelentőségét elemzi. A beszélgetés központi témája, hogy a 16 év Orbán-kormányzat után hogyan alakul egy új politikai képzet, és milyen üzenetet hordoznak a kinevezett miniszterek. A kormány összeállítása nem a szokásos politikai képleteket követi – olyan szakemberek kerülnek pozícióba (Ruff Bálint, Vitézy Dávid, Gajdos László), akik személyes vízióval és hitelességgel rendelkeznek, de ez egyben kockázatot is jelent.
 
 Az elszámoltatás és a vagyon visszaszerzése az új kormány első évének kulcskérdése: ha ezt sikeresen végigvigye, jelentős politikai tőkét szerez, ha nem, az komoly vereség lehet. A műsorvezetők szerint a Tisza-kormány nem egyszerűen a „Fidesz Light", hanem a korai Fidesz (1998–2002) eszméit próbálja ötvözni a modern kormányzás igényeivel, miközben széles koalíciónak kell megfelelnie.
 
@@ -45,11 +45,11 @@ Az új kormány összeállítása éppen ezért szimbolikus: nem csak az emberek
 
 Magyar Péter a minisztereket szokatlan módon jelenti be – interjúkkal, közösségi médiás dramatizálással, amely a Netflix-sorozatokra emlékeztet. Ez nem csupán kommunikációs eszköz, hanem a kormányzás egy új típusát jelzi: a nyilvánosság folyamatos bevonása a politikai folyamatokba.
 
-Az első körben bejelentett miniszterek (Kapitány István, Orbán Anita, Kármán András) várható voltak, de az olyan nevek, mint Ruff Bálint vagy Vitézi Dávid, meglepetést okoztak. Ruff Bálint különösen érdekes figura: korábban a Fidesz kommunikációs apparátusának arca volt, most pedig az elszámoltatás és a vagyon visszaszerzés feladata hárul rá.
+Az első körben bejelentett miniszterek (Kapitány István, Orbán Anita, Kármán András) várható voltak, de az olyan nevek, mint Ruff Bálint vagy Vitézy Dávid, meglepetést okoztak. Ruff Bálint különösen érdekes figura: korábban a Fidesz kommunikációs apparátusának arca volt, most pedig az elszámoltatás és a vagyon visszaszerzés feladata hárul rá.
 
 > „Ruff Bálintnak hívják a műsorokban, meg a miniszterelnökséget vezető miniszternek. Én biztos vagyok benne, hogy a Bálint Ruf munkásságának ez segít a legtöbbet, és a hazánknak is" – Jankovics Márton [*](https://www.youtube.com/watch?v=MwDcN1FffLM&t=543)
 
-Vitézi Dávid közlekedési miniszteri kinevezése előremutató: az ő szakértelmét és hosszú pályafutását széles körben elismerik, ellentétben Lázár Jánossal, akinek a közlekedési és építési minisztériuma gyakorlatilag Mészáros Lőrinc érdekeit szolgálta.
+Vitézy Dávid közlekedési miniszteri kinevezése előremutató: az ő szakértelmét és hosszú pályafutását széles körben elismerik, ellentétben Lázár Jánossal, akinek a közlekedési és építési minisztériuma gyakorlatilag Mészáros Lőrinc érdekeit szolgálta.
 
 ## Az oktatási miniszter körüli vita
 
@@ -276,7 +276,7 @@ Ez a nyitottság az új kormány és a társadalom közös feladata: meg kell te
 
 [00:13:33](https://www.youtube.com/watch?v=MwDcN1FffLM&t=813) Igen, ez világos volt, hogy hogy ki milyen pozícióra számíthat.
 
-[00:13:37](https://www.youtube.com/watch?v=MwDcN1FffLM&t=817) Utána engem a Vitézi Dávidtól, Ruf Bálinti.
+[00:13:37](https://www.youtube.com/watch?v=MwDcN1FffLM&t=817) Utána engem a Vitézy Dávidtól, Ruf Bálinti.
 
 [00:13:39](https://www.youtube.com/watch?v=MwDcN1FffLM&t=819) Most attól függetlenül, hogy gondolkodhattunk-e rajta, hogy ki milyen pozíciót kap.
 
@@ -284,11 +284,11 @@ Ez a nyitottság az új kormány és a társadalom közös feladata: meg kell te
 
 [00:14:17](https://www.youtube.com/watch?v=MwDcN1FffLM&t=857) Hát igen, de hogy ez szerintem egy világos vállalás és erre rá van téve az ő személyes kreditje, vagy nem tudom a mind az a bizalom, amit fölépített.
 
-[00:14:24](https://www.youtube.com/watch?v=MwDcN1FffLM&t=864) A vitézi Dávid esetében egy komplett életpálya van föltéve erre a pozícióra.
+[00:14:24](https://www.youtube.com/watch?v=MwDcN1FffLM&t=864) A vitézy Dávid esetében egy komplett életpálya van föltéve erre a pozícióra.
 
 [00:14:29](https://www.youtube.com/watch?v=MwDcN1FffLM&t=869) Ugye ő nem akarom bántani azzal, hogy csak azt mondom, hogy csak hat éves korától tudja a MÁV menetrendet, mert lehet, hogy kettő éves korától.
 
-[00:14:34](https://www.youtube.com/watch?v=MwDcN1FffLM&t=874) Tehát, hogy hogy egyszerűen ebbe az országba, ha most föl kell tenénk az utcán megtenk 10 embert, hogy ki jut eszébe a közlekedésről, és ha van három, aki erre tud válaszolni, akkor abból jó jó eséllyel két és fél Vitézi Dávid ról beszél ebben az ügyben.
+[00:14:34](https://www.youtube.com/watch?v=MwDcN1FffLM&t=874) Tehát, hogy hogy egyszerűen ebbe az országba, ha most föl kell tenénk az utcán megtenk 10 embert, hogy ki jut eszébe a közlekedésről, és ha van három, aki erre tud válaszolni, akkor abból jó jó eséllyel két és fél Vitézy Dávid ról beszél ebben az ügyben.
 
 [00:14:47](https://www.youtube.com/watch?v=MwDcN1FffLM&t=887) Ö de ezek nem csak ezek nyilvánvalóan nem csak közönségnek szóló ilyen Netflix sorozatokba is beillő bejelentések, mert valóban ugye a RUV bejelentést megelőzi egy fotó arról, hogy köszöntik majd néhány nappal, később van a bejelentés és láthatólag igen, a magyar péterii nyilvánosságkezelés az nem fog változni a következő időszakban.
 
@@ -302,7 +302,7 @@ Ez a nyitottság az új kormány és a társadalom közös feladata: meg kell te
 
 [00:15:51](https://www.youtube.com/watch?v=MwDcN1FffLM&t=951) Most akár csak Gajdos Lászlót említve, aki nyilván mindent tud a magyar környezethez kapcsolódó ügyekről, amit tudni érdemes.
 
-[00:15:58](https://www.youtube.com/watch?v=MwDcN1FffLM&t=958) Ez igaz vitézi Dávidról és nyilvánvalóan mind a ketten úgy gondolják, hogy 18900 billió Ftra lenne szükség ahhoz, hogy hogy ezt menedzseljék.
+[00:15:58](https://www.youtube.com/watch?v=MwDcN1FffLM&t=958) Ez igaz vitézy Dávidról és nyilvánvalóan mind a ketten úgy gondolják, hogy 18900 billió Ftra lenne szükség ahhoz, hogy hogy ezt menedzseljék.
 
 [00:16:06](https://www.youtube.com/watch?v=MwDcN1FffLM&t=966) És egy rossz állapotban lévő gazdaság van.
 
@@ -320,7 +320,7 @@ Ez a nyitottság az új kormány és a társadalom közös feladata: meg kell te
 
 [00:17:02](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1022) De itt pont az érdekes, hogy a a Tisza az ugye annyira új párt, hogy hogy egy csomó posztra még mindig találgatunk, hogy kit találnak, merthogy nincs emberük rá valójában, és és annyira kevés emberük van mindenre, hogy sok szempontból kénytelenek is egyébként szakemberekhez nyúlni politikusok hez helyett, de mondjuk nem a technokrata értelemben.
 
-[00:17:24](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1044) Tehát azért szerintem van ennek egy olyan üzenete is Ruf Barintól Vitézi Dávidig, hogy van szerintem aggodalom azzal kapcsolatban, nem csináltunk-e még egy Fideszt, különösen a nagy sátor alatt lévő fővárosi liberálisok között, vagy nem tudom, hogy identifikálnak, de én így identifikálom őket arról, hogy hogy nem kell aggódni egy ilyen túlhatalom miatt, egy ilyen felhatalmazás miatt, és szerintem egy kicsit szándékosan is építenek üzenetgátakat azzal kapcsolatban, hogy de itt van Rufbánin.
+[00:17:24](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1044) Tehát azért szerintem van ennek egy olyan üzenete is Ruf Barintól Vitézy Dávidig, hogy van szerintem aggodalom azzal kapcsolatban, nem csináltunk-e még egy Fideszt, különösen a nagy sátor alatt lévő fővárosi liberálisok között, vagy nem tudom, hogy identifikálnak, de én így identifikálom őket arról, hogy hogy nem kell aggódni egy ilyen túlhatalom miatt, egy ilyen felhatalmazás miatt, és szerintem egy kicsit szándékosan is építenek üzenetgátakat azzal kapcsolatban, hogy de itt van Rufbánin.
 
 [00:17:58](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1078) Tehát nyilván akkor Rufbánint azonnal szólna, hogyha újabb kétharmad lenne, ami azért valószínűleg nem szólna.
 
@@ -328,7 +328,7 @@ Ez a nyitottság az új kormány és a társadalom közös feladata: meg kell te
 
 [00:18:20](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1100) Igen, én most nézem a reakciókat, és ez engem nagyon meglep, hogy milyen, tehát milyen ideálok vannak az embereknek a politikáról és hatalomról.
 
-[00:18:29](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1109) Én a szellemes módon a Vitézi Dáviddal ültem egy kerekasz a Brainbáron két éve talán, és kinek való közélet című pódium beszélgetésen.
+[00:18:29](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1109) Én a szellemes módon a Vitézy Dáviddal ültem egy kerekasz a Brainbáron két éve talán, és kinek való közélet című pódium beszélgetésen.
 
 [00:18:38](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1118) Hát és nem ő, [nevetés] kettő közül ez kiderült és és nem ő, de én arra jutottam akkor és ezt tartom azóta, és ugye a hatalom még senkit nem tett jobb emberré.
 
@@ -362,7 +362,7 @@ Ez a nyitottság az új kormány és a társadalom közös feladata: meg kell te
 
 [00:20:53](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1253) Tehát, hogy az a múlt bűneinek elszámoltatása mellett a jelenlegi vagy alakuló kormány elszámoltathatóságai is egy fontos kérdés lesz.
 
-[00:21:02](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1262) És ezek párhuzamosan hát és hogyha már a múlt bűneének elszámolthatsasága mellett vagyunk, szóval azért én érdek hogy én én így érdekesnek találom kívülről a reakciókat mondjuk Vitézi Dávid kinevezésé.
+[00:21:02](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1262) És ezek párhuzamosan hát és hogyha már a múlt bűneének elszámolthatsasága mellett vagyunk, szóval azért én érdek hogy én én így érdekesnek találom kívülről a reakciókat mondjuk Vitézy Dávid kinevezésé.
 
 [00:21:15](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1275) Tehát miközben ugye egyszerre jönnek a párhuzamos dolgok arra, hogy ne hagyjuk Deák Dánielt beszélni, ne hagyjuk megszólalni ezeket, ahol magyarázhatnak.
 
@@ -370,17 +370,17 @@ Ez a nyitottság az új kormány és a társadalom közös feladata: meg kell te
 
 [00:21:26](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1286) Az majd jövő héten fog megjelenni, kedden fog megjelenni, abban érdemes megnézni.
 
-[00:21:30](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1290) De eközben én látok egy kitörő ilyen örömöt az az összes ismerősömtől Vitézi Dáviddal kapcsolatban.
+[00:21:30](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1290) De eközben én látok egy kitörő ilyen örömöt az az összes ismerősömtől Vitézy Dáviddal kapcsolatban.
 
-[00:21:39](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1299) Pedig hogyha van egyébként ember, aki Magyar Péternél később távolodott el a Fidesztől, az ugye Vitézi Dávid, hiszen Orbán Viktor még 2004-ben is arra buzdított, hogy Vitézi Dávidra szavazunk.
+[00:21:39](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1299) Pedig hogyha van egyébként ember, aki Magyar Péternél később távolodott el a Fidesztől, az ugye Vitézy Dávid, hiszen Orbán Viktor még 2004-ben is arra buzdított, hogy Vitézy Dávidra szavazunk.
 
-[00:21:49](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1309) 24 24-ben, bocsánat, 2024-ben is arra buzdított, hogy Vitézi Dávidra szavazzunk, tehát hogy szerintem tök jó lenne, és nyilván én is azt gondolom, hogy előremutató és sokkal jobb ország az, ahol Vitézi Dávid lehet közlekedési miniszter, mint ahol Lázár János.
+[00:21:49](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1309) 24 24-ben, bocsánat, 2024-ben is arra buzdított, hogy Vitézy Dávidra szavazzunk, tehát hogy szerintem tök jó lenne, és nyilván én is azt gondolom, hogy előremutató és sokkal jobb ország az, ahol Vitézy Dávid lehet közlekedési miniszter, mint ahol Lázár János.
 
 [00:22:05](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1325) egyébként különösen ismerve azt, hogy milyen körülményei vannak annak, ahogy ez a minisztérium megszületett, tehát ez az effektív egy mészáros minisztérium ebben a kombinációban a közlekedés és építés ügyi a azért lett létrehozva a korábbi hírek szerint, mertogy Lázár János volt az, aki aki jó viszonyt, konstruktív viszonyt tudott kiépíteni Mészáros Lőrinccel.
 
 [00:22:28](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1348) Tehát, hogy alapvetően ez egy előremutató világ, de hogy legyünk már annyira szigorúak egyébként, hogy akkor konzekvensen kérjük számon ezeket a dolgokat mindenként.
 
-[00:22:35](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1355) Az elszámoltatást mondjuk meg a koráb, de a vitézi Dáviddal azért mit számoltatsz el?
+[00:22:35](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1355) Az elszámoltatást mondjuk meg a koráb, de a vitézy Dáviddal azért mit számoltatsz el?
 
 [00:22:39](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1359) Tehát, hogy a azért rajta azért nehéz számon kérni bármit, ami a ugye egyet tudsz, hogy a Fidesz támogatta.
 
@@ -388,7 +388,7 @@ Ez a nyitottság az új kormány és a társadalom közös feladata: meg kell te
 
 [00:22:52](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1372) Tehát és itt jön az megint, hogy akkor abban is legyünk konzekvensek, hogy hogy mondjuk az volt-e baj, hogy valaki fideszes volt, vagy az, hogy csinált valamit a Fideszben, mert akkor viszont ezt a többiekre is terjesszük ki szerintem.
 
-[00:23:04](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1384) Hát igen, de hogy mondjam, a vitézi Deák párhuzam az hát az nehezen tartható az összes nyilván egy az még a [nevetés] az az egy túlzópárhuzam volt nyilvánvalóan, csak hogy erre jöttek ugye a kritikák, de akkor legyen mondjuk a bocsánat nem bocsánat még beszéljünk mindenképp majd mindjárt az elszámoltatás politikai jelentőségéről a alakuló Tiszakormány számára, de a miniszterekkel kapcsolatban például arról ugye történt egy olyan hát nem fordulatnak nem nevezném, de ugye a múlt héten felröppent az oktatási miniszter, ami bizonyos körökbe Facebookon nagy hullámokat vert, hogy Ruboski Rita lenne.
+[00:23:04](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1384) Hát igen, de hogy mondjam, a vitézy Deák párhuzam az hát az nehezen tartható az összes nyilván egy az még a [nevetés] az az egy túlzópárhuzam volt nyilvánvalóan, csak hogy erre jöttek ugye a kritikák, de akkor legyen mondjuk a bocsánat nem bocsánat még beszéljünk mindenképp majd mindjárt az elszámoltatás politikai jelentőségéről a alakuló Tiszakormány számára, de a miniszterekkel kapcsolatban például arról ugye történt egy olyan hát nem fordulatnak nem nevezném, de ugye a múlt héten felröppent az oktatási miniszter, ami bizonyos körökbe Facebookon nagy hullámokat vert, hogy Ruboski Rita lenne.
 
 [00:23:38](https://www.youtube.com/watch?v=MwDcN1FffLM&t=1418) Én az előbb majdnem el is tévesztettem, hogy végül aztán mégsem ő lett, hanem Lannert Judit oktatáskutató lett, aki egyébként még pont Gergő kollégánknak februárban adott egy interjút értékelve oktatáskutatóként a Tisza akkori oktatási programját.
 

@@ -26,7 +26,7 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-Az ATV műsora a 2026. áprilisi választások után a Fidesz és az új TISZA-kormány átalakulásáról szól. Orbán Viktor nem ül be a parlamentbe, helyette a Fidesz „nemzeti oldal" újjászervezésén dolgozik – Gulyás Gergely lesz az új frakcióvezető. A vendégek (újságíró, ügyvéd, orvos, szociológus) szerint ez vagy a Fidesz végét jelenti, vagy Orbán egy nemzetközi szereplőként próbál újraépíteni. Magyar Péter kormánya szakértőkből áll (Vitézi Dávid közlekedési miniszter, Hegedűs Zsolt egészségügyi miniszter, Lannert Judit oktatási miniszter), ami szimbolizálja a normalitás visszatérését.
+Az ATV műsora a 2026. áprilisi választások után a Fidesz és az új TISZA-kormány átalakulásáról szól. Orbán Viktor nem ül be a parlamentbe, helyette a Fidesz „nemzeti oldal" újjászervezésén dolgozik – Gulyás Gergely lesz az új frakcióvezető. A vendégek (újságíró, ügyvéd, orvos, szociológus) szerint ez vagy a Fidesz végét jelenti, vagy Orbán egy nemzetközi szereplőként próbál újraépíteni. Magyar Péter kormánya szakértőkből áll (Vitézy Dávid közlekedési miniszter, Hegedűs Zsolt egészségügyi miniszter, Lannert Judit oktatási miniszter), ami szimbolizálja a normalitás visszatérését.
 
 A beszélgetés során felmerül, hogy a NER-oligarchák vagyonát külföldre utalgatják, és Magyar Péter erre nyomozóhatóságokat mozgósít. Szijjártó Péter egy hosszú interjúban azt állítja, nem tudja, felesége hogyan szerzett vagyont – amit a vendégek nyilvánvalóan hülyeségnek tartanak, mivel a cég bevételei látványosan anomálisak. Végül a Magyar Nemzeti Bank ügyében Simor András azt állítja, hogy zsarolták őt: a jegybank vezetője azt mondta neki, ha nem mond le a bécsi Erste Bank felügyelő bizottságáról, szigorú bankfelügyeleti eljárásokat indítanak ellene.
 
@@ -50,7 +50,7 @@ A vendégek egyetértenek abban, hogy a Fidesz szétesésének folyamata már me
 
 Magyar Péter kormánya szakértőkből és hiteles, ismert személyiségekből áll, ami szimbolizálja a normalitás visszatérését. A bejelentett miniszterek között van:
 
-- **Vitézi Dávid** – közlekedési és beruházási miniszter, aki az elmúlt években a MÁV rombolása ellen küzdött
+- **Vitézy Dávid** – közlekedési és beruházási miniszter, aki az elmúlt években a MÁV rombolása ellen küzdött
 - **Kátai Német Filmos** – szociális és családügyi miniszter, ügyvéd, aki a Góvacsi hídon lefutotta a vonatot
 - **Hegedűs Zsolt** – egészségügyi miniszter
 - **Lannert Judit** – oktatási miniszter (pedagógus, aki a Free SFE és Ukrajna mellett állt ki)
@@ -107,7 +107,7 @@ Az egyik vendég szerint ez a nemzeti együttműködés rendszerének lényegi m
 
 ## A normalitás visszatérésének szimbolikája
 
-A vendégek többsége azt hangsúlyozza, hogy az új kormány összeállítása a normalitás visszatérését szimbolizálja. Az egyik vendég szerint az elmúlt 16 évben a központi bizottság jelölte ki a minisztereket, most pedig a szakma és az emberség jön el. Vitézi Dávidról megjegyzi, hogy bár Magyar Péter korábban azt mondta, az ilyen régi emberek nem lehetnek a kormányban, túlemelkedett ezen a kritériumon, és a megfelelő embert a megfelelő helyre tette.
+A vendégek többsége azt hangsúlyozza, hogy az új kormány összeállítása a normalitás visszatérését szimbolizálja. Az egyik vendég szerint az elmúlt 16 évben a központi bizottság jelölte ki a minisztereket, most pedig a szakma és az emberség jön el. Vitézy Dávidról megjegyzi, hogy bár Magyar Péter korábban azt mondta, az ilyen régi emberek nem lehetnek a kormányban, túlemelkedett ezen a kritériumon, és a megfelelő embert a megfelelő helyre tette.
 
 > „Szabad levegőt szívni minden reggel, úgy érzi magát, hogy visszatér a normalitás, amit tényleg a rendszerváltáskor akartunk" – vendég [*](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=1952)
 
@@ -391,13 +391,13 @@ Az egyik vendég szerint azonban a társadalom még feldolgozás alatt van – p
 
 [00:16:04](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=964) Nézzük.
 
-[00:16:10](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=970) Vitézi Dávid lesz a Tiszakormány közlekedési és beruházási minisztere.
+[00:16:10](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=970) Vitézy Dávid lesz a Tiszakormány közlekedési és beruházási minisztere.
 
 [00:16:14](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=974) Jelentette be közösségi oldalán Magyar Péter.
 
 [00:16:14](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=974) Azt írta róla, hogy nála többet az elmúlt években senki sem tett azért, hogy minden magyar ember számára látható legyen az a rombolás, amit Lázár János a Magyar utasai és dolgozói ellen elkövetett.
 
-[00:16:27](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=987) A leendő miniszterelnök szerint Vitézinek az lesz a feladata, hogy kivezesse a MÁVot a káoszból, és kezdje meg a Tisza közlekedési és városfejlesztési programjának végrehajtását.
+[00:16:27](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=987) A leendő miniszterelnök szerint Vitézynek az lesz a feladata, hogy kivezesse a MÁVot a káoszból, és kezdje meg a Tisza közlekedési és városfejlesztési programjának végrehajtását.
 
 [00:16:38](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=998) Magyar Péter azt is bejelentette, hogy Kátai német villamos személyében egy vakhonfitársunk lesz a szociális és családügyi tárca vezetője.
 
@@ -561,13 +561,13 @@ Az egyik vendég szerint azonban a társadalom még feldolgozás alatt van – p
 
 [00:27:56](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=1676) És ez egy nagyon jó érzés.
 
-[00:27:59](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=1679) Vitézi Dávidról hadd mondjak valamit, ami először meglepett, mert ugye valamelyik gyűlésen volt Magyar Péternek egy olyan kijelentése, hogy hát az ilyen régi emberek nem lehetnek, mert ők régi emberek, de ezt legyen inkább erénye Magyar Péternek, hogy ezen túlemelkedett és a megfelelő embert, a megfelelő mondjuk rájött, hogy saját maga ütközne bele a saját kritériumába.
+[00:27:59](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=1679) Vitézy Dávidról hadd mondjak valamit, ami először meglepett, mert ugye valamelyik gyűlésen volt Magyar Péternek egy olyan kijelentése, hogy hát az ilyen régi emberek nem lehetnek, mert ők régi emberek, de ezt legyen inkább erénye Magyar Péternek, hogy ezen túlemelkedett és a megfelelő embert, a megfelelő mondjuk rájött, hogy saját maga ütközne bele a saját kritériumába.
 
 [00:28:22](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=1702) Megfelelő ember megfelelő helyre, még akkor is, hogyha korábban mást mondtam.
 
 [00:28:26](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=1706) Szóval ez ez mindenképpen pozitív.
 
-[00:28:31](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=1711) A másik pedig az, hogy ha megfigyeljük Vitézi Dávidnak a mostani megszólalásait, akkor örül annak, hogy nem kell más politikai területeken harcolni, hanem azt csinálhatja, amit szeret.
+[00:28:31](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=1711) A másik pedig az, hogy ha megfigyeljük Vitézy Dávidnak a mostani megszólalásait, akkor örül annak, hogy nem kell más politikai területeken harcolni, hanem azt csinálhatja, amit szeret.
 
 [00:28:40](https://www.youtube.com/watch?v=Tlm_mWGMEEw&t=1720) Tehát ha megtaláljuk azokat az embereket, akik azt szeretik csinálni, ahová rakták őket, akkor biztos, hogy jobb lesz mindannyiunknak.
 

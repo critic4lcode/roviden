@@ -93,9 +93,9 @@ A DK frakció meglepően konstruktív volt. Nem nyújtott be módosítót, elfog
 
 A Kutyapárt viccesen javasolta, hogy nevezzenek át Tiszasziget-re, legyen Nagy Feró az előadó, és Rusy Sandir Mulusz a biztonsági főnök. Végül szavaztak az előterjesztésre, de Bukor szerint a humor ebben az esetben nem volt célvezető.
 
-### LMP/Vitézi: politizálás és karácsony-oltás
+### LMP/Vitézy: politizálás és karácsony-oltás
 
-Az LMP (Vitézi) végig Karácsony Gergelyt oltotta, és az előterjesztésükben azt javasolta, hogy a főváros média budgetjéből vonják le a 200 milliót. Bukor szerint ez nem volt komolyan vehető javaslat, csak arra volt jó, hogy nyilvánosan beszélhessenek a főváros sajtóbüdzséjéről.
+Az LMP (Vitézy) végig Karácsony Gergelyt oltotta, és az előterjesztésükben azt javasolta, hogy a főváros média budgetjéből vonják le a 200 milliót. Bukor szerint ez nem volt komolyan vehető javaslat, csak arra volt jó, hogy nyilvánosan beszélhessenek a főváros sajtóbüdzséjéről.
 
 ### Karácsony Gergely: kompromisszum és pragmatizmus
 
@@ -184,7 +184,7 @@ Farkas Benedek felvetette, hogy a Sziget olyan, mint a Forma 1-es magyar nagydí
 
 - „szuperstaknak" → valószínűleg „Superstructure-nek" (a szövegkörnyezet alapján egyértelmű)
 - „Kádár Tamás" helyesírása: az átiratban többször „Kádár" szerepel, helyesen így
-- „Vitézi" → valószínűleg az LMP képviselője, de az átiratban nem egyértelműen azonosított
+- „Vitézy" → valószínűleg az LMP képviselője, de az átiratban nem egyértelműen azonosított
 - „Callum Scotton" → bizonytalan, az átiratban nem tisztán hallható
 - „Metullan Madrid" → valószínűleg „Mad Cool Madrid" vagy hasonló fesztivál, de az átiratban nem egyértelműen hallható
 - „Rusy Sandir Mulusz" → a MKKP javaslatában szereplő, valószínűleg fiktív név (vicc)
@@ -369,7 +369,7 @@ Farkas Benedek felvetette, hogy a Sziget olyan, mint a Forma 1-es magyar nagydí
 
 [00:12:09](https://www.youtube.com/watch?v=K4M46VkLOjI&t=729) Ki bontotta ki az igazság fonalát?
 
-[00:12:13](https://www.youtube.com/watch?v=K4M46VkLOjI&t=733) Leginkább itt nagyon sok résztvevő karácsony, Tisza, Fidesz, Vitézi, MKKP-ben.
+[00:12:13](https://www.youtube.com/watch?v=K4M46VkLOjI&t=733) Leginkább itt nagyon sok résztvevő karácsony, Tisza, Fidesz, Vitézy, MKKP-ben.
 
 [00:12:17](https://www.youtube.com/watch?v=K4M46VkLOjI&t=737) Lehet, hogy a Fidesz semmit nem mondott erről a kérdésről, úgyhogy mondtak ők is sajnos sajnos.
 
@@ -457,7 +457,7 @@ Farkas Benedek felvetette, hogy a Sziget olyan, mint a Forma 1-es magyar nagydí
 
 [00:16:37](https://www.youtube.com/watch?v=K4M46VkLOjI&t=997) A podmanici mozgalom, hát igazából ők is tulajdonképpen végig megszavazták, tehát hogy most így panaszkodni nem tudok rájuk.
 
-[00:16:44](https://www.youtube.com/watch?v=K4M46VkLOjI&t=1004) Tehát, hogy viszont viszont közben meg ők próbálták egy kicsit jobban átpolitizálni a dolgot, és igazából a Vitézi az gyakorlatilag végig a karácsonyt oltotta ennek a vitának a során is, mint ahogy az egész nap.
+[00:16:44](https://www.youtube.com/watch?v=K4M46VkLOjI&t=1004) Tehát, hogy viszont viszont közben meg ők próbálták egy kicsit jobban átpolitizálni a dolgot, és igazából a Vitézy az gyakorlatilag végig a karácsonyt oltotta ennek a vitának a során is, mint ahogy az egész nap.
 
 [00:16:58](https://www.youtube.com/watch?v=K4M46VkLOjI&t=1018) Hiszen az LMP-skedésnek az a az a lényege, hogy mindenki hülye, csak mi vagyunk helikopterek, ugye?
 
@@ -487,7 +487,7 @@ Farkas Benedek felvetette, hogy a Sziget olyan, mint a Forma 1-es magyar nagydí
 
 [00:18:41](https://www.youtube.com/watch?v=K4M46VkLOjI&t=1121) Tehát hogy ez a legjobb érdelem eddig.
 
-[00:18:43](https://www.youtube.com/watch?v=K4M46VkLOjI&t=1123) Tehát vagy vagy az, hogy a a Vitézi szereti az ember nézni, hogy karácsonyt oltják, akkor a Vitézit érdemes hallgatni, de vannak vannak érdekességek mindenképpen.
+[00:18:43](https://www.youtube.com/watch?v=K4M46VkLOjI&t=1123) Tehát vagy vagy az, hogy a a Vitézy szereti az ember nézni, hogy karácsonyt oltják, akkor a Vitézyt érdemes hallgatni, de vannak vannak érdekességek mindenképpen.
 
 [00:18:55](https://www.youtube.com/watch?v=K4M46VkLOjI&t=1135) És ja, van még ebbe?
 

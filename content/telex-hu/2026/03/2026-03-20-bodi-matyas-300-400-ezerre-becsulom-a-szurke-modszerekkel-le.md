@@ -1058,7 +1058,7 @@ Az elemzés szerint a szürke módszerek révén 300–400 ezer embert lehet elv
 
 [00:55:57](https://www.youtube.com/watch?v=DbAjN-Eu0pY&t=3357) Tehát itt itt brutálisan sokan leszavaztak a kihúzott jelöltnek a a nevére.
 
-[00:56:02](https://www.youtube.com/watch?v=DbAjN-Eu0pY&t=3362) ami gondolom azért lehetett, mert idős emberek léve lehet, hogy nem látták, vagy elrontották ezt a workshot, de itt kifejezetten valószínűleg kár volt, hogyha lehetett a vitézi kampány ennek a ennek a ennek a szavazókörnek, de hogy ez alapvetően megint csak ugyanabba a tendenciába, ugyanabba az irányba mutató adat, hogy sok választó nem megfelelő, nem tudom, előképzettséggel vagy gyakorlattal megjelenik egy szavazókörben egy időben, és egy pártra szavaz.
+[00:56:02](https://www.youtube.com/watch?v=DbAjN-Eu0pY&t=3362) ami gondolom azért lehetett, mert idős emberek léve lehet, hogy nem látták, vagy elrontották ezt a workshot, de itt kifejezetten valószínűleg kár volt, hogyha lehetett a vitézy kampány ennek a ennek a ennek a szavazókörnek, de hogy ez alapvetően megint csak ugyanabba a tendenciába, ugyanabba az irányba mutató adat, hogy sok választó nem megfelelő, nem tudom, előképzettséggel vagy gyakorlattal megjelenik egy szavazókörben egy időben, és egy pártra szavaz.
 
 [00:56:32](https://www.youtube.com/watch?v=DbAjN-Eu0pY&t=3392) Ugye hasonló tendenciát meg lehetett figyelni 2010 előtt is.
 

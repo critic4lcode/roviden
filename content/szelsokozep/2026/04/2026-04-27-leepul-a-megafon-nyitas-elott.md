@@ -60,13 +60,13 @@ A műsorvezetők végigmennek a már bejelentett minisztereken:
 - **Gajdos László** – környezetvédelmi miniszter
 - **Lőrincz Viktória** – vidékfejlesztés
 - **Ruff Bálint** – Miniszterelnökséget vezető miniszter
-- **Vitézi Dávid** – közlekedés és beruházás
+- **Vitézy Dávid** – közlekedés és beruházás
 - **Kátai Nagyvilmos** – szociális és családügy
 - **Lannert Judit** – oktatás
 
-Szalai pozitívan értékeli a kinevezéseket, különösen Vitézi Dávid közlekedési miniszteri posztját, amely szerinte jó döntés volt – Magyar Péter politikai érdeke lett volna, ha Vitézi Budapesten marad, de helyesen döntött, hogy a közlekedésre fókuszál, ahol valóban ért a dologhoz.
+Szalai pozitívan értékeli a kinevezéseket, különösen Vitézy Dávid közlekedési miniszteri posztját, amely szerinte jó döntés volt – Magyar Péter politikai érdeke lett volna, ha Vitézy Budapesten marad, de helyesen döntött, hogy a közlekedésre fókuszál, ahol valóban ért a dologhoz.
 
-> „Vitézi szerintem abszolút ez tökéletes választás. De rajta kívül ki volt? Tehát a ruf? A rőt senki nem mondta őt se szerintem senki ne senkinek nem volt akkora fantáziája, hogy azt mondja, hogy Ruf Bálint a Tisza kormányban miniszter lesz." – Szalai Bence [*](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=462)
+> „Vitézy szerintem abszolút ez tökéletes választás. De rajta kívül ki volt? Tehát a ruf? A rőt senki nem mondta őt se szerintem senki ne senkinek nem volt akkora fantáziája, hogy azt mondja, hogy Ruf Bálint a Tisza kormányban miniszter lesz." – Szalai Bence [*](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=462)
 
 ## Az oktatási miniszter körüli vita: polgári demokrácia gyakorlása
 
@@ -335,7 +335,7 @@ A műsor végén szavazásra bocsátják a „hét tahóját". Az első jelölt 
 
 [00:06:20](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=380) Ez mondjuk ez mondjuk logikus lenne, mert azokat, akik a Tiszához közel állóak voltak, azokat már tudtuk, bejelentettük.
 
-[00:06:24](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=384) De nem, hát a legutolsó bejelentés bevitézivel együtt a Dr.
+[00:06:24](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=384) De nem, hát a legutolsó bejelentés bevitézyvel együtt a Dr.
 
 [00:06:27](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=387) Kátai Nagyvilmos, ő az elejétől kezdve ott volt a Tiszával.
 
@@ -367,7 +367,7 @@ A műsor végén szavazásra bocsátják a „hét tahóját". Az első jelölt 
 
 [00:07:18](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=438) Nekem tudjátok mi a megélésem, hogy hogy a a nemzet [ __ ] meg valahogy tudat alatt fölállította az árnyékkormányt, hogy hogy ezalatt a 16 év rendszer alatt megjelentek olyan személyek és olyan nominózus emberek vezet nem vezető pozícióban, de olyanok és o és olyan megmondó emberek, ahol azt látod, hogy basszus, de ő de jó lenne erre a pozícióra.
 
-[00:07:38](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=458) Vitézi szerintem abszolút ez tökéletes választás.
+[00:07:38](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=458) Vitézy szerintem abszolút ez tökéletes választás.
 
 [00:07:42](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=462) De rajta kívül ki volt?
 
@@ -381,21 +381,21 @@ A műsor végén szavazásra bocsátják a „hét tahóját". Az első jelölt 
 
 [00:07:59](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=479) És és hogy ennél jobbat el se tudnék képzelni.
 
-[00:08:00](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=480) Én én am én nagyon meglepődtem a vitézi bejelentésen, és pont azért lepődtem meg a a vitézi bejelentésen, mert azt gondoltam, hogy Magyar Péternek sokkal inkább az volna a politikai érdeke, ha Vitézi marad a fővárosban, és a és a fővárosban esetlegesen majd ő lesz akár, hogyha megváltoztatják az önkormányzati törvényt, és új választást írnak ki, vagy vagy bár vagy akár a következő választáson, de hogy ő lesz esetleg a következő főpolgármester.
+[00:08:00](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=480) Én én am én nagyon meglepődtem a vitézy bejelentésen, és pont azért lepődtem meg a a vitézy bejelentésen, mert azt gondoltam, hogy Magyar Péternek sokkal inkább az volna a politikai érdeke, ha Vitézy marad a fővárosban, és a és a fővárosban esetlegesen majd ő lesz akár, hogyha megváltoztatják az önkormányzati törvényt, és új választást írnak ki, vagy vagy bár vagy akár a következő választáson, de hogy ő lesz esetleg a következő főpolgármester.
 
 [00:08:26](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=506) De és pont azért lepett meg, és pozitívan csalódtam, merthogy nem ez lett, hanem amihez igazán ért a csávó, a közlekedés, abba be lett húzva, és valószínű ez az ország érdeke.
 
-[00:08:38](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=518) Szerintem ez logikus volt, meg szerintem egy, tehát most, hogyha azt nézzük, akkor politikai és kommunikációs szempontból Vitézi és Ruf Bálintnak a beállítása, főleg a Vitézié az egy ilyen joker kártya, tehát hogy igazából véve a csávónak a munkáját, azt így nagyjából mindenki elismeri.
+[00:08:38](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=518) Szerintem ez logikus volt, meg szerintem egy, tehát most, hogyha azt nézzük, akkor politikai és kommunikációs szempontból Vitézy és Ruf Bálintnak a beállítása, főleg a Vitézyé az egy ilyen joker kártya, tehát hogy igazából véve a csávónak a munkáját, azt így nagyjából mindenki elismeri.
 
-[00:09:00](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=540) Igen, minden oldaltól függetlenül az, amit a közgyűlésben csinált az elmúlt egy évben, hogy mekkora, mennyire fel volt készülve és fejből lényegében tudta a közbeszerzésektől kezdve egyébként visszamenőleg ha nem tudom, tehát annyiszor pusztítottál a fideszeseket a a közgyűlésben, nem csak a fideszeseket, de a fideszeseknél azért volt ez hatványozottan gáz, mert egy csomószor támadták valamivel karácsony Gergelyt és Vitézi fejből vissza tudta mondani, hogy 2018-ban ti voltatok azok, akik leállították ezt a közbeszerzést, és azóta is lényegében ti gátoljátok meg, és ezeket olyan szinteken tudta fejből, hogy szerintem [horkantás] senki nem tudta tőle elvitatni azt, hogy rettentően képben van a csávó.
+[00:09:00](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=540) Igen, minden oldaltól függetlenül az, amit a közgyűlésben csinált az elmúlt egy évben, hogy mekkora, mennyire fel volt készülve és fejből lényegében tudta a közbeszerzésektől kezdve egyébként visszamenőleg ha nem tudom, tehát annyiszor pusztítottál a fideszeseket a a közgyűlésben, nem csak a fideszeseket, de a fideszeseknél azért volt ez hatványozottan gáz, mert egy csomószor támadták valamivel karácsony Gergelyt és Vitézy fejből vissza tudta mondani, hogy 2018-ban ti voltatok azok, akik leállították ezt a közbeszerzést, és azóta is lényegében ti gátoljátok meg, és ezeket olyan szinteken tudta fejből, hogy szerintem [horkantás] senki nem tudta tőle elvitatni azt, hogy rettentően képben van a csávó.
 
 [00:09:48](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=588) Így van.
 
 [00:09:48](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=588) Egyébként még az Alexandra előtt is a vérfideszes ismerőseim is elismerték a Vitézének a képességeit.
 
-[00:09:54](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=594) Hozzáteszem, az Alexandrának sikerült egy dolgot elérni nálam, kettőt, de de egy dologban, de egy dolgot biztosan, hogy én én én a karra csak azért szavaztam, én csak azért szavaztam a karácsonynal, mert annyira amikor beállt az Alexandra a vitézi mögé, hogy támogassátok a Vitéz, úgy fölment bennem a pumpa, és ebben a Robinak nagyon igaza van, hogy hogy az van egyébként, hogy a a Budapesten ez a döntés, ez a választási kérdés, ez az egyetlen olyan meccs volt 16 év alatt, amit megnyerhetünk, tudod, amit így tudod, hogy ez ez úgy belátható, hogy ezt úgy megnyerjük, és akkor csak és a és a karácsony ezt észrevette nagyon ügyesen, és ő ezt építi, hogy ő harcol a rendszer ellen, és csak azért szavaztunk le eddig is mindig a karácsonyra, mert mert úgy úgy úgy úgy bemutathatunk egy fákkot a rendszernek, de hála Istennek egyébként, hogy most már tényleg nem ezen kell aggódni.
+[00:09:54](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=594) Hozzáteszem, az Alexandrának sikerült egy dolgot elérni nálam, kettőt, de de egy dologban, de egy dolgot biztosan, hogy én én én a karra csak azért szavaztam, én csak azért szavaztam a karácsonynal, mert annyira amikor beállt az Alexandra a vitézy mögé, hogy támogassátok a Vitéz, úgy fölment bennem a pumpa, és ebben a Robinak nagyon igaza van, hogy hogy az van egyébként, hogy a a Budapesten ez a döntés, ez a választási kérdés, ez az egyetlen olyan meccs volt 16 év alatt, amit megnyerhetünk, tudod, amit így tudod, hogy ez ez úgy belátható, hogy ezt úgy megnyerjük, és akkor csak és a és a karácsony ezt észrevette nagyon ügyesen, és ő ezt építi, hogy ő harcol a rendszer ellen, és csak azért szavaztunk le eddig is mindig a karácsonyra, mert mert úgy úgy úgy úgy bemutathatunk egy fákkot a rendszernek, de hála Istennek egyébként, hogy most már tényleg nem ezen kell aggódni.
 
-[00:10:46](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=646) Nagyon érdekes lesz ez az új új Budapest és és mármint hogy a karácsony pozíciója ebben a ebben a a Tisza kormányban, hogy hogy eddig ugye tényleg ő volt a hát de nem nem, mert ugye ő tudta a rendszer ellenében építeni magát, hogy Budapest vidék és hogy a Lázár [ __ ] és hogy töttörö és most ez így meg fog szűnni és várhatóan a a a Tisza kormány vitézi vitézivel a közlekedési és fejlesztési miniszterként nem fogja baszogatni Budapestet, sőt Tehát az az szerintem így nem tehát nem csak karácsonyra, hanem lényegében és nem csak politikusokra, akár tartalomgyártókra is teljes mértékben igaz lesz az, hogy rett és sőt nem csak politikusaknak, nem csak közszereplőknek, tartalomgyártóknak, hanem egyébként a szavazóbázis egy nagyon nagy rétegének is.
+[00:10:46](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=646) Nagyon érdekes lesz ez az új új Budapest és és mármint hogy a karácsony pozíciója ebben a ebben a a Tisza kormányban, hogy hogy eddig ugye tényleg ő volt a hát de nem nem, mert ugye ő tudta a rendszer ellenében építeni magát, hogy Budapest vidék és hogy a Lázár [ __ ] és hogy töttörö és most ez így meg fog szűnni és várhatóan a a a Tisza kormány vitézy vitézyvel a közlekedési és fejlesztési miniszterként nem fogja baszogatni Budapestet, sőt Tehát az az szerintem így nem tehát nem csak karácsonyra, hanem lényegében és nem csak politikusokra, akár tartalomgyártókra is teljes mértékben igaz lesz az, hogy rett és sőt nem csak politikusaknak, nem csak közszereplőknek, tartalomgyártóknak, hanem egyébként a szavazóbázis egy nagyon nagy rétegének is.
 
 [00:11:34](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=694) Pont erről készülök írni egy posztot, hogy nagyon-nagyon fel kell bizonyos kérdéseket tennünk magunknak, hogy például az a réteg, aki kollektív célként fogalmazta meg Orbán Viktornak a leváltását most, hogy ez a kollektív cél megvalósult, merre tovább?
 
@@ -419,7 +419,7 @@ A műsor végén szavazásra bocsátják a „hét tahóját". Az első jelölt 
 
 [00:13:18](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=798) Várj, bocsánat, csak menjünk végig, hogy eddig kik lettek a miniszterek.
 
-[00:13:24](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=804) Külügyminiszter és miniszterelnök helyettes Orbán Anita, honvédelmi miniszter Ruszin Szendiromusz, pénzügyminiszter Kármán András, egészségügyi miniszter Hegedű Zsolt, Agrár Bóna Szabolcs, Gazdaság és energetika Kapitány István, környezetvédelmi, Gajdos László vidékfejlesztés, Lőrinc Viktória, miniszterelnökség Ruf Bálint, Közlekedés és Beruházás, Vitévid Vitézi Dávid Szociális és Családügy, Kátai német Vilmos és oktatás Lannert, Judit.
+[00:13:24](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=804) Külügyminiszter és miniszterelnök helyettes Orbán Anita, honvédelmi miniszter Ruszin Szendiromusz, pénzügyminiszter Kármán András, egészségügyi miniszter Hegedű Zsolt, Agrár Bóna Szabolcs, Gazdaság és energetika Kapitány István, környezetvédelmi, Gajdos László vidékfejlesztés, Lőrinc Viktória, miniszterelnökség Ruf Bálint, Közlekedés és Beruházás, Vitévid Vitézy Dávid Szociális és Családügy, Kátai német Vilmos és oktatás Lannert, Judit.
 
 [00:13:51](https://www.youtube.com/watch?v=y_o5DLJjrhg&t=831) Ugye itt az oktatás is egy kérdéses dolog volt az elmúlt hetekben, de Bence tiéd a szó.
 

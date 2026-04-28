@@ -27,19 +27,19 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-A The Fair Right műsorvezetői (Ádám és Fanni) magyar politikai aktuálokat elemeznek. Magyar Péter TISZA-kormánya két miniszter kinevezésével szembesül: Vitézi Dávid közlekedési miniszter (akit korábban Magyar Péter maga kritizált fideszes múltja miatt), és Lannert Judit oktatási miniszter (szociológus, pedagógiai végzettség nélkül, gyermeke nincs). A műsor azt vizsgálja, hogy ezek a kinevezések ellentmondanak a TISZA korábbi ígéreteinek, és hogy a NER-ből érkező üzletemberek (Wáber György, Balog Levente) miként csatlakoznak az új kormányhoz. Orbán Viktor nem ül be a parlamentbe – ezzel lemondva mentelmi jogáról –, amit a műsor stratégiai lépésnek értékel. Brüsszel az energiaválság közepén betiltotta az orosz LNG-vásárlást, miközben Franciaország nagy mennyiséget vásárolt. A műsor végén a választások „nyolc csodáját" mutatja be: április 11. és 13. között a politikai álláspontok 180 fokos fordulatot vettek (háború/nincs háború, orosz olaj/nincs orosz olaj, Paks építése stb.).
+A The Fair Right műsorvezetői (Ádám és Fanni) magyar politikai aktuálokat elemeznek. Magyar Péter TISZA-kormánya két miniszter kinevezésével szembesül: Vitézy Dávid közlekedési miniszter (akit korábban Magyar Péter maga kritizált fideszes múltja miatt), és Lannert Judit oktatási miniszter (szociológus, pedagógiai végzettség nélkül, gyermeke nincs). A műsor azt vizsgálja, hogy ezek a kinevezések ellentmondanak a TISZA korábbi ígéreteinek, és hogy a NER-ből érkező üzletemberek (Wáber György, Balog Levente) miként csatlakoznak az új kormányhoz. Orbán Viktor nem ül be a parlamentbe – ezzel lemondva mentelmi jogáról –, amit a műsor stratégiai lépésnek értékel. Brüsszel az energiaválság közepén betiltotta az orosz LNG-vásárlást, miközben Franciaország nagy mennyiséget vásárolt. A műsor végén a választások „nyolc csodáját" mutatja be: április 11. és 13. között a politikai álláspontok 180 fokos fordulatot vettek (háború/nincs háború, orosz olaj/nincs orosz olaj, Paks építése stb.).
 
 ---
 
 #  Részletes összefoglaló
 
-## Vitézi Dávid kinevezése – az ellentmondás
+## Vitézy Dávid kinevezése – az ellentmondás
 
-A TISZA Párt új közlekedési és beruházási minisztere Vitézi Dávid lett. A műsor rámutat egy jelentős ellentmondásra: Magyar Péter korábban – pontosan két évvel a kinevezés előtt – azt kérdezték tőle, hogy együtt fog-e működni Vitézi Dáviddal, és Magyar Péter akkor azt válaszolta, hogy a TISZA alapelve szerint akik az Orbán-kormányban államtitkárok vagy magas politikai tisztségeket töltöttek be, nem lehetnek a TISZA-kormány tagjai.
+A TISZA Párt új közlekedési és beruházási minisztere Vitézy Dávid lett. A műsor rámutat egy jelentős ellentmondásra: Magyar Péter korábban – pontosan két évvel a kinevezés előtt – azt kérdezték tőle, hogy együtt fog-e működni Vitézy Dáviddal, és Magyar Péter akkor azt válaszolta, hogy a TISZA alapelve szerint akik az Orbán-kormányban államtitkárok vagy magas politikai tisztségeket töltöttek be, nem lehetnek a TISZA-kormány tagjai.
 
 > „Az alapelve a Tiszának az, hogy akik az Orbán kormányban voltak államtitkárok... az nem lehet tagja a Tiszakormánynak." [*](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=124)
 
-Vitézi Dávid azonban pont fideszes közlekedési államtitkár volt. Magyar Péter nem csak azt kritizálta róla, hogy fideszes, hanem azt is, hogy vezetési képességei gyengék. Ádám szerint ez azt mutatja, hogy csupán a TISZA-logó felhelyezése volt szükséges ahhoz, hogy Magyar Péter megváltoztassa véleményét.
+Vitézy Dávid azonban pont fideszes közlekedési államtitkár volt. Magyar Péter nem csak azt kritizálta róla, hogy fideszes, hanem azt is, hogy vezetési képességei gyengék. Ádám szerint ez azt mutatja, hogy csupán a TISZA-logó felhelyezése volt szükséges ahhoz, hogy Magyar Péter megváltoztassa véleményét.
 
 ## Lannert Judit oktatási miniszter – a liberális oldal elutasítása
 
@@ -111,7 +111,7 @@ A műsor szerint ezek az „ellentmondások" azt mutatják, hogy a politikai poz
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- „Vité Vitézi Dávid" – valószínűleg ASR-hiba, helyesen: Vitézi Dávid
+- „Vité Vitézy Dávid" – valószínűleg ASR-hiba, helyesen: Vitézy Dávid
 - „Rubovski Rita" – az átiratban többször így szerepel, de a helyes név valószínűleg: Rubovszky Rita vagy hasonló
 - „Ruskig haza nem kell orosz olaj" – értelmezhetetlen, valószínűleg: „Ruszkiknak haza, nem kell orosz olaj" vagy hasonló
 - „Az akyárak" – valószínűleg: „aknaveszély" vagy „akvák" (aknaveszély)
@@ -149,11 +149,11 @@ A műsor szerint ezek az „ellentmondások" azt mutatják, hogy a politikai poz
 
 [00:00:36](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=36) Na ugye a hétfő az mindig egy kemény nap, mert rengeteg minden történik a hétvégén.
 
-[00:00:39](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=39) És például az egyik ilyen fontos dolog a Magyar Péter új minisztere, aki nem más, mint Vitézi Dávid.
+[00:00:39](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=39) És például az egyik ilyen fontos dolog a Magyar Péter új minisztere, aki nem más, mint Vitézy Dávid.
 
 [00:00:46](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=46) Érdekes, hogy a a HVG ezt így teljesen tényszerűen meg is írja.
 
-[00:00:48](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=48) Vité Vitézi Dávid lesz a Tisza kormány közlekedés és beruházási miniszter.
+[00:00:48](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=48) Vité Vitézy Dávid lesz a Tisza kormány közlekedés és beruházási miniszter.
 
 [00:00:54](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=54) Nem is meri kritizálni.
 
@@ -171,9 +171,9 @@ A műsor szerint ezek az „ellentmondások" azt mutatják, hogy a politikai poz
 
 [00:01:18](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=78) Tehát az a lényeg, hogy ezt tök tényszeren megírják.
 
-[00:01:19](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=79) viszont a cikkben azt az aprócska, de annál fontosabb momentumot kihagyják, amikor például Magyar Péter korábban Vitéziről beszélt.
+[00:01:19](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=79) viszont a cikkben azt az aprócska, de annál fontosabb momentumot kihagyják, amikor például Magyar Péter korábban Vitézyről beszélt.
 
-[00:01:30](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=90) Az lenne a kérdésem, hogy önök terveznek-e Vitézi Dávid volt közlekedését felelős államtitkár úrral együtt működni, esetleg mint közlekedésügyi miniszterrel?
+[00:01:30](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=90) Az lenne a kérdésem, hogy önök terveznek-e Vitézy Dávid volt közlekedését felelős államtitkár úrral együtt működni, esetleg mint közlekedésügyi miniszterrel?
 
 [00:01:40](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=100) Hűha!
 
@@ -183,9 +183,9 @@ A műsor szerint ezek az „ellentmondások" azt mutatják, hogy a politikai poz
 
 [00:01:48](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=108) Ez milyen kérdés?
 
-[00:01:50](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=110) Nem az az igazság, hogy Vitézi Dávid ugye a budapesti közgyűlésben vigészkedik, és nagyon kevesen múlt, ugye, hogy nem ő lett a főpolgármester.
+[00:01:50](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=110) Nem az az igazság, hogy Vitézy Dávid ugye a budapesti közgyűlésben vigészkedik, és nagyon kevesen múlt, ugye, hogy nem ő lett a főpolgármester.
 
-[00:01:59](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=119) Azt elismerve, hogy Vitézi Dávid egy nagyon jó közlekedési szakember.
+[00:01:59](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=119) Azt elismerve, hogy Vitézy Dávid egy nagyon jó közlekedési szakember.
 
 [00:02:04](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=124) De azért van egy alapelve a Tiszának, az pedig az, hogy akik az a az Orbán kormányban voltak államtitkárok, márpedig ő azért közlekedési államtitkár volt, vagy éppen az utóbbi 20 évben valami magas politikai tisztséget betöltöttek, az nem lehet tagja a Tiszakormánynak.
 
@@ -197,11 +197,11 @@ A műsor szerint ezek az „ellentmondások" azt mutatják, hogy a politikai poz
 
 [00:02:34](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=154) Meg mondjuk Magyar Péter is kételt azért ő is nyilván a Fideszből jött.
 
-[00:02:38](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=158) És Vitézi Dávid is ugye Fideszes államtitkár volt, akit egyébként Magyar Péter nem csak úgy bírát, hogy ó az a probléma vele, hogy Fideszes, de még a vezetési képességeire is, tehát megjegyzés, hogy egyébként nem jó vezető.
+[00:02:38](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=158) És Vitézy Dávid is ugye Fideszes államtitkár volt, akit egyébként Magyar Péter nem csak úgy bírát, hogy ó az a probléma vele, hogy Fideszes, de még a vezetési képességeire is, tehát megjegyzés, hogy egyébként nem jó vezető.
 
 [00:02:52](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=172) Hát érdekes, akkor most meg megjavult, meggyógyult, vagy igazából csak a Tiszás logót kellett rátenni, és akkor már Magyar Péternek megfelel.
 
-[00:02:59](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=179) Hát nézd, Magyar Péter elmondta, hogy Vitézi Dávid a Fidesz hekje, mindenki tudja, hogy hozzájuk tartozik.
+[00:02:59](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=179) Hát nézd, Magyar Péter elmondta, hogy Vitézy Dávid a Fidesz hekje, mindenki tudja, hogy hozzájuk tartozik.
 
 [00:03:03](https://www.youtube.com/watch?v=e-M9PVSf27Q&t=183) Tehát ezt ő kimondta pontosan napra pontosan két évvel azelőtt, hogy megválasztották volna.
 

@@ -28,7 +28,7 @@ summary_model: anthropic/claude-haiku-4.5
 
 A CSATT.2 műsorban (2026. április 24.) Bot Hunor, Kovács András, Bakár Zoltán és Csintalan Sándor beszélgetnek a Fidesz választási vereségéről, az új TISZA-kormány miniszteri kinevezéseiről és a rendszerváltás feladatairól. Szijjártó Péter külügyminiszter interjújában a kampány és a NER-korrupció közötti egyensúlytalanságot ismeri el, de a külpolitikát védelmébe veszi. A beszélgetésben kritizálják, hogy a Fidesz vezetői nem hazudnak, hanem egy zárt rendszerben gondolkodnak, amely nem engedi meg a valódi önreflexiót.
 
-Az új kormány kinevezéseiből kiemelkedik Ruff Bálint miniszterelnökséget vezető miniszter, aki a rendszerváltás motorjaként működik, és a múltfeltárás, az ügynökakták nyilvánosságra hozatala, valamint a nemzeti vagyon visszaszerzése a fő feladatai. Vitézi Dávid közlekedési és beruházási miniszter, Hegedűs Zsolt egészségügyi miniszter, és dr. Kátai német Vilmos szociális és családügyi miniszter kinevezéseit tárgyalják.
+Az új kormány kinevezéseiből kiemelkedik Ruff Bálint miniszterelnökséget vezető miniszter, aki a rendszerváltás motorjaként működik, és a múltfeltárás, az ügynökakták nyilvánosságra hozatala, valamint a nemzeti vagyon visszaszerzése a fő feladatai. Vitézy Dávid közlekedési és beruházási miniszter, Hegedűs Zsolt egészségügyi miniszter, és dr. Kátai német Vilmos szociális és családügyi miniszter kinevezéseit tárgyalják.
 
 A beszélgetők egyetértenek abban, hogy az ügynökakták megnyitása szimbolikus jelentőségű, de gyakorlati hatása korlátozott, mivel az érintett személyek nagy része már nem aktív a közéletben. A nemzeti vagyon visszaszerzésének kérdésében aggályok merülnek fel a jogi keretek és a visszaélések lehetősége miatt. Végül Jeszenski Zsolt elemzésére reagálva azt vitatják, hogy a Fidesz megújulása Orbán Viktor nélkül lehetséges-e.
 
@@ -72,13 +72,13 @@ Bakár szerint azonban a migráció nem volt a Fidesz választási vereségének
 
 ## Az új kormány kinevezéseiről
 
-### Vitézi Dávid közlekedési miniszter
+### Vitézy Dávid közlekedési miniszter
 
-Friss hír: Vitézi Dávid lesz a közlekedési és beruházási miniszter. Csintalan Sándor szerint ez egy váratlan, de pozitív kinevezés, mivel Vitézi Dávid szakmailag rendkívül felkészült, és átlátja az egész közlekedési rendszert a hibáival együtt.
+Friss hír: Vitézy Dávid lesz a közlekedési és beruházási miniszter. Csintalan Sándor szerint ez egy váratlan, de pozitív kinevezés, mivel Vitézy Dávid szakmailag rendkívül felkészült, és átlátja az egész közlekedési rendszert a hibáival együtt.
 
 > „Ez az ember ezzel a karrierjével engem személy szerint abszolút meggyőzött, hogyha erre a posztra jelölték, egy olyan pasi van, se ég se földön nem tudok olyat, aki ehhez hasonlóan tudná." – Csintalan Sándor [*](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1183)
 
-Azonban Kovács András aggályokat fogalmaz meg az államtitkári kör összetételével kapcsolatban, mivel Vitézi korábbi államtitkári időszakában furcsa hírek voltak a folyamatok kezeléséről. Szintén felvetődik, hogy a baloldali kritikusok hogyan fognak reagálni, mivel korábban kritizálták Vitézi politikáját.
+Azonban Kovács András aggályokat fogalmaz meg az államtitkári kör összetételével kapcsolatban, mivel Vitézy korábbi államtitkári időszakában furcsa hírek voltak a folyamatok kezeléséről. Szintén felvetődik, hogy a baloldali kritikusok hogyan fognak reagálni, mivel korábban kritizálták Vitézy politikáját.
 
 ### Hegedűs Zsolt egészségügyi miniszter
 
@@ -435,11 +435,11 @@ Jeszenski Zsolt szerint a Fidesz kampánya téves helyzetfelismerésen alapult, 
 
 [00:18:20](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1100) Az első két-három év az azzal telt el, hogy dermetten figyeltük, hogy mi történik itt azon belül.
 
-[00:18:25](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1105) Közben had akasztalak meg titeket egy nagyon friss hírrel, mert miközben kerestem valamit az interneten, négy perccel ezelőtt jelent meg Magyar Péter oldalán Facebookon, de már a Telex ír is róla, hogy Vitézi Dávid lesz a közlekedési és beruházási miniszter.
+[00:18:25](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1105) Közben had akasztalak meg titeket egy nagyon friss hírrel, mert miközben kerestem valamit az interneten, négy perccel ezelőtt jelent meg Magyar Péter oldalán Facebookon, de már a Telex ír is róla, hogy Vitézy Dávid lesz a közlekedési és beruházási miniszter.
 
 [00:18:37](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1117) Na úgyhogy erre gyorsan reagáljatok nekem, kérek, mert talán mondhatjuk, hogy egészen váratlan.
 
-[00:18:47](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1127) Hát kormányzás meg 2024-ben Szent király Alexandra vitézi javára lépett vissza.
+[00:18:47](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1127) Hát kormányzás meg 2024-ben Szent király Alexandra vitézy javára lépett vissza.
 
 [00:18:54](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1134) Így van.
 
@@ -463,15 +463,15 @@ Jeszenski Zsolt szerint a Fidesz kampánya téves helyzetfelismerésen alapult, 
 
 [00:19:55](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1195) Például ugye volt nekem ez egy jócskabómom, hogy nem árt, hogyha van egy olyan miniszterelnöke az országnak, amelyik meg tudja különböztetni az áfát az ifától.
 
-[00:20:09](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1209) Mindenesetre vitézi Dávid.
+[00:20:09](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1209) Mindenesetre vitézy Dávid.
 
-[00:20:09](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1209) Vitézi Dávid nekem abszolút abd szakmail.
+[00:20:09](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1209) Vitézy Dávid nekem abszolút abd szakmail.
 
 [00:20:09](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1209) Hát lehet ő szakma adok nektek egy nagy szővárosi közgyűlésben a hát ott is lesznek átalakulások.
 
 [00:20:19](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1219) Az biz it most lesznek, mert akkor le kell neki mondani a szerintem összeférhetetlen a két pozíció.
 
-[00:20:25](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1225) Szerintem nagyon fontos, nagyon fontos lesz, hogy milyen államtitkárokkal fogja magát körbevenni, mert egyetértek Sándorra, hogy vitézi tudására nem lehet panasz, ha valakit értem a közlekedéshez Magyarországon átlátja az egész rendszert, a hibáit, az vitézi.
+[00:20:25](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1225) Szerintem nagyon fontos, nagyon fontos lesz, hogy milyen államtitkárokkal fogja magát körbevenni, mert egyetértek Sándorra, hogy vitézy tudására nem lehet panasz, ha valakit értem a közlekedéshez Magyarországon átlátja az egész rendszert, a hibáit, az vitézy.
 
 [00:20:38](https://www.youtube.com/watch?v=5bOJFQEKFps&t=1238) De az egy dolog, itt szervezni kell, államátus kell, működtetni, irányítani, döntéseket hozni.
 

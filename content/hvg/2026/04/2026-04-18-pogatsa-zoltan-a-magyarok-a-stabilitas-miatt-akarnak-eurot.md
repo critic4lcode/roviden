@@ -395,7 +395,7 @@ A Tisza kormánynak azonnal be kell mutatnia, hogy hogyan akarja átalakítani a
 
 [00:11:33](https://www.youtube.com/watch?v=N7qkfW9ixvo&t=693) A humán tőke az kevésbé látszik, mint a vasút.
 
-[00:11:36](https://www.youtube.com/watch?v=N7qkfW9ixvo&t=696) Ugye ott nem tud a Vitézi Dávid naponta posztolni ilyen vicces posztokat, mint a vasút esetében.
+[00:11:36](https://www.youtube.com/watch?v=N7qkfW9ixvo&t=696) Ugye ott nem tud a Vitézy Dávid naponta posztolni ilyen vicces posztokat, mint a vasút esetében.
 
 [00:11:43](https://www.youtube.com/watch?v=N7qkfW9ixvo&t=703) De hát ugye a pizzamutatók, a nyelvtudás az mind-mind mind azt mutatja, hogy a humántőke is elképesztően elamortizálódott.
 

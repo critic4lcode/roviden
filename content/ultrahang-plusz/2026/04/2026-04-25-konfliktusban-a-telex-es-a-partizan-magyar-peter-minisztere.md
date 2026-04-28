@@ -26,19 +26,19 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-Király Tamás és Gavra Gábor beszélgetésében a Tisza-kormány összetételéről és a magyar politika legfrissebb fejleményeiről esik szó. Magyar Péter bejelentette Vitézi Dávid közlekedési és beruházási miniszterségét, valamint Kátai Németvil szociális és családügyi miniszterségét, ami azt jelenti, hogy Bódis Krisztina nem lesz szociális miniszter. A műsor során szó esik Szijártó Péter Telex-interjújáról és a Partizán-konfliktusról, valamint Ruff Bálint miniszterelnökséget vezető miniszteri szerepéről. A beszélgetés rávilágít, hogy a Tisza-kormány alapvetően jobboldali összetételű, amely szakmailag kompetens emberekből áll, és hogy Magyar Péter sikeresen kizárta az ellenzéki alkudozásokat a kampányból – ellentétben az előző ciklusok ellenzéki szereplőivel.
+Király Tamás és Gavra Gábor beszélgetésében a Tisza-kormány összetételéről és a magyar politika legfrissebb fejleményeiről esik szó. Magyar Péter bejelentette Vitézy Dávid közlekedési és beruházási miniszterségét, valamint Kátai Németvil szociális és családügyi miniszterségét, ami azt jelenti, hogy Bódis Krisztina nem lesz szociális miniszter. A műsor során szó esik Szijártó Péter Telex-interjújáról és a Partizán-konfliktusról, valamint Ruff Bálint miniszterelnökséget vezető miniszteri szerepéről. A beszélgetés rávilágít, hogy a Tisza-kormány alapvetően jobboldali összetételű, amely szakmailag kompetens emberekből áll, és hogy Magyar Péter sikeresen kizárta az ellenzéki alkudozásokat a kampányból – ellentétben az előző ciklusok ellenzéki szereplőivel.
 
-## Vitézi Dávid közlekedési minisztersége
+## Vitézy Dávid közlekedési minisztersége
 
-Gavra Gábor szerint Vitézi Dávid kinevezése nem jelent gyengülést a szakmai szinten. Aki a 2010-es évek elején Budapesten lakott, tudja, hogy a Tarlós-korszak első felében jelentős előrelépés történt a fővárosi közlekedésben, amely Vitézi Dávid munkájának köszönhető volt. Gavra úgy véli, ha Vitézi Dávid hasonló mértékű javulást tud elérni a közlekedésben, mint amit Budapesten végzett, akkor az már nem lehet panasz.
+Gavra Gábor szerint Vitézy Dávid kinevezése nem jelent gyengülést a szakmai szinten. Aki a 2010-es évek elején Budapesten lakott, tudja, hogy a Tarlós-korszak első felében jelentős előrelépés történt a fővárosi közlekedésben, amely Vitézy Dávid munkájának köszönhető volt. Gavra úgy véli, ha Vitézy Dávid hasonló mértékű javulást tud elérni a közlekedésben, mint amit Budapesten végzett, akkor az már nem lehet panasz.
 
 > „Azt nem lehet mondani, hogy gyengébb lenne, mint az elődje szakmailag. Azt nem lehet mondani, hogy nem ért ahhoz a területhez, amit átvesz." – Gavra Gábor [*](https://www.youtube.com/watch?v=xXjrNO1y48w&t=101)
 
-Érdekes azonban, hogy Vitézi Dávid 2022-ig az Orbán-kormány államtitkára volt, 2024-ben pedig a Fidesz támogatta Karácsony Gergellyel szemben a főpolgármesterválasztáson. Most pedig a Tisza-kormány minisztere lesz. Gavra szerint azonban az ellenségei sem állítják, hogy ne értene a közlekedéshez.
+Érdekes azonban, hogy Vitézy Dávid 2022-ig az Orbán-kormány államtitkára volt, 2024-ben pedig a Fidesz támogatta Karácsony Gergellyel szemben a főpolgármesterválasztáson. Most pedig a Tisza-kormány minisztere lesz. Gavra szerint azonban az ellenségei sem állítják, hogy ne értene a közlekedéshez.
 
-## A Tisza-frakció és Vitézi Dávid szerepe a fővárosi közgyűlésben
+## A Tisza-frakció és Vitézy Dávid szerepe a fővárosi közgyűlésben
 
-A beszélgetésben szóba kerül, hogy a Podmaniczki-mozgalom és Vitézi Dávid az elmúlt két évben a Tisza szövetségeseként működött a fővárosi közgyűlésben. Érdekes módon a Tisza frakció meglehetősen gyengén teljesített, míg Vitézi Dávid és a Podmaniczki-mozgalom hatékonyabban képviselte a Tisza politikáját. Vitézi Dávidról ismert, hogy erős akarata van – nem volt konfliktus mentes sem Tarlós Istvánnal, sem Lázár Jánossal, sem Karácsony Gergellyel.
+A beszélgetésben szóba kerül, hogy a Podmaniczki-mozgalom és Vitézy Dávid az elmúlt két évben a Tisza szövetségeseként működött a fővárosi közgyűlésben. Érdekes módon a Tisza frakció meglehetősen gyengén teljesített, míg Vitézy Dávid és a Podmaniczki-mozgalom hatékonyabban képviselte a Tisza politikáját. Vitézy Dávidról ismert, hogy erős akarata van – nem volt konfliktus mentes sem Tarlós Istvánnal, sem Lázár Jánossal, sem Karácsony Gergellyel.
 
 ## Szijártó Péter Telex-interjúja és a Partizán-konfliktus
 
@@ -146,7 +146,7 @@ Most viszont a Tisza 2025. október 23-ára nem fogyott el, hanem legalábbis a 
 
 [00:00:09](https://www.youtube.com/watch?v=xXjrNO1y48w&t=9) Aztán a felvételünket követően Magyar Péter bejelentett újabb két minisztert.
 
-[00:00:16](https://www.youtube.com/watch?v=xXjrNO1y48w&t=16) Közlekedési és beruházási miniszter lesz Vitézi Dávid.
+[00:00:16](https://www.youtube.com/watch?v=xXjrNO1y48w&t=16) Közlekedési és beruházási miniszter lesz Vitézy Dávid.
 
 [00:00:18](https://www.youtube.com/watch?v=xXjrNO1y48w&t=18) És akadálymentesítésért és esélyegyenlőségért is felelős szociális és családügyi miniszter Kátai Németvil.
 
@@ -166,11 +166,11 @@ Most viszont a Tisza 2025. október 23-ára nem fogyott el, hanem legalábbis a 
 
 [00:00:59](https://www.youtube.com/watch?v=xXjrNO1y48w&t=59) Hála Istennek, hogy a Gábor még nem ment el a stúdióból, amikor ez a hír robban.
 
-[00:01:04](https://www.youtube.com/watch?v=xXjrNO1y48w&t=64) Meglepetés vitézi Dávid.
+[00:01:04](https://www.youtube.com/watch?v=xXjrNO1y48w&t=64) Meglepetés vitézy Dávid.
 
 [00:01:04](https://www.youtube.com/watch?v=xXjrNO1y48w&t=64) Beszéljünk erről.
 
-[00:01:09](https://www.youtube.com/watch?v=xXjrNO1y48w&t=69) Egyszer amikor Vitézi Dávid a vendégem volt egy interjúban, megkérdeztem tőle, hogy mi a mik a 2026 utáni tervei és megkérdeztem, hogy akár egy Fidesz, akár egy Tiszakormányban vállalna-e szerepet, és kitérő választ kaptam.
+[00:01:09](https://www.youtube.com/watch?v=xXjrNO1y48w&t=69) Egyszer amikor Vitézy Dávid a vendégem volt egy interjúban, megkérdeztem tőle, hogy mi a mik a 2026 utáni tervei és megkérdeztem, hogy akár egy Fidesz, akár egy Tiszakormányban vállalna-e szerepet, és kitérő választ kaptam.
 
 [00:01:22](https://www.youtube.com/watch?v=xXjrNO1y48w&t=82) Ebből sejtetted?
 
@@ -184,9 +184,9 @@ Most viszont a Tisza 2025. október 23-ára nem fogyott el, hanem legalábbis a 
 
 [00:02:17](https://www.youtube.com/watch?v=xXjrNO1y48w&t=137) A tarlós korszakban, főleg az első felében nagyon is komoly előrelépés történt, és ez jelentős részben Bitézi Dávidnak köszönhetően.
 
-[00:02:30](https://www.youtube.com/watch?v=xXjrNO1y48w&t=150) Tehát én abban bízom, hogyha Vitézi Dávid megkapja a közlekedési tárcát, akkor ha csak akkora előrelépést tud eszközölni, mint amit a Budapesten a Tarlós ére a első felében, akkor szerintem már már nem lehetünk elégetlenek.
+[00:02:30](https://www.youtube.com/watch?v=xXjrNO1y48w&t=150) Tehát én abban bízom, hogyha Vitézy Dávid megkapja a közlekedési tárcát, akkor ha csak akkora előrelépést tud eszközölni, mint amit a Budapesten a Tarlós ére a első felében, akkor szerintem már már nem lehetünk elégetlenek.
 
-[00:02:54](https://www.youtube.com/watch?v=xXjrNO1y48w&t=174) Tehát nyilvánvalóan van egy pikantériája annak, hogy Vitézi Dávid 2022-ig az Orbán kormány államtitkára volt.
+[00:02:54](https://www.youtube.com/watch?v=xXjrNO1y48w&t=174) Tehát nyilvánvalóan van egy pikantériája annak, hogy Vitézy Dávid 2022-ig az Orbán kormány államtitkára volt.
 
 [00:03:08](https://www.youtube.com/watch?v=xXjrNO1y48w&t=188) 2024-ben az utolsó pillanatban a Fidesz fölsorakozott mögé Karácsony Gergellyel szemben a főpolgármesterválasztáson.
 
@@ -194,13 +194,13 @@ Most viszont a Tisza 2025. október 23-ára nem fogyott el, hanem legalábbis a 
 
 [00:03:20](https://www.youtube.com/watch?v=xXjrNO1y48w&t=200) De ha fretesszük ezt a meglehetősen pikás elmúlt néhány év évbeli előtörténetet, akkor azért azt szerintem érdemes leszögezni, hogy hogy azt az ellenségei sem állítják szerintem Bitézi Dávidról, akinek hát láthatóan vannak ellenségei akár bal oldalon, akár jobb oldalon, hogy ne értne ahhoz a területhez, amit most Magyar Péter rá szeretne bízni.
 
-[00:03:49](https://www.youtube.com/watch?v=xXjrNO1y48w&t=229) Mi lehetett Magyar Péter taktikája vitézi Dávidnak a jelölésében?
+[00:03:49](https://www.youtube.com/watch?v=xXjrNO1y48w&t=229) Mi lehetett Magyar Péter taktikája vitézy Dávidnak a jelölésében?
 
-[00:03:58](https://www.youtube.com/watch?v=xXjrNO1y48w&t=238) A podbanicki mozgalom és maga Vitézi Dávid az elmúlt két évben alapvetően azért a a Tisza viszonylag szoros szövetségeseként működött a fővárosi közgyűlésben, annak ellenére ugye, hogy a Fidesz a saját jelöltje mögül kihátrálva, egy egészen furcsa módon hátba döfve Szent Király Alexandrát, vitézünk mögé állt a 2024-es önkormányzati választáson a fővárosi Tisza frakció működése hát meglehetősen meglehetősen furcsa volt az elmúlt években, elmúlt két évben, vagy közel két évben.
+[00:03:58](https://www.youtube.com/watch?v=xXjrNO1y48w&t=238) A podbanicki mozgalom és maga Vitézy Dávid az elmúlt két évben alapvetően azért a a Tisza viszonylag szoros szövetségeseként működött a fővárosi közgyűlésben, annak ellenére ugye, hogy a Fidesz a saját jelöltje mögül kihátrálva, egy egészen furcsa módon hátba döfve Szent Király Alexandrát, vitézünk mögé állt a 2024-es önkormányzati választáson a fővárosi Tisza frakció működése hát meglehetősen meglehetősen furcsa volt az elmúlt években, elmúlt két évben, vagy közel két évben.
 
-[00:04:45](https://www.youtube.com/watch?v=xXjrNO1y48w&t=285) Éppen ezért tulajdonképpen a a Tisza politikáját hatékonyan a fővárosi közgyűlésben Vitézi Dávid és a podmariszki mozgalom tudta képviselni, nem pedig a Tisza frakció.
+[00:04:45](https://www.youtube.com/watch?v=xXjrNO1y48w&t=285) Éppen ezért tulajdonképpen a a Tisza politikáját hatékonyan a fővárosi közgyűlésben Vitézy Dávid és a podmariszki mozgalom tudta képviselni, nem pedig a Tisza frakció.
 
-[00:04:58](https://www.youtube.com/watch?v=xXjrNO1y48w&t=298) Tehát furcs furcsa módon a a a Vitéziék testesítették meg azt a fővárosi közgyűlésben, hogy hogy milyen lehetne egy jó Tisza frakció, egy hatékony Tisza frakció, egy városhoz értő Tisza frakció.
+[00:04:58](https://www.youtube.com/watch?v=xXjrNO1y48w&t=298) Tehát furcs furcsa módon a a a Vitézyék testesítették meg azt a fővárosi közgyűlésben, hogy hogy milyen lehetne egy jó Tisza frakció, egy hatékony Tisza frakció, egy városhoz értő Tisza frakció.
 
 [00:05:13](https://www.youtube.com/watch?v=xXjrNO1y48w&t=313) Maga a Tisza frakció merik hát most őszintén szólva nagyon-nagyon furcsa és mondhatni azért sok esetben kritikáról teljesítmény nyújtott.
 
@@ -208,7 +208,7 @@ Most viszont a Tisza 2025. október 23-ára nem fogyott el, hanem legalábbis a 
 
 [00:05:34](https://www.youtube.com/watch?v=xXjrNO1y48w&t=334) Szóval egészen méltatlan jelenetek zajlottak le a fővárosi közgyűlésből.
 
-[00:05:38](https://www.youtube.com/watch?v=xXjrNO1y48w&t=338) Vitézi Dávidról egyet azért lehet tudni, hogy erős akarata van és mondjuk Tarós István sem volt konfliktus.
+[00:05:38](https://www.youtube.com/watch?v=xXjrNO1y48w&t=338) Vitézy Dávidról egyet azért lehet tudni, hogy erős akarata van és mondjuk Tarós István sem volt konfliktus.
 
 [00:05:46](https://www.youtube.com/watch?v=xXjrNO1y48w&t=346) Tarós István Lázár János vagy Karácsony Gergely tudná igen.
 
@@ -234,11 +234,11 @@ Most viszont a Tisza 2025. október 23-ára nem fogyott el, hanem legalábbis a 
 
 [00:07:37](https://www.youtube.com/watch?v=xXjrNO1y48w&t=457) Példá Ármán András ilyen volt, aki a 2010-es évek elején fölállt az Orbánkormányból.
 
-[00:07:44](https://www.youtube.com/watch?v=xXjrNO1y48w&t=464) ilyen vitézi Dávid, de hát mondhatnánk sorba a sorba a példákat.
+[00:07:44](https://www.youtube.com/watch?v=xXjrNO1y48w&t=464) ilyen vitézy Dávid, de hát mondhatnánk sorba a sorba a példákat.
 
 [00:07:53](https://www.youtube.com/watch?v=xXjrNO1y48w&t=473) Tehát az a helyzet, hogy a a ebben a kormányban biztos, hogy rengeteg érdek nem is érdekkonfliktus, hanem szakmai konfliktus lesz, vagy akár politikai konfliktus.
 
-[00:08:04](https://www.youtube.com/watch?v=xXjrNO1y48w&t=484) Mandula Viktor írta ki most a Facebookra, hogy Magyar Péter 2024 áprilisában mondta még azt, hogy Vitézi Dávid a Fidesz hekje, mindenki tudja, hogy hozzájuk tartozik.
+[00:08:04](https://www.youtube.com/watch?v=xXjrNO1y48w&t=484) Mandula Viktor írta ki most a Facebookra, hogy Magyar Péter 2024 áprilisában mondta még azt, hogy Vitézy Dávid a Fidesz hekje, mindenki tudja, hogy hozzájuk tartozik.
 
 [00:08:12](https://www.youtube.com/watch?v=xXjrNO1y48w&t=492) Íy van, így van, így van, így van.
 
@@ -252,25 +252,25 @@ Most viszont a Tisza 2025. október 23-ára nem fogyott el, hanem legalábbis a 
 
 [00:08:28](https://www.youtube.com/watch?v=xXjrNO1y48w&t=508) Ez egy jobboldali kormány, amit Mandola Viktor idézett, és amit te idéztél Mandola Viktortól, ez egészen pontosan így volt, hogy 2000, valóban Magyar Péter ezt mondta 2024 tavaszán a és é 2024 júni 17 VV Szandi kiesett és ketten maradtak a villában.
 
-[00:08:46](https://www.youtube.com/watch?v=xXjrNO1y48w&t=526) Megjegyezte, hogy sem a Fidesz, sem a DK jelöltjét nem támogatja utalva ezzel vitézire és karácsonyra.
+[00:08:46](https://www.youtube.com/watch?v=xXjrNO1y48w&t=526) Megjegyezte, hogy sem a Fidesz, sem a DK jelöltjét nem támogatja utalva ezzel vitézyre és karácsonyra.
 
 [00:08:53](https://www.youtube.com/watch?v=xXjrNO1y48w&t=533) mint mondta életében, először érvénytelen szavazatot fog leadni, mert nem tudja eldönteni a két főpolgármester jelölt között.
 
 [00:09:01](https://www.youtube.com/watch?v=xXjrNO1y48w&t=541) Mindkettőjüket rossznak tartja.
 
-[00:09:03](https://www.youtube.com/watch?v=xXjrNO1y48w&t=543) Igen, azóta nyilvánvalóan Vitézi Dávid is sok mindenben változtatott a politikáján.
+[00:09:03](https://www.youtube.com/watch?v=xXjrNO1y48w&t=543) Igen, azóta nyilvánvalóan Vitézy Dávid is sok mindenben változtatott a politikáján.
 
 [00:09:12](https://www.youtube.com/watch?v=xXjrNO1y48w&t=552) Például, ha jól láttam a fővárosi közgydűlést, akkor kiválóan együttműködött a Tiszával.
 
 [00:09:18](https://www.youtube.com/watch?v=xXjrNO1y48w&t=558) Valószínűleg ez megalapozta azt, hogy azóta kialakult valamiféle bizalom közte és a Tisza között.
 
-[00:09:27](https://www.youtube.com/watch?v=xXjrNO1y48w&t=567) Másrészt pedig másrészt pedig lehet ám, hogy az is benne van ebbel, és azért ezt se vessük el, hogy és hát hajlamosak így az elemzők jobb és bal oldalról is megfeledkezni erről, hogy mi van akkor, ha Magyar Péter mondjuk úgy gondolja, hogy például így nem tudom, tehát így jól akar kormányozni és a alkalmas minisztereket keresett, tehát és nem Bódis Krisztában találta meg az alkalmas minisztert, nem Ká német például ebben a szociális valószínűleg a ugye beszéltünk arról, még egyszer mondom, tehát ettől még Vitézi Dávidból lehet egy rossz miniszter, de eddig ő egyszer tudott egy nagyobb projektet elkezdeni, végigvinni, befejezni.
+[00:09:27](https://www.youtube.com/watch?v=xXjrNO1y48w&t=567) Másrészt pedig másrészt pedig lehet ám, hogy az is benne van ebbel, és azért ezt se vessük el, hogy és hát hajlamosak így az elemzők jobb és bal oldalról is megfeledkezni erről, hogy mi van akkor, ha Magyar Péter mondjuk úgy gondolja, hogy például így nem tudom, tehát így jól akar kormányozni és a alkalmas minisztereket keresett, tehát és nem Bódis Krisztában találta meg az alkalmas minisztert, nem Ká német például ebben a szociális valószínűleg a ugye beszéltünk arról, még egyszer mondom, tehát ettől még Vitézy Dávidból lehet egy rossz miniszter, de eddig ő egyszer tudott egy nagyobb projektet elkezdeni, végigvinni, befejezni.
 
 [00:10:19](https://www.youtube.com/watch?v=xXjrNO1y48w&t=619) Ez a fővárosi közlekedés átalakítása volt a az államtitkári munkájában.
 
 [00:10:27](https://www.youtube.com/watch?v=xXjrNO1y48w&t=627) Azért ott ott ott ott ott én azt éreztem, hogy ott rengeteg féle lobbicsoport meg erő ellenerő csapott össze egymásra.
 
-[00:10:37](https://www.youtube.com/watch?v=xXjrNO1y48w&t=637) De a fővárosi közlekedést néhány évig Tarlós István egy az egyben rábízta Vitézi Dávidra.
+[00:10:37](https://www.youtube.com/watch?v=xXjrNO1y48w&t=637) De a fővárosi közlekedést néhány évig Tarlós István egy az egyben rábízta Vitézy Dávidra.
 
 [00:10:42](https://www.youtube.com/watch?v=xXjrNO1y48w&t=642) És mivel már annyira öreg vagyok, és már akkor is Budapesten éltem, pontosan tudom és pontosan láttam azt, hogy a fővárosi közlekedés érdemben jobb lett Tarlós Istvánnak az első ciklusa alatt.
 
@@ -278,7 +278,7 @@ Most viszont a Tisza 2025. október 23-ára nem fogyott el, hanem legalábbis a 
 
 [00:11:11](https://www.youtube.com/watch?v=xXjrNO1y48w&t=671) Részben pedig be tudom vitézni Dávidnak, hiszen hát ő vezette a BKK-t ebben az időszakban.
 
-[00:11:16](https://www.youtube.com/watch?v=xXjrNO1y48w&t=676) Tehát ki másnak tudnám be, mint ő nekik kettü, hogy ebben milyen arányban volt benne Tarlós és milyen arányban Vitézi, ezt nyilván kívülről lehetetlen eldönteni, de hogy Vitézi Dávidnak volt legalább egy olyan projektje az életében, ami egy nagy projekt, nyilván nem egy miniszteri szintű projekt volt, de egy nagy projekt volt, amit rábíztak, és ő sikeresen végigcsinálta.
+[00:11:16](https://www.youtube.com/watch?v=xXjrNO1y48w&t=676) Tehát ki másnak tudnám be, mint ő nekik kettü, hogy ebben milyen arányban volt benne Tarlós és milyen arányban Vitézy, ezt nyilván kívülről lehetetlen eldönteni, de hogy Vitézy Dávidnak volt legalább egy olyan projektje az életében, ami egy nagy projekt, nyilván nem egy miniszteri szintű projekt volt, de egy nagy projekt volt, amit rábíztak, és ő sikeresen végigcsinálta.
 
 [00:11:38](https://www.youtube.com/watch?v=xXjrNO1y48w&t=698) Azt szerintem egyértelműen el lehet mondani, és ezzel máris több több dolgot tudtunk róla elmondani pozitívunként, mint mint a számos magyar közszereplőről összesen.
 

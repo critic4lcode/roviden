@@ -25,7 +25,7 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-A JÓLVANEZÍGY csatorna műsorvezetője (név nem említve) Rner Levente vendégét fogadja, aki a Szondi utca című animációs sorozat készítője. A beszélgetés a 2026-os magyarországi rendszerváltás után a politikai és kulturális közélet átalakulásáról szól, valamint arról, hogyan hat ez az alkotó munkájára és gondolkodására.
+A JÓLVANEZÍGY csatorna műsorvezetője (név nem említve) Roznár Levente vendéget fogadja, aki a Szondi utca című animációs sorozat készítője. A beszélgetés a 2026-os magyarországi rendszerváltás után a politikai és kulturális közélet átalakulásáról szól, valamint arról, hogyan hat ez az alkotó munkájára és gondolkodására.
 
 Levente elmondja, hogy a Szondi utca készítése során tudatosan választotta szét a saját személyét és a sorozatot, és nem szeretné, hogy a politikai kontextus túlságosan meghatározza a művet. Úgy véli, hogy a sorozat 90%-a a mindennapi pesti élet (kisbolt, emberek közötti beszélgetések, homlokzatok), és csak 10%-a kapcsolódik politikához – ez az arány szerinte nem fog megváltozni.
 
@@ -39,7 +39,7 @@ A műsor során kitöltik a Refresher által készített tesztet, amely azt muta
 
 Szóba kerül az Orbán-kormány bukása, az új TISZA-kormány, valamint a Fidesz átalakulása az ellenzékbe. Orbán Viktor úgy döntött, hogy nem ül be a parlamentbe, hanem a párt elnökeként marad, és a „nemzeti oldal" újjászervezésén dolgozik. Levente szerint ez politikailag racionális lépés, de érdekes, hogy a Fidesz továbbra is „nemzeti oldalként" hivatkozik magára.
 
-Végül szóba kerül Vitézi Dávid, az új közlekedési és beruházási miniszter, aki a Podmanicai mozgalomból jön, és akit Levente pozitívan értékel a tömegközlekedésről és a kötöttpályás közlekedésről vallott nézetei miatt – bár érdekes számára, hogy egy nem Fidesz-KDNP-ből származó szakember lett miniszter.
+Végül szóba kerül Vitézy Dávid, az új közlekedési és beruházási miniszter, aki a Podmanicai mozgalomból jön, és akit Levente pozitívan értékel a tömegközlekedésről és a kötöttpályás közlekedésről vallott nézetei miatt – bár érdekes számára, hogy egy nem Fidesz-KDNP-ből származó szakember lett miniszter.
 
 ---
 
@@ -47,7 +47,7 @@ Végül szóba kerül Vitézi Dávid, az új közlekedési és beruházási mini
 
 ## A Szondi utca és a rendszerváltás
 
-Rner Levente, a Szondi utca animációs sorozat készítője elmondja, hogy a választás után rengeteg üzenetet kap követőitől, akik azt kérdezik: „Mi lesz a Szondi utcával? Vége van?" Levente szerint ez azért érdekes, mert az eredeti koncepciója sohasem az volt, hogy a sorozat egy „durva NER-kritika" legyen. Úgy gondolja, hogy a Szondi utca 90%-a a mindennapi pesti élet – a kisbolt, a trapista sajt, a túrórudi, az emberek közötti beszélgetések, a pesti homlokzatok – és csak 10%-a kapcsolódik ahhoz, hogy NER-rendszerben élünk.
+Roznár Levente, a Szondi utca animációs sorozat készítője elmondja, hogy a választás után rengeteg üzenetet kap követőitől, akik azt kérdezik: „Mi lesz a Szondi utcával? Vége van?" Levente szerint ez azért érdekes, mert az eredeti koncepciója sohasem az volt, hogy a sorozat egy „durva NER-kritika" legyen. Úgy gondolja, hogy a Szondi utca 90%-a a mindennapi pesti élet – a kisbolt, a trapista sajt, a túrórudi, az emberek közötti beszélgetések, a pesti homlokzatok – és csak 10%-a kapcsolódik ahhoz, hogy NER-rendszerben élünk.
 
 > „Én úgy képzelem, hogy 90%-a a Szondi utcának az az, hogy bemegyek a kóbba, leveszem a kosarat, megveszem a trapistas sajtót, meg a túrórudit, meg ahogyan beszélünk egymással, meg amilyen pesti homlokzatok vannak, és annak csak 10%-a az, hogy nerben élünk." [*](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=90)
 
@@ -93,17 +93,17 @@ Orbán Viktor a választás után bejelentette, hogy nem ül be a parlamentbe, h
 
 Azonban Levente érdekes megfigyelése, hogy Orbán továbbra is a „nemzeti oldal" kifejezést használja, és ezt a szót ismételgeti. Levente szerint ez baromi nagy baki, mert ez már klisének hangzik, de továbbra is ezt használják.
 
-Levente azt is megjegyzi, hogy érdekes, hogy a Fidesz-KDNP még nem szállt fel az ellenzékbe, és hogy Gulyás Gergely lett a frakció vezetője. Az egyik érdekes hiányzó szereplő Lázár János, akitől két hete nem hallottak, pedig volt lehetősége volna nyilatkozni a Vitézi Dávid kinevezéséről.
+Levente azt is megjegyzi, hogy érdekes, hogy a Fidesz-KDNP még nem szállt fel az ellenzékbe, és hogy Gulyás Gergely lett a frakció vezetője. Az egyik érdekes hiányzó szereplő Lázár János, akitől két hete nem hallottak, pedig volt lehetősége volna nyilatkozni a Vitézy Dávid kinevezéséről.
 
-## Vitézi Dávid és az új közlekedési miniszter
+## Vitézy Dávid és az új közlekedési miniszter
 
-Vitézi Dávid, a Podmanicai mozgalom vezetője lett az új közlekedési és beruházási miniszter. Levente nagyon pozitívan értékeli ezt a kinevezést, mivel Vitézi a tömegközlekedésről és a kötöttpályás közlekedésről beszél, nem pedig az autózásról.
+Vitézy Dávid, a Podmanicai mozgalom vezetője lett az új közlekedési és beruházási miniszter. Levente nagyon pozitívan értékeli ezt a kinevezést, mivel Vitézy a tömegközlekedésről és a kötöttpályás közlekedésről beszél, nem pedig az autózásról.
 
 > „Én nagyon szerettem volna, hogyha vannak ilyen programok, amikor én vagyok fiatal. Szóval ilyet kiteszek." [*](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=354)
 
-Levente szerint Vitézi a várostervezésről szóló videóit nagyon szereti hallgatni, és az a megközelítése, hogy integrálni kell az elővárosi közlekedésbe a különböző vonalakat, és sokkal nagyobb figyelmet kell fektetni a kötöttpályásra, mint a közutakra, teljesen helytelen. Azonban érdekes számára, hogy egy nem Fidesz-KDNP-ből származó szakember lett miniszter – ez egy új dolog a magyar politikában.
+Levente szerint Vitézy a várostervezésről szóló videóit nagyon szereti hallgatni, és az a megközelítése, hogy integrálni kell az elővárosi közlekedésbe a különböző vonalakat, és sokkal nagyobb figyelmet kell fektetni a kötöttpályásra, mint a közutakra, teljesen helytelen. Azonban érdekes számára, hogy egy nem Fidesz-KDNP-ből származó szakember lett miniszter – ez egy új dolog a magyar politikában.
 
-Levente megjegyzi, hogy Vitézi személyes érdeklődése a villamos közlekedés iránt (például a konyhájának villamos témája) nagyon szimpatikus számára, és hogy a macskák is közös pont között lehetne.
+Levente megjegyzi, hogy Vitézy személyes érdeklődése a villamos közlekedés iránt (például a konyhájának villamos témája) nagyon szimpatikus számára, és hogy a macskák is közös pont között lehetne.
 
 ## A rendszerváltás után a közéleti beszélgetések
 
@@ -136,7 +136,7 @@ Levente Szombathelyen született, és szereti a városát, bár elismeri, hogy a
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- „Rner Levente" – az átirat így írja, de valószínűleg egy becenév vagy rövidítés, amelynek pontos jelentése nem világos az átiratból.
+- „Roznár Levente" – az átirat így írja, de valószínűleg egy becenév vagy rövidítés, amelynek pontos jelentése nem világos az átiratból.
 - „Partizánban" – valószínűleg a Partizán YouTube-csatornára utal, de az átiratban nem egyértelmű.
 - „Cserpa" – egy interjúalany neve, de az átiratban nem világos, hogy ki ő pontosan.
 - „Ferencse" – egy név, amely az átiratban csak futólag említődik, kontextusa nem világos.
@@ -163,7 +163,7 @@ Levente Szombathelyen született, és szereti a városát, bár elismeri, hogy a
 
 [00:00:10](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=10) Szia Levi!
 
-[00:00:10](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=10) Rner Levente, jó reggelt!
+[00:00:10](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=10) Roznár Levente, jó reggelt!
 
 [00:00:14](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=14) Üdv!
 
@@ -1929,7 +1929,7 @@ Levente Szombathelyen született, és szereti a városát, bár elismeri, hogy a
 
 [01:01:39](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3699) Hát például, hogy a például, hogy a a nemezis péul Igen.
 
-[01:01:43](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3703) Vitézi Dávid lett a Tiszának ugye a közlekedési és beruházási minisztere.
+[01:01:43](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3703) Vitézy Dávid lett a Tiszának ugye a közlekedési és beruházási minisztere.
 
 [01:01:49](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3709) Itt ezt meg is mutathatjuk ezt a hírt is.
 
@@ -1957,15 +1957,15 @@ Levente Szombathelyen született, és szereti a városát, bár elismeri, hogy a
 
 [01:02:43](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3763) Hát ugye van aki le is törölte a Facebook oldalát, tehát a Navracsic például még miniszter és már nincs Facebook oldala.
 
-[01:02:49](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3769) És mit szólsz a mit szólsz a Vitézi meg ugye általában a Tiszás bejelentésekhez eddig?
+[01:02:49](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3769) És mit szólsz a mit szólsz a Vitézy meg ugye általában a Tiszás bejelentésekhez eddig?
 
-[01:02:53](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3773) Hát a vitézi kapcsán én hát nehéz nem elfogútnak lenni, mert mert hogy én azért van egy ilyen közös dilink, csak ő ért is hozzá.
+[01:02:53](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3773) Hát a vitézy kapcsán én hát nehéz nem elfogútnak lenni, mert mert hogy én azért van egy ilyen közös dilink, csak ő ért is hozzá.
 
 [01:03:01](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3781) Én a villamosokat, azokat imádod a villamosokat?
 
 [01:03:03](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3783) Igen, a kötött pályás közlekedés nagy szerelmese vagyok.
 
-[01:03:07](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3787) És hát ilyen szinten azért a a Vitézi aki asszem még a Igen.
+[01:03:07](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3787) És hát ilyen szinten azért a a Vitézy aki asszem még a Igen.
 
 [01:03:11](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3791) Bár a troli az nem tudom, hogy kötött pályása.
 
@@ -1997,15 +1997,15 @@ Levente Szombathelyen született, és szereti a városát, bár elismeri, hogy a
 
 [01:03:53](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3833) Ezt elmondta egy ilyen assassiszem ingás beszélgetés volt.
 
-[01:03:57](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3837) Ezért rákeressek, hogy vitézi konyhá.
+[01:03:57](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3837) Ezért rákeressek, hogy vitézy konyhá.
 
 [01:03:58](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3838) Nem, én is rákerestem, sajnos semmi.
 
 [01:03:58](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3838) Ott ott csöppentette el ezt az infót egyedül.
 
-[01:04:02](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3842) Pedig én nem úgy nagyon kíváncsi lennék a mindennapi Vitézi Dávidra.
+[01:04:02](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3842) Pedig én nem úgy nagyon kíváncsi lennék a mindennapi Vitézy Dávidra.
 
-[01:04:05](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3845) Csak meg megmutatom az embereknek is, ha valakit érdekel, akkor itt van a Vitézi konyhájáról meg a konyhámnak villamos tematikája van.
+[01:04:05](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3845) Csak meg megmutatom az embereknek is, ha valakit érdekel, akkor itt van a Vitézy konyhájáról meg a konyhámnak villamos tematikája van.
 
 [01:04:12](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3852) Azt a mindenit!
 
@@ -2043,7 +2043,7 @@ Levente Szombathelyen született, és szereti a városát, bár elismeri, hogy a
 
 [01:06:38](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=3998) Van kis vonat makettem is otthon.
 
-[01:06:41](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=4001) Nekem az én közös pontom a a Vitézi ilyen én nem ismerem őt, de az ilyen online personájával az a macskák, úgyhogy Ó, igen.
+[01:06:41](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=4001) Nekem az én közös pontom a a Vitézy ilyen én nem ismerem őt, de az ilyen online personájával az a macskák, úgyhogy Ó, igen.
 
 [01:06:48](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=4008) Ja ja.
 
@@ -2055,7 +2055,7 @@ Levente Szombathelyen született, és szereti a városát, bár elismeri, hogy a
 
 [01:07:10](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=4030) De nyilván bennem amúgy a annyi ilyen és ez a politikai része, tehát ez nem a szak területi része, hogy azért nyilván az, hogy ő azért mégis csak annak a mahinációnak, amiben a Fidesz megpróbálta végül is legyőzni a az ellenzéki vezetését a a fővárosnak, annak a részese volt.
 
-[01:07:26](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=4046) És a másik része meg szerintem az, hogy amire így kíváncsi vagyok, hogy az hogy fog működni, hogy egy Tiszán kívüli mozgalomnak a vezetője a Vitézi, és én a Telexes interjújából úgy értettem, hogy ő marad a Podnanici mozgalomnak a Igen, az egy érdekes hiányozni fog így és hogy és hogy tudod át kell váltania majd egyes számba vagy hogy én, mint a Tiszakormány minisztere meg többes szám első szemében is, hogy mi a Tiszakormány.
+[01:07:26](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=4046) És a másik része meg szerintem az, hogy amire így kíváncsi vagyok, hogy az hogy fog működni, hogy egy Tiszán kívüli mozgalomnak a vezetője a Vitézy, és én a Telexes interjújából úgy értettem, hogy ő marad a Podnanici mozgalomnak a Igen, az egy érdekes hiányozni fog így és hogy és hogy tudod át kell váltania majd egyes számba vagy hogy én, mint a Tiszakormány minisztere meg többes szám első szemében is, hogy mi a Tiszakormány.
 
 [01:07:54](https://www.youtube.com/watch?v=zDjTi7Txuzw&t=4074) és hogy eddig ugye amikor ő politikusként lépett föl, akkor alapvetően ezt a pómanic mozgalmat képviselte meg, nem tudom.
 

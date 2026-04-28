@@ -156,7 +156,7 @@ Nagy kérdés, hogy Magyar Péter egy új hatalmi gépezetet fog építeni, vagy
 
 Tamás szerint nem biztos, hogy a Tiszának érdeke az önkormányzati választások. Ha az önkormányzatok is tiszások lennének, akkor azok mindig pénzért jönnének, és meg kellene oldítani a szemétszállítást, az infrastruktúrát. Könnyebb egy fideszes önkormányzatnak is adni, majd azt mondani, hogy milyen jó, hogy Magyar Péter még a fideszes önkormányzatokkal is együtt tud működni.
 
-Tamás a budapesti példát hozza: Karácsony Gergely 2019-ben lett főpolgármester, és nem volt olyan jó, mint Tarlós István, mégis 2024-ben is, szűk többséggel, de megválasztották. Ha a Tisza beáll mondjuk Vitézi mögé, az még erősíthetné a Tiszát.
+Tamás a budapesti példát hozza: Karácsony Gergely 2019-ben lett főpolgármester, és nem volt olyan jó, mint Tarlós István, mégis 2024-ben is, szűk többséggel, de megválasztották. Ha a Tisza beáll mondjuk Vitézy mögé, az még erősíthetné a Tiszát.
 
 > „Nem csak azt akarom ezzel mondani, hogy Budapesten például még egy Karácsony Gergely ciklus után is sokkal nagyobb volt a Fidesz utállat, mint hogy leváltják Karácsony Gergelyt." [*](https://www.youtube.com/watch?v=1DvWyZYtlnw&t=1487)
 
@@ -668,7 +668,7 @@ Tamás szerint az Ultrahang léte fogja bizonyítani, hogy milyenek voltak, mily
 
 [00:24:30](https://www.youtube.com/watch?v=1DvWyZYtlnw&t=1470) Hét évvel ezelőtt szerintem nem is olyan jó főpolgármestere a városnak, mint Tarlós István volt, mégis 2024-ben is, bár szűk többséggel, de megszavazták Karácsony Gergelyt főpolgármesternek.
 
-[00:24:44](https://www.youtube.com/watch?v=1DvWyZYtlnw&t=1484) Ki tudja, mi lesz, hogyha a Tisza beáll mondjuk Vitézi mögé.
+[00:24:44](https://www.youtube.com/watch?v=1DvWyZYtlnw&t=1484) Ki tudja, mi lesz, hogyha a Tisza beáll mondjuk Vitézy mögé.
 
 [00:24:47](https://www.youtube.com/watch?v=1DvWyZYtlnw&t=1487) Ha beáll, ugye ez is nagy kérdés.
 

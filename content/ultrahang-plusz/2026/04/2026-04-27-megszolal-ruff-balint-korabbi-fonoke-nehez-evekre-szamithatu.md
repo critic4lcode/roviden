@@ -24,7 +24,7 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-Fodor Gábor korábbi miniszter és országgyűlési képviselő értékeli Orbán Viktor döntését, hogy nem ül be a parlamentbe. Szerinte ez bölcs lépés, amely lehetővé teszi a Fidesz új vezetésének kialakulását, és összhangban van a Kacsinski-modellel. Az új TISZA-kormány szerkezetét pozitívan értékeli, különösen Ruff Bálint kancellária miniszteri szerepét, aki tapasztalt és képes lehet a heterogén kormányt összetartani. Az ügynökakták nyilvánosságával kapcsolatban óvatosságot tanácsol, mivel szenzitív személyes adatokat tartalmaznak, és az elszámoltatás jakobinus veszélyei vannak. A Fidesz számára a konszolidált polgári közép visszaszerzését javasolja, amely hosszú távon az ország jövőjét is szolgálná. Vitézi Dávidot kiváló miniszternek tartja, Lerner Judittal kapcsolatban azonban tartózkodó.
+Fodor Gábor korábbi miniszter és országgyűlési képviselő értékeli Orbán Viktor döntését, hogy nem ül be a parlamentbe. Szerinte ez bölcs lépés, amely lehetővé teszi a Fidesz új vezetésének kialakulását, és összhangban van a Kacsinski-modellel. Az új TISZA-kormány szerkezetét pozitívan értékeli, különösen Ruff Bálint kancellária miniszteri szerepét, aki tapasztalt és képes lehet a heterogén kormányt összetartani. Az ügynökakták nyilvánosságával kapcsolatban óvatosságot tanácsol, mivel szenzitív személyes adatokat tartalmaznak, és az elszámoltatás jakobinus veszélyei vannak. A Fidesz számára a konszolidált polgári közép visszaszerzését javasolja, amely hosszú távon az ország jövőjét is szolgálná. Vitézy Dávidot kiváló miniszternek tartja, Lerner Judittal kapcsolatban azonban tartózkodó.
 
 ---
 
@@ -74,7 +74,7 @@ Ruff Bálint kulcsszerepe lesz az új modellben, mivel olyan miniszterek vannak,
 
 ## Az államtitkárok kérdése
 
-Fodor megjegyzi, hogy Magyar Péter korábban azt mondta, hogy föl se merülhet, hogy az Orbán-kormány alatt államtitkárok voltak, az ő kormányában részt vehessenek. Azonban most már sorolni lehet azokat, akik ott voltak államtitkárként: Vitézi Dávid, Orbán Anita, Kármán András, és mások. Fodor szerint nem érdemes végletes kijelentéseket tenni a politikában, mert rövid időn belül az ember szembesül azzal, hogy mégsem úgy van.
+Fodor megjegyzi, hogy Magyar Péter korábban azt mondta, hogy föl se merülhet, hogy az Orbán-kormány alatt államtitkárok voltak, az ő kormányában részt vehessenek. Azonban most már sorolni lehet azokat, akik ott voltak államtitkárként: Vitézy Dávid, Orbán Anita, Kármán András, és mások. Fodor szerint nem érdemes végletes kijelentéseket tenni a politikában, mert rövid időn belül az ember szembesül azzal, hogy mégsem úgy van.
 
 ## Az ügynökakták nyilvánosságáról
 
@@ -140,17 +140,17 @@ Ha a Fidesz ebbe az irányba el tud menni, az szerinte a párt számára egy út
 
 A TISZA azt mondja, hogy a kétharmaddal felépít egy új közigazgatási struktúrát, új alkotmányt, amelyben kontroll lesz a hatalomra. Lehet, hogy így lesz, de addig is kontrollálatlan lesz a hatalom. Ezért az ország jövője szempontjából kulcsfontosságú, mi lesz a Fidesszel. Ha össze tudja szedni magát és ezt a konszolidált jobboldalt meg tudja jeleníteni, az ország jövőjét is szolgálja.
 
-## Vitézi Dávid és a közlekedés
+## Vitézy Dávid és a közlekedés
 
-Fodor Vitézi Dávidot, az új közlekedési minisztert kiváló jelöltnek tartja. Kisgyerekkora óta jól ismeri, és jó véleménye van róla.
+Fodor Vitézy Dávidot, az új közlekedési minisztert kiváló jelöltnek tartja. Kisgyerekkora óta jól ismeri, és jó véleménye van róla.
 
 > „Szerintem üdítő jelenség a magyar politikában. Szerintem ez egy jó húzás a Tisza kormány részéről, hogy őt felkérték erre a miniszteri posztra." – Fodor Gábor [*](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2477)
 
-Fodor szerint amit érdemi dolog történt Budapesten a főpolgármesterség idején, annak java része Vitézi Dávid nevéhez köthető. Vitézi egy olyan ember, aki teljes egészében a maga szakmai meggyőződésére fókuszál, óriási energiákkal viszi, nyomja, küzd érte. Nem könnyű vele valószínűleg együtt dolgozni, de benne van kreativitás, lát előre, van jövőképe, nemzetközi kitekintése, komoly víziói, és kellő erőszakossággal keresztül vigye ezeket.
+Fodor szerint amit érdemi dolog történt Budapesten a főpolgármesterség idején, annak java része Vitézy Dávid nevéhez köthető. Vitézy egy olyan ember, aki teljes egészében a maga szakmai meggyőződésére fókuszál, óriási energiákkal viszi, nyomja, küzd érte. Nem könnyű vele valószínűleg együtt dolgozni, de benne van kreativitás, lát előre, van jövőképe, nemzetközi kitekintése, komoly víziói, és kellő erőszakossággal keresztül vigye ezeket.
 
-Azonban Fodor kritikusan kezeli a közlekedésről szóló ígéreteket. A MÁV problémái nem az elmúlt néhány évben kezdődtek – már a 80-as években voltak súlyos problémák. Ez egy 50 éves mulasztásról van szó Magyarországon a vasúttal kapcsolatban. Vitézi biztos tud belső tartalékokat találni, de csak belső tartalékokkal ezt a problémát megoldani nem lehet. Ehhez kormányzati akarat és óriási forrásokat kell mobilizálni.
+Azonban Fodor kritikusan kezeli a közlekedésről szóló ígéreteket. A MÁV problémái nem az elmúlt néhány évben kezdődtek – már a 80-as években voltak súlyos problémák. Ez egy 50 éves mulasztásról van szó Magyarországon a vasúttal kapcsolatban. Vitézy biztos tud belső tartalékokat találni, de csak belső tartalékokkal ezt a problémát megoldani nem lehet. Ehhez kormányzati akarat és óriási forrásokat kell mobilizálni.
 
-Fodor megjegyzi, hogy Lázár János és Vitézi Dávid között nagy harc volt. Lázárt is jó miniszternek tartotta, bár sok kritika érte. Azonban Lázár nem pusztán közlekedési miniszter volt – a Fidesz meghatározó arca is volt, állandóan politikai küzdelemben részt kellett vennie. Vitézi Dávidnak más lesz a helyzete.
+Fodor megjegyzi, hogy Lázár János és Vitézy Dávid között nagy harc volt. Lázárt is jó miniszternek tartotta, bár sok kritika érte. Azonban Lázár nem pusztán közlekedési miniszter volt – a Fidesz meghatározó arca is volt, állandóan politikai küzdelemben részt kellett vennie. Vitézy Dávidnak más lesz a helyzete.
 
 ## Lerner Judit és az oktatás
 
@@ -168,7 +168,7 @@ Azonban hangsúlyozza, hogy nincs egyenes összefüggés abban, hogy valaki jó 
 - „Jonatán" – a műsorvezető neve, amely az átiratban többször szerepel, de helyesírása bizonytalan (lehet Jonathan vagy más variáció)
 - „Nekem is egy kicsit fura még itt ülni Tamás székében" – a kontextusból úgy tűnik, hogy Fodor Gábor Tamás (valószínűleg Tamás műsorvezető) helyén ül, de a teljes szituáció nem teljesen világos
 - „Ruff Bálint" vs. „Ruf Pálint" – az átiratban mindkét forma megjelenik, de a helyes név valószínűleg Ruff Bálint
-- „Vitézi Dávid" helyenként „Vitzi Dávidnak" írva – az ASR hibája, a helyes név Vitézi Dávid
+- „Vitézy Dávid" helyenként „Vitzi Dávidnak" írva – az ASR hibája, a helyes név Vitézy Dávid
 
 </details>
 
@@ -489,7 +489,7 @@ Azonban hangsúlyozza, hogy nincs egyenes összefüggés abban, hogy valaki jó 
 
 [00:19:34](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=1174) Hát most már tudjuk sorolni a listát azoknak, akik ott voltak államtitkárként.
 
-[00:19:38](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=1178) Itt van Vitézi Dávid esete például, aki államtitkár volt, de ugye ott van Orbán Anita is ugye ebben a cipőben jár.
+[00:19:38](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=1178) Itt van Vitézy Dávid esete például, aki államtitkár volt, de ugye ott van Orbán Anita is ugye ebben a cipőben jár.
 
 [00:19:47](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=1187) Kármán András itt ott szerepelt ugye az előző Orbán kormány, hogy Ruszin szendeni Romolusz nem államtitkár, de azért nem de hát ő is így van elég magas rangban.
 
@@ -827,7 +827,7 @@ Azonban hangsúlyozza, hogy nincs egyenes összefüggés abban, hogy valaki jó 
 
 [00:39:08](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2348) Két másik miniszterről kérdezném még a véleményét.
 
-[00:39:10](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2350) Az egyik az Lner Judit, ugye aki az oktatásügyi családvédelmi vagy család és oktatásügyi miniszter lesz, illetve Vitézi Dávid, aki már érinteljűlegesen szóba került, de azért Vitézi Dávid kapcsán egy mintha egy társadalmi konszenzus valósult volna, mert kevés olyan embert is meglázoson kívül, aki ne szeretné vitézi Dávidot.
+[00:39:10](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2350) Az egyik az Lner Judit, ugye aki az oktatásügyi családvédelmi vagy család és oktatásügyi miniszter lesz, illetve Vitézy Dávid, aki már érinteljűlegesen szóba került, de azért Vitézy Dávid kapcsán egy mintha egy társadalmi konszenzus valósult volna, mert kevés olyan embert is meglázoson kívül, aki ne szeretné vitézy Dávidot.
 
 [00:39:31](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2371) Lannerit esetében egy kicsit talán kritikusabb lehetnék.
 
@@ -869,7 +869,7 @@ Azonban hangsúlyozza, hogy nincs egyenes összefüggés abban, hogy valaki jó 
 
 [00:41:02](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2462) Ez az érdeke szerintem.
 
-[00:41:04](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2464) A másik kérdésben, Vitézi Dávidról ott többet tudok mondani, mert Vitzi Dávidot kisgyerekkora óta jól ismerem valójában.
+[00:41:04](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2464) A másik kérdésben, Vitézy Dávidról ott többet tudok mondani, mert Vitzi Dávidot kisgyerekkora óta jól ismerem valójában.
 
 [00:41:12](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2472) És az a helyzet, hogy én jó véleményel vagyok a Dávidról.
 
@@ -877,7 +877,7 @@ Azonban hangsúlyozza, hogy nincs egyenes összefüggés abban, hogy valaki jó 
 
 [00:41:17](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2477) Szerintem ez egy jó húzás a Tisza kormány részéről, hogy őt felkérték erre a miniszteri posztra.
 
-[00:41:22](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2482) Én már nagyon drukkoltam neki a főpolgármesterség idején is, és azóta is a fővárosban azt látom, hogy ami érdemi dolog történt Budapesten, az annak a java része vitézi Dávid nevéhez köthető.
+[00:41:22](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2482) Én már nagyon drukkoltam neki a főpolgármesterség idején is, és azóta is a fővárosban azt látom, hogy ami érdemi dolog történt Budapesten, az annak a java része vitézy Dávid nevéhez köthető.
 
 [00:41:34](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2494) Tehát a Dávid egy olyan ember, aki teljes egészében, tehát a maga a szakmai meggyőződésére fókuszál, azt óriási energiákkal viszi, nyomja, küzd érte.
 
@@ -885,7 +885,7 @@ Azonban hangsúlyozza, hogy nincs egyenes összefüggés abban, hogy valaki jó 
 
 [00:42:04](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2524) Úgyhogy én egy kifejetten jó jelöltnek tartom.
 
-[00:42:08](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2528) Nagyon sok ígéret hangzott el, még vitézi elvitt is, hogy hogy miben reformálná meg a magyar tömegközlekedést.
+[00:42:08](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2528) Nagyon sok ígéret hangzott el, még vitézy elvitt is, hogy hogy miben reformálná meg a magyar tömegközlekedést.
 
 [00:42:17](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2537) Eddig tényleg voltak rejtett több 100 vagy 1000er milliárdok, hogy ezeket nem tudták megvalósítani, vagy kezeljük azért kritikusan ezeket az ígéreteket?
 
@@ -895,9 +895,9 @@ Azonban hangsúlyozza, hogy nincs egyenes összefüggés abban, hogy valaki jó 
 
 [00:42:31](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2551) Tehát például itt van mondjuk a MÁV ügye, ő mondjuk nagyon profi ebbe.
 
-[00:42:35](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2555) Tehát én nem verném a nem venném a bátorságot, hogy például ahol sín van, azokba a kérdésekbe Vitézi Dáviddal vitatkozak, mert szerintem a sín kérdésben ő őt szerintem a a legprofibb Magyarországon.
+[00:42:35](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2555) Tehát én nem verném a nem venném a bátorságot, hogy például ahol sín van, azokba a kérdésekbe Vitézy Dáviddal vitatkozak, mert szerintem a sín kérdésben ő őt szerintem a a legprofibb Magyarországon.
 
-[00:42:46](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2566) Ha kötött pályáról van szó, akkor Vitézi Dávid mindenképpen.
+[00:42:46](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2566) Ha kötött pályáról van szó, akkor Vitézy Dávid mindenképpen.
 
 [00:42:50](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2570) Szóval de azért azért annyit hadd tegyek hozzá a politikai oldalról.
 
@@ -915,11 +915,11 @@ Azonban hangsúlyozza, hogy nincs egyenes összefüggés abban, hogy valaki jó 
 
 [00:43:39](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2619) Tehát ehhez kell egy kormányzati akarat, és óriási forrásokat kell valamilyen módon mobilizálni ahhoz, hogy itt változás legyen.
 
-[00:43:47](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2627) Megjegyzem, ugye óriási harcban állt egymással Lázár János és Vitézi Dávid.
+[00:43:47](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2627) Megjegyzem, ugye óriási harcban állt egymással Lázár János és Vitézy Dávid.
 
 [00:43:51](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2631) Ez ugye külön érdekes lesz majd itt a tárcaadás.
 
-[00:43:54](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2634) Pont Lázár János részéről ugye vitézi Dávidnak, de megjegyzem, én a Lázárt is jó miniszternek tartottam, tehát szembe sokakkal a akik ugye kritizálták.
+[00:43:54](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2634) Pont Lázár János részéről ugye vitézy Dávidnak, de megjegyzem, én a Lázárt is jó miniszternek tartottam, tehát szembe sokakkal a akik ugye kritizálták.
 
 [00:44:01](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2641) Ezért ő mondjuk őneki nem volt könnyű helyszete, mert sok mindennel kellett foglalkozni.
 
@@ -937,7 +937,7 @@ Azonban hangsúlyozza, hogy nincs egyenes összefüggés abban, hogy valaki jó 
 
 [00:44:32](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2672) De mondom ne felejtsük el, hogy a Lázár János nem pusztán egy egy közlekedési miniszter volt.
 
-[00:44:36](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2676) Ilyen értelemben Vitézi Dávidnak más lesz a helyzete.
+[00:44:36](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2676) Ilyen értelemben Vitézy Dávidnak más lesz a helyzete.
 
 [00:44:39](https://www.youtube.com/watch?v=RWQ1zOe6moY&t=2679) Lázár János a Fidesznek is egy meghatározó arca volt, tehát neki állandóan egy politikai küzdelembe is részt kellett vennie.
 

@@ -28,7 +28,7 @@ summary_model: anthropic/claude-haiku-4.5
 
 **Beszélgetésben:** IC és Ambrús (Partizán műsorvezetők), Magyari Péter (Válaszonline újságírója), Kovalcsik Tamás (Partizán adatelemzője).
 
-A hétindító adás a választás utáni átmeneti időszakot értékeli. Orbán Viktor nem veszi fel parlamenti mandátumát, de a Fidesz vezetésében marad – egy furcsa „marad is, nem is" helyzet alakult ki. A Tisza három új minisztert jelentett be (Vitézi Dávid közlekedési miniszter, Kátai Német Wilmos szociális miniszter, Lannert Judit oktatási miniszter), jelezve, hogy szakpolitikusokra és kommunikatív képességűekre épít. Az EU-s szinten Orbán hiánya felszabadultabb légkört teremtett, de új érdekkonfliktusok is felszínre kerülhetnek. A választásnapi felmérés szerint az első szavazók 79%-a szerint rossz irányba mennek a dolgok az országban – a fiatalok döntően a Tiszára szavaztak (63–92% között az egyes választókerületekben). A gazdaság megítélésében azonban még a fideszes szavazók között is csak 41% mondta azt, hogy jó a helyzet. Az EU-s bíróságok több magyar adót semmisítettek meg, hosszú jogi és pénzügyi következményekkel.
+A hétindító adás a választás utáni átmeneti időszakot értékeli. Orbán Viktor nem veszi fel parlamenti mandátumát, de a Fidesz vezetésében marad – egy furcsa „marad is, nem is" helyzet alakult ki. A Tisza három új minisztert jelentett be (Vitézy Dávid közlekedési miniszter, Kátai Német Wilmos szociális miniszter, Lannert Judit oktatási miniszter), jelezve, hogy szakpolitikusokra és kommunikatív képességűekre épít. Az EU-s szinten Orbán hiánya felszabadultabb légkört teremtett, de új érdekkonfliktusok is felszínre kerülhetnek. A választásnapi felmérés szerint az első szavazók 79%-a szerint rossz irányba mennek a dolgok az országban – a fiatalok döntően a Tiszára szavaztak (63–92% között az egyes választókerületekben). A gazdaság megítélésében azonban még a fideszes szavazók között is csak 41% mondta azt, hogy jó a helyzet. Az EU-s bíróságok több magyar adót semmisítettek meg, hosszú jogi és pénzügyi következményekkel.
 
 ---
 
@@ -57,7 +57,7 @@ Péter azt is megjegyzi, hogy a Fidesz olyan szűkülésbe került, mint az MSZP
 ## A Tisza kormányalakítása: szakértők és politikusok
 
 Pénteken Magyar Péter három új minisztert jelentett be:
-- **Vitézi Dávid** – közlekedési és beruházási miniszter
+- **Vitézy Dávid** – közlekedési és beruházási miniszter
 - **Kátai Német Wilmos** – szociális és családügyi miniszter
 - **Lannert Judit** – gyermek és oktatásügyi miniszter
 
@@ -65,23 +65,23 @@ Magyari Péter szerint ez a kiválasztás azt mutatja, hogy a Tisza többségéb
 
 > „Szerintem ez a lista megfelel. Többségében vannak a leendő Tiszakormányban szakpolitikusok, amit kívülről hoznak be" – Magyari Péter [*](https://www.youtube.com/watch?v=7Y1BD3793-E&t=5631)
 
-Péter kiemeli, hogy az új kormányban sok olyan ember van, aki képes és akar jól beszélni, valamint jó médiakampányokat folytatni. Kapitány István például lelkesen járja az országot, Kármán András érthető stílusban magyaráz bonyolult gazdasági kérdéseket, és Vitézi Dávid már régóta szereti a médiát és folyamatosan kampányol.
+Péter kiemeli, hogy az új kormányban sok olyan ember van, aki képes és akar jól beszélni, valamint jó médiakampányokat folytatni. Kapitány István például lelkesen járja az országot, Kármán András érthető stílusban magyaráz bonyolult gazdasági kérdéseket, és Vitézy Dávid már régóta szereti a médiát és folyamatosan kampányol.
 
-## Vitézi Dávid: szakpolitikus és politikus egyszerre
+## Vitézy Dávid: szakpolitikus és politikus egyszerre
 
-Vitézi Dávid kinevezése szimbolikus és szakmai üzenet is egyben. Ő az egyik legismertebb új miniszter, teljesen egyedülálló a magyar politikában: egyszerre volt ellenzéki és Fidesz által támogatott jelölt is. Magyari Péter szerint Vitézi „állhatatosan egy ügy mellett" áll ki – a közlekedés – és mindent ennek alárendelve szervez.
+Vitézy Dávid kinevezése szimbolikus és szakmai üzenet is egyben. Ő az egyik legismertebb új miniszter, teljesen egyedülálló a magyar politikában: egyszerre volt ellenzéki és Fidesz által támogatott jelölt is. Magyari Péter szerint Vitézy „állhatatosan egy ügy mellett" áll ki – a közlekedés – és mindent ennek alárendelve szervez.
 
 > „Az ő ezt nagyon jól felépítette, és itt most nem a kétkedés hangján beszélek, hanem csak mondom, hogy hogy ez látszik kifelé" – Magyari Péter [*](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1625)
 
-Péter azt is megjegyzi, hogy Vitézi kikerülésével a főpolgármesterség versengéséből Magyar Péter egy erős, független politikai szereplőt berántott a kormányba, és ezzel levette egy versengő pályáról. Ez fontos, mert nem nagyon sok ilyen figura van az ellenzékből.
+Péter azt is megjegyzi, hogy Vitézy kikerülésével a főpolgármesterség versengéséből Magyar Péter egy erős, független politikai szereplőt berántott a kormányba, és ezzel levette egy versengő pályáról. Ez fontos, mert nem nagyon sok ilyen figura van az ellenzékből.
 
-A 2024-es főpolgármester-választáson Magyar Péter azt mondta, hogy Vitézi a Fidesz „hekje" volt. Magyari Péter szerint azonban ezen már túl vagyunk: az elmúlt egy évben Vitézi Dávid Lázár Jánosra irányított kritikája felülírta az akkori néhány mondatot.
+A 2024-es főpolgármester-választáson Magyar Péter azt mondta, hogy Vitézy a Fidesz „hekje" volt. Magyari Péter szerint azonban ezen már túl vagyunk: az elmúlt egy évben Vitézy Dávid Lázár Jánosra irányított kritikája felülírta az akkori néhány mondatot.
 
 ## Karácsony Gergely és a fővárosi politika átrendeződése
 
-Vitézi Dávid kikerülésével a fővárosi politika dinamikája megváltozik. Karácsony Gergely eddig egy olyan rivális ellen kellett, hogy versengjen, akinek jó beágyazottsága volt a fővárosi cégek és bürokrácia felé. Vitézi volt Tarlós István alatt hatalmi pozícióban, és a rendszert sokkal jobban értette, mint bárki a Karácsony közvetlen környezetében.
+Vitézy Dávid kikerülésével a fővárosi politika dinamikája megváltozik. Karácsony Gergely eddig egy olyan rivális ellen kellett, hogy versengjen, akinek jó beágyazottsága volt a fővárosi cégek és bürokrácia felé. Vitézy volt Tarlós István alatt hatalmi pozícióban, és a rendszert sokkal jobban értette, mint bárki a Karácsony közvetlen környezetében.
 
-Magyari Péter szerint Vitézi egyfajta mentorként működött a Tisza fővárosi frakciója mellett, irányítva őket az intézményi működésben. Most ez a mentorszerep eltűnik, és Karácsony Gergely ideiglenesen egyedül marad a pályán Szent Király Alexandrával, az ellenzéki Fidesz-frakció vezetőjével.
+Magyari Péter szerint Vitézy egyfajta mentorként működött a Tisza fővárosi frakciója mellett, irányítva őket az intézményi működésben. Most ez a mentorszerep eltűnik, és Karácsony Gergely ideiglenesen egyedül marad a pályán Szent Király Alexandrával, az ellenzéki Fidesz-frakció vezetőjével.
 
 > „Tehát itt most úgy tűnik, hogy legalábbis ideiglenesen a karácsonyaik egyedül maradnak a pályán" – Magyari Péter [*](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1554)
 
@@ -350,7 +350,7 @@ Az eseményeket a Partizán közösségi média felületein hirdetik meg.
 
 [00:12:31](https://www.youtube.com/watch?v=7Y1BD3793-E&t=751) Pénteken egy nagy miniszterbejelentő rallyit tartott Magyar Péter.
 
-[00:12:37](https://www.youtube.com/watch?v=7Y1BD3793-E&t=757) Ugye egyrészt Vitézi Dávid lett a közlekedési és beruházási miniszter.
+[00:12:37](https://www.youtube.com/watch?v=7Y1BD3793-E&t=757) Ugye egyrészt Vitézy Dávid lett a közlekedési és beruházási miniszter.
 
 [00:12:42](https://www.youtube.com/watch?v=7Y1BD3793-E&t=762) Dr.
 
@@ -364,7 +364,7 @@ Az eseményeket a Partizán közösségi média felületein hirdetik meg.
 
 [00:13:26](https://www.youtube.com/watch?v=7Y1BD3793-E&t=806) A másik kettő pedig szakpolitikus, illetve részben szakpolitikus.
 
-[00:13:33](https://www.youtube.com/watch?v=7Y1BD3793-E&t=813) Ez igaz a oktatási miniszterre, részben pedig politikus hosszú kötő szakpolitikus, tehát nagyon egy területre koncentrált mindig is Vitézi Dávid a közlekedésre, de hát ő közben építette a saját politikai pályáját is, hiszen a legutóbbi önkormányzati választáson budapesti főpolgármester jelöltként mutatta meg magát.
+[00:13:33](https://www.youtube.com/watch?v=7Y1BD3793-E&t=813) Ez igaz a oktatási miniszterre, részben pedig politikus hosszú kötő szakpolitikus, tehát nagyon egy területre koncentrált mindig is Vitézy Dávid a közlekedésre, de hát ő közben építette a saját politikai pályáját is, hiszen a legutóbbi önkormányzati választáson budapesti főpolgármester jelöltként mutatta meg magát.
 
 [00:13:56](https://www.youtube.com/watch?v=7Y1BD3793-E&t=836) Na most az, hogy többségében vannak a leendő Tiszakormányban, ezt most már meg lehet állapítani az eddig elhangzott nevek sokasága alapján és a hiányzók kis száma alapján, hogy itt a többséget azt kívülről, úgymond a szakmai területről hozza be a Tisza.
 
@@ -384,7 +384,7 @@ Az eseményeket a Partizán közösségi média felületein hirdetik meg.
 
 [00:16:06](https://www.youtube.com/watch?v=7Y1BD3793-E&t=966) Vagy például Kármán Andrásnak a Facebookos magyarázatai egyébként egészen bonyolult dolgokról meglepően érthető és egyszerű stílusban.
 
-[00:16:17](https://www.youtube.com/watch?v=7Y1BD3793-E&t=977) Tehát a vitéziről pontosan tudjuk nagyon régóta, hogy mennyire szereti a médiát és mennyire képes folyamatosan ott is kampányolni és jelen lenni akkor is, amikor éppen nincs éles választási kampány.
+[00:16:17](https://www.youtube.com/watch?v=7Y1BD3793-E&t=977) Tehát a vitézyről pontosan tudjuk nagyon régóta, hogy mennyire szereti a médiát és mennyire képes folyamatosan ott is kampányolni és jelen lenni akkor is, amikor éppen nincs éles választási kampány.
 
 [00:16:31](https://www.youtube.com/watch?v=7Y1BD3793-E&t=991) Tehát ez szintén egy tök fontos szempont lehetett szinte majdnem olyan fontos szempont, mint a politikai beállítottság.
 
@@ -484,13 +484,13 @@ Az eseményeket a Partizán közösségi média felületein hirdetik meg.
 
 [00:24:33](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1473) Aki esetleg a Orbán Viktor és Tordygyá József találkozójára különböző okokból nem tud visszaemlékezni, az akár Karácsony Gergely Hód mezővásárhelyi látogatására is visszaemlékezhet az előválasztás idején, amikor ott a egy a dinamikában egy elég egyértelmű fordulópontot jelentett, amikor a visszalépésről tárgyalni Karácsony Gergely ment Márkizaj Péterhez és és nem fordítva.
 
-[00:24:54](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1494) És még Karácsony Gergelyhez el fogunk jutni, mégpedig Vitézi Dávidon keresztül.
+[00:24:54](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1494) És még Karácsony Gergelyhez el fogunk jutni, mégpedig Vitézy Dávidon keresztül.
 
 [00:24:59](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1499) róla szerintem beszéljünk egy kicsit részletesebben, mert van egy érdekes kettősség, hogy egyfelől ő tényleg az a szakértő politikus, mint a példánya Magyarországon.
 
 [00:25:07](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1507) Lehet, hogy legtöbben őt mondanák, hogyha az a kérdés, hogy ki olyan politikus, amihez, aki valamihez nagyon ért.
 
-[00:25:14](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1514) Vitézi Dávid a közlekedéshez.
+[00:25:14](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1514) Vitézy Dávid a közlekedéshez.
 
 [00:25:16](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1516) Ez ezt ezt megcsinálta, hogy ez összeforrott a nevével, de közben talán neki van leginkább politikai előélete a összeülő friss kormányban, hiszen ahogy te is utaltál rá már egy főpolgármesterjelölti kampány van a háta mögött.
 
@@ -502,7 +502,7 @@ Az eseményeket a Partizán közösségi média felületein hirdetik meg.
 
 [00:25:54](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1554) Tehát ez most úgy tűnik, mintha megkerülném a választ, de szerintem mind a kettő igaz, és egymásból következően igaz.
 
-[00:26:00](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1560) Egyrészt a Vitézi egy nagyon jól ismert szereplő, szerintem az új miniszterek közül talán a legismertebb Ruf Ballon kívül, vagy mellett, inkább így mondanám.
+[00:26:00](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1560) Egyrészt a Vitézy egy nagyon jól ismert szereplő, szerintem az új miniszterek közül talán a legismertebb Ruf Ballon kívül, vagy mellett, inkább így mondanám.
 
 [00:26:18](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1578) És és tök népszerű is, még úgy is népszerű, hogy ő egyszerre volt az utóbbi időben ellenzék is, meg a Fidesz által támogatott jelölt is.
 
@@ -518,7 +518,7 @@ Az eseményeket a Partizán közösségi média felületein hirdetik meg.
 
 [00:27:34](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1654) Másrészt még azt is mutatja, hogy igen, nekünk kellenek a szakemberek, számítunk rájuk.
 
-[00:27:40](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1660) És ilyen értelemben szerintem ez egy jó húzás volt, már csak azért is, mert azzal, hogy kikerült a főpolgármesterség vonzáskörzetéből Vitézi Dávid és bekerült a kormányba.
+[00:27:40](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1660) És ilyen értelemben szerintem ez egy jó húzás volt, már csak azért is, mert azzal, hogy kikerült a főpolgármesterség vonzáskörzetéből Vitézy Dávid és bekerült a kormányba.
 
 [00:28:01](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1681) Ezzel azon nagyon kevés eddig Tiszától független politikai szereplő közé tartozó, de erős legitimációjú és népszerű embert egyikét hirtelen berántotta magához és levette egy versengő pályáról.
 
@@ -530,15 +530,15 @@ Az eseményeket a Partizán közösségi média felületein hirdetik meg.
 
 [00:28:49](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1729) Tehát ez a ebből a közegből még van egy-két szereplő, aki még valamit csinálhat a magyar belpolitikában, de hát ezeknek a szép, lassú, egyenkénti levadászása az meghosszabbítja a Tisza dominanciáját a magyar politikai térben.
 
-[00:29:07](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1747) még a fővárosról beszéljünk, de előtte kifejezetten erre a fideszes és ellenzéki múlt egyszerre kérdésre irányítanám a figyelmet, hogy felidézték itt az elmúlt napokban azt a mostanra talán elhíresült magyar Péter nyilatkozatot, hogy Vitézi Dávid a Fidesz hekje mondta 2024-ben, amiről Vitézi Dávidot is kérdezték a Telex stúdiójában.
+[00:29:07](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1747) még a fővárosról beszéljünk, de előtte kifejezetten erre a fideszes és ellenzéki múlt egyszerre kérdésre irányítanám a figyelmet, hogy felidézték itt az elmúlt napokban azt a mostanra talán elhíresült magyar Péter nyilatkozatot, hogy Vitézy Dávid a Fidesz hekje mondta 2024-ben, amiről Vitézy Dávidot is kérdezték a Telex stúdiójában.
 
 [00:29:29](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1769) Ez nyilvánvalóan egy egy létező dolog, de mennyi ideig szerinte?
 
 [00:29:31](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1771) Tehát ez itt ráéghet-e valamilyen módon ez a probléma erre a viszonyra?
 
-[00:29:35](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1775) Ez ez még okoz-e valamit a Tisza és Vitézi Dávid kapcsolatában, hogy a 24-es főpolgármester választáson Magyar Péter azért alapvetően kritikus volt vitézi Dávid megjelenésével kapcsolatban?
+[00:29:35](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1775) Ez ez még okoz-e valamit a Tisza és Vitézy Dávid kapcsolatában, hogy a 24-es főpolgármester választáson Magyar Péter azért alapvetően kritikus volt vitézy Dávid megjelenésével kapcsolatban?
 
-[00:29:49](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1789) Szerintem ezen a miniszteri felkéréssel túl vagyunk, és az az ösztűz, amit az elmúlt egy évben Vitézi Dávid Lázár Jánosra irányított, az felülírta ezt az akkori néhány mondatot.
+[00:29:49](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1789) Szerintem ezen a miniszteri felkéréssel túl vagyunk, és az az ösztűz, amit az elmúlt egy évben Vitézy Dávid Lázár Jánosra irányított, az felülírta ezt az akkori néhány mondatot.
 
 [00:30:07](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1807) Szerintem ilyen értelemben ez nem lesz probléma.
 
@@ -554,15 +554,15 @@ Az eseményeket a Partizán közösségi média felületein hirdetik meg.
 
 [00:31:17](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1877) Szóval én még azt is el tudom kezdeni, hogy neki lehet egy ilyen szerepe hosszú távon.
 
-[00:31:25](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1885) És a vitézi karácsonyviszonynak mi lehet a szerepe egyébként itt Karácsony Gergely mellől ugye kikerült egy ilyen rivális, akivel egyébként tényleg példásan tudtak együttműködni bizonyos ügyekben, de hát alapvetően az ő kettejük versengésre határozta meg igazából a Baranyi Krisztina szavával a Neverending főpolgármester választás a a budapesti politikát az elmúlt két évben, amiből most kikerült, de egyben valamilyen értelemben Karácsony Gergely fölé is került.
+[00:31:25](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1885) És a vitézy karácsonyviszonynak mi lehet a szerepe egyébként itt Karácsony Gergely mellől ugye kikerült egy ilyen rivális, akivel egyébként tényleg példásan tudtak együttműködni bizonyos ügyekben, de hát alapvetően az ő kettejük versengésre határozta meg igazából a Baranyi Krisztina szavával a Neverending főpolgármester választás a a budapesti politikát az elmúlt két évben, amiből most kikerült, de egyben valamilyen értelemben Karácsony Gergely fölé is került.
 
 [00:31:52](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1912) Ugye hiszen a kormányban van, nem pedig a közgyűlési frakcióját vezeti.
 
-[00:31:59](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1919) Ezt a dinamikát a kormányzat és a főváros, illetve Karácsony Gergely, Magyar Péter és Vitézi Dávid között, hogy látod?
+[00:31:59](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1919) Ezt a dinamikát a kormányzat és a főváros, illetve Karácsony Gergely, Magyar Péter és Vitézy Dávid között, hogy látod?
 
 [00:32:09](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1929) Szerintem a karácsony most fellélegezhet, és az is lehet, hogy jön eggyel a Magyar Péternek, amit majd behajt rajta valahogy.
 
-[00:32:17](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1937) Ezt most persze csak fantáziálok, de de valóban nem csak azért volt a vitéz egyébként veszélyes a karácsonyra, mert alig néhány darab szavazaton múlott, hogy melyikük lesz a főpolgármester a főpolgármester, hanem azért is, mert a vitézinek elég jó beáryazottsága volt a fővárosi cégek és az ottani bürok bürokrácia felé.
+[00:32:17](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1937) Ezt most persze csak fantáziálok, de de valóban nem csak azért volt a vitéz egyébként veszélyes a karácsonyra, mert alig néhány darab szavazaton múlott, hogy melyikük lesz a főpolgármester a főpolgármester, hanem azért is, mert a vitézynek elég jó beáryazottsága volt a fővárosi cégek és az ottani bürok bürokrácia felé.
 
 [00:32:47](https://www.youtube.com/watch?v=7Y1BD3793-E&t=1967) Ő ugye volt a fővárosban hatalmi pozícióban Tarlós István alatt néhány évig.
 
@@ -578,7 +578,7 @@ Az eseményeket a Partizán közösségi média felületein hirdetik meg.
 
 [00:33:34](https://www.youtube.com/watch?v=7Y1BD3793-E&t=2014) Nem az volt a szempont akkor még, amikor néhány napon belül kellett leadni a szó szerint a jelölt listát egy nem szinte még nem létező pártnak, hogy itt olyan emberek legyenek, akik a fővárosi intézményrendszerben csukott szemmel is eligazodnak.
 
-[00:33:52](https://www.youtube.com/watch?v=7Y1BD3793-E&t=2032) Szóval akkor, amikor megalakult az új közgyűlés, akkor igazából a Vitézi egyfajta mentorként ott volt a Tisza frakció mellett, és irányítgatta őket.
+[00:33:52](https://www.youtube.com/watch?v=7Y1BD3793-E&t=2032) Szóval akkor, amikor megalakult az új közgyűlés, akkor igazából a Vitézy egyfajta mentorként ott volt a Tisza frakció mellett, és irányítgatta őket.
 
 [00:34:04](https://www.youtube.com/watch?v=7Y1BD3793-E&t=2044) Most egy ilyen mentorszerep eltűnik.
 

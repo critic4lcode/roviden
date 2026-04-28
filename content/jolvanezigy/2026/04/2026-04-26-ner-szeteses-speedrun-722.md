@@ -275,7 +275,7 @@ A beszélgetés végén megemlítik a május 10-i Fidesz-melletti tüntetést, a
 
 [00:02:27](https://www.youtube.com/watch?v=wr0NCChDVPU&t=147) Igen, igen.
 
-[00:02:27](https://www.youtube.com/watch?v=wr0NCChDVPU&t=147) Vitézi, mit csinált már megint?
+[00:02:27](https://www.youtube.com/watch?v=wr0NCChDVPU&t=147) Vitézy, mit csinált már megint?
 
 [00:02:27](https://www.youtube.com/watch?v=wr0NCChDVPU&t=147) Itté már megint villamosokkal álmodott meg meg ébredett és úgy tűnik most fonódó pesti bajcsi fonódó az egy nagy jelszó volt régen.
 

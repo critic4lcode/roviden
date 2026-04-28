@@ -165,7 +165,7 @@ Han Endre azt mondja, hogy kezdetben fontolgatta a visszavonulást, de az elmúl
 - „Köztér" – műsor neve, de az átiratban zavaros a kontextus
 - „Ruff Bálint" – az átiratban nem szerepel, de a kormányzati szereplők között említhető lenne
 - Több helyen az ASR félreismert toldalékokat és szóhatárokat (pl. „megnyerte" helyett „megnyert", „közleményre" helyett „közleményre")
-- „Vitézi Dávid" – valószínűleg egy közéleti szereplő, de az átiratban nem egyértelmű, hogy ki
+- „Vitézy Dávid" – valószínűleg egy közéleti szereplő, de az átiratban nem egyértelmű, hogy ki
 
 </details>
 
@@ -1004,7 +1004,7 @@ Han Endre azt mondja, hogy kezdetben fontolgatta a visszavonulást, de az elmúl
 
 [00:54:01](https://www.youtube.com/watch?v=ly6qDSVE9tg&t=3241) Nyilván egyébként Budapesten volt a legmagasabb, de például ez is egy érdekes dolog.
 
-[00:54:05](https://www.youtube.com/watch?v=ly6qDSVE9tg&t=3245) Ezt a vitézi Dávid osztotta meg, hogy Debrecenben alig szerepelt rosszabbul a Tisza, mint Budapesten.
+[00:54:05](https://www.youtube.com/watch?v=ly6qDSVE9tg&t=3245) Ezt a vitézy Dávid osztotta meg, hogy Debrecenben alig szerepelt rosszabbul a Tisza, mint Budapesten.
 
 [00:54:10](https://www.youtube.com/watch?v=ly6qDSVE9tg&t=3250) Ühüm.
 

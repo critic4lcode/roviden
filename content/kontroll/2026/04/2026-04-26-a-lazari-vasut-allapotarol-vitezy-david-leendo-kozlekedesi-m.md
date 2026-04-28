@@ -170,7 +170,7 @@ A dolgozók fizikai körülményei (WC-felújítások, végállomási helységek
 
 [00:00:00](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=0) Üdvözlöm a kontroll nézőit.
 
-[00:00:00](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=0) Élőben jelentkezünk Komlóról, méghozzá azért, mert Vitézi Dávid a leendő közlekedési miniszter ide látogatott a mai nap.
+[00:00:00](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=0) Élőben jelentkezünk Komlóról, méghozzá azért, mert Vitézy Dávid a leendő közlekedési miniszter ide látogatott a mai nap.
 
 [00:00:07](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=7) És hát nem véletlen a helyszínválasztás sem.
 
@@ -180,7 +180,7 @@ A dolgozók fizikai körülményei (WC-felújítások, végállomási helységek
 
 [00:00:20](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=20) Tehát Lázár János minisztériuma ezt a vonalat is bezáratta és leállította itt a vasúti közlekedést, és hát azóta is gyakorlatilag csak a nosztalgiai járatoknak, most lehet így fogalmazni, talán ezeknek köszönhetően tudnak csak közlekedni a Dombóvár és a Komló közötti lakosok.
 
-[00:00:39](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=39) Ö a mai napon egyébként kifejezeten érdekvédők, vasúti érdekvédők, civilek szervezték meg ezt a különjáratot, és ehhez csatlakozott Vitézi Dávid, és tett itt tette itt meg az első úgymond látogatását, mióta bejelentették, hogy ő lesz a miniszter.
+[00:00:39](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=39) Ö a mai napon egyébként kifejezeten érdekvédők, vasúti érdekvédők, civilek szervezték meg ezt a különjáratot, és ehhez csatlakozott Vitézy Dávid, és tett itt tette itt meg az első úgymond látogatását, mióta bejelentették, hogy ő lesz a miniszter.
 
 [00:00:54](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=54) Több százan jöttek ki, tehát hogy a helyiek is mutatják azt, hogy nagyon fontos számukra az, hogy itt újrainduljon a jövőben a vasúti közlekedés.
 
@@ -190,7 +190,7 @@ A dolgozók fizikai körülményei (WC-felújítások, végállomási helységek
 
 [00:01:19](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=79) De akkor meg is szólítom az első riport alanyunkat, illjú alanyunkat, és Kovács Áront köszöntöm itt a a kameránk előtt, aki ugye a Tiszapár színében itt Baranya kettes választókörzetet nyerte meg, és lesz az új képviselője a pártnak.
 
-[00:01:33](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=93) Üdvözlöm és akkor onnan kezdeném is, hogy miről beszélgetett most Vitézi Dáviddal, miről egyeztetek most itt a vonatút alatt, hiszen ott találkoztak a vonaton.
+[00:01:33](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=93) Üdvözlöm és akkor onnan kezdeném is, hogy miről beszélgetett most Vitézy Dáviddal, miről egyeztetek most itt a vonatút alatt, hiszen ott találkoztak a vonaton.
 
 [00:01:42](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=102) Tehát mi egy nosztalgia vonaton utaztunk együtt.
 
@@ -242,7 +242,7 @@ A dolgozók fizikai körülményei (WC-felújítások, végállomási helységek
 
 [00:05:24](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=324) Igen, köszönöm szépen.
 
-[00:05:24](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=324) És akkor hamarosan érkezünk Vitézi Dávid mellé is.
+[00:05:24](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=324) És akkor hamarosan érkezünk Vitézy Dávid mellé is.
 
 [00:05:29](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=329) Itt most nagyjából úgy kell elképzelni itt a környéket, és kérem a kollégát is, hogy mutassuk meg egy kicsit, hogy nagyjából hogy néz ki ez a komlói vasútállomás.
 
@@ -992,13 +992,13 @@ A dolgozók fizikai körülményei (WC-felújítások, végállomási helységek
 
 [00:45:31](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=2731) Én csak ide bejövök a bejövök ide a sorra, kérem a Igen.
 
-[00:45:33](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=2733) Röviden összegzem, hogy Ja, hát egy kicsit zaklatott interjút készítettünk most az imént Vitézi Dáviddal.
+[00:45:33](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=2733) Röviden összegzem, hogy Ja, hát egy kicsit zaklatott interjút készítettünk most az imént Vitézy Dáviddal.
 
 [00:45:40](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=2740) Ez részben itt a vasútvonal menti hálózatleperetségnek köszönhető, de természetesen kártyára felvettük az egészet.
 
 [00:45:46](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=2746) Szóval aki lemaradt róla, vagy a bizonyos részletekkel, akkor ezeket fel fogjuk tölteni és természetesen az interjút teljes egészében megtekinthetik a némi technikai anomáliákat kivágva és kiszűrve.
 
-[00:45:58](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=2758) Vitézi Dáviddal beszélgettünk még természetesen nem csak a márváltalános helyzetérős arról a kiindulási állapotról, amivel hát meg kell küzdeni, ami mi örökségként az Orbán kormányi, illetve Lázár János minsége után itt maradt, és hogy honnan mi a kiindulási alap, hanem arra is, hogy nagyjából milyen jövőbeli fejlesztési irányok lehetnek, milyen jellegű szolgáltatási színvonal emelés van tervben, és hogy ebből mi az, ami megvalósítható.
+[00:45:58](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=2758) Vitézy Dáviddal beszélgettünk még természetesen nem csak a márváltalános helyzetérős arról a kiindulási állapotról, amivel hát meg kell küzdeni, ami mi örökségként az Orbán kormányi, illetve Lázár János minsége után itt maradt, és hogy honnan mi a kiindulási alap, hanem arra is, hogy nagyjából milyen jövőbeli fejlesztési irányok lehetnek, milyen jellegű szolgáltatási színvonal emelés van tervben, és hogy ebből mi az, ami megvalósítható.
 
 [00:46:21](https://www.youtube.com/watch?v=k6kYpc-tyqQ&t=2781) És hát kitértünk az állomásfejlesztésekre is.
 
