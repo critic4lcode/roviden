@@ -543,25 +543,35 @@ __POSTHOG_SNIPPET__
       <li>Csak <strong>30 percnél hosszabb</strong> videókról készítünk összefoglalót.</li>
       <li>Az összefoglalók <strong>nem helyettesítik</strong> az eredeti tartalmat – a kontextus, az árnyalatok és az alkotói munka csak a videó megtekintésével élhető át igazán.</li>
       <li>Kérünk, <strong>támogasd az érintett médiumokat és csatornákat</strong>: nézd meg az eredeti videót, iratkozz fel, oszd meg, vagy támogasd őket anyagilag, ha van rá módod. Az ő munkájuk nélkül ez az oldal sem létezne.</li>
+      <li>A csatornák kategorizálása, politikai hovatartozása, irányultsága csak egy kiinduló állapot, alakíthatóak, ezzel kapcsolatban kritikákat, módosítási javaslatokat GitHub-on várjuk!</li>
     </ul>
-    <h3>Egy őszinte aggály</h3>
-    <p>Be kell vallanunk, hogy ezzel a projekttel kapcsolatban vannak fenntartásaink. Egyértelmű volt az igény a közönség részéről a többórás videók rövid összefoglalóira, viszont fennáll a veszélye annak, hogy a látogatók csak az AI-összefoglalókat olvassák el, és nem nézik meg magát a videót. Ez hosszú távon <strong>csökkentheti a csatornák nézettségét</strong>, ami egyrészt megnehezíti a médiumok számára, hogy felmérjék a közönségük valós igényeit, másrészt <strong>bevételkiesést</strong> is okozhat számukra.</p>
-    <p>Amennyiben Ön egy érintett médium képviselője, és ezt a problémát valósnak találja – vagy bármilyen észrevétele, kérése van az oldallal kapcsolatban – kérjük, vegye fel velünk a kapcsolatot az <a href="mailto:info@jegyezve.com">info@jegyezve.com</a> címen.</p>
-    <p class="modal-outro">Köszönjük a megértést, és jó olvasást / videózást kívánunk!</p>
-    <details class="cookie-policy">
-      <summary>Süti (cookie) tájékoztató</summary>
-      <div class="cookie-policy-body">
-        <p>Ez az oldal a <strong>PostHog</strong> elemző szolgáltatást használja látogatottsági adatok gyűjtésére. A következő adatokat rögzíthetjük:</p>
-        <ul>
-          <li>Megtekintett oldalak és videók</li>
-          <li>Kattintások és szűrőhasználat</li>
-          <li>Böngésző típusa, képernyőfelbontás, hozzávetőleges földrajzi helyzet (ország szintű)</li>
-          <li>Munkamenet-azonosító (véletlenszerűen generált, nem kapcsolható személyhez)</li>
-        </ul>
-        <p>Az adatokat <strong>nem adjuk át harmadik félnek</strong>, kizárólag az oldal fejlesztéséhez és a tartalom minőségének javításához használjuk. A PostHog adatait az EU-ban tároljuk (<code>eu.i.posthog.com</code>).</p>
-        <p>A „Megértettem és elfogadom" gombra kattintva hozzájárulsz a fenti sütik használatához. A „Csak megnézem" gombbal süti nélkül is teljes mértékben használhatod az oldalt – ebben az esetben nem gyűjtünk semmilyen adatot.</p>
-      </div>
-    </details>
+    <section class="collapsible cookie-policy">
+      <details>
+        <summary>Videós tartalomkészítőknek</summary>
+        <div class="collapsible-inner">
+          <p>Be kell vallanunk, hogy ezzel a projekttel kapcsolatban vannak fenntartásaink. Egyértelmű volt az igény a közönség részéről a többórás videók rövid összefoglalóira, viszont fennáll a veszélye annak, hogy a látogatók csak az AI-összefoglalókat olvassák el, és nem nézik meg magát a videót. Ez hosszú távon <strong>csökkentheti a csatornák nézettségét</strong>, ami egyrészt megnehezíti a médiumok számára, hogy felmérjék a közönségük valós igényeit, másrészt <strong>bevételkiesést</strong> is okozhat számukra.</p>
+          <p>Minden olyan csatornánál ahol fellelhető volt a csatornatámoatás valamilyen formája (közvetelen támogatás, patreon, SZJA1%, merch), ott az összefoglalók alatt ezeknek elérhetőségét megjelenítettük minden összefoglaló alatt.</p>
+          <p>Amennyiben Ön egy érintett médium képviselője, bármilyen észrevétele, kérése van az oldallal kapcsolatban – kérjük, vegye fel velünk a kapcsolatot az <a href="mailto:info@jegyezve.com">info@jegyezve.com</a> címen.</p>
+          <p class="modal-outro">Köszönjük a megértést, és jó olvasást / videózást kívánunk!</p>
+        </div>
+      </details>
+    </section>
+    <section class="collapsible cookie-policy">
+      <details>
+        <summary>Süti (cookie) tájékoztató</summary>
+        <div class="collapsible-inner">
+          <p>Ez az oldal a <strong>PostHog</strong> elemző szolgáltatást használja látogatottsági adatok gyűjtésére. A következő adatokat rögzíthetjük:</p>
+          <ul>
+            <li>Megtekintett oldalak és videók</li>
+            <li>Kattintások és szűrőhasználat</li>
+            <li>Böngésző típusa, képernyőfelbontás, hozzávetőleges földrajzi helyzet (ország szintű)</li>
+            <li>Munkamenet-azonosító (véletlenszerűen generált, nem kapcsolható személyhez)</li>
+          </ul>
+          <p>Az adatokat <strong>nem adjuk át harmadik félnek</strong>, kizárólag az oldal fejlesztéséhez és a tartalom minőségének javításához használjuk. A PostHog adatait az EU-ban tároljuk (<code>eu.i.posthog.com</code>).</p>
+        </div>
+      </details>
+    </section>
+    <p>A „Megértettem és elfogadom" gombra kattintva hozzájárulsz a fenti sütik használatához. A „Csak megnézem" gombbal süti nélkül is teljes mértékben használhatod az oldalt – ebben az esetben nem gyűjtünk semmilyen adatot.</p>
     <div class="modal-actions">
       <button class="modal-decline" type="button" onclick="ytmDeclineWelcome()">Csak megnézem, köszönöm</button>
       <button class="modal-btn" type="button" onclick="ytmCloseWelcome()">Megértettem és elfogadom</button>
