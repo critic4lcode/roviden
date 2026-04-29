@@ -1,7 +1,63 @@
 ---
 date: '2026-04-27'
 title: 'A pénz nem elég: mi a baj valójában a magyar futball utánpótlásával? | 24.hu'
-description: ''
+description: 'Kecskeméti Péter 14 évesen profi szerződést  ír alá a Honvéd akadémiáján,
+  korosztályos válogatott volt, majd a Ferencvárosnál edzett Rebrov irányítása alatt.
+  24 évesen aztán mégis befejezte a futballt. Karrierjét szerződéses fogság, két térdszalag-szakadás
+  és a Covid törte ketté, de az ő sorsa csak a kiindulópont: a Ziccer legújabb adásában
+  arról is szó esik, miért nem hoztak áttörést a milliárdos akadémiai beruházások,
+  mit tanulhat a magyar futball Kovács Bendegúz és az Alkmaar kapcsolatából, és hogy
+  van-e egyáltalán olyan szakmai elit Magyarországon, akinek a szurkolók, a szponzorok
+  és a döntéshozók egyszerre hisznek.
+
+
+  00:00:00 Bevezető, adáskezdés
+
+  00:01:35 Kecskeméti Péter és a Futball Mágia
+
+  00:02:34 Egy karrier vége: szerződéses fogság, sérülések, Covid
+
+  00:20:04 Rosenior bukása
+
+  00:36:07 Kovács Bendegúz: a következő nagy magyar csatár?
+
+  00:47:04 Mi van a pénzen túl? Az utánpótlás igazi problémái
+
+  01:00:25 Van-e szellemi elitje a magyar futballnak?
+
+
+  Hírek, cikkek:
+
+  https://24.hu
+
+
+  24 Extra:
+
+  https://24.hu/elofizetes
+
+
+  Hírlevelek:
+
+  https://24.hu/hirlevel-feliratkozas
+
+
+  E-mail:
+
+  video@24.hu
+
+  info@24.hu
+
+
+  Közösség:
+
+  https://www.facebook.com/24ponthu
+
+  https://www.instagram.com/24ponthu
+
+  https://www.tiktok.com/@24ponthu
+
+
+  #24ponthu #ziccer #kecskemétipéter #futballmágia #utánpótlás #kovácsbendegúz'
 video_id: AA6NMxOFSFg
 video_url: https://www.youtube.com/watch?v=AA6NMxOFSFg
 channel_slug: 24-hu
@@ -14,8 +70,8 @@ duration_sec: 4218
 tags:
 - futball
 - utánpótlás
+- magyar foci
 - oknyomozás
-- podcast
 transcript_source: youtube_subtitle
 summary_model: anthropic/claude-haiku-4.5
 ---
@@ -24,106 +80,104 @@ summary_model: anthropic/claude-haiku-4.5
 
 # tl;dr
 
-A 24.hu futball podcastjában Kánok Attila, Kele János és Kecskeméti Péter (a Futball Mágia Facebook-oldal alapítója) beszélgetnek a magyar futball utánpótlásrendszerének mélyebb problémáiról. Kecskeméti saját játékoskarrierjét használva példaként mutatja be, hogyan működik a magyar akadémiai rendszer: profi szerződéseket kötnek 14 évesekkel, majd hosszabbítási kényszerrel tartják őket lekötve. Karrierje során sérülések és rendszerbeli problémák miatt 24 évesen már nem futballozott profi szinten.
-
-A beszélgetés központi témája, hogy a magyar futball problémája nem elsősorban pénzhiány, hanem szellemi elit és szakmai hitelességi válsága. Az elmúlt 16 évben hatalmas közpénzeket költöttek az utánpótlásra, de az eredmények nem javultak arányosan, amit a szerzők a vezetői és szakmai réteg hiányával magyaráznak.
-
-Kecskeméti azt állítja, hogy a meritokrácia hiánya jellemzi a magyar futballrendszert: az edzőképzéseken például a felvételi arány 35-95 között van, és sok szakember nem kap lehetőséget, függetlenül a kompetenciájától. A holland Ajax-modell és a nyugat-európai klubkultúra kontrasztban áll a magyar gyakorlattal, ahol az átláthatóság és a hosszú távú játékos-fejlesztési tervek hiányoznak.
-
-Pozitív példaként említik Boldog Tamást a Nyíregyházánál és Kovács Bendegúz fejlődését az Ajax-nál, ahol világos fejlesztési terv és transzparencia jellemzi a munkát. A beszélgetés végén felvetődik: ha nincs szellemi elit és szakmai hitelesség a magyar futballban, akkor hogyan lehet értelme közpénzeket ebbe fektetni?
+A beszélgetésben Kecskeméti Péter, a Futball Mágia Facebook-oldal alapítója beszél a magyar futball utánpótlásrendszerének valódi problémáiról. Péter saját karrierjét példaként használja: 14 évesen profi szerződést írt alá a Honvédnál, de szerződésből nem tudott kilépni, majd két térdszalag-szakadás és a Covid miatt 24 évesen abbahagyta a futballt. A beszélgetés során kiderül, hogy a milliárdos akadémiai beruházások ellenére nem javult jelentősen a magyar futball utánpótlása, mert a pénz nem elegendő – szükség van szakmai eliterre, világos stratégiára és meritokratikus rendszerre. Kovács Bendegúz példája mutatja, hogyan működhet jól egy nyugat-európai klub (AZ Alkmaar) a tehetségfejlesztésben: világos játékos-ív, transzparencia, és a család támogatása. A magyar futball legnagyobb hiányossága azonban nem az infrastruktúra vagy a pénz, hanem a szellemi elit hiánya – olyan szakemberek, akikben a szurkolók, szponzorok és döntéshozók egyszerre hisznek, valamint a meritokratikus alapokon működő humán erőforrás-rendszer hiánya.
 
 ---
 
 #  Részletes összefoglaló
 
-## Kecskeméti Péter játékoskarrierjének története
+## Kecskeméti Péter karrierjének végzete: szerződésből nem tudott kilépni
 
-Kecskeméti Péter a Honvéd akadémiájában kezdte pályafutását, ahol 14 évesen már profi szerződést kötöttek vele – ezt a gyakorlatot a FIFA szabályok megkerülésével valósítják meg: szülőkkel írnak alá szerződéseket 16 éves korig, majd újabbakat. Az első évben jól teljesített, de amikor nem akart hosszabbítani, a klub nyomást gyakorolt rá: egy évig nem léphette pályára egyik korosztályban sem, sőt az U17-es csapatból száműzték azzal az indokkal, hogy „ne fertőzze meg a kortársait".
+Kecskeméti Péter 13 évesen kerül fel Budapestre egy klubcsapathoz, ahol alapember és válogatott játékos. 14 évesen profi szerződést kap a Honvéd akadémiájától, amit szüleivel hosszú gondolkodás után írnak alá, mivel voltak negatív visszhangok a szerződések feltételeiről. Az akkori Honvéd-tulajdonos stratégiája az volt, hogy minden jól teljesítő fiatal játékosnak automatikusan meghosszabbította a szerződését egy-egy évvel.
 
-> „Amikor jeleztük neki, hogy nem kívánunk hosszabbítani, akkor azzal azonnal hatállyal kijelentette, hogy amíg nem írom alá a szerződést, addig én pályára nem léphetek egyik korosztályban sem." [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=325)
+> „Amikor jeleztük neki, hogy nem kívánunk hosszabbítani, akkor azzal azonnal hatállyal kijelentette, hogy amíg nem írom alá a szerződést, addig én pályára nem léphetek egyik korosztályban sem." – Kecskeméti Péter [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=325)
 
-Ezt követően a Ferencvároshoz szerződött, ahol fizikálisan lemaradva kezdett (65-70%-os állapotban), de fejlődött. 16 évesen azonban elszakadt a keresztszalagja, és bár egy évet várt a gyógyulásra (a protokoll szerint 18 év alatt egy év szükséges az újrasérülés elkerüléséhez), a COVID-járvány miatt nem tudott visszatérni. Végül nem hosszabbították meg szerződését, hazatért Nyíregyházára, ahol újabb keresztszalag-sérülés miatt végleg abbahagyta a profi futballt.
+Ez a szerződésből való kilépési kísérlet azzal járt, hogy Péter száműzetésre ítéltetett az U17-es csapatból, azzal az indokkal, hogy „ne fertőzze meg a kortársait". Az MB3-as csapatba delegálták, ahol azonban az akkori vezetőedző, Pisont István jól bánt vele. A csapatban 15 játékosból 12-en azt mondták Péternek, hogy bármit csináljon, csak ne írja alá a szerződést.
 
-Kecskeméti hangsúlyozza, hogy a sérüléseken túl rendszerbeli problémák is hozzájárultak: nem volt sportbiztosítása (csak 80 ezer forint alapbiztosítást kapott, míg egy megfelelő sportbiztosítás másfél millió forint értékű), és a hosszú kihagyások fizikálisan is megviselte őt.
+## Sérülések és a Covid: a pályafutás megtörése
 
-## Az akadémiai rendszer problémái
+Péter fizikálisan hátrányban volt a szerződésből való kilépés miatt egy év játék nélkül. A Ferencvároshoz szerződik, ahol Szerhély Rebrov irányítása alatt edzhet az első csapattal. 16 évesen azonban elszakad a térdszalagja egy U19-es bajnoki mérkőzésen. A Ferencváros protokollja szerint 18 év alatt ACL-sérülés után egy éven belül nem térhet vissza bajnoki mérkőzésre – ezt Péter betartja, így 15 hónapot tölt lelátón.
 
-A beszélgetés során Kecskeméti és a műsorvezetők a magyar akadémiai rendszer strukturális hibáira mutatnak rá. Az egyik fő probléma az, hogy a kiemelt akadémiák nem biztosítanak napi 4-5 órás labdarúgó-foglalkozást, mint ahogy az Kecskeméti idejében a Honvédnál volt. Sok „kiemelt" akadémiában a gyerekek továbbra is külön iskolába járnak, utaznak, és csak délután van edzésük – ez nem felel meg a nemzetközi standardoknak.
+> „Amikor visszatértem volna március közepén a pályára, akkor lefújták a bajnokságot, mert bejött a covid." – Kecskeméti Péter [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=631)
 
-> „Az elmúlt 16 évben, ha már rádobtunk 8-10-12 olyan egyesületre jelzőket, hogy kiemelt akadémia, akkor azoknál legalább ezt fent kellett volna tudni, vagy ki kellett volna tudni alakítani, hogy ez a 80-100 gyerek megkapja ezt a napi négy-öt órát." [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=3506)
+A szerződése lejár, nem hosszabbítják meg, és Péter hazamegy Nyíregyházára. Fél évet tölt az első csapatnál, majd kikerül a keretből. Az utolsó próbálkozásakor, egy MB3-as mérkőzésen ismét elszakad a keresztszalagja. Harmadszor már nem szeretné, hogy elszakadjon, így 24 évesen befejezte a futballt.
 
-A finanszírozási egyenlőtlenség is kritikus: a kiemelt akadémiák (másfél-két milliárd forint) nem feltétlenül termelnek jobb játékosokat, mint az olyan klubok, mint a Főnix Gold, ahol saját alapítású akadémián nevelkednek a gyerekek, és már négy válogatott játékosuk van.
+## A szerződésből való kilépés és a sportbiztosítás hiánya
 
-## Szellemi elit és szakmai hitelességi válság
+Péter kiemeli, hogy 14-18 éves korban minden tehetséges játékosnak ajánlana sportbiztosítást. Ő csak 80 000 forintot kapott az alapbiztosításból, miközben egy megfelelő sportbiztosítás másfél millió forint körüli tétel. Ez nagy különbség a műtéti költségek és a rehabilitáció során.
 
-Az adás központi kérdése: van-e a magyar futballnak szellemi elitje, olyan szakmai hitelességgel rendelkező rétege, amelynek hisznek a szurkolók, szponzorok és az állami szféra?
+> „80000 Ft-ot kaptam az MLS, az az alapbiztosítás. Most úgy tudom, ha van egy alap sportbiztosítás egy fiatalnak, másfél milliós tétel." – Kecskeméti Péter [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=568)
 
-> „Szerintetek van-e a magyar futballnak ma szellemi elitje, olyan szakmai hitelességgel, társadalmi elfogadottsággal rendelkező rétege, amelynek hisznek a szurkolók, a szponzorok, az állami szférában a szabályozók?" [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=3625)
+## Rosenior bukása: a Chelsea és az angol futball válsága
 
-A műsorvezetők szerint Szalai Ádám – aki a Real Madridnál nevelkedett, a Bundesligában 200+ meccset játszott, 100+ gólt szerzett, és a német válogatott ellen győztes gólt lőtt – olyan megfellebbezhetetlen szaktekintély kellene legyen, hogy még a szurkolók is hisznek neki. Mégis, a közösségi média egy része mocskolja és pocskondiázza. Ha neki sem hisz a közeg, akkor kinek?
+Enzo Maresca beszélgetőpartner megemlíti, hogy Rosenior 107 nap után kirúgták a Chelsea edzőjét, aki öt szerzett gól nélküli vereséggel búcsúzott. Maresca szerint Rosenior kinevezése januárban már meglepetés volt, az öt és fél éves szerződés pedig még nagyobb. Jól kezdett (7 meccsből 6 győzelem), de az utolsó öt hét mérkőzésén a Chelsea 0 gól nélküli vereségeket szenvedett, ami a BL-ből való kieséshez vezetett.
 
-A probléma részben az, hogy az MLS (Magyar Labdarúgó Szövetség) civil szervezet, és nem elég erős az ellensúly a politikai és gazdasági érdekek ellen. Az elmúlt 16 évben ugyanazok az emberek, akik korábban felelősek voltak a sikertelenségekért, most 5-20-szor nagyobb költségvetésből szinte ugyanazt produkálták.
+> „Nekem sokkal nagyobb meglepetés volt, hogy őt nevezték ki januárban. Az meg, hogy öt és fél éves szerződést írta alá, az még nagyobb meglepetés, mint az, hogy most 107 nap után menesztették." – Maresca [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=1240)
 
-## Meritokrácia hiánya az edzőképzésben
+A beszélgetésben felvetődik, hogy az angol futball tulajdonosi szerkezete megváltozott – már nem menedzserek, hanem head coachok vannak, és a menedzsment beleszól a játékosválasztásba is. Rosenior pedig, bár jól tudta a magyar futball nyelvét és nyilatkozatait, végül a pályán nem tudott teljesíteni.
 
-Kecskeméti személyes tapasztalatából beszél: 2022-ben és 2026 februárjában is próbálkozott az MLS Grass Roots alapedző képzésre jelentkezni, de mindkétszer elutasították. Ezt általánosítva azt állítja, hogy a magyar futballrendszer nem meritokratikus alapon működik.
+## Nyíregyháza és Zalaegerszeg: az NB1 új arca
 
-> „Kiből, miért és mi alapján lehet labdarúgó edző? Most én ezt átvötíteném a humán erőforrás összes többi területére, hogy kiből, miről és mi alapján lehet sportigazgató, scout, játékosmegfigyelő." [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=3990)
+A beszélgetésben megemlítik a Nyíregyháza–ZTE mérkőzést, amely „hipster rangadónak" nevezik, mivel mindkét csapat letámadó, nyílt játékfilozófiát követ. Boldog Tamás, a Nyíregyháza vezetőedzője októberben érkezett, és tudatos fizikai felkészítést végzett a csapattal. Az őszi négy vereség után a szurkolók bizalma meginog, de a vezetőedző és a tulajdonos kitartanak. Tavasszal a Nyíregyháza 6 meccsből 4 győzelmet és 2 döntetlent ért el.
 
-A Grass Roots alapedző képzésre 95-en jelentkeznek, de csak 35-öt vesznek fel. Kecskeméti azt tapasztalja, hogy az oldala által 50-60 olyan szakember írta meg neki, hogy ő is hasonló elutasítást kapott – pedig szakmai tapasztalattal rendelkeznek. Ez szerinte a jéghegy csúcsa: a rendszer nem a tudáson, hanem más alapokon működik.
+> „Boldog Tamásnál mondhatom, hogy ez 99%-ban pozitív történések voltak. Ő amikor megérkezett a klubhoz október végén, akkor információm szerint igencsak aluledzett volt a Nyíregyháza csapata fizikálisan." – Kecskeméti Péter [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=1832)
 
-## Pozitív példák: Boldog Tamás és Kovács Bendegúz
+## Kovács Bendegúz: a következő nagy magyar csatár?
 
-**Boldog Tamás a Nyíregyházánál:** A műsorvezetők dicsérik a Nyíregyháza vezetőedzőjét, aki az ősz végén érkezett, és egy kemény, tudatos fizikai felkészítési programot indított. Az ősz végén még 4 bajnoki vereséget szenvedtek, de a szurkolók és a csapat vezetői bizalmat tartottak. A téli szünetben Törökországban edzőtáborozott a csapat, és a tavaszi szezonban 6 meccsből 4 győzelem és 2 döntetlen lett az eredmény. Boldog Tamás olyan játékosokat szerződtetett, akik vevők a letámadásra és a nyílt, őszinte játékstílusra.
+Kovács Bendegúz 19 évesen az AZ Alkmaar másodosztályában rendszeresen játszik és gólokat szerez. Áprilisban bemutatkozott az Alkmaar felnőtt csapatában a Shaktar elleni Konferenciaaliga-negyeddöntőn gólpasszal, majd a Holland Kupa döntőn szerepelt (amit az Alkmaar 5:1-re nyert). Debütált a holland NB1-ben, és a másodosztályban 14 meccsből 8 gólt szerzett. Az UEFA U19-es BL-ben 6 meccsből 9 gólt lőtt.
 
-> „Ő amikor megérkezett a klubhoz október végén, akkor információm szerint igencsak aluledzett volt a Nyíregyháza csapata fizikálisan, és ő pedig pontosan tudta, hogy ahhoz a játékfilozófiához, amit Németországban magába szívott, a GG pressing, a direkt futball, az alapja az erőállóképesség." [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=1832)
+Bendegúz apja, hasonlóan Szoboszlai Dominik apjához, nagy szerepet játszott a fiú fejlesztésében. Tisza Tibi egyéni edzője szerint Bendegúz heti ötször járt hozzá, és rendkívüli technikai képességei vannak. Az apja Ibrahimovicshoz hasonlítja, mivel nem egy statikus csatár, hanem pályán bárhol megjelenik, és kiváló bal lába van.
 
-**Kovács Bendegúz az Ajax-nál:** A 19 éves magyar támadó rendkívüli fejlődésen megy keresztül. Április 16-án bemutatkozott az Ajax felnőtt csapatában a Shaktar elleni Konferencia Liga negyeddöntőn gólpasszal, majd három nappal később a Holland Kupa döntőn játszott (amit az Alkmaar 5-1-re nyert). Debütált a holland NB1-ben, és a másodosztályban 14 meccsből 8 gólt szerzett. Az UEFA U19-es Bajnokok Ligájában 6 meccsből 9 gólt lőtt.
+> „Sokkal inkább Ibrahimovicshoz hasonlítja a gyerekét. Pont azért, mert ugye nem egy ilyen állócenter, ahogy megfogalmaznak, pálya bármelyik pontján föltűnik, levesz akár egy az egyben." – Kecskeméti Péter [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=2644)
 
-Kecskeméti szerint Bendegúz karakterjegyei Erling Haalandhoz hasonlítanak: magassága, testfelépítése, robbanékonysága, és különösen az anticipációs képessége a boxon belül. Sokféle gólt tud lőni: fejjel, akrobatikus mozdulatokkal, messziről, lecsorgóból.
+Az Alkmaar világos játékos-ívet vázolt fel Bendegúz számára: U19-es bajnoki, U19-es ifi BL, másodosztály, első csapat. Ezt minden ponton be is tartották, ami nagy löketet adott a játékosnak. Az Alkmaar az egyik legjobb tehetséggondozó műhely Európában.
 
-> „Tehát azt gondolom, hogyha továbbra is abban az ütemben fog fejlődni, ahogy eddig, akkor hamarosan több lehetőséget fog kapni, és egy-két éven belül pedig akár sztenderen fog tudni játszani." [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=2299)
+## A pénz nem elég: az utánpótlás igazi problémái
 
-Az Ajax kiváló tehetséggondozó műhely, és világos fejlesztési terv szerint haladnak: U19-es bajnoki → U19-es Bajnokok Ligája → másodosztály → Konferencia Liga → első osztály. Bendegúz apja is nagy szerepet játszott a fejlődésében, hasonlóan Szoboszlai Dominik apjához.
+A beszélgetés központi kérdése: miért nem hoztak áttörést a milliárdos akadémiai beruházások? Kecskeméti Péter szerint az elmúlt 16 évben sok pénzt költöttek a magyar futballra, de az eredmények nem javultak jelentősen. A probléma nem az infrastruktúra vagy a pénz, hanem a szakmai hátország és a rendszer.
 
-## Szabályozási és finanszírozási kérdések
+> „Sok pénzből nem lesz feltétlenül sokkal jobb futball, ha nem tudjuk, hogy hogyan kell sokkal jobb futballt csinálni." – Kecskeméti Péter [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=2947)
 
-A műsorvezetők azt vitatják, hogy szükséges-e központi képzési program vagy kiemelt akadémiák. Kecskeméti szerint a nyugat-európai modellben (Lengyelország, Horvátország, Belgium, Hollandia) minden klubnak megvan a saját filozófiája és koncepciója, és nem szükséges központi rendszer.
+Helm András, nevelőedző és egyéni képzéssel foglalkozó szakember vitaindítóban felvetette, hogy szükség van-e központi képzési programra, és milyen minimumszint kellene minden magyar játékosnak. Péter szerint a kiemelt akadémiák sok esetben ugyanazt a struktúrát követik, mint a tehetségközpontok: napi egy edzés délután, iskola után, hosszú utazások. Ezzel szemben a Honvédnál napi 4-5 órát tudott labdarúgással foglalkozni, mivel ott lakott az akadémián.
 
-Javaslatként felvetik, hogy kellene olyan szabályozás, mint Nyugat-Európában: 16 éves korig a gyerekeket a családjuk közelében kellene tartani, ne lehessen elszipkázni őket az ország egyik végéből a másikba. Ez azért fontos, mert a család közelségét a fejlődés szempontjából nem lehet helyettesíteni.
+> „Az elmúlt 16 évben, ha már rádobtunk 8-10 egyesületre kiemelt akadémia jelzőt, akkor azoknál legalább ezt fent kellett volna tudni, hogy ez a 80-100 gyerek megkapja ezt a napi négy-öt órát." – Kecskeméti Péter [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=3506)
 
-> „Olyan szinten egyenlőtlen a finanszírozás és az infrastruktúra helyzet, ami egyszerűen toxikussá teszi ezt a munkamegosztást." [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=3338)
+## A központi akadémiák és a területi szabályozás
 
-Ha a finanszírozás egyenlő lenne, akkor a szülőknek és a gyerekeknek maguknak kellene dönteniük, hol akarnak fejlődni – és valószínűleg oda mennének, ahol a legjobb munka van.
+A beszélgetésben felvetődik, hogy szükség van-e központi akadémiákra, vagy a piaci alapon működő klubok jobban működnének. Péter szerint a Főnix Gold Club jó példa: saját alapítású, saját elképzelések szerint nevelnek gyerekeket, és már négy válogatott labdarúgójuk van, valamint 50 profi szerződéssel bíró játékosuk.
 
-## A közpénz kérdése
+Egy lehetséges megoldás: olyan jogszabályok, mint Nyugat-Európában, hogy 16 éves korig a gyerekeket a körzetükben kell tartani, mert ott a legjobb, ahol van a család. Ez megakadályozná az erőforrások koncentrációját és a tehetségek elszívódását.
 
-Az adás végén felvetődik: ha közpénzt költünk az utánpótlásra, akkor milyen közérdek alapján? Ki fogalmazza meg ezt a célt? Szükséges-e minimum program, amely az ország minden részében elérhető?
+> „Olyan szinten egyenlőtlen a finanszírozás és az infrastruktúra helyzet, ami egyszerűen toxikussá teszi ezt a munkamegosztást." – Kecskeméti Péter [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=3338)
 
-> „Hogyha van közpénz benne, akkor valamilyen közcélt azért illenék megfogalmazni mellé, akkor azt a közcélt ki fogalmazza meg a magyar állam, az MLS?" [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=3590)
+## Van-e szellemi elitje a magyar futballnak?
 
-Az elmúlt 16 év tanulsága, hogy nagy pénzből nem lesz feltétlenül jobb futball, ha nem tudjuk, hogy hogyan kell jobb futballt csinálni. A szerzők szerint előbb szellemi elitet kellene létrehozni, amely irányítja a fejlesztést, mint pénzt beleönteni.
+Az adás végén a műsorvezető felteszi a legfontosabb kérdést: van-e a magyar futballnak olyan szakmai hitelességgel és társadalmi elfogadottsággal rendelkező szellemi elitje, amelynek hisznek a szurkolók, szponzorok és döntéshozók?
 
-## Egyéb sportági hírek
+Maresca szerint Szalai Ádám lenne az ideális jelölt: külföldön nevelkedett, a Bundesligában 200+ meccs és 100+ gól, a válogatottban győztes gólt lőtt a németeknek. Mégis, a szurkolói közeg egy része mocskolja és pocskondiázza. Ha neki nem hisz a közeg, akkor kinek?
 
-**Chelsea és Ruben Rosenior:** Az angol klub 107 nap után menesztette az edzőjét, aki 5 meccsen gólt sem tudott lőni. A műsorvezetők szerint Rosenior jól beszélte a corporate világ nyelvét, de a futballt végül a pályán játsszák, és ha öt meccsen egymás után gólt sem tudsz lőni, akkor mindegy, mennyire vagy autentikus.
+> „Ha neki nem hisz ez a közeg, akkor kinek? Akkor kinek hisz? És hogyha senkinek nem hisz, akkor hogyan lesz itt bármi változás vagy fejlődés?" – Maresca [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=3848)
 
-**Nyíregyháza vs. Zalaegerszeg:** A két csapat olyan üde szintet visz a magyar futballba a letámadással és nyílt játékkal, hogy még akkor is élvezetes a meccsük, ha hibák vannak. Ez a szórakoztatás és a játék minősége szempontjából fontos.
+Péter szerint a probléma az, hogy a magyar futballban nincs meritokratikus alapokon működő humán erőforrás-rendszer. Ő 2022-ben és 2026-ban is próbálkozott a Grass Roots alapedző MLS-es képzésre felvételizni, de mindkétszer elutasították. Ugyanez a probléma van a scoutok, játékosmegfigyelők és sportigazgatók körében is.
 
-**Kovács Bendegúz kvíz:** A műsorvezetők kvízjátékkal mutatják be Bendegúz szokatlan karrierjét: soha nem játszott az anyaországa bajnokságában, de a szülőhazájában három osztályban játszott 300 meccset, és válogatottként kétszer játszott a szülőhazája ellen. Ez az angol másodosztályban (Championship) játszó Cum Styles-hez hasonlít, aki szintén nem játszott Magyarországon, de a Westbrom szurkolói és játékostársai az év játékosának választották.
+> „Kiből, miért és mi alapján lehet labdarúgó edző? Ezt átvötíteném a humán erőforrás összes többi területére." – Kecskeméti Péter [*](https://www.youtube.com/watch?v=AA6NMxOFSFg&t=3743)
+
+Az AZ Alkmaar vezetőigazgatója, Mery Cman kerékpársportból érkezett, de tapasztalt sportvezető, aki talent management szisztémákat épített fel. Ez mutatja, hogy nem feltétlenül szükséges a futballon belülről jönni, de szükséges a szakmai tudás és a meritokrácia.
+
+## A közpénz és a közérdek kérdése
+
+Ha közpénzt költenek az utánpótlásra, akkor valamilyen közcélt kellene megfogalmazni mellé. Péter szerint nem szabad azt, hogy hová született egy gyerek, eldöntenie a lehetőségeit. Szükség van egy olyan minimum programra, amely az ország minden végében elérhető, Soprontól Nyíregyházáig.
+
+A beszélgetésben felvetődik, hogy az MLS, mint civil egyesület, fontos szerve kellene legyen a polgári autonómiának, de az elmúlt közgyűlésen csak egy felszólaló volt – ez a szellemi elit hiányának a tünete.
 
 <details>
 <summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
 
-- „Tércalagom" → valószínűleg „keresztszalagom" (ACL sérülés kontextusában)
-- „Pison István" → valószínűleg „Pisont István"
-- „Szerhély Rebrov" → valószínűleg „Szerhiy Rebrov" (Ferencváros volt vezetőedzője)
-- „Futács Márk" → a név bizonytalan, de a kontextus alapján egy magyar támadóról van szó
-- „Cum Styles" → valószínűleg „Kerkez Milos" vagy egy másik magyar játékos neve, de az átirat nem egyértelmű
-- „Nant Nantzi" → valószínűleg „FC Nantes" vagy egy francia klub neve
-- „Rudolf" → a teljes név hiányzik az átiratból
-- „Mery Cman" → valószínűleg „Mery Chman" vagy hasonló név, de bizonytalan
-- Több helyen az átirat fragmentálódik, különösen amikor a műsorvezetők egymást félbeszakítják vagy gyorsan váltanak témákat
+- „Szerhély Rebrov" – valószínűleg **Rebrov Szerhij** (Sergei Rebrov), a Ferencváros volt vezetőedzője, de az ASR torz alakban szerepel az átiratban
+- „Tisza Tibi" – a kontextusból egyéni edző, de teljes neve nem azonosítható az átiratból
+- „Mery Cman" – az AZ Alkmaar ügyvezetőigazgatójának neve valószínűleg torz, de az átiratban így szerepel
+- „Futács Márk" – a név az átiratban így szerepel, de a kontextus alapján egy magyar csatárról van szó, aki nem tudott megfelelően fejlődni
+- Néhány helyen az ASR félreismert szavakat (pl. „tércalag" helyett „térdszalag"), de ezeket a kontextus alapján javítottam
 
 </details>
 
