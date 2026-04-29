@@ -1443,57 +1443,20 @@ body.modal-open .about-fab { display: none; }
 }
 
 /* ── Cookie policy collapsible (inside welcome modal) ───────────────────── */
-.cookie-policy {
-  margin: 1rem 0;
-  border: 1px solid var(--border);
+.collapsible.cookie-policy {
+  margin: 0.75rem 0;
   border-radius: var(--radius-sm);
-  overflow: hidden;
 }
-
-.cookie-policy > summary {
+.collapsible.cookie-policy details > summary {
+  font-size: 0.82rem;
   padding: 0.6rem 0.9rem;
-  cursor: pointer;
+}
+.collapsible.cookie-policy .collapsible-inner {
   font-size: 0.82rem;
-  font-weight: 500;
-  color: var(--text-muted);
-  list-style: none;
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-  user-select: none;
-  -webkit-user-select: none;
-  transition: background var(--t-fast), color var(--t-fast);
-}
-.cookie-policy > summary::-webkit-details-marker { display: none; }
-.cookie-policy > summary::before {
-  content: "\25B6";
-  color: var(--text-subtle);
-  transition: transform var(--t);
-  display: inline-block;
-  flex-shrink: 0;
-}
-.cookie-policy[open] > summary::before { transform: rotate(90deg); }
-.cookie-policy > summary:hover {
-  background: var(--surface-2);
-  color: var(--text);
-}
-
-.cookie-policy-body {
   padding: 0.75rem 0.9rem;
-  font-size: 0.82rem;
-  line-height: 1.6;
   color: var(--text-muted);
-  border-top: 1px solid var(--border);
 }
-.cookie-policy-body ul {
-  padding-left: 1.2rem;
-  margin: 0.4rem 0;
-}
-.cookie-policy-body li { margin-bottom: 0.2rem; }
-.cookie-policy-body p { margin: 0.4rem 0; }
-.cookie-policy-body p:first-child { margin-top: 0; }
-.cookie-policy-body p:last-child { margin-bottom: 0; }
-.cookie-policy-body code {
+.collapsible.cookie-policy .collapsible-inner code {
   font-family: var(--font-mono);
   font-size: 0.88em;
   background: var(--surface-2);
