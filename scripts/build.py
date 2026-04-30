@@ -675,12 +675,11 @@ __POSTHOG_SNIPPET__
 
   var STEPS=[
     {{
-      targetId:'filter-toggle',
-      title:'Szűrők',
-      body:'Ezzel a gombbal nyithatod meg a szűrőket. Szűrhetsz csatornára, politikai irányultságra és kötődésre is.',
+      targetId:'ch-dropdown-btn',
+      title:'Csatorna szűrő',
+      body:'A <strong>Csatorna</strong> legördülőből egy vagy több konkrét csatornát is kiválaszthatsz. A lista a többi aktív szűrő alapján automatikusan rendezi magát.',
       position:'bottom',
       action: function(){{
-        // open the filter panel if not open
         var fg=document.getElementById('filter-groups');
         var btn=document.getElementById('filter-toggle');
         if(fg && fg.hidden){{
@@ -688,6 +687,18 @@ __POSTHOG_SNIPPET__
           if(btn) btn.setAttribute('aria-expanded','true');
         }}
       }}
+    }},
+    {{
+      targetId:'search-input',
+      title:'Szabad szöveges keresés',
+      body:'Cím, csatorna neve vagy az összefoglaló tartalma alapján is kereshetsz. A szűrők és a keresés egyszerre is használhatók.',
+      position:'bottom'
+    }},
+    {{
+      targetId:'tag-dropdown-btn',
+      title:'Címke szűrő',
+      body:'A <strong>Címke</strong> legördülőből témák szerint szűrhetsz. Egyszerre több is kijelölhető.',
+      position:'bottom'
     }},
     {{
       targetId:'filter-groups',
@@ -704,15 +715,9 @@ __POSTHOG_SNIPPET__
       highlight: function(){{ return document.querySelector('.chip-group[data-group="affiliation"]'); }}
     }},
     {{
-      targetId:'ch-dropdown-btn',
-      title:'Csatorna szűrő',
-      body:'A <strong>Csatorna</strong> legördülőből egy vagy több konkrét csatornát is kiválaszthatsz. A lista a többi aktív szűrő alapján automatikusan rendezi magát.',
-      position:'bottom'
-    }},
-    {{
-      targetId:'search-input',
-      title:'Szabad szöveges keresés',
-      body:'Cím, csatorna neve vagy az összefoglaló tartalma alapján is kereshetsz. A szűrők és a keresés egyszerre is használhatók.',
+      targetId:'theme-toggle',
+      title:'Sötét mód',
+      body:'Ezzel a gombbal válthatsz a világos és sötét megjelenés között.',
       position:'bottom'
     }}
   ];
