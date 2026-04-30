@@ -530,6 +530,7 @@ _INDEX_TMPL = """\
 <!-- JSON-LD -->
 <script type="application/ld+json">{{"@context":"https://schema.org","@type":"WebSite","name":"Röviden","url":"{site_base_url}/","description":"Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói.","inLanguage":"hu"}}</script>
 <link rel="stylesheet" href="style.css">
+<script>!function(){{var t=localStorage.getItem('ytm_theme');if(t==='dark'||t==='light'){{document.documentElement.setAttribute('data-theme',t);}}else if(window.matchMedia('(prefers-color-scheme: dark)').matches){{document.documentElement.setAttribute('data-theme','dark');}}}}();</script>
 __POSTHOG_SNIPPET__
 </head>
 <body>
@@ -602,8 +603,8 @@ __POSTHOG_SNIPPET__
         </span>
         <span class="filter-toggle-label">Szűrők</span>
         <span class="filter-active-badge" id="filter-badge" aria-live="polite"></span>
-        <span class="filter-toggle-icon" aria-hidden="true">▾</span>
       </button>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Téma váltása" onclick="ytmToggleTheme()"></button>
       <input class="filter-search" id="search-input" type="search"
              placeholder="Cím, csatorna, tartalom…" autocomplete="off">
     </div>
@@ -685,8 +686,6 @@ __POSTHOG_SNIPPET__
         if(fg && fg.hidden){{
           fg.hidden=false;
           if(btn) btn.setAttribute('aria-expanded','true');
-          var icon=btn&&btn.querySelector('.filter-toggle-icon');
-          if(icon) icon.textContent='▴';
         }}
       }}
     }},
@@ -1085,7 +1084,7 @@ __POSTHOG_SNIPPET__
     var fg=document.getElementById('filter-groups');
     var btn=document.getElementById('filter-toggle');
     if(fg){{fg.hidden=false;}}
-    if(btn){{btn.setAttribute('aria-expanded','true');btn.querySelector('.filter-toggle-icon').textContent='▴';}}
+    if(btn){{btn.setAttribute('aria-expanded','true');}}
     loadData().then(function(){{ renderFromData(); updateChannelListAvailability(); }});
   }} else if(TOTAL>N){{
     renderPag(Math.ceil(TOTAL/N));
@@ -1150,7 +1149,6 @@ __POSTHOG_SNIPPET__
     var open=fg.hidden;
     fg.hidden=!open;
     btn.setAttribute('aria-expanded', open?'true':'false');
-    btn.querySelector('.filter-toggle-icon').textContent=open?'▴':'▾';
   }};
 
   var searchInput=document.getElementById('search-input');
@@ -1330,7 +1328,7 @@ __POSTHOG_SNIPPET__
     var btn=document.getElementById('filter-toggle');
     if(fg && fg.hidden){{
       fg.hidden=false;
-      if(btn){{btn.setAttribute('aria-expanded','true');btn.querySelector('.filter-toggle-icon').textContent='▴';}}
+      if(btn){{btn.setAttribute('aria-expanded','true');}}
     }}
     // Toggle this tag in the filter
     var idx=filters.tag.indexOf(val);
@@ -1376,6 +1374,26 @@ __POSTHOG_SNIPPET__
       loadData().then(function(){{ renderFromData(); updateChannelListAvailability(); }});
     }});
   }});
+}})();
+(function(){{
+  var STORAGE_KEY='ytm_theme';
+  function applyTheme(t){{
+    document.documentElement.setAttribute('data-theme',t);
+    var btn=document.getElementById('theme-toggle');
+    if(btn) btn.textContent=t==='dark'?'☀':'🌙';
+  }}
+  function getEffective(){{
+    var stored=localStorage.getItem(STORAGE_KEY);
+    if(stored==='dark'||stored==='light') return stored;
+    return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';
+  }}
+  applyTheme(getEffective());
+  window.ytmToggleTheme=function(){{
+    var current=document.documentElement.getAttribute('data-theme');
+    var next=current==='dark'?'light':'dark';
+    localStorage.setItem(STORAGE_KEY,next);
+    applyTheme(next);
+  }};
 }})();
 </script>
 </body>

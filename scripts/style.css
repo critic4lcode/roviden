@@ -44,13 +44,15 @@ a { color: inherit; }
   --aff-fidesz: #ea580c;
   --aff-tisza: #1e3a8a;
   --aff-opposition: #166534;
+  --aff-independent: #64748b;
   --aff-fidesz-rgb: 234, 88, 12;
   --aff-tisza-rgb: 30, 58, 138;
   --aff-opposition-rgb: 22, 101, 52;
+  --aff-independent-rgb: 100, 116, 139;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #131312;
     --surface: #1c1c1b;
     --surface-2: #242422;
@@ -78,10 +80,47 @@ a { color: inherit; }
     --aff-fidesz: #fb923c;
     --aff-tisza: #60a5fa;
     --aff-opposition: #4ade80;
+    --aff-independent: #94a3b8;
     --aff-fidesz-rgb: 251, 146, 60;
     --aff-tisza-rgb: 96, 165, 250;
     --aff-opposition-rgb: 74, 222, 128;
+    --aff-independent-rgb: 148, 163, 184;
   }
+}
+
+:root[data-theme="dark"] {
+  --bg: #131312;
+  --surface: #1c1c1b;
+  --surface-2: #242422;
+  --border: #2e2e2c;
+  --border-strong: #3a3a37;
+  --text: #ececea;
+  --text-muted: #a4a39e;
+  --text-subtle: #7a7975;
+  --accent: #ff5a3c;
+  --accent-hover: #ff7558;
+  --tag-bg: #2a2a28;
+  --tag-text: #c8c7c2;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
+
+  --dir-liberal: #60a5fa;
+  --dir-centrist: #c084fc;
+  --dir-conservative: #fca5a5;
+  --dir-far-right: #f87171;
+  --dir-liberal-rgb: 96, 165, 250;
+  --dir-centrist-rgb: 192, 132, 252;
+  --dir-conservative-rgb: 252, 165, 165;
+  --dir-far-right-rgb: 248, 113, 113;
+
+  --aff-fidesz: #fb923c;
+  --aff-tisza: #60a5fa;
+  --aff-opposition: #4ade80;
+  --aff-independent: #94a3b8;
+  --aff-fidesz-rgb: 251, 146, 60;
+  --aff-tisza-rgb: 96, 165, 250;
+  --aff-opposition-rgb: 74, 222, 128;
+  --aff-independent-rgb: 148, 163, 184;
 }
 
 /* ── Base ───────────────────────────────────────────────────────────────── */
@@ -190,10 +229,7 @@ p + p { margin-top: 0.75em; }
   color: var(--bg);
   border-color: var(--text);
 }
-.filter-toggle-icon {
-  font-size: 0.75rem;
-  line-height: 1;
-}
+.filter-toggle-icon { display: none; }
 .filter-toggle-hamburger {
   display: none;
   flex-direction: column;
@@ -244,6 +280,24 @@ p + p { margin-top: 0.75em; }
   color: #fff;
 }
 .filter-clear[hidden] { display: none; }
+
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.1rem;
+  height: 2.1rem;
+  padding: 0;
+  font-size: 1rem;
+  color: var(--text-muted);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background var(--t-fast), color var(--t-fast), border-color var(--t-fast);
+  flex-shrink: 0;
+}
+.theme-toggle:hover { background: var(--border); color: var(--text); }
 
 .filter-active-badge {
   display: none;
@@ -418,6 +472,7 @@ p + p { margin-top: 0.75em; }
 .chip-group[data-group="affiliation"] .chip[data-f="fidesz-aligned"] { --aff: var(--aff-fidesz); --aff-rgb: var(--aff-fidesz-rgb); }
 .chip-group[data-group="affiliation"] .chip[data-f="tisza-aligned"] { --aff: var(--aff-tisza); --aff-rgb: var(--aff-tisza-rgb); }
 .chip-group[data-group="affiliation"] .chip[data-f="opposition"] { --aff: var(--aff-opposition); --aff-rgb: var(--aff-opposition-rgb); }
+.chip-group[data-group="affiliation"] .chip[data-f="independent"] { --aff: var(--aff-independent); --aff-rgb: var(--aff-independent-rgb); }
 .chip-group[data-group="affiliation"] .chip[data-f]:not([data-f=""]) {
   color: var(--aff);
   background: rgba(var(--aff-rgb), 0.08);
