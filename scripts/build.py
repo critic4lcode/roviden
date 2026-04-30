@@ -543,16 +543,16 @@ __POSTHOG_SNIPPET__
       <li>Csak <strong>30 percnél hosszabb</strong> videókról készítünk összefoglalót.</li>
       <li>Az összefoglalók <strong>nem helyettesítik</strong> az eredeti tartalmat – a kontextus, az árnyalatok és az alkotói munka csak a videó megtekintésével élhető át igazán.</li>
       <li>Kérünk, <strong>támogasd az érintett médiumokat és csatornákat</strong>: nézd meg az eredeti videót, iratkozz fel, oszd meg, vagy támogasd őket anyagilag, ha van rá módod. Az ő munkájuk nélkül ez az oldal sem létezne.</li>
-      <li>A csatornák kategorizálása, politikai hovatartozása, irányultsága csak egy kiinduló állapot, alakíthatóak, ezzel kapcsolatban kritikákat, módosítási javaslatokat GitHub-on várjuk!</li>
+      <li>A csatornák politikai <strong>kötődésének</strong> (független, Fidesz-közeli, Tisza-közeli, ellenzéki) és <strong>irányultságának</strong> (liberális, centrista, konzervatív, szélsőjobb) meghatározásakor törekedtünk az objektivitásra, de ezek a besorolások szükségszerűen szubjektív elemeket tartalmaznak, és finomhangolásra szorulnak. Vitát, észrevételeket és módosítási javaslatokat <a href="https://github.com/critic4lcode/roviden/discussions/1" target="_blank" rel="noopener noreferrer">ezen a GitHub-os vitafórumon</a> várunk.</li>
     </ul>
     <section class="collapsible cookie-policy">
       <details>
-        <summary>Videós tartalomkészítőknek</summary>
+        <summary>Tartalomkészítőknek</summary>
         <div class="collapsible-inner">
           <p>Be kell vallanunk, hogy ezzel a projekttel kapcsolatban vannak fenntartásaink. Egyértelmű volt az igény a közönség részéről a többórás videók rövid összefoglalóira, viszont fennáll a veszélye annak, hogy a látogatók csak az AI-összefoglalókat olvassák el, és nem nézik meg magát a videót. Ez hosszú távon <strong>csökkentheti a csatornák nézettségét</strong>, ami egyrészt megnehezíti a médiumok számára, hogy felmérjék a közönségük valós igényeit, másrészt <strong>bevételkiesést</strong> is okozhat számukra.</p>
-          <p>Minden olyan csatornánál ahol fellelhető volt a csatornatámoatás valamilyen formája (közvetelen támogatás, patreon, SZJA1%, merch), ott az összefoglalók alatt ezeknek elérhetőségét megjelenítettük minden összefoglaló alatt.</p>
+          <p>Minden olyan csatornánál, ahol fellelhető volt a csatornatámogatás valamilyen formája (közvetlen támogatás, Patreon, SZJA 1%, merch), az összefoglalók alatt megjelenítettük ezek elérhetőségét.</p>
           <p>Amennyiben Ön egy érintett médium képviselője, bármilyen észrevétele, kérése van az oldallal kapcsolatban – kérjük, vegye fel velünk a kapcsolatot az <a href="mailto:info@jegyezve.com">info@jegyezve.com</a> címen.</p>
-          <p class="modal-outro">Köszönjük a megértést, és jó olvasást / videózást kívánunk!</p>
+          <p class="modal-outro">Köszönjük a megértést.</p>
         </div>
       </details>
     </section>
@@ -571,7 +571,7 @@ __POSTHOG_SNIPPET__
         </div>
       </details>
     </section>
-    <p>A „Megértettem és elfogadom" gombra kattintva hozzájárulsz a fenti sütik használatához. A „Csak megnézem" gombbal süti nélkül is teljes mértékben használhatod az oldalt – ebben az esetben nem gyűjtünk semmilyen adatot.</p>
+    <p class="cookie-notice-text">A „Megértettem és elfogadom" gombra kattintva hozzájárulsz a fenti sütik használatához. A „Csak megnézem" gombbal süti nélkül is teljes mértékben használhatod az oldalt, ebben az esetben nem gyűjtünk semmilyen adatot.</p>
     <div class="modal-actions">
       <button class="modal-decline" type="button" onclick="ytmDeclineWelcome()">Csak megnézem, köszönöm</button>
       <button class="modal-btn" type="button" onclick="ytmCloseWelcome()">Megértettem és elfogadom</button>
