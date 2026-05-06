@@ -544,6 +544,7 @@ __POSTHOG_SNIPPET__
       <li>Csak <strong>30 percnél hosszabb</strong> videókról készítünk összefoglalót.</li>
       <li>Az összefoglalók <strong>nem helyettesítik</strong> az eredeti tartalmat – a kontextus, az árnyalatok és az alkotói munka csak a videó megtekintésével élhető át igazán.</li>
       <li>Kérünk, <strong>támogasd az érintett médiumokat és csatornákat</strong>: nézd meg az eredeti videót, iratkozz fel, oszd meg, vagy támogasd őket anyagilag, ha van rá módod. Az ő munkájuk nélkül ez az oldal sem létezne.</li>
+      <li>Az összefoglalók <strong>AI által generált</strong> szövegek, és <strong>tartalmazhatnak hibákat</strong> – különösen nevek, személyek és helyszínek megnevezésénél, amelyek szövegfelismerési hibákból adódhatnak. Az összefoglalók pontossága <strong>nem garantált</strong>. Minden cikk tetején megjelenik egy hivatkozás: hibát közvetlenül a forrásfájlban javíthatsz (a ceruza ikon a GitHubon), vagy jelezd hibajegyben.</li>
       <li>A csatornák politikai <strong>kötődésének</strong> (független, Fidesz-közeli, Tisza-közeli, ellenzéki) és <strong>irányultságának</strong> (liberális, centrista, konzervatív, szélsőjobb) meghatározásakor törekedtünk az objektivitásra, de ezek a besorolások szükségszerűen szubjektív elemeket tartalmaznak, és finomhangolásra szorulnak. Vitát, észrevételeket és módosítási javaslatokat <a href="https://github.com/critic4lcode/roviden/discussions/1" target="_blank" rel="noopener noreferrer">ezen a GitHub-os vitafórumon</a> várunk.</li>
     </ul>
     <section class="collapsible cookie-policy">
