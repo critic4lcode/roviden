@@ -159,6 +159,9 @@ def _extract_uncertain(summary: str) -> tuple[str, str]:
     return "", summary
 
 
+_SECTION_DIVIDER_RE = re.compile(r"<!-- SECTION:([A-Z]+) -->")
+
+
 def _extract_sections(body: str) -> tuple[str, str, str, str]:
     """Split body into (tldr_md, details_md, uncertain_md, transcript_block)."""
     idx = body.find("## Átirat")
@@ -168,6 +171,21 @@ def _extract_sections(body: str) -> tuple[str, str, str, str]:
         summary = body[:idx]
         transcript_block = body[idx + len("## Átirat"):].strip()
 
+    # New format: <!-- SECTION:NAME --> dividers
+    if "<!-- SECTION:TLDR -->" in summary:
+        # re.split with capturing group interleaves: [pre, name1, content1, name2, content2, ...]
+        parts = _SECTION_DIVIDER_RE.split(summary)
+        sections: dict[str, str] = {}
+        for name, content in zip(parts[1::2], parts[2::2]):
+            sections[name] = content.strip()
+        return (
+            sections.get("TLDR", ""),
+            sections.get("DETAILS", ""),
+            sections.get("UNCERTAIN", ""),
+            transcript_block,
+        )
+
+    # Fallback: old single-prompt format with regex splitting
     uncertain_md, summary = _extract_uncertain(summary)
     summary = _HR_RE.sub("", summary)
 
