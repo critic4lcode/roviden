@@ -12,131 +12,99 @@ notes: kontroll.hu - Magyar Márton, Tisza-közeli szerkesztőségi média
 published_at: '2026-05-04T17:00:06+00:00'
 duration_sec: 1600
 tags:
-- korrupció
-- propagandaminisztérium
-- balásy gyula
-- közpénz
-- belpolitika
+- ner-pénzek
+- média
+- gazdaság
 transcript_source: youtube_subtitle
-summary_model: anthropic/claude-haiku-4.5
+summary_model: deepseek/deepseek-v4-pro
 ---
 
-## Összefoglaló
+<!-- SECTION:TLDR -->
 
-# tl;dr
+- Balásy Gyula közjegyzői okiratban, ingyenesen ajánlotta fel a magyar államnak 22 éve épített, állami kommunikációs és rendezvényszervező cégcsoportját.
+- A cégcsoport becsült értéke legalább 80 milliárd forint, mintegy 100 milliárdos szerződésállománnyal, 30 milliárdos eredménytartalékkal és közel 500 alkalmazottal.
+- A felajánlás okai: a feladatok államháztartásba illesztése, a dolgozók egzisztenciájának védelme, valamint a felhalmozott szakmai tudás és értékek megőrzése.
+- Több cég száml
 
-Balásy Gyula kommunikációs és médiacég-birodalmának vezetője bejelentette, hogy közjegyzői okirattal ingyen átadja cégcsoportját az államnak. A három fő vállalkozás (médiavásárlás, rendezvényszervezés, rendezvénytechnika) Balásy szerint 80–200 milliárd forint közötti értéket képvisel, és közel 500 embert foglalkoztat. Az elmúlt 22 évben több mint 350 milliárd forint állami megbízást kapott, döntően a Rogán Antal vezette propagandaminisztériumtól.
+<!-- SECTION:DETAILS -->
 
-Balásy azt állítja, hogy az átadás nem bűntudat vagy jogsértés miatt történik, hanem azért, mert a kommunikációs feladatok az államháztartásban helyezkednek el legjobban, és így biztosítható a cégcsoport 500 alkalmazottjának egzisztenciája. Kiemeli, hogy az elmúlt hat évben 104 tenderre indultak, ebből 48-at nyertek, 52-t mások, így nem az összes állami megbízást ők végezték.
+## A bejelentés: Balásy Gyula felajánlja cégcsoportját az államnak
 
-A beszélgetésben szóba kerül, hogy Balásy számlái múlt hétfőn befagyasztásra kerültek előzetes értesítés nélkül, több tíz milliárd forint értékben, ami veszélyezteti a havi fizetések kifizetését és a sportrendezvények (MotoGP, Bajnokok Ligája) lebonyolítását. Balásy tagadja, hogy külföldre szeretne menni, és azt hangsúlyozza, hogy Magyarországon született, itt él a családja.
+Balásy Gyula vállalkozó a Kontroll stúdiójában jelentette be, hogy közjegyzői okiratba foglalt kötelezettségvállalással **ingyen felajánlja a magyar államnak** a 22 éve épített cégcsoportját, amely az állami és kormányzati rendezvényszervezési, kommunikációs és médiavásárlási feladatokat látta el. A felajánlás a beszélgetés napján történt meg.
 
-Az ingatlanvásárlásait befektetésként értelmezi, nem luxusként. Azt is közli, hogy a 2024-es beszámolóban 94 milliárd forint árbevétel és 9,3 milliárd forint nyereség szerepel, és az elmúlt két év nyeresége az eredménytartalékban maradt.
+> „Ez egy közjegyzői okirat, ami egy közérdekű célra történő kötelezettségvállalást jelent, ami azt jelenti, hogy én azt a cégcsoportot, amit én 22 éve építek, és jelenleg az államnak és kormányzatnak a rendezvényszervezési, kommunikációs, médiavásárlási feladatokat végzi, én ezt a benne lévő minden tudással, minden vagyoni, nem vagyoni joggal én felajánlom a magyar állam részére.” – Balásy Gyula [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=107)
 
----
-
-#  Részletes összefoglaló
-
-## A közjegyzői okirat és az átadás indokai
-
-Balásy Gyula azzal nyitotta az interjút, hogy közjegyzői okirattal közérdekű célra történő kötelezettségvállalást mutatott be. Ezt a mai napon (2026. május 4-én) tette meg. Az okirat azt jelenti, hogy a 22 éve felépített cégcsoportot – amely az államnak és kormányzatnak rendezvényszervezési, kommunikációs és médiavásárlási feladatokat végez – teljes vagyoni és nem vagyoni joggal, minden tudással együtt felajánlja a magyar államnak.
-
-> „Én ezt a benne lévő minden tudással, minden vagyoni, nem vagyoni joggal én felajánlom a magyar állam részére." [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=135)
-
-Az átadás nem az ügyészséghez történt, hanem közvetlenül a nyilvánossághoz. Balásy szerint nincs ellene eljárás, és azt állítja, hogy a bejelentés az ő áraira vonatkozó túlárazottságról a Nemzeti Nyomozóiroda vizsgálja, de őt nem hallgatták ki. Hangsúlyozza, hogy az árai közbeszerzésen nyert szerződésekből származnak, teljesen transzparensek és átláthatóak.
+A műsorvezető rákérdezett, hogy miért nem az ügyészséghez fordult. Balásy elmondta, hogy tudomása szerint semmilyen eljárás nincs ellene, bár egy bejelentés történt a munkáik túlárazottságával kapcsolatban, amit a Nemzeti Nyomozóiroda vizsgál. Ebben az ügyben őket nem hallgatták ki, és nem tudja, hol tart a vizsgálat. Hangsúlyozta, hogy áraik közbeszerzésen nyert szerződésekből származnak, teljesen transzparensek, és minden feladatról részletes dokumentációjuk van.
 
 ## A cégcsoport értéke és összetétele
 
-Balásy három fő vállalkozást sorol fel: a médiavásárlót, a kommunikációs rendezvényszervezőt és a rendezvénytechnikai céget. Ezek értékét a legóvatosabb becsléssel 80 milliárd forintra teszi, valamint körülbelül 100 milliárd forint szerződésállományt említet. A cégekben közel 30 milliárd forint eredménytartalék van, és 15 milliárd forint követelés. Összességében több száz milliárd forint értéket képviselnek ezek az entitások.
+Balásy Gyula három fő céget ajánlott fel: a médiavásárló, a kommunikációs rendezvényszervező és a rendezvénytechnikai vállalkozást. Becslése szerint ezek **a legóvatosabb becsléssel is mintegy 80 milliárd forintnyi értéket képviselnek**. Emellett körülbelül 100 milliárd forintnyi szerződésállományuk van, közel 30 milliárd forintnyi eredménytartalékkal és 15 milliárd forintnyi követeléssel – összességében több százmilliárd forintos értékről beszélt.
 
-> „Ezek még a legóvatosabb becsléssel is mondjuk egy ilyen 80 milliárd Ft-nyi értéket képviselnek, valamint van körülbelül 100 milliárdnyi szerződésállományuk." [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=23)
+> „Ezek még a legóvatosabb becsléssel is mondjuk egy ilyen 80 milliárd Ft-nyi értéket képviselnek, valamint van körülbelül 100 milliárdnyi szerződésállományuk. Ezekbe közel 30 milliárdnyi eredménytartalék van. Követelésbe 15 milliárd, tehát hogy ezek nagy, több 100-200 milliárd Ft-os értéket képviselnek.” – Balásy Gyula [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=242)
 
-Az átadás indokaként Balásy azt említi, hogy az elmúlt évek alatt közel 500 ember dolgozik a cégcsoportban, akik olyan értéket teremtett, amely a világpiacon is az élvonalba emelte a cégeket. Az átadás célja, hogy ezek az alkalmazottak egzisztenciája biztosított legyen a jövőben.
+A cégcsoport közel 500 embert foglalkoztat, és évente mintegy 3000 alvállalkozóval dolgozik együtt, ami gyakorlatilag a teljes hazai kommunikációs ipart lefedi. Az alvállalkozókat szakmai szempontok, megfelelő ár és gyorsaság alapján választották ki. Balásy elmondta, hogy az elmúlt években keresett pénzét befektette, és ezeknek a befektetéseknek a jó részét is felajánlja az állam javára.
 
-## Az állami megbízások és a karrierút
+## A felajánlás okai
 
-Az elmúlt években Balásy cégei több mint 350 milliárd forint állami megbízást kaptak, döntően a Rogán Antal vezette propagandaminisztériumtól és a Nemzeti Kommunikációs Hivatal megbízásaiból. Balásy 2004-ben alapította az első cégét, a Láncsdizájnt, miután nemzetközi reklámügynökségeknél (LOGK, Leo Burnett) dolgozott árdirektorként. Kezdetben főleg KKV-knak dolgoztak, majd egyre nagyobb piaci ügyfelekhez kerültek, például az EXN csatornához.
+Balásy három fő okot nevezett meg a döntése mögött:
 
-A politika közelébe 2005-ben került az első nemzeti konzultáció során, amikor még az ellenzék szervezte azt. 2009-ben Kocsis Máté csapatának segített az önkormányzati választási kampányban, 2010-ben pedig közel 20 önkormányzati képviselő kampányát szervezte az egész országban. Ezek akkor még egyedi helyi témákat és arculatot kaptak.
+1. **A tevékenység állami keretek közé illesztése**: Úgy látja, hogy az általuk végzett feladatok túlmutatnak a piaci kommunikációs feladatokon, és ezek elvégzése a legjobb helyen az államháztartásban van.
 
-> „Ezek mind ez akkor még nem úgy működött, hogy központilag meghatározták az üzenetet és mindenki az alapján működött, hanem hogy ez mindegyik kampánynak egyedi helyi témák voltak feldolgozva, mindegyik kampánynak egyedi arculata volt." [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=571)
+2. **A munkavállalók védelme**: Szeretné, ha a közel 500 dolgozó helye, feladata és egzisztenciája a jövőben is biztosítva lenne.
 
-2010 után a nagy kommunikációs cégek alvállalkozójaként dolgoztak. 2014-ben a Nemzeti Kommunikációs Hivatal megalakításakor három csapat alvállalkozójaként folytatták a munkát. 2016-ban keretmegállapodást írtak ki, és Balásy úgy döntött, hogy kilép az alvállalkozói státuszból, mivel volt tapasztalata.
+3. **A cégcsoport értékeinek megőrzése**: Nem szeretné, ha az általa felépített cégcsoport összeomlana, mivel komoly szakmai tudást és emberi erőforrást halmoztak fel. Úgy fogalmazott, hogy 25 éves volt, amikor az első céget elindította, most közel dupla annyi idős, és fontos számára, hogy a feladatok továbbra is el legyenek végezve – akár nélküle is.
 
-## A 2018-as fordulópont és a monopolhelyzet
+A műsorvezető kérdésére, hogy ha a Fidesz nem szenvedett volna választási vereséget, akkor is megtette volna-e ugyanezt, Balásy azt válaszolta: „Nem tudom.”
 
-2018-ban fordulópont következett be. Az addigi hármas csapatból kettő szereplő kiesett, és Balásy cégei egyedül maradtak az egész állami szervezet, a minisztériumok és az állami vállalatok kommunikációjának ellátásával. Egy napról a másikra 30 ügyfélből 120 lett.
+> „Ha nincs adott esetben ez a választási veresége a Fidesznek, akkor mit tett volna? Ugyanazt megtette volna? Nem tudom.” – Balásy Gyula [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=55)
 
-> „Hirtelen ott találtuk magunkat, hogy hogy nekünk egyedül kell ellátni az egész állami szervezet, a minisztériumok, az állami vállalatoknak a kommunikációját. Tehát körülbelül egyik napról a másikra a 30 ügyfélből lett 120." [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=659)
+A felajánlással együtt átad egy szakmai anyagot is, amely azt dolgozza ki, hogyan lehetne a lehető leggyorsabban és legsimábban behelyezni ezeket a feladatokat az államháztartás keretei közé. Ennek végrehajtásában szívesen részt vesz.
 
-Balásy azonban azt hangsúlyozza, hogy az elmúlt hat évben 104 kommunikációs tenderre indultak, ebből 48-at nyertek, 52-t mások, négy pedig érvénytelen lett. Tehát nem az összes állami megbízást ők végezték. Azt is megemlíti, hogy az egész kommunikációs piaccal dolgoznak, közel 3000 alvállalkozóval évente, amely a teljes hazai kommunikációs ipart jelenti.
+## A cégcsoport története és Balásy Gyula karrierje
 
-## A szerződések működése és az egyeztetések
+Balásy Gyula 2004-ben alapította első cégét, a Láncs Design-t, miután korábban nemzetközi reklámügynökségeknél (Lowe GGK, Leo Burnett) dolgozott ügyféligazgatóként. Kezdetben főleg kis- és középvállalkozásoknak dolgoztak, később nagyobb piaci ügyfeleik is lettek – például az E! Entertainment csatorna közép-európai kommunikációs feladatait is ők végezték.
 
-A keretmegállapodások működéséről Balásy azt magyarázza, hogy az államcégek és minisztériumok bejelentkezhetnek a keretmegállapodásba, és azon keresztül szerződést köthetnek velük. Az ügyfeleikkel mindig egyeztetnek a tartalomról, legyen az minisztérium, állami háttérintézmény vagy vállalat. A sajtóban többször úgy jelent meg, hogy tendert nyertek, pedig valójában keretmegállapodáson belüli szerződésekről volt szó.
+A politikához 2005-ben került közel, amikor az első nemzeti konzultáció logóját és kiadványát tervezték és gyártották. 2009-ben Kocsis Máté józsefvárosi időközi önkormányzati választási kampányában segítettek grafikai feladatokkal. A 2010-es választásokon közel 20 önkormányzati képviselő kampányát csinálták országszerte, egyedi helyi témákkal és arculatokkal.
 
-Balásy azt állítja, hogy a plakátok és nemzeti konzultációs kampányok csak a tevékenységük egy nagyon kicsi része, és ezekben a legkevesebb közük van. Ezekben az esetekben csak a közlésben és bizonyos grafikai megvalósításban vesznek részt, de az ügyféllel mindig egyeztetnek.
+2010 után nagyobb kommunikációs cégek alvállalkozójaként dolgoztak. 2014-ben, a Nemzeti Kommunikációs Hivatal megalakulásakor három csapat alvállalkozóiként folytatták a munkát. 2016-ban, amikor keretmegállapodást írtak ki, önállóan is elindultak, és kiléptek az alvállalkozói létből. Ekkor a cég 20-30 fős lehetett.
 
-> „Tudom, hogy mindenki a kék plakátokkal és ezekkel a kampányokkal jön, de ez a tevékenységünknek egy nagyon kicsi része." [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=846)
+2018-ban a hármas csapatból két szereplő kiesett, és Balásy cégcsoportja egyedül maradt az egész állami szervezet, minisztériumok és állami vállalatok kommunikációjának ellátására. Egyik napról a másikra 30 ügyfélből 120 lett. Az elmúlt hat évben 104 kommunikációs tenderen indultak, ebből 48-at nyertek meg, 52-t más nyert, 4 pedig érvénytelen lett.
 
-## A pénzügyi helyzet és a számlafagyasztás
+## A számlák befagyasztása
 
-A 2024-es beszámolóban 94 milliárd forint árbevétel és 9,3 milliárd forint nyereség szerepel. Balásy azt közli, hogy a 2023–2025-ös évek nyeresége az eredménytartalékban maradt. Az osztalékokról nem tudott pontos számot adni, de azt mondta, hogy minden adat nyilvános és az interneten elérhető.
+Balásy elmondta, hogy több cégük számláját is befagyasztották az előző hétfőn, mindenféle előzetes jelzés, dokumentum vagy határozat nélkül, technikai hibára hivatkozva. A zárolás több tízmilliárd forintot érint. A probléma súlyosságát jelzi, hogy emiatt veszélybe kerültek olyan feladatok, mint sportrendezvények (MotoGP, Bajnokok Ligája), és ami még rosszabb: hónap elején nem tudják elutalni a közel 500 ember fizetését.
 
-Egy kritikus probléma merült fel: múlt hétfőn (április 28-án) befagyasztották több cégük számláját technikai hibára hivatkozva, előzetes jelzés vagy dokumentum nélkül. Ez több tíz milliárd forintot érint. Az utalások reggel 7 és 8 között elmentek az ügyfelektől, de délben lezárták az összeszámlájukat. Ez veszélyezteti a sportrendezvények (MotoGP, Bajnokok Ligája) lebonyolítását és a hónap elején a közel 500 alkalmazott fizetésének kifizetését.
+A műsorvezető kérdésére, hogy érzékelt-e más jelzést a volt kormány vagy az alakuló kormány részéről, Balásy azt válaszolta, hogy semmilyen nyugtalanságra okot adó jelet nem tapasztalt, csak a médiából értesül a dolgokról. Több ügyfél visszamondott megrendeléseket, nem merik folytatni a munkát velük.
 
-> „Több 10 milliárd, több 10 milliárd. És értem, értem, tudom, hogy ez nyilván ez ellen nem szól, csak az a probléma ezzel, hogy olyan feladatok kerülnek ezzel veszélybe, amiket mi el kell látnunk ugye a az ügyfeleink részére." [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=1079)
+## Balásy Gyula vagyona és életvitele
 
-## Lelkiismereti kérdések és a tartalmi felelősség
+Balásy nem tagadta, hogy jómódú ember, és hogy keresett pénzt. Elmondása szerint a megkeresett pénzt mindig befektette: vagy visszaforgatta a cégekbe, vagy időtálló, hosszú távú befektetéseket keresett, például ingatlanokat. Vannak külföldi ingatlanjai, amelyeket a főszezonban kiad, azon kívül pedig a család használja nyaralásra.
 
-Az interjúban szóba kerül, hogy Balásy tudatában volt-e annak, hogy milyen típusú kommunikációkat és plakátokat készített. Balásy azt válaszolta, hogy nincs lehetőségük felülbírálni az ügyfél megrendeléseit, de jogi és szakmai szempontok alapján véleményezhetik, sőt meg is tagadhatják azokat – volt erre példa az elmúlt időszakban. Azonban a 500 dolgozóval rendelkező cégcsoport miatt bármilyen szerződésszegés az összes alkalmazott egzisztenciáját veszélyeztetné.
+A Máriaremetén tervezett házról elmondta, hogy egy többgenerációs családi házat szerettek volna építeni, de nem tudja, hogy ez valaha megvalósul-e. A tihanyi ingatlannal kapcsolatban hangsúlyozta, hogy ő Tihanyban nőtt fel, az utca túloldalán lakott a nagymamája, és rengeteg szál köti oda. A cikkekben szereplő másik tihanyi ingatlan, a Csőszpuszta üdülő egy mezőgazdasági befektetés. A luxusozás vádjára reagálva megjegyezte: „másnak stadion van ott.”
 
-> „Nekünk nincs arra lehetőségünk, hogy felülbíráljuk azt, hogy az ügyfél tőlünk mit rendel meg, és hogy milyen kamp nyilván tehát, hogy jogi, szakmai szempontok alapján mi ezt véleményezhetjük akár meg is tagadhatjuk a közeli tételét, amire volt példa a az elmúlt időszakban." [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=1315)
+> „Én azt nem tagadom, hogy kerestem pénzt és hogy jó módú ember vagyok. Én ezeket a pénzt, amit kerestem, én azt mindig befektettem. Vagy visszaforgattam a cégekbe, ott fejlesztettem, vagy pedig olyan befektetéseket kerestem, amit időtállók és hosszútávúak. És az ingatlan egy ilyen.” – Balásy Gyula [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=1169)
 
-## Az ingatlanok és a vagyonkezelés
+Arra a kérdésre, hogy gondolkodott-e külföldre távozásban, határozott nemmel felelt:
 
-Számos cikk jelent meg Balásy életviteléről, ingatlanairól (Mária Remete, Tihany, floridai luxuslakások). Balásy nem tagadja, hogy keresett pénzt és jó módú ember, de azt állítja, hogy a keresett pénzt befektetésekbe fordította – vagy visszaforgatta a cégekbe, vagy hosszútávú ingatlanberuházásokat keresett. Van külföldi ingatlana, amelyeket kiad a főszezonban, és amikor nincs kiadva, a családja nyaral ott.
+> „Én ebbe az országba születtem, itt éltem, itt van a családom, és úgy érzem, semmi okom arra, hogy bárhova menjek.” – Balásy Gyula [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=34)
 
-A Tihanyi házról azt mondja, hogy több generációs családi házat szeretett volna építeni, de nem tudja, hogy megvalósul-e. Azt is megemlíti, hogy Tihanyban nőtt fel, és az utca túloldalán a nagymamájának van háza (jelenleg a nagybátyja tulajdona). Az ingatlanvásárlást befektetésként értelmezi, nem luxusként.
+## A plakátkampányok és a tartalmi felelősség kérdése
 
-> „Én azt nem tagadom, hogy kerestem pénzt és hogy jó módú ember vagyok. Én ezeket a ami pénzt kerestem, én azt azt mindig befektettem." [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=1158)
+A műsorvezető rákérdezett, hogy a plakátkampányok (például Soros-kampány, nemzeti konzultációk) tartalmával kapcsolatban volt-e lelkiismeret-furdalása vagy fenntartása. Balásy elmondta, hogy a látható kampányok a tevékenységüknek csak nagyon kis részét tették ki, és ezekben a feladatokban nekik a közzététel és bizonyos esetekben a grafikai megvalósítás volt a szerepük.
 
-## A jövő és a távozás lehetősége
+> „Nekünk nincs arra lehetőségünk, hogy felülbíráljuk azt, hogy az ügyfél tőlünk mit rendel meg, és hogy milyen kampányt... jogi, szakmai szempontok alapján mi ezt véleményezhetjük, akár meg is tagadhatjuk a közzétételét, amire volt példa az elmúlt időszakban.” – Balásy Gyula [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=392)
 
-Az interjúban felvetik, hogy Balásy gondolkodott-e külföldre menni. Ő kategorikusan tagadja, és azt hangsúlyozza, hogy Magyarországon született, itt él a családja, és nem lát okot arra, hogy bárhova menjen.
+Hozzátette, hogy egy ekkora cégcsoportnál bármilyen szerződésszegés azonnal veszélyeztetné mind az 500 munkatárs egzisztenciáját.
 
-> „Én én én én ebbe az országba születtem, itt éltem, itt van a családom, és úgy érzem, semmi okamarra, hogy hogy hogy bárhova menjek." [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=1125)
+## Jövőbeli tervek
 
-Az átadás után Balásy azt mondja, hogy sok teendője lesz az átadással kapcsolatban. Világéletemben kommunikációval és kreatív dolgokkal foglalkozott, és nem tudja, hogy lesz-e lehetőség ezt folytatni. Lehetőségként említi a komolyabb mezőgazdasági foglalkoztatást, de azt ígéri, hogy ott is maximálisan beletenni fog.
+Balásy szerint az átadással kapcsolatban nagyon sok teendő lesz. Világéletében kommunikációval és kreatív dolgokkal foglalkozott, nem tudja, lesz-e lehetősége ezt folytatni. Ha nem, akkor elképzelhetőnek tartja, hogy komolyabban mezőgazdasággal foglalkozzon majd, és ott is igyekszik a maximumot nyújtani.
 
-## A Fidesz választási veresége és a feltételezések
+A műsorvezető utolsó kérdésére, hogy a Nemzeti Vagyonvisszaszerzési Hivatalnak megfelelő-e ez a lépés, és hogy ezzel tisztázta-e magát, Balásy visszakérdezett: „nem tudom, hogy mi alól kéne tisztáznom magam.” Hangsúlyozta, hogy mindig figyeltek a jogszerűségre, minden szerződés szerint, minden agyon van dokumentálva. Ugyanakkor elismerte, hogy a jelenlegi helyzetben nem hiszi, hogy a cégcsoportnak a mostani keretrendszerben jövője lenne.
 
-Az interjúban felvetik a kérdést: ha nem lett volna a Fidesz választási veresége, akkor Balásy ugyanezt tette volna? Balásy azt válaszolta, hogy ezt nem tudja, és ez nem fog kiderülni. Azonban később azt mondja, hogy a jelenlegi helyzetben nem hinné, hogy a cégcsoportjának ebben a keretrendszerben jövője van.
+<!-- SECTION:UNCERTAIN -->
 
-> „Ha nincs adott esetben az a választási veresége a Fidesznek, akkor mit tett volna? Ugyanazt megtette volna? Nem tudom." [*](https://www.youtube.com/watch?v=cslzmXaC51M&t=432)
-
----
-
-<details>
-<summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
-
-- **„Ragán Antalféle propagandaminisztérium"**: Az átiratban „Ragán Antal" szerepel, amely Rogán Antal (a Kabineti Iroda vezetője) torz alakja. Az átirat szövegkörnyezete alapján egyértelműen Rogán Antalra utal.
-
-- **„Kert Tamás"**: Az átiratban „Kert Tamás" szerepel, de a kontextusból (Farkasőrssel, Mértilel együtt említve) nem világos, hogy ki ez a személy. Az átirat nem ad elegendő információt az azonosításához.
-
-- **„Ts csőzpuszta üdülő"**: Az átiratban „Ts csőzpuszta üdülő" szerepel, amely értelmezhetetlen. Balásy a Tihanyi házról beszél, de ez a kifejezés nem azonosítható egyértelműen.
-
-- **„Mária remetei ház"**: Az átiratban „Mária remetei ház" szerepel, amely valószínűleg Mária Remete (Budapest egyik kerülete) ingatlanára utal, de az ASR-hiba miatt a pontos helymeghatározás bizonytalan.
-
-- **„LOGK"**: Az átiratban „LOGK" szerepel, amely egy nemzetközi reklámügynökség neve, de az ASR-hiba miatt nem világos, hogy ez a helyes alak-e.
-
-- **„EXN csatorna"**: Az átiratban „EXN csatorna" szerepel, amely egy TV-csatorna neve, de az ASR-hiba miatt nem világos, hogy ez a helyes alak-e (lehet, hogy „MTV" vagy más csatorna).
-
-- **„Farkasőrssel vagy a Mértilel vagy Kert Tamással"**: Az átiratban ezek a nevek szerepelnek, de nem világos, hogy kik ezek a személyek, és az ASR-hiba miatt a pontos nevek bizonytalan.
-
-- **„Nemzeti vagyon visszaszerzési hivatal"**: Az átiratban „Nemzeti vagyon visszaszerzési hivatal" szerepel, amely valószínűleg egy új, a TISZA-kormány által létrehozott intézmény, de az átirat nem ad további információt erről.
-
-</details>
+- „Ts csőzpuszta üdülő” – A beszélő valószínűleg a Tihany melletti Csőszpuszta üdülőre utalt, de a pontos megnevezés az ASR-hiba miatt bizonytalan. A szövegkörnyezet alapján egy mezőgazdasági befektetésről van szó.
 
 ## Átirat
 
