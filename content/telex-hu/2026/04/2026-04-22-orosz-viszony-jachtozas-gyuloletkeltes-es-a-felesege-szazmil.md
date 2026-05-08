@@ -2,217 +2,210 @@
 date: '2026-04-22'
 title: Orosz viszony, jachtozás, gyűlöletkeltés és a felesége százmilliói - interjú
   Szijjártó Péterrel
-description: "Orosz kapcsolat, megromló EU-s viszonyok, háborús riogatás a kampányban,\
-  \ vagyonvisszaszerzés és a Fidesz jövője. Élőben kérdeztük Szijjártó Pétert a NER\
-  \ örökségéről és a három cikluson át tartó külügyminiszterségéről.\n\nTelex.hu –\
-  \ Csak tőled függ!\n• Telex: https://telex.hu/\n• Telex támogatás: https://telex.hu/tamogatas\n\
-  • Facebook: https://www.facebook.com/telexhu/\n• Instagram: https://www.instagram.com/telexponthu/\n\
-  • TikTok: https://www.tiktok.com/@telex.hu\n• Telex Shop: https://shop.telex.hu/\n\
-  \n00:00 Visszaszámlás\n02:00 Arra készül, hogy háború lesz?\n12:52 Kampányolás háborús\
-  \ rettegtetéssel\n22:49 A NER és az együttműködés\n28:23 A poloskázás\n38:44 Mit\
-  \ takar a nemzeti oldal?\n46:51 A propagandáról\n51:50 A gödi szennyeződés\n55:41\
-  \ Miért nem adott interjút éveken át?\n1:03:52 Mi a felelősségük a gyűlöletkeltésben?\n\
-  1:15:24 Van oka a Fidesznek bocsánatot kérni?\n1:20:21 Mészáros Lőrinc és az oligarchák\
-  \ gazdagodása\n1:40:14 A kegyelmi ügy\n1:51:15 Mikor szólította fel az oroszokat,\
-  \ hogy fejezzék be a háborút?\n1:56:46 Durva szó a hazaárulás\n2:06:35 Miért nem\
-  \ sikerült az energiadiverzifikálás?\n2:12:26 Az oroszbarát szó nem esik jól, mert\
-  \ nem így van\n2:19:10 Kiszolgáltatottság az oroszoknak\n2:31:01 KGBéla-ügye + miért\
-  \ nem támadtak az oroszok magyarlakta területeket?\n2:38:58 Az EU háborúval kapcsolat\
-  \ politikája kudarc\n2:50:05 Luxizás, jachtozás \n2:56:54 A felesége gazdagodása\n\
-  3:04:11 A Fidesz jövője Orbán Viktor nélkül nem elképzelhető?\n3:06:35 A személyes\
-  \ jövője\n\n#valasztas-2026"
+description: ''
 video_id: oNZ3NpBvZi4
 video_url: https://www.youtube.com/watch?v=oNZ3NpBvZi4
 channel_slug: telex-hu
-channel_name: Telex․hu
-published_at: '2026-04-22T00:00:00Z'
+channel_name: Telex.hu
+affiliation: independent
+direction: liberal
+notes: 2020-ban alapított független hírportál
+published_at: '2026-04-22T19:55:39+00:00'
 duration_sec: 11700
-tags:
-- választás
-- politika
-- oroszország
-- külügy
-- szijjártó péter
+tags: []
 transcript_source: youtube_subtitle
-summary_model: anthropic/claude-haiku-4.5
+summary_model: deepseek/deepseek-v4-pro
 ---
 
-## Összefoglaló
+<!-- SECTION:TLDR -->
 
-# tl;dr
+- Szijjártó Péter elismerte a TISZA Párt választási győzelmét, de szerinte „nagyon durva külföldi titkosszolgálatok által koordinált beavatkozás történt”, és Zelenszkij, valamint brüsszeli intézmények a Fidesz vereségében voltak érdekeltek.
+- Továbbra is reálisnak tartja, hogy Európa és Magyarország belesodródik a háborúba, és az Európai Néppártot „kifejezetten háborúpártinak” nevezte, bár elismerte, hogy Weber békefenntartó misszióról is beszélt.
+- Tagadta, hogy otthon a gyerekeinek azt mondta volna, háborúba mehetnek, ha nem a Fidesz nyer, és hangsúlyozta, hogy nem beszélnek otthon politikáról.
+- Elismerte, hogy a kormány körül sokan „visszaéltek a helyzettel”, de Orbán Viktor „poloskázós” beszédét egy külföldről finanszírozott jelenség leírásaként védte.
+- Elmondta, hogy gyakorlatilag nem fogyaszt médiát, információit nagykövetségi jelentésekből és felkészítőanyagokból szerzi, és nem vállal felelősséget a kormányközeli média tartalmáért.
+- Mészáros Lőrinc gazdagodásával kapcsolatban nem tud felelősséget vállalni, de dühíti, hogy „nem politikai szereplők” viselkedése befolyásolta a választási eredményt.
+- A kegyelmi botrány „biztosan” benne volt a vereségben, és a mai napig nem született megnyugtató válasz arra, hogy mi történt és miért.
+- Az orosz energiafüggőséget azzal indokolta, hogy az orosz energiahordozók a legolcsóbbak, és tagadta, hogy orosz érdekeket szolgált volna a szankciók blokkolásával.
+- Felesége cégének kiugró nyereségességét nem tudta kommentálni, és azt állította, soha nem folyt bele a vállalkozásaiba, amelyek szerinte kizárólag a magánpiacon tevékenykednek.
+- A Fidesz jövőjét Orbán Viktor nélkül nem tartja elképzelhetőnek, de elismerte, hogy „csomó mindent másként kell majd csinálni” a jövőben.
 
-Szijjártó Péter, a Fidesz távozó külügyminisztere egy hosszú élő interjúban beszélt a választási vereségről, a kormányzás 16 évéről és a körülötte kialakult viták számos aspektusáról. Elismerte a választási vereséget, de azt állítja, hogy a magyar kormányzat alatt Magyarország sikeresen maradt ki a szomszédos háborúból, és az ország energiaellátása biztonságban volt.
+<!-- SECTION:DETAILS -->
 
-**Az orosz kapcsolat és a pragmatikus diplomácia** a beszélgetés egyik központi témája volt. Szijjártó Péter kitartott amellett, hogy az Oroszországgal fenntartott kapcsolat magyar érdek, nem pedig orosz érdek. Hangsúlyozta, hogy az energiabiztonság szempontjából kritikus az orosz gáz és olaj, mivel ezek a legolcsóbbak Magyarország számára. Azt is állította, hogy a magyar lakta területeket nem érte bombázás a háború alatt, amit a pragmatikus diplomáciai csatornák nyitvatartásának tudott be.
+## A választási vereség értékelése és a kormányalakítás
 
-Személyesen sérelmezettnek mutatkozott az ellene felhozott vádakkal szemben – különösen a hazaárulás és a kiszolgáltatottság vádjával. Azt mondta, hogy külföldi titkosszolgálatok lehallgatták telefonbeszélgetéseit, és azokat hamis kontextusban hozták nyilvánosságra a választási kampány végén.
+Szijjártó Péter, a távozó külügyminiszter a Telex stúdiójában adott interjút a Fidesz választási vereségét követően. A beszélgetés során elismerte, hogy a választás eldőlt, és a TISZA Párt alakíthat kormányt.
 
-A **gyűlöletkeltés és a nemzeti oldal** kérdésében tagadta, hogy a Fidesz gyűlöletpolitikát folytatott volna, azonban elismerte, hogy a magyar politika brutálissá vált. Sok magyar ember úgy érzi szerinte, hogy kizárva van a nemzetből, ha nem azonosítja magát a Fidesszel.
+> „Magyar emberek eldöntötték, hogy a Tiszapártnak többen hittek, mint nekünk. Többen gondolták azt, hogy az az ajánlat, amit a Tiszapárt bemutatott a magyar emberek számára, az egy jobb ajánlat, mint amiről mi beszéltünk." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=149)
 
-Az **oligarchák gazdagodásáról** szólva azt mondta, hogy nem tud felelősséget vállalni felnőtt emberek anyagi helyzetéért. Elismerte azonban, hogy dühös a jegybank körüli eseményekre és a kegyelmi ügyre, ahol szerinte három év után még mindig nem született kielégítő válasz.
+Hozzátette, hogy a választási eredményt tiszteletben kell tartani, és Magyarország sikere minden magyar ember érdeke, függetlenül attól, hogy ki kormányoz. Ugyanakkor továbbra is fenntartotta azt az álláspontját, hogy a választási folyamatba „nagyon durva külföldi titkosszolgálatok által koordinált beavatkozás történt", és Zelenszkij elnök, az ukrán kormány, valamint brüsszeli intézmények a Fidesz vereségében voltak érdekeltek.
 
-A **felesége gazdagodásáról** azt válaszolta, hogy nem folyik bele felesége üzleti tevékenységébe, és felesége cégei nem kaptak állami megbízást vagy támogatást. A jacht-ügy kapcsán azt tagadta, hogy összefüggés lenne az ott töltött pihenés és az orosz kapcsolatok között.
+> „Zelenszki elnök akaratának megfelelő választási eredmény nyomán a köztársasági elnök nyilvánvalóan a Tiszapárt lista vezetőjét kérte föl arra, hogy kormányt alakítson. Tehát formailag ez így néz ki." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=257)
 
-A **Fidesz jövőjéről** azt mondta, hogy az pártnak jelentős megújulásra van szüksége, de Orbán Viktor nélkül nem elképzelhető. Személyes egészségügyi problémái miatt azonban mérlegelnie kell politikai szerepvállalásának mértékét. Azt mondta, hogy soha nem volt ambíciója a miniszterelnöki pozícióra, és a külügyminiszteri poszt az a csúcs, amit elérhetett.
+## Háború és béke – a kampány központi témája
 
-# Részletes összefoglaló
+### A háborús veszély értékelése
 
-## A választási vereség és annak okai
+Szijjártó Péter továbbra is reális veszélynek tartja, hogy Európa és Magyarország belesodródik a háborúba. Az elmúlt négy év brüsszeli tapasztalataira hivatkozva riasztónak nevezte a hangnemváltozást, amelyet az európai politikai vezetők részéről tapasztalt.
 
-Szijjártó Péter elismerte, hogy a Fidesz választási vereséget szenvedett, és a magyar emberek többsége a Tiszapártban bízott meg. Azonban azt hangsúlyozta, hogy a választási eredményt tiszteletben kell tartani, és Magyarország szurkolójaként reméli, hogy az új kormányzat sikeres lesz.
+> „Ott ültem az elmúlt 11 és fél évben Brüsszelben szinte az összes külügyminiszteri tanácsülésen. Az elmúlt négy évben egy szóval tényleg riasztó hangnemváltozás történt. Tehát amikor a háborúról már mint a jövő realitásáról beszéltek az európai politikai vezetők, az azért nagyon sok vészcsengőt elindított bennem." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=458)
 
-Az okok sorolásakor több tényezőt nevezett meg:
+Személyes félelmeit is megosztotta: tart attól, hogy a világ egy háborús korszakba csúszik bele, és ez akár az ő gyermekei életét is érintheti. Felidézte nagyapja második világháborús történetét, valamint azt az élményét, amikor Moszkvából hazafelé tartva két magyar hadifogollyal utazott egy repülőn, akik néhány órával korábban még hadifogolytáborban voltak.
 
-> „Az elmúlt 16 évben nagyon sokan voltak, túl sokan voltak olyanok, akik kihasználván azt, hogy a kormányban sokan tisztelettel, szorgalmasan, becsülettel dolgoztak, ezt kihasználták, kihasználtak minket, kihasználták a munkánkat." – **Szijjártó Péter** [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=4924)
+### A kampányüzenetek és a TISZA Párt
 
-Úgy véli, hogy a kormányzat teljesítménye egy olyan „fénytörésen" keresztül értékelődött, amit olyan nem politikai felhatalmazással rendelkező emberek okoztak, akik a Fidesz körül gazdagodtak meg. Ezt a jelenséget személyesen nagyon dühítőnek nevezte, mert szerinte a kormányzat becsületes munkáját így torzítottan ítélték meg.
+Az interjú során többször is előkerült a Fidesz kampányának azon állítása, miszerint a TISZA Párt győzelme esetén Magyarország háborúba sodródik, és magyar fiatalokat visznek az ukrán frontra. Szijjártó ezt azzal magyarázta, hogy a TISZA Párt az Európai Néppárt tagja, amelyet ő „kifejezetten háborúpártinak" tart.
 
-## A háborús kampány és a béke kérdése
+> „Amikor a legnagyobb európai pártcsalád elnöke arról beszél, hogy neki az álma, a vágya meg a célja, hogy Európai Uniós zászlók alatt harcoló katonák menjenek Ukrajnába..." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=847)
 
-Szijjártó Péter visszautasította azt az állítást, hogy a Fidesz hazugságokra építette a kampányát, amikor azt kommunikálta, hogy a Tiszapárt győzelme háborúba sodorná Magyarországot. Ugyanakkor elismerte, hogy a háborús pszichózis valóban veszélyes:
+Amikor a műsorvezető pontosította, hogy Manfred Weber valójában egy békeszerződés utáni békefenntartó misszióról beszélt, Szijjártó elismerte, hogy „lehet, hogy hangzott el ilyen is", de fenntartotta, hogy az Európai Néppárt vezetőire a folyamatos háborús kommunikáció jellemző.
 
-> „Én továbbra is azt gondolom, hogy a legnagyobb kihívás Európa előtt és Magyarország előtt is az, hogy az elmúlt évek háborús pszichózisa és fanatizmusa, amit én Brüsszelben személyesen tapasztaltam és éltem meg az elmúlt négy év során, az el fog uralkodni." – **Szijjártó Péter** [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=282)
+Arra a kérdésre, hogy otthon a gyermekeinek mondta-e, hogy ha nem a Fidesz nyer, háborúba mehetnek, határozottan tagadta:
 
-Azt állította, hogy a magyar kormányzat fő feladata az elmúlt négy évben az volt, hogy Magyarországot megóvja a háborúba való belekeverésből. Hangsúlyozta, hogy Oroszország megtámadta Ukrajnát, amit elítél, de azt gondolja, hogy a háborúnak tárgyalásokkal kell véget érnie. Kritizálta az Európai Unió háborús politikáját, amit kudarcnak nevez, mivel nem vezetett a háború lezárásához.
+> „Nem, ez azért nem történhet meg otthon soha, mert mi nem beszélünk otthon politikáról." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=691)
 
-Személyesen aggódik a háborúról és annak lehetséges kiterjesztéséről. Nagyapjáról mesélt, aki a második világháborúban katonának sorozták be, és később hadifoglyul esett. Ezt az élményt összevetette azzal, hogy 2022-ben két magyar hadifogot hozott haza Moszkvából, ami szerinte mutatja, hogy a háborús veszély valódi.
+### A kampány hatása a mentális egészségre
 
-## Az Oroszország-kapcsolat és a pragmatikus diplomácia
+A műsorvezető bemutatott egy, a Fidesz által a kampányban használt, mesterséges intelligenciával generált videót, amelyben egy katona családja várja haza az apát. Szijjártó erre reagálva kijelentette, hogy a háborús helyzet általánosságban nincs jó hatással az emberek mentális egészségére, de a kampány konkrét hatásáról nem tudott nyilatkozni. Hangsúlyozta, hogy az elmúlt négy év legfontosabb feladata Magyarország háborútól való megóvása volt.
 
-Szijjártó Péter kitartott amellett, hogy az Oroszországgal fenntartott kapcsolat magyar érdek, nem pedig orosz érdek:
+## A nemzeti együttműködés és a gyűlöletkeltés kérdése
 
-> „Mi magyar barát politikát folytatunk, nem orosz barátpolitikát." – **Szijjártó Péter** [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=164)
+### Személyes együttműködés vs. országos polarizáció
 
-Hangsúlyozta, hogy az energiabiztonság szempontjából kritikus az orosz gáz és olaj, mivel ezek a legolcsóbbak Magyarország számára. Azt állította, hogy 2305 beruházási megállapodást kötöttek az elmúlt 11,5 év alatt, amelyek 507 ezer munkahelyet teremtettek, és ezekben a szerződésekben nem volt korrupció.
+A műsorvezető felidézte a 2010-es Nemzeti Együttműködés Nyilatkozatát, és megkérdezte, sikerült-e az együttműködés kultúráját erősíteni. Szijjártó személyes szinten sikeresnek ítélte ezt: elmondta, hogy mindig segített ellenzéki politikusoknak, üzletembereknek, és soha nem számított, ki melyik oldalhoz tartozik. Példaként említette, hogy Gyurcsány Ferenc volt személyi titkára a külügyminisztériumban dolgozik, és Kóka János cége is kapott támogatást.
 
-A szankciós kérdésekben azt magyarázta, hogy Magyarország minden egyes szankciós intézkedést a magyar nemzeti érdek alapján vizsgál meg. Nem engedték, hogy olyan orosz szereplőket szankcionáljanak, akik az energiaellátáshoz szükségesek, mert az másnap garantálhatatlanná tenné Magyarország gázellátását.
+> „Nálam például semmilyen támogatási rendszerben nem lehetett az szempont, hogy ki milyen párttal vagy politikai oldallal szimpatizált." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=1473)
 
-Személyesen sérelmezettnek mutatkozott a hazaárulás vádjával szemben:
+Országos szinten azonban elismerte, hogy a kormány körül „nagyon sokan, a kelleténél jóval többen nagyon durván visszaéltek" a helyzettel, és ez hozzájárult a negatív kép kialakulásához.
 
-> „Hazaárulással vádolni valakit az szerintem nagyon súlyos dolog." – **Szijjártó Péter** [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=8912)
+### A poloskázás és a gyűlöletpolitika
 
-Azt állította, hogy külföldi titkosszolgálatok lehallgatták telefonbeszélgetéseit, és azokat hamis kontextusban hozták nyilvánosságra a választási kampány végén, amit nemzetközi beavatkozásnak nevez.
+A műsorvezető idézte Orbán Viktor 2025. március 15-i beszédét, amelyben a miniszterelnök „poloskákról" beszélt, akik „átteleltek", és akiket a „húsvéti nagytakarítás" során fel kell számolni. Szijjártó védelmébe vette a miniszterelnököt:
 
-## A gyűlöletkeltés és a nemzeti oldal fogalma
+> „Én személyesen jól ismerem a miniszterelnököt most már több mint 20 éve. [...] A miniszterelnök nem poloskázta le a félországot. A miniszterelnök mindig tisztelettel beszélt a magyar emberekről." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=2312)
 
-Szijjártó Péter tagadta, hogy a Fidesz gyűlöletpolitikát folytatott volna. Azt állította, hogy személyesen mindig arra törekedett, hogy az embereket teljesítményük alapján ismerje el, függetlenül a párthovatartozásuktól. Azonban elismerte, hogy a magyar politika brutális lett:
+Szerinte a beszéd egy jelenséget írt le: a külföldről finanszírozott, nemzeti érdekkel szembemenő személyeket és szervezeteket. Amikor a műsorvezető rákérdezett, hogy a „poloskázás" belefér-e, Szijjártó azt válaszolta, hogy ha a másik oldalról is összegyűjtenék a sértő megnyilvánulásokat, „sokkal több mondatot rakhatnánk bele ebbe a dobozba".
 
-> „Szerintem a magyar politika az sokkal brutálisabb, mint lennie kellene." – **Szijjártó Péter** [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=732)
+### A nemzeti oldal definíciója
 
-A „nemzeti oldal" kifejezésről azt mondta, hogy ez a politikai tér leírására szolgál, és nem jelenti azt, hogy mások nem részei a nemzetnek. Azonban elismerte, hogy sok magyar ember úgy érzi, hogy kizárva van a nemzetből, ha nem azonosítja magát a Fidesszel.
+Szijjártó szerint a „nemzeti oldal" kifejezés a politikai tér leírására szolgál, és nem jelenti azt, hogy aki nem tartozik oda, az ne lenne a nemzet része.
 
-Az „áttaleltek a poloskák" kifejezésre reagálva azt mondta, hogy ez nem emberek sértegetése, hanem egy jelenség leírása. Azonban a műsorvezető rámutatott, hogy a miniszterelnök ezt a kifejezést bírók, újságírók és civilek mellett használta, ami nyilvánvalóan emberekre vonatkozik.
+> „Mi így vagyunk magyar nemzet 15 millióan független attól, hogy ki mit gondol politikáról, gazdaságról, személyekről, értékekről. Mi egy nemzet vagyunk, egy vérből valók vagyunk." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=2420)
 
-## A NER és az oligarchák gazdagodása
+Vitályos Eszter „mi vagyunk a haza" kijelentését pedig úgy értelmezte, hogy az valójában azt jelenti: „a haza ügye nem lehet ellenzékben".
 
-A beszélgetés során többször felvetődött a Fidesz körül gazdagodott oligarchák kérdése, különösen Mészáros Lőrinc, Tiborcz István és Szíj László.
+## Médiafogyasztás és sajtóviszonyok
 
-Szijjártó Péter azt mondta, hogy nem tud felelősséget vállalni felnőtt emberek anyagi helyzetéért:
+### Személyes médiafogyasztási szokások
 
-> „Én nem tudok felelősséget vállalni felnőtt emberekért, hogy nekik az anyagi helyzetük hogyan alakult, vagy miért úgy alakult." – **Szijjártó Péter** [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=5357)
+Szijjártó Péter meglepő kijelentést tett: elmondása szerint gyakorlatilag nem fogyaszt médiát, sem televízióban, sem interneten.
 
-Azonban elismerte, hogy dühös a jegybank körüli eseményekre, különösen Matolcsi György esetére, és a kegyelmi ügyre. Az utóbbiról azt mondta, hogy három év után még mindig nem született kielégítő válasz arra, hogy miért történt meg.
+> „Higgy el, én otthon soha nem néztem politikát se televízióban, se interneten. [...] Én kizárólag sportot nézek a tévében is, meg az interneten is. Nekem nem kell az a sok... ami ömlik a médiába." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=2827)
 
-Mészáros Lőrincről azt mondta, hogy 22 éve ismeri, és nem tudja megmagyarázni, hogyan lett az ország leggazdagabb embere. Azt javasolta, hogy ezt Mészárostól kell megkérdezni, nem tőle.
+Információit nagykövetségi jelentésekből, kollégáival való konzultációkból és a számára készített felkészítőanyagokból szerzi. A kormányközeli média tartalmáról azt mondta, nem tud felelősséget vállalni egyetlen újságíróért vagy médiumért sem.
 
-## A felesége gazdagodása és a jacht-ügy
+### Miért nem adott korábban interjút a Telexnek?
 
-A műsorvezető felvetette, hogy Szijjártó Péter felesége, Szijjártó Katalin Interior Design Kft.-je éves szinten 400-500 millió forint nyereséget realizál, ami az iparág átlagához képest rendkívüli.
+Szijjártó elmondta, hogy korábban azért nem fogadta el a Telex meghívását, mert a sajtósai azt tanácsolták, hogy „nem lenne helyes", mivel a róla szóló híradások „több esetben voltak rendkívül inkorrektek". Most a választási vereség miatt döntött úgy, hogy „rendkívüli helyzetben születnek rendkívüli döntések". Tagadta, hogy bárkitől engedélyt kellett volna kérnie, de elismerte, hogy kikérhette Rogán Antal véleményét. Orbán Viktor személyesen utasította arra, hogy legyen Facebook-oldala.
 
-Szijjártó Péter azt válaszolta, hogy nem folyik bele felesége üzleti tevékenységébe, és felesége soha nem kért tőle segítséget. Azt állította, hogy felesége cégei nem kaptak állami megbízást vagy támogatást.
+## A NER gazdasági szereplői és a korrupció kérdése
 
-A jacht-ügy kapcsán azt mondta, hogy 2020 augusztusában legjobb barátja, Benköző Szilárd családjával hajózott egy jachton. Azt tagadta, hogy bármilyen összefüggés lenne Benköző Szilárd között kapott állami támogatás és a jacht-ügy között. Azt állította, hogy Benköző Szilárd soha nem kért tőle semmilyen segítséget, és nem tudott arról, hogy pályázik az állami támogatásra.
+### Mészáros Lőrinc és a „nem politikai szereplők"
 
-## A kegyelmi ügy
+A beszélgetés egyik legfeszültebb része volt, amikor a műsorvezető Mészáros Lőrinc gazdagodásáról kérdezte. Szijjártó elmondta, hogy 22 éve ismeri Mészárost, de nem tud felelősséget vállalni felnőtt emberek anyagi helyzetének alakulásáért.
 
-Szijjártó Péter azt mondta, hogy a kegyelmi ügy biztosan szerepet játszott a választási vereségben. Azonban azt állította, hogy nem tudja, mi történt valójában:
+> „Én nem tudok felelősséget vállalni felnőtt emberekért, hogy nekik az anyagi helyzetük hogyan alakult, vagy miért úgy alakult." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=5357)
 
-> „Én azt gondolom, hogy ott alapvető motivációkra nem született a nyilvánosság felé kielégítő válasz." – **Szijjártó Péter** [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=6298)
+Hangsúlyozta, hogy az általa vezetett minisztériummal kapcsolatban álló Mészáros-cégek a támogatásokkal elszámoltak, a beruházásokat végrehajtották. Ugyanakkor kifejezte dühét amiatt, hogy „nem politikai szereplők" viselkedése befolyásolta a választási eredményt:
 
-Azt mondta, hogy Orbán Viktor többször is azt mondta, hogy Varga Judit, Balog Zoltán és Novák Katalin álljanak ki a nyilvánosság elé és mondják el az igazságot. Azonban azt is elismerte, hogy nem tudja, miért nem történik meg ez.
+> „Biztos vagyok benne, hogy a választási eredmény és a rólunk alkotott kép egy ilyen prizmán keresztül jött létre. [...] Dühít, hogy nem kizárólag a mi saját teljesítményünk alapján értékelnek minket, hanem olyan emberek magatartása és tevékenysége alapján, akik nem viseltek politikai felhatalmazást." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=5698)
 
-## A Kovács Béla-ügy
+Konkrét neveket azonban nem volt hajlandó mondani.
 
-Szijjártó Péter elismerte, hogy nem volt prioritás számára Kovács Béla, a Jobbik egykori képviselője kiadatása, aki Oroszországban menekült, miután jogerősen elítélték azért, mert uniós intézmények ügyei után kémkedett. Azt mondta, hogy az ügy nem volt a radarján, de támogatja, hogy az új kormány intézkedjen az elítélt hazahozatala érdekében.
+### A jegybanki ügy és a kegyelmi botrány
 
-## A magyar lakta területek bombázása
+Szijjártó Matolcsy Györgyről szólva elmondta, hogy a 2010-es gazdasági talpraállásban elévülhetetlen érdemei vannak, de ami a jegybankban és környékén történt, arról „fogalma sincs", és „nagyon dühös" miatta.
 
-Szijjártó Péter azt mondta, hogy szerencsés, hogy magyar lakta területeket nem érte bombázás a háború alatt. Amikor a műsorvezető azt kérdezett, hogy ez nem véletlen-e, azt válaszolta:
+A kegyelmi ügy kapcsán elismerte, hogy az „biztosan" benne volt a választási vereségben. Elmondta, hogy a mai napig nem született megnyugtató válasz arra, hogy mi történt és miért.
 
-> „Én azt gondolom, hogy a Magyarország és Oroszország között fennmaradt pragmatikus, normális, a diplomáciai csatornákat nyitvatartó viszony az hozzájárult ahhoz, hogy magyar lakta területeket nem ért bombázás ezalatt a háború alatt." – **Szijjártó Péter** [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=9328)
+> „Az elementáris igény arra, hogy itt szülessen válasz arra, hogy mi történt és miért, az bennem is bennem van." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=6346)
 
-Azonban azt is mondta, hogy nincs biztos tudása erről, csak feltételezése.
+Tagadta, hogy bármilyen kormányzati szereplő akadályozta volna, hogy Novák Katalin, Varga Judit vagy Balog Zoltán kiálljanak a nyilvánosság elé. Szerinte Orbán Viktor többször is kérte ezt.
 
-## A Fidesz jövője
+## Külpolitika és az orosz kapcsolat
 
-Szijjártó Péter azt mondta, hogy a Fidesz jövője Orbán Viktor nélkül nem elképzelhető. Azonban azt is elismerte, hogy a pártnak jelentős megújulásra van szüksége.
+### A 2008-as és a 2022-es álláspont összehasonlítása
 
-Személyes egészségügyi problémáiról is beszélt. Tavaly egy szűrővizsgálat során olyan diagnózist kapott, amit nem szívesen hallgat az ember, és azóta több beavatkozáson esett át. Ezt figyelembe véve azt mondta, hogy mérlegelnie kell a politikai szerepvállalásának a mértékét.
+A műsorvezető felidézte, hogy Szijjártó 2008-ban, a grúziai háború idején még egészen más hangnemben beszélt Oroszországról: tüntetést szervezett az orosz nagykövetség elé, és élesen elítélte az agressziót. Szijjártó ezt azzal magyarázta, hogy most is elítéli, hogy Oroszország megtámadta Ukrajnát, de a hangsúly szerinte már azon van, hogyan lehet a háborút lezárni.
 
-Azt mondta, hogy soha nem volt ambíciója a miniszterelnöki pozícióra, és azt gondolja, hogy a külügyminiszteri poszt az a csúcs, amit elérhetett. Nem szeretne részt venni a Fidesz vezetésének a jövőbeli hatalmi kérdéseiben.
+> „Én, mi elítélem, elítéljük azt, hogy Oroszország megtámadta Ukrajnát. [...] A kérdés szerintem most már viszont más, és az elmúlt években is már más volt, mert szerintem a kérdés az, hogy ez a háború hogyan tud minél előbb véget érni." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=6952)
 
-## A politika megváltozása
+### Az energiafüggőség és a szankciók
 
-Szijjártó Péter azt mondta, hogy a politika alapvetően megváltozott az elmúlt években. A közösségi média lett a politikai teljesítmény mérésének a fő helyszíne, ami szerinte frusztrálónak találja:
+Szijjártó részletesen beszélt az orosz energiafüggőségről. Elmondta, hogy Magyarország azért vásárol orosz gázt és olajat, mert az a legolcsóbb. A 70%-ról 90% fölé emelkedő orosz importarányt azzal magyarázta, hogy a világpiaci árak alakulása miatt az orosz energiahordozók relatíve még olcsóbbá váltak.
 
-> „Tehát már a ugye gyakorlatilag a a politikai teljesítményt azt a közösségi médián keresztül mérik le leginkább az emberek." – **Szijjártó Péter** [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=11493)
+> „Nem azért vásároltunk Oroszországból energiahordozókat, mert oroszok, hanem azért, mert olcsók." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=7712)
 
-Azt mondta, hogy egy nagy beruházás, amely több tízezer munkahelyet teremt, kevésbé érdekes, mint egy jó TikTok-videó.
+A szankciókkal kapcsolatban elmondta, hogy Magyarország minden egyes szankciós javaslatot átnézett a nemzeti érdek szempontjából, és nem engedte, hogy olyan vállalatokat vagy személyeket szankcionáljanak, akik a magyar energiaellátás szempontjából kulcsfontosságúak. Tagadta, hogy ezzel orosz érdekeket szolgált volna:
 
-<details>
-<summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
+> „Az én döntésemet nem az orosz érdek befolyásolja, az én döntésemet a magyar érdek befolyásolja." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=8092)
 
-- **"Benöszel", "Benköző Szilérd"**: Az ASR többször hibázott ebben a névben. A helyes forma: **Benköző Szilárd** (Szijjártó Péter legjobb barátja).
+### A lehallgatási ügy
 
-- **"Szí László"**: Valószínűleg **Szíj László** vagy **Szíjjártó László** – az ASR nem tisztázta egyértelműen ezt a nevet, de a kontextus alapján egy oligarchára utal.
+Szijjártó a kampány utolsó heteiben nyilvánosságra került telefonbeszélgetéseiről azt mondta, hogy azok „külföldi titkosszolgálati akció" részei voltak, és a beszélgetéseket „hamis, hazug kontextusban" hozták nyilvánosságra. Hangsúlyozta, hogy soha semmilyen titkos információt nem adott át.
 
-- **"Kesmával, megafonnal, vadhajtásokkal, Bayer Zsolttal"**: Az ASR nehezen értelmezte ezeket a médiaszereplőket/médiumokat. Valószínűleg: Kesma (Közép-Európai Sajtó és Média Alapítvány), Megafon (médiaoldal), valamint Bayer Zsolt (publicista).
+> „Soha, semmilyen titkos vagy ehhez hasonló információ átadására nem került sor soha." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=9885)
 
-- **"Szék PI Szabolcs"**: Az ASR valószínűleg **Szék Panyi Szabolcsra** utal, aki egy magyar újságíró/publicista.
+### Kovács Béla ügye
 
-- **"Gully Gergely"**: Valószínűleg **Gulyás Gergely**, a Fidesz politikusa.
+Arra a kérdésre, hogy kérte-e valaha Lavrovot Kovács Béla (az orosz kémkedésért elítélt volt jobbikos képviselő) kiadására, Szijjártó azt válaszolta: „Nem volt a radaromon az ügy." Elismerte, hogy „lehet, hogy kérhettük volna", de nem foglalkozott vele.
 
-- **"Barátságköljvezetéket"**: Az ASR valószínűleg a **"barátság vezetéket"** (Druzhba pipeline) akarta mondani, amely az orosz olajvezeték.
+## A jachtozás és a feleség vállalkozásai
 
-- **"Tolamról a kupak"**: Értelmezhetetlen szövegrész, valószínűleg ASR-hiba. A kontextus alapján valamilyen energiaügyi szerződésről lehet szó.
+### A jachtozás
 
-- **"Szőlőutca, kegyelmi ügy"**: Ezek valószínűleg különböző korrupciós ügyek rövidítéseiként szerepelnek, de az ASR nem tisztázta egyértelműen.
+Szijjártó elmondta, hogy a Szíjj Lászlóhoz köthető jachton azért nyaralt, mert legjobb barátja, Benkő Szilárd a családjával ment hajózni, és őket hívták meg. Tagadta, hogy bármilyen összefüggés lenne a hajó tulajdonosának gazdasági támogatásai és az ő nyaralása között.
 
-- **"Benközard"**: Az ASR valószínűleg **Benköző Szilárdra** utal, de a szöveg torzította a nevet.
+> „Soha semmilyen összefüggés nem volt az én nyaralásom meg a hajó tulajdonosának gazdasági támogatásai között." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10330)
 
-- **"Szí László"**: Valószínűleg **Szíj László** vagy egy másik oligarcha neve, de az ASR nem tisztázta egyértelműen.
+### A feleség cége
 
-- **"Matolcsi György"**: Az ASR helyesen azonosította, de a kontextus alapján a jegybank körüli botrányokról van szó.
+A műsorvezető bemutatott egy grafikont, amely szerint Szijjártó feleségének cége, az Interior Design Kft. kiugróan magas, 30-50%-os nyereséget realizál, szemben a hasonló cégek 10%-os átlagával. Szijjártó azt mondta, nem tudja kommentálni az ábrát, mert „fogalma sincs, hogy ezek a számok helytállóak-e".
 
-- **"Tiborc István"**: Az ASR valószínűleg **Tiborcz István**-t akarta mondani.
+> „Soha, semmilyen módon nem folytam bele a feleségem vállalkozásainak tevékenységébe. Soha semmilyen segítséget, támogatást ő nem kért tőlem. Soha semmilyen állami szervezettel nem álltak kapcsolatban." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10859)
 
-- **"Garancsi István"**: Az ASR valószínűleg **Garancsi István**-t akarta mondani.
+Arra a kérdésre, hogy otthon megkérdezi-e a feleségétől, kik a megrendelői, azt válaszolta: „Nem, hát amiből annak 500 millió forintot vesznek ki éves szinten. Nem kérdezi meg otthon a feleségét, hogy mégis ki a megbízó?" Hozzátette, hogy a felesége vállalkozásai kizárólag a magánpiacon tevékenykednek, állammal soha nem kerültek kapcsolatba.
 
-- **"Kóka János"**: Az ASR helyesen azonosította, de a kontextus alapján egy olyan üzletemberről van szó, aki támogatást kapott.
+## A Fidesz jövője és személyes kilátások
 
-- **"Wallis csoport szent királyi ásványvíz Valóg Levente"**: Az ASR teljesen összezavarta ezt a szövegrészt. Valószínűleg a Wallis csoportról és annak vezetőiről van szó, de az ASR nem értelmezte helyesen.
+### Orbán Viktor szerepe
 
-- **"Szék Panyi Szabolcs"**: Az ASR valószínűleg **Szék Panyi Szabolcsra** utal, de a név torzult az átiratban.
+Szijjártó szerint a Fidesz jövője Orbán Viktor nélkül nem elképzelhető. Nem tartaná jó dolognak, ha lemondana a pártelnökségről. Ugyanakkor elismerte, hogy a pártnak változnia kell:
 
-- **"Matolcsi György"**: Az ASR helyesen azonosította, de a jegybank körüli botrányokról van szó.
+> „Hibátlan-e a mi közösségünk? Nem, nem hibátlan. [...] Kell-e majd másként csinálni egy csomó dolgot a jövőben, hogyha szeretnénk sikeresek lenni majd újra? Igen, csomó mindent másként kell majd csinálni." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=11601)
 
-- **"Balog Zoltán"**: Az ASR helyesen azonosította, de a kegyelmi ügy kapcsán említik.
+### Személyes ambíciók és egészségi állapot
 
-- **"Novák Katalin"**: Az ASR helyesen azonosította, de a kegyelmi ügy kapcsán említik.
+Szijjártó kijelentette, hogy soha nem volt miniszterelnöki ambíciója, és nem is lesz. Elmondta, hogy tavaly egy szűrővizsgálaton olyan diagnózist kapott, ami miatt több beavatkozáson is átesett, és ez befolyásolhatja jövőbeli szerepvállalását.
 
-- **"Varga Judit"**: Az ASR helyesen azonosította, de a kegyelmi ügy kapcsán említik.
+> „Nekem soha nem volt ilyen ambícióm. Tehát én azt gondoltam mindvégig, hogy a külügyminiszteri pozíció az a csúcs, amit én elérhetek." – Szijjártó Péter [*](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=11337)
 
-- **"Kocsis Máté"**: Az ASR helyesen azonosította, de a kegyelmi ügy kapcsán említik.
+Arra a kérdésre, hogy beül-e a parlamentbe, azt válaszolta: „Majd eldöntjük, hogy lesz-e még négy."
 
-- **"Rogán Antal"**: Az ASR helyesen azonosította, de a szövegben több helyen szerepel.
+## Záró gondolatok
 
-- **"Mészáros Lőrinc"**: Az ASR helyesen azonosította, de az oligarcha gazdagodásáról van szó.
+Az interjú végén a műsorvezető Orbán Viktor 2025-ös kötcsei pikniken elhangzott mondatát idézte: „Semmi sem lesz elfelejtve, minden fel lesz jegyezve és minden el lesz rendezve." Szijjártó erre annyit mondott: „Remélem csak jókat [jegyzett fel róla a miniszterelnök]."
 
-- **"Szíj László"**: Az ASR valószínűleg **Szíj László**-t akarta mondani, de a név torzult.
+A beszélgetés során Szijjártó Péter végig kitartott a Fidesz kampányának fő üzenetei mellett, nem mutatott érdemi önkritikát, és a választási vereség okait elsősorban külső tényezőkben – külföldi beavatkozásban, a „nem politikai szereplők" viselkedésében, valamint a média által közvetített torz képben – jelölte meg.
 
-- **"Benköző Szilárd"**: Az ASR többször hibázott ebben a névben, de a helyes forma: **Benköző Szilárd**.
+<!-- SECTION:UNCERTAIN -->
 
-</details>
+- „a szobába vágtam" – Valószínűleg elharapott vagy félrehallott mondatrészlet, a kontextus alapján nem rekonstruálható pontosan.
+- „Horri Billediktu" – Valószínűleg egy nevet vagy kifejezést torzított az ASR, a kontextus alapján nem azonosítható.
+- „a romon" – Töredékes szó, valószínűleg „az oroszok" vagy hasonló kifejezés torzult változata.
+- „Herpet alját" – Értelmezhetetlen szakasz, valószínűleg félrehallott mondatrészlet.
+- „Benközard" / „Benköző Sziled" – A kontextus alapján Benkő Szilárdról van szó, az ASR többféleképpen torzította a nevet.
+- „futcár" – Valószínűleg „focizás" vagy „futball" torzított alakja.
 
 ## Átirat
 
@@ -3134,6 +3127,10 @@ Azt mondta, hogy egy nagy beruházás, amely több tízezer munkahelyet teremt, 
 [02:53:14](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10394) És amikor ilyen honvéd MTK meccs van, én mindig előtte, mind az edzőknek, mind a játékosoknak, mind a szülőknek a figyelmét felhívom arra, hogy nem szeretnék hallani egyetlen egy kritikát sem a srácok felé, mert senki nem tett arról, hogy ki az édesapja, ki az édesanyja.
 
 [02:53:31](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10411) Nincsen helye a gyerekeknek a politikában, meg nincsen helye a politikának a gyerekek életében.
+
+[02:53:38](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10418) Tehát nincs Benőszel, bocsánat, Benköző Sziled az olyan futzálos barátra.
+
+[02:53:41](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10421) Nem futszcáros barátom, mert már sokkalsokkal azelőtt a legjobb barátom volt, hogy egyáltalán tudtuk, hogy mi az a futcár.
 
 [02:53:48](https://www.youtube.com/watch?v=oNZ3NpBvZi4&t=10428) Ő kapott támogatást bármilyen cégen keresztül a Külittal?
 
