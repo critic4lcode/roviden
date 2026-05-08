@@ -18,7 +18,7 @@ published_at: '2026-05-08T15:00:06+00:00'
 duration_sec: 4790
 tags: []
 transcript_source: youtube_subtitle
-summary_model: deepseek/deepseek-v4-pro
+summary_model: google/gemini-3-flash-preview
 ---
 
 <!-- SECTION:TLDR -->
