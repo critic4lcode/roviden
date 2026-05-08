@@ -129,7 +129,7 @@ channels:
   default_tags:
   - közélet
   - fókuszstúdió
-  notes: A Fókusz Stúdió fő csatoránja
+  notes: A Fókusz Stúdió fő csatornája
   patreon: https://www.patreon.com/fokuszcsoport
 - id: UC7ivXUYaRoZb5WDLKksETUA
   slug: puzser-robert
@@ -228,8 +228,8 @@ channels:
     a Fidesz-kormánnyal szemben, de gazdasági alapon, nem pártpolitikailag
   donate: https://mfor.hu/klasszis/elofizetes
 - id: UCX32YkhuN63IPAx1ji5RZGg
-  slug: szinen-tul
-  display_name: Színen túl
+  slug: szinten-tul
+  display_name: Szinten túl
   affiliation: independent
   direction: centrist
   default_tags:
@@ -301,7 +301,7 @@ channels:
   - nyomozás
   - rendőrség
   - mi hazánk
-  notes: A Bűnvadászok egy olyan, a Mi Hazánk Mozgalom támogatásával és a Magyar Önvédelmi
+  notes: A Bűnvadászok egy olyan csatorna, amely a Mi Hazánk Mozgalom támogatásával és a Magyar Önvédelmi
     Mozgalom (MÖM) közreműködésével a közbiztonság hiányosságait kritizálva, helyszíni
     „rendteremtő” akciókat és a bűnözés elleni civil fellépéseket mutatja be.
 - id: UCFyfoQmQSAlmujW8aLKRLPw
@@ -311,7 +311,7 @@ channels:
   direction: liberal
   default_tags:
   - közélet
-  notes: Momentum hivatalos csatórnája
+  notes: Momentum hivatalos csatornája
 - id: UCDHjSN4vbfmzb8Cdfsob9Gg
   slug: magyar-peter
   display_name: Magyar Péter Hivatalos
