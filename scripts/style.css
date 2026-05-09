@@ -1753,6 +1753,6 @@ body.modal-open .about-fab { display: none; }
   .tts-bar-row-controls { flex-wrap: wrap; }
   .tts-bar-right { display: contents; }
   .tts-close-wrap { order: 3; flex: 1; display: flex; justify-content: flex-end; align-items: center; }
-  .tts-rate-wrap { order: 10; width: 100%; padding: 0 0.2rem; }
+  .tts-rate-wrap { order: 10; width: 100%; padding: 1rem 0.2rem; }
   .tts-rate-wrap input[type=range] { flex: 1; width: auto; }
 }
