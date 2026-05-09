@@ -11,193 +11,184 @@ direction: centrist
 notes: Central Médiacsoport, mérsékelt mainstream
 published_at: '2026-05-07T09:01:07+00:00'
 duration_sec: 2850
-tags:
-- interjú
-- mesterséges intelligencia
-- kormánypolitika
-- elszámoltatás
-- választások
+tags: []
 transcript_source: youtube_subtitle
-summary_model: anthropic/claude-haiku-4.5
+summary_model: deepseek/deepseek-v4-pro
 ---
 
-## Összefoglaló
+<!-- SECTION:TLDR -->
 
-# tl;dr
+- Palkovics László, a leköszönő MI-kormánybiztos, a Fidesz vereségét a 16 éves kormányzásból fakadó természetes ciklusváltással és a háborús retorika félreértésével magyarázza.
+- Saját magát nem politikusként, hanem kívülről érkezett szakpolitikusként definiálja, akinek lemondását nem bizalomvesztés, hanem a minisztériumi eszközrendszer megszűnése okozta.
+- Az akkumulátorgyártást stratégiai ágazatként védi, a félvezetőipar európai feladásának hibájához hasonlítva, és tagadja a környezetszennyezési vádakat.
+- A CEU-ügyet tisztán oktatáspolitikai, jogi kérdésnek állítja be, és hangsúlyozza, hogy az egyetem továbbra is működik Budapesten.
+- Az MTA kutatóintézet-hálózatának leválasztását egy független, Max Planck-szerű modell létrehozásaként magyarázza, tagadva az akadémiai autonómia megsértését.
+- Állítja, hogy 2014 óta változatlan vagyoni helyzete miatt nem tart elszámoltatástól, és a jelenlegi közhangulatot a választások utáni felfokozott állapot számlájára írja.
 
-Palkovics László, a negyedik Orbán-kormány innovációs és technológiai minisztere, valamint az ötödik kormányban fél évig technológiai és ipari miniszter, most a mesterséges intelligenciáért felelős kormánybiztos, hosszú interjúban beszél a Della podcastban (2026. május 6.) az elmúlt 16 év kormányzásáról, a Fidesz választási vereségéről, és az ellene felhozott vádakról.
+<!-- SECTION:DETAILS -->
 
-Palkovics szerint a Fidesz bukása nem szakmapolitikai hibákból, hanem a 16 év után kialakuló politikai fáradságból és a generációváltás igényéből adódott. Azt állítja, hogy az ellene irányuló vádak (korrupció, hazugság) alaptalanok: vagyoni helyzete 2014 óta nem változott, és „bármilyen elszámoltatásnak szívesen áll elébe". A beszélgetés során kitér az akkumulátoripari betelepítésre, a Magyar Tudományos Akadémia átalakítására, a CEU ügyére, valamint az orosz-ukrán háborúval kapcsolatos kormányzati álláspontra.
+## A beszélgetés kontextusa és Palkovics László pozíciója
 
-A műsorvezető kritikája szerint Palkovics felületesen magyarázza a Fidesz által okozott társadalmi polarizációt és az ellenzékkel szembeni retorikát, csupán szakpolitikai argumentumokkal próbálva védekezni. Palkovics szerint azonban a kormányzati döntések hosszú távú stratégiákon alapultak, és az elszámoltatás majd idővel relativizálódik.
+A beszélgetés 2026. május 6-án, délután 2 órakor került rögzítésre, két nappal az új TISZA-kormány megalakulása előtt. Palkovics László a negyedik Orbán-kormány innovációs és technológiai minisztere, majd az ötödik Orbán-kormányban fél évig technológiai és ipari miniszter volt. A beszélgetés időpontjában a mesterséges intelligenciáért felelős kormánybiztosként tevékenykedett, megbízatása május 9-ig szólt.
 
----
+A műsorvezető, Bakaev Zoltán rögtön a beszélgetés elején szembesítette Palkovicsot azzal a feltevéssel, hogy a nézők 90%-a azt gondolja majd, hogy hazudik, és nem a stúdióban, hanem egy rendőrségi kihallgatószobában lenne a helye. Palkovics ezt a kampányidőszak felfokozott hangulatával magyarázta, és hangsúlyozta, hogy 2014-es vagyoni helyzete azonos a jelenlegivel.
 
-#  Részletes összefoglaló
+> „Én 2014-ben az iparból jöttem. Az akkori vagyoni helyzetem az pont ugyanaz, mint a mostani vagyoni helyzetem." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=187)
 
-## A Fidesz vereségének okai és a közállapot
+## A Fidesz választási vereségének okai
 
-A műsorvezető azonnal felveteti, hogy hallgatóinak 90%-a azt gondolja majd, hogy Palkovics hazudik, és börtönben kellene ülnie. Palkovics ezt a közállapotot a kampány felfokozottságának és a 16 év kormányzás után kialakuló természetes politikai fáradságnak tulajdonítja.
+### A 16 éves kormányzás cikluselmélete
 
-> „Kialakult egy ilyen közállapot Magyarországon, ami azért máshol nem szokott így lenni, ahol régebb óta gyakorolják ezt a dolgot." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=163)
+Palkovics szerint a Fidesz vereségének egyik fő oka az, hogy 16 év túl hosszú idő egy kormány számára. Történelmi párhuzamokat említett: Churchillt a megnyert világháború után nem választották újra, Kohlt 16 év után, Angela Merkelt szintén 16 év után nem választották meg újra. Úgy véli, egy fél generáció nőtt fel úgy, hogy csak a Fidesz-kormányt látta, és „mást is szeretne látni".
 
-Szerinte a Fidesz vereségét nem szakmapolitikai hibák okozták, hanem az, hogy az emberek megunták a 16 évet. Példaként Churchill, Kohl és Merkel esetét említi: hosszú kormányzás után az emberek változást akarnak. A 16 év alatt egy új generáció nőtt fel, amely más vezetést szeretne látni.
+> „Van egy ilyen hatás, hogyha túl sokáig vagy ott, akkor először megunnak. 16 az nagyon hossz idő egyébként, azalatt egy fél generáció felnő, aki ha csak bennünket, most már öreg embereket lát, akkor már mást is szeretne látni." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=645)
 
-> „16 az nagyon hosszú idő egyébként azalatt egy olyan generáció látsz egy fél generáció földnő, aki ha csak bennünket most már öreg embereket lát, akkor akkor már mást is szeretne látni." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=256)
+### A 2018-2022-es időszak értékelése
 
-## Az ellene felhozott vádak és az elszámoltatás
+Palkovics a 2018 és 2022 közötti kormányzati időszakot sikeresnek ítélte, hiszen a Fidesz 2022-ben kétharmaddal győzött. Kiemelte, hogy ez a covid-járvány ellenére történt, amikor „néhány hónap alatt omlott össze a környezetünk". Szerinte az akkori kormányzati konstrukciók – köztük a modellváltott egyetemek és az akadémiai kutatóintézetek átszervezése – jó döntések voltak.
 
-Palkovics azt állítja, hogy vagyoni helyzete 2014-ben és 2026-ban azonos. Nem fektetett be, nem vásárolt ingatlant, bankzámlán tartja megtakarításait. Azt mondja, hogy ezek nyilvánosak és követhetőek.
+### A háborús retorika kérdése
 
-> „Bármilyen elszámoltatásnak szívesen állok elébe. Azt nem állítom, hogy miniszterként nem követtünk el hibákat, de azok a kormányzat struktúrájából adódó hibák voltak." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=2703)
+A műsorvezető rákérdezett, hogy Palkovics a mai napig elhiszi-e, hogy Magyarország háborúba sodródhat. Palkovics válasza szerint ez továbbra is reális veszély, amíg a szomszédban háború zajlik és a nemzetközi helyzet „egyre bonyolultabbá válik". A kampányban elhangzott állításokat nem hazugságként, hanem az akkori valóságértelmezésként magyarázta.
 
-Azt állítja, hogy a kormányzati döntések hosszú távú stratégiákon alapultak, és az elszámoltatás majd idővel relativizálódik. Szerinte néhány hónap múlva máshogy fogják látni az elmúlt időszakot.
+> „Nem, ez egyszerűen az értelmezése annak a valóságnak, amit akkor úgy gondoltunk, hogy valóban ez történik." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=456)
 
-## Az orosz-ukrán háború és a magyar külpolitika
+A hadiipar fejlesztését hozta fel példaként az előrelátásra: 2020-ban kezdte el Magyarország a hadiipar építését, amikor „ha bárki azt mondta volna, hogy itt néhány éven belül nagy háborús konfliktus lesz Európában, szerintem azt lehülyéztek volna". A Rheinmetall részvényeinek értéke 70 euróról 2900 euróra emelkedett, ami szerinte igazolta a döntés helyességét.
 
-A műsorvezető azt kérdezi, hogy Palkovics még mindig hisz-e abban, hogy Magyarország háborúba sodródik, ha a Tisza Párt nyer. Palkovics szerint ezt nem lehet biztosan tudni, de a történelmi tapasztalatok (az első és második világháború) azt mutatják, hogy Magyarország gyakran „belekerül" a háborúkba, anélkül, hogy azt szándékozná.
+### Az orosz-ukrán háború megítélése
 
-> „Tehát Magyarországon a ha megnézzük az első és a második világháború történetét, akok mindig így szoktak történni egyébként a a háborúba sodródások. Nem akartunk mi egyébként háborúba venni." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=461)
+Palkovics szerint soha senki nem vonta kétségbe, hogy Ukrajnát megtámadták. Ugyanakkor úgy véli, hogy Ukrajna szerepét a háború kitörésében a történészeknek kell majd vizsgálniuk. Hangsúlyozta, hogy Ukrajna szuverén nemzet, és természetes, hogy kiáll saját ügyéért.
 
-2020-ban a magyar kormány – egyedüliként – azt gondolta, hogy néhány éven belül jelentős európai konfliktus lesz. Ezért elkezdtek hadipart építeni. A Ramet részvényei 70 euróról 2900 euróra nőttek, ami szerinte azt mutatja, hogy helyesen döntöttek.
+> „Az, hogy egy nép megadja magát egy ilyen helyzetben, az nyilván nem elfogadható." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=667)
 
-Az Ukrajna elleni orosz támadást Palkovics nem vonja kétségbe, de azt mondja, hogy a felelősségi viszonyok vizsgálata történészek feladata. Ukrajna szuverén nation, és joga van kiállni saját ügye mellett. A magyar kormány azonban azt gondolja, hogy az elszaladt helyzet elkerülhető lett volna.
+## Palkovics László politikai szerepfelfogása
 
-## Az akkumulátoripari betelepítés
+### Szakpolitikus vs. politikus
 
-Ez az egyik legvitatottabb téma. Palkovics szerint az akkumulátoripari betelepítés stratégiai döntés volt, amely hosszú távú perspektívát igényel. Nem lehet ma csinálni valamit és holnap látni az eredményt – Kína és Dél-Korea 30 éve fejlesztik ezt az iparágat.
+Palkovics többször hangsúlyozta, hogy ő nem politikusnak, hanem szakpolitikusnak tekinti magát. 2014-ben kívülről érkezett a kormányba, a felsőoktatási rendszer átalakítására kapott felkérést. Szerinte a kormányban nem baj, ha szakemberek vannak, de egy kívülről jött szakembernek tisztában kell lennie azzal, hogy a szakmai és a politikai szempont nem azonos.
 
-> „Tehát ezek nagyon hosszútávú döntések. Ugye azt kell eldönteni egy közösségnek, egy országnak, hogy milyen viszonyt akarunk ezek az ügyekhez." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=1531)
+> „Amennyiben a szakmai szempont ütközik a politikai szemponttal, akkor nem biztos, hogy nem a szakmai szempont fog vesztesen távozni ebből a történetből, mert az emberek politikára adnak felhatalmazást." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=808)
 
-Az akkumulátor stratégiai termék, mert ha valaki tud akkumulátort gyártani, akkor befolyást gyakorolhat a világ egy részére. Magyarország autóipara és elektronikai szektora van, de akkumulátoripara nem volt – ezért lett volna szolgáltatva az ország.
+### Lemondásának okai
 
-A 2020–2022 között 3000 milliárd forint feletti támogatás (részben támogatás, részben hitel) magyar KKV-knak ment, hogy alkalmasak legyenek az akkumulátorgyárak beszállítóinak lenni. Palkovics szerint az a kritika, hogy a külföldi gyárak nem adnak munkát a magyar beszállítóknak, képességhiányt jelent, nem szándékosságot.
+Palkovics 2022 végi lemondását nem a miniszterelnök bizalmának megrendülésével, hanem az eszközrendszerének megszűnésével magyarázta. Elmondása szerint a technológiai és ipari minisztérium tevékenységi területe változott meg olyan módon, hogy nem tudta volna teljesíteni a vállalt feladatot. Az energetika önálló minisztériummá alakításával csökkent a mozgástere.
 
-> „Ha ők nem tudnak, akkor az képesség hiányt jelent, az nem más jelent. Nem azért van, mert a gonosz külföldiek azok nem akarják ezt nekik odaadni." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=1763)
+A sajtóhírekkel ellentétben nem a Kréta-rendszer elleni kibertámadás vagy a Nagy Mártonnal való viták miatt távozott. Utóbbival kapcsolatban elmondta, hogy folyamatos szakmai vitáik voltak, ami szerinte természetes: „Az lett volna csúnya, hogyha a kormánytagok nem vitatkoznak egymással."
 
-## Az akkumulátoripar és a környezetszennyezés
+### Vita Nagy Mártonnal
 
-A műsorvezető több kritikát említ: az akkumulátoripari betelepítés nem hoz akkora hozzáadott értéket, mint remélték; a jövedelem nagy része elhagyja az országot; és komoly környezetszennyezési problémák vannak.
+A vita fő ütközőpontja a magyar ipar szerkezete volt. Nagy Márton makroközgazdászként a nagy struktúrákat látta, míg Palkovics mérnökként az ipar működését értette. Nagy Márton szerint az autóipar és az akkumulátoripar rossz döntés volt, mert akkor éppen lefelé menő szakaszban voltak. Palkovics ezzel szemben hangsúlyozta, hogy ezek hosszú távra épült történetek, és „ebben nem úgy van, hogy ma teszek valamit és holnap látom az eredményét".
 
-Palkovics szerint az alapanyagok behozhatóak, és az összeszerelés Magyarországon történik – tehát van teljes ökoszisztéma. A félvezetőiparban ugyanazokat a veszélyes anyagokat használják, mint az akkumulátoriparban, de mivel zárt folyamatban maradnak, nem veszélyesek a környezetre.
+## Az akkumulátoripar stratégiai jelentősége
 
-> „A gyógyszergyárba ugyanazokat a ugyanazokat a a különböző higításra használt szervesanyagokat használják egy az egybe. Ha nem jön ki onnét, akkor az nem veszélyes a környezetére." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=1829)
+### Az akkumulátorgyártás mint stratégiai ágazat
 
-A Greenpeace szerint nem találtak olyan szennyezést az akkumulátorgyárak mellett, amely meghaladná a határértéket. Palkovics szerint azonban a hatóságok dolga az ellenőrzés, és ha baleset történik, azt el kell kerülni.
+Palkovics részletesen kifejtette az akkumulátoripar melletti érveit. Szerinte az akkumulátor azért stratégiai termék, mert aki tud akkumulátort gyártani, az „hatást tud gyakorolni a világ egy részére". Magyarországon értékelhető autóipar és elektronikai ipar van, és ha nincs hozzá akkumulátoripar, akkor az ország kiszolgáltatottá válik ezen a területen.
 
-A műsorvezető azt állítja, hogy több cikk dokumentálta a magyar sajtóban a munkavállalókat érő kártékony hatásokat. Palkovics szerint a probléma nem a szennyezés önmagában volt, hanem annak észlelése és a hatósági reakciók késedelme.
+> „Aki akkumulátort tud gyártani, és ez a kérdés, akkor stratégiailag lesz akkumulátora, tehát akkor valamilyen formában de hatást tud gyakorolni a világ egy részére." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=1687)
 
-> „Tehát az, hogy baleset történt egy gyárban valamilyen formában, az meg meg fog történni még addig, amíg egyébként ez a technológiai nemám ez teljesen stabil." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=2044)
+### Történelmi párhuzam: a félvezetőipar esete
 
-## Nagy Márton vitái és az iparminisztérium felépítése
+Palkovics a félvezetőipar példájával illusztrálta, miért fontos az akkumulátorgyártás megtartása. Európa 20 évvel ezelőtt feladta a félvezetőgyártást, átadta Ázsiának, majd 2020-ban szembesült a következményekkel: „nem tudunk Európában autót gyártani, sőt semmit nem tudunk, mert nem jönnek a csipek Ázsiából". A félvezetőgyártás feladásának három indoka volt: energiaigényes, veszélyes anyagokat használ, és munkaerőigényes. Most ugyanezeket a kritikákat hallja az akkumulátorgyártással kapcsolatban.
 
-Palkovics és Nagy Márton nemzetgazdasági miniszter között folyamatos viták voltak az ipar szerkezetéről. Nagy Márton makroközgazdász, aki nagy struktúrákat lát; Palkovics mérnök, aki az ipar működését érti. Az autóipar és az akkumulátoripari kérdésekben voltak nézeteltérések.
+### A magyar beszállítók helyzete
 
-> „Nagymárton ő ugye makrok közgazdász tehát ő a nagy struktúrákat, nagy számokat látja. Én meg mérnök vagyok, aki megérti az iparnak a működését." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=943)
+Palkovics cáfolta, hogy a magyar beszállítók ne férnének hozzá az akkumulátorgyártáshoz. Állítása szerint 2020 és 2022 között 3000 milliárd forint fölötti összeg ment a magyar KKV-szektorba, részben támogatásként, részben hitelként, hogy alkalmassá váljanak az akkumulátorgyárak beszállítóivá. Ha mégsem tudnak beszállítani, az szerinte képességhiányt jelent, nem pedig a „gonosz külföldiek" kizáró magatartását.
 
-Palkovics szerint az volt volna csúnya, ha a kormánytagok nem vitatkoznak egymással. A viták azonban nem voltak személyesek, hanem szakmai jellegűek.
+### A környezetszennyezési kérdések
 
-## Palkovics lemondása 2022 végén
+Palkovics szerint az akkumulátorgyártás környezeti kockázatai a gyáron belül maradva kezelhetők. Párhuzamot vont a gyógyszergyártással, ahol ugyanazokat a szerves anyagokat használják. Hivatkozott a Greenpeace jelentésére, amely szerint nem találtak határérték feletti szennyezést az akkumulátorgyárak és újrafeldolgozók környezetében.
 
-A műsorvezető azt kérdezi, miért lépett vissza 2022 őszén, amikor szerinte Palkovics megnyerte a vitát Nagy Mártonnal, és a kormány teljes mértékben az akkumulátoripari betelepítésre koncentrált.
+A probléma szerinte nem maga a szennyezés, hanem az észlelés és a hatósági reakciók elmaradása volt. Állítása szerint az ő minisztersége idején (2020-2022) a katasztrófavédelem mindig vizsgálta az eseteket, és a mérési eredmények nem mutattak határérték-túllépést.
 
-Palkovics szerint nem a Nagy Mártonnal való viták miatt lépett vissza, hanem azért, mert az orosz-ukrán háború után az energetika önálló minisztériumként kiválva csökkentette az ő minisztériumának hatáskörét. Az energetika és az ipar szorosan összefonódott, és az elválasztás azt jelentette, hogy nem tudta teljesíteni a miniszterelnök által rábízott feladatokat.
+> „Amikor ilyen történt, a kormánynak ebbe egyértelmű az álláspontja: nem történhet ilyen. Tehát hogyha történt, akkor annak felelősei vannak." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=32)
 
-> „Innentől kezdődően a nekem politikusként a legitimációt a feladat adta, hogyha a feladatnak az eszköz elveszik, akkor nyilván nem tudom végrehajtani." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=876)
+Szijjártó Péterre hivatkozva elmondta, hogy a külügyminiszter szerint soha nem volt kormányülésen téma az akkumulátorgyárak ügye. Palkovics szerint azonban „ez nyilván megjelent a kormányülésen azzal a kitétellel, hogy ne történjen ilyen, és ha történt, akkor találjuk meg a felelősét". Tagadta, hogy Rogán Antal és Szijjártó Péter között lett volna olyan vita, amelyben a nemzetgazdasági érdekekre hivatkozva nagyvonalúságot kértek volna az ilyen esetekkel szemben.
 
-## Az autóipar története és stratégiája
+## A magyar autóipar története és fejlődése
 
-Palkovics hosszan beszél az autóipar fejlődéséről. 1967-ben a magyar közúti járműprogram létrehozta a modern magyar autóipart (Ikarus, Csepel, Rába). 1989-ben azonban politikai döntések miatt az ipar összeomlott – például nem adtak el buszt a volt szocialista országokba.
+Palkovics hosszan elemezte a magyar autóipar történetét. Szerinte Magyarország legsikeresebb programja az 1967-es közúti járműprogram volt, amely létrehozta a modern magyar autóipart, beleértve a Rábát, a Csepel Autót, az Ikarust, valamint az első szintű beszállítókat (Videoton, SzIE). Ekkor jöttek létre olyan intézmények is, mint a Széchenyi István Egyetem Győrben.
 
-A 1990-es évek után azonban Nyugat-Európa kapacitásigénye miatt Magyarország ideális helynek bizonyult. A mai magyar autógyárak a világ legmodernebb gyárai közé tartoznak.
+1989-ben politikai döntések miatt ez az ipar összeomlott – például nem adtak el buszokat a volt szocialista országokba. Ugyanakkor Nyugat-Európában kapacitásigény jelentkezett, és Magyarország a meglévő struktúrákra és tudásra építve vonzotta be az autóipart.
 
-> „Magyarországon vannak most a világ legmodernebb autógyárai. Nem Kínában, nem Németországban, hanem itt." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=1185)
+> „Magyarországon vannak most a világ legmodernebb autógyárai. Nem Kínában, nem Németországban, hanem itt." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=1185)
 
-Az autóiparban két nagy technológiai folyamat zajlik: a hajtáslánc átalakulása (villanymotor, akkumulátor) és az autonóm vezetés (elektronika, szenzorika). Magyarország mindkettőben komoly szereplő.
+Az autóipar jelenlegi átalakulásának két súlyponti területe a hajtáslánc átalakulása (villamosgép és akkumulátor) és az autonóm vezetés (elektronika, szenzorika). Magyarország mindkét területen komoly szereplő.
 
-## A félvezetőipar és az akkumulátoripari stratégia
+## Az energetikai stratégia és az orosz gázfüggőség
 
-Palkovics szerint Európa 20 évvel ezelőtt azt döntötte, hogy a félvezetőgyártást nem kell. Ezt ázsiai gyártóknak adták át. 2020-ban azonban kiderült, hogy Európa nem tud autót gyártani félvezetők nélkül.
+Palkovics elmondta, hogy ő a magyar gazdaság elektrifikációját, azaz elektromos irányba történő átalakítását képviselte. Ennek pozitív következménye, hogy csökken a külföldi energiaforrásoknak való kitettség. A gáz az egyik legkomolyabb kitettséget jelentette, hiszen a magyar energetikai rendszer gázalapú.
 
-Az akkumulátoripari betelepítés hasonló stratégiai döntés volt. Az akkumulátor egy jó termék, mert kis térfogatban nagy energiát lehet tárolni. Ha Magyarország nem tud akkumulátort gyártani, akkor szolgáltatva lesz az ország.
+> „Én valóban azt képviseltem, hogy az orosz meg az egyéb kitettségünket, tehát a kívülről jövő energiahordozókra vonatkozó kitettséget csökkentsük, és térjünk át olyanokra, ami Magyarországon előállított energiaforrásokról beszélünk." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=1354)
 
-> „Tehát aki akkumulátort tud gyártani, és most következő kérdés az lesz, na de akkor miért a lítium ion és miért nem a szilár test akkumulátort meg a nárium alapú akkumulátorokat? Tökéletesen mindegyik ökoszisztémákat építünk." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=1687)
+A 2021-es orosz-magyar gázszerződést akkor helyes döntésnek tartotta, mert „békeidő volt", a gáz garantált és olcsó volt. 2022-ben, a háború kitörése után változott meg a helyzet, amikor felmerült a gázvezetékek szétlövésének veszélye.
 
-## A Közép-Európai Egyetem (CEU) ügye
+## A CEU-ügy
 
-A műsorvezető azt mondja, hogy Palkovics szégyellnie kellene a CEU elüldözésében való közreműködésért. Palkovics szerint azonban a CEU nem költözött sehova – továbbra is működik a Nádor utcában.
+### Palkovics álláspontja
 
-A CEU két egyetemet jelentett: egy magyarországi, bejegyzett egyetemet (Közép-Európai Egyetem) és egy külföldi anyaintézményt (Szent Jupi Univerzit). A magyar kormány azt kérte, hogy a CEU feleljen meg a magyar jogszabályoknak – mint minden más külföldi egyetemnek.
+Palkovics szerint a CEU-t nem üldözték el, az egyetem továbbra is működik Budapesten, a Nádor utcában. Magyarázata szerint a CEU két egyetemet jelentett: egy Magyarországon bejegyzett, akkreditált egyetemet (Közép-európai Egyetem), amelyet „soha senki nem bántott", és a CEU-t (Central European University), amelytől csak annyit kértek, hogy feleljen meg a magyar jogszabályoknak, mint minden más külföldi egyetem.
 
-> „Tehát az, hogy a CEU, mint nem a középvétel azan működik? Magyarországon ez egy jogi kérdés volt." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=2172)
+> „A CEU az itt van, él, működik boldogan, és egyébként pedig van neki egy bécsi kampusza, amit lehet, hogy nem hozott volna létre." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=2199)
 
-Palkovics szerint ez tisztán oktatáspolitikai ügy volt, nem politikai. A CEU bécsi kampusza később jött létre, és ott azonnal megfeleltek az osztrák jogszabályoknak. A magyar kampusz azonban nem akart megfelelni.
+Állítása szerint ez tisztán oktatáspolitikai ügy volt, jogi kérdés. A Velencei Bizottság – amely „nem a kormánynak a barátja" – meghallgatta a feleket, és „úgy mentek el, hogy ők tulajdonképpen nem tudják, hogy mi itt az ügy".
+
+### A műsorvezető ellenvetése
+
+A műsorvezető felvetette, hogy ez az Orbán-kormány egyik „nünükéje" (rögeszméje) volt, és hogy a CEU-t el kellett lehetetleníteni. Palkovics ezt azzal utasította el, hogy a CEU korábban egy miniszteri levél alapján jött létre (Magyar Bálint idején), ami „minden versennyel szemben" történt, és ők csak a jogszabályok betartását kérték. Hozzátette: „amikor létrehozták a bécsi kampuszokat, hirtelen minden osztrák jogszabálynak megfeleltek, csak itt nem akartak megfelelni".
 
 ## A Magyar Tudományos Akadémia átalakítása
 
-A Magyar Tudományos Akadémia dolgozői közleménye szerint Palkovics László „kártékonyabb figura" a magyar tudomány történetében, mint az 1950-es évek szereplői.
+### Az előzmények
 
-Palkovics szerint a kutatóintézet hálózat átalakítása nem volt negatív. Az volt a cél, hogy egy Max Planck-szerű, független kutatóhálózat jöjjön létre, amely saját tudományos testületei által irányított. Ezt nem az akadémia elnöke irányítaná, hanem önálló egységként működne.
+A műsorvezető egy 2020 környéki MTA-dolgozói közleményből idézett: „Véleményünk szerint nehéz lenne Palkovics Lászlónál kártékonyabb figurákat találni a magyar tudomány történetében. Legalább az 50-es évekig kellene visszamenni a történelemből."
 
-> „Tehát az akadémián belül nem a köztestület elnökéhez tartozva, hanem egy önálló független egységként hozzuk létre ezt a dolgot." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=2543)
+Palkovics először tisztázni kívánta, kik írták ezt a közleményt, mivel az MTA bonyolult szervezet: van a köztestület, a kutatóintézet-hálózat és az adminisztráció. Szerinte a kutatóintézet-hálózat vezetői és dolgozói nem látják negatívnak a szerepét.
 
-A kutatóintézet vezetői szerint az autonómia és függetlenség, amely így jött létre, pozitív. Az új akadémia elnök (Faszman) szerint az akadémia autonómiáját senki nem sértette meg.
+### A kutatóintézet-hálózat függetlenítése
 
-Palkovics szerint a tavalyi közgyűlésen több kutatóintézet vezető állt föl, és azt mondta, hogy a világon nem sok sikeres akadémiához tartozó kutatóintézet hálózat van – ezért nem akarják visszaadni az akadémiának.
+Palkovics elmondása szerint 2020-ban egy Max Planck-szerű, független kutatóhálózatot akartak létrehozni, amely saját szabályai alapján, saját tudományos testületei által irányított. Az általa örökölt rendszert „szovjet rendszernek" nevezte. Eredeti javaslata az volt, hogy az akadémián belül, de a köztestület elnökétől független egységként működjön a kutatóhálózat, és ebben meg is állapodtak Lovász László akkori elnökkel, de „ők valamiért visszaléptek".
 
-## A magyar innovációs költés növekedése
+### A jelenlegi helyzet
 
-2021-ben a magyar innovációs költés a GDP-hez viszonyított aránya 1,7% volt. Palkovics azt mondja, hogy ezt az 1%-ról 1,7%-ra növelte. Ezeket az intézményeket és cégeket költötték el az összeget, nem ő személyesen.
+Palkovics szerint a TISZA-kormány miniszterelnöke, Magyar Péter nem teljes visszacsinálást ígért, hanem tárgyalást az ügyről. Hivatkozott a tavalyi akadémiai közgyűlésre, ahol szerinte több kutatóintézet-hálózati vezető is kiállt a jelenlegi struktúra mellett, mondván, hogy „a világon nem nagyon van sikeres akadémiához tartozó kutatóintézet-hálózat".
 
-> „2021-ben a magyar innovációs költés GDP az viszony 1,7% volt. 1%-kal vettem át és 1,7-re ment föl." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=2755)
+> „Az akadémiának az autonómiáját senki nem sértette meg. Ez igaz, mert én biztos, hogy nem." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=2815)
 
-## A beszélgetés lezárása
+## Palkovics László jövője és az elszámoltatás kérdése
 
-A műsorvezető azt kérdezi, hogy a beszélgetés végén elmozdult-e az arány azon hallgatók között, akik azt gondolják, hogy Palkovics hazudik. Palkovics szerint a jelenlegi felfokozott állapot miatt nehéz megváltoztatni az emberek véleményét, de néhány hónap múlva, amikor a helyzet normalizálódik, máshogy fogják látni az elmúlt időszakot.
+### Vállalkozói tervek
 
-> „Szerintem, hogyha ez a beszélgetés nem most zajlik, mondjuk egy nappal vagy két nappal az új kormány megalakulása előtt, vagy a parlament megalakulása előtt, ha nem mondjuk két hónap múlva, de mondjuk legyen ez szeptember, akkor szerintem akkor szerintem már ez ez relativálódik." [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=2722)
+Palkovics elmondta, hogy nem a politikában nőtt fel, hanem az iparban, a tudományban és a felsőoktatásban. Vannak ügyek, amelyeket jelenleg is csinál, és gondolkodik saját vállalkozás indításán. Felidézte, hogy 2014-ben a Knorr-Bremsétől „leasingelték" a kormányba, és most „oda van vissza a leasing".
 
-<details>
-<summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
+Korábban volt egy közös vállalkozása Meggyesi Istvánnal és Török Imrével, amely információbiztonsági auditokkal foglalkozott, de 11 év alatt mindössze 35 millió forint bevétele volt, és nem lett sikeres.
 
-- „húytak szemet e fölött" – valószínűleg „húztak szemet e fölött" vagy „hunytak szemet e fölött" (azaz nem vették észre, vagy szándékosan figyelmen kívül hagyták)
-- „ormányűlésen" – valószínűleg „kormányülésen"
-- „Jártó Péter" – az átiratban így szerepel, de a kontextusból nem világos, hogy ki ez; valószínűleg egy korábbi külügyminiszter, de az ASR félreismerte a nevet
-- „Szírártó Péter" – valószínűleg „Szijjártó Péter" (külgazdasági és külügyminiszter)
-- „Nagymárton" helyesen: Nagy Márton (nemzetgazdasági miniszter)
-- „Lovász elnök úr" – valószínűleg az akadémia egy korábbi elnöke, de az átiratban nem tisztázott
-- „Faszman úr" – az átiratban így szerepel, de a teljes név nem világos; valószínűleg az új akadémia elnök
-- „Pálinkás elnök úr" – valószínűleg Pálinkás György, az MTA korábbi elnöke
-- „Jakab Rand" – az átiratban így szerepel, de az azonosítás bizonytalan
-- „Balási Gyula" – az átiratban így szerepel, de a kontextusból nem világos, hogy ki ez; valószínűleg egy kormányzati kommunikációs szereplő
-- „Hankó Balázs" – az átiratban így szerepel; valószínűleg egy fideszes politikus
-- „Knor Bemzénéltöttem" – értelmezhetetlen szótöredék, valószínűleg egy cég vagy szervezet neve, de az ASR nem ismerte fel
-- „KNOR nem remzétől" – valószínűleg „Knorr-Bremse"-től (német cég)
-- „Kréta" – az átiratban így szerepel; valószínűleg egy oktatási szoftver neve
-- „Nagymárton" – helyesen: Nagy Márton
-- „Ramet" – valószínűleg „Raytheon" vagy hasonló fegyvergyártó cég, de az ASR félreismerte
-- „Szabet barátaink" – valószínűleg „szovjet barátaink"
-- „Videóont, a szíet" – értelmezhetetlen szótöredékek, valószínűleg autóipari beszállítók nevei
-- „Széchenyi István Egyetem" – helyesen így szerepel az átiratban
-- „Kecskeméti főiskola" – az átiratban így szerepel
-- „Ruff Bálint" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Vitézy Dávid" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Rost Andrea" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Nagy Ervin" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Tarr Zoltán" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Radnai Márk" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Ruszin-Szendi Romulusz" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Gajdos László" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Bóna Szabolcs" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Lőrincz Viktória" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Hegedűs Zsolt" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Kapitány István" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Kármán András" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Melléthei-Barna Márton" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Pósfai Gábor" – az átiratban nem szerepel, de a kontextusból nem világos
-- „Orbán Anita" – az átiratban nem szerepel, de a kontextusból nem világos
+### Az elszámoltatás lehetősége
 
-</details>
+Palkovics határozottan állította, hogy nem tart az elszámoltatástól. Vagyoni helyzete 2014 óta változatlan: ugyanannyi háza és pénzállománya van, mint amikor a kormányba került. Megtakarításait nem fektette be, bankban tartja.
+
+> „Bármifajta ilyen elszámoltatásnak szívesen állunk elébe. Azt nem állítom, hogy miniszterként nem követtünk el hibákat, de azok a kormányzat struktúrájából adódó hibák voltak." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=2703)
+
+### A közhangulat megítélése
+
+A beszélgetés végén a műsorvezető megkérdezte, hogy Palkovics szerint a nézők 90%-a továbbra is azt gondolja-e, hogy hazudik. Palkovics válasza szerint a jelenlegi felfokozott állapotban ez természetes, de néhány hónap múlva, „mondjuk szeptemberben" már másképp ítélnék meg a helyzetet. Példaként említette, hogy a magyar innovációs költés GDP-arányosan 1%-ról 1,7%-ra nőtt a minisztersége idején, és ezeket a pénzeket nem ő, hanem az intézmények és cégek költötték el.
+
+> „Most egy olyan felfokozott állapot van, ami választások előtt, alatt meg utána tipikus. Ilyenkor az emberek kevéssé hisznek el azt, hogy mi történik." – Palkovics László [*](https://www.youtube.com/watch?v=mWnC0DSVlQo&t=2736)
+
+<!-- SECTION:UNCERTAIN -->
+
+- „az akkumulátoráb hát most olyan részletességgel" – valószínűleg „az akkumulátorgyárakról, hát nem olyan részletességgel" lehetett az eredeti mondat, de a kontextus alapján sem rekonstruálható pontosan.
+- „20202 közö katasztrófa katasztrófavédelemnek az ügye volt" – feltehetően „2020-2022 közötti időszakban a katasztrófavédelemnek az ügye volt", de az évszám pontatlan.
+- „ormányűlésen az volt téma" – valószínűleg „kormányülésen az volt téma", de az ASR torzítása miatt bizonytalan.
+- „Jártó Péter" – a kontextus alapján Szijjártó Péterről van szó, az ASR félreismerte a nevet.
+- „a délkori gyártók" – feltehetően „a dél-koreai gyártók" lehetett az eredeti kifejezés.
+- „az akkumulátor az abóvó szennyező" – valószínűleg „az akkumulátorgyár az alapból szennyező" vagy hasonló lehetett.
+- „energia 21 kezdeményezésre, ezt én hoztam létrek 2021-ben, 23-ban" – az évszámok és a kezdeményezés neve pontatlan, feltehetően „Energia21" vagy hasonló kezdeményezésről van szó.
+- „a BC akadémiát" – feltehetően „az MTA-n kívül" vagy hasonló értelemben, esetleg „a BME akadémiát" lehetett, de a kontextusból nem egyértelmű.
+- „Faszman úr" – valószínűleg egy osztrák oktatási miniszterre utal, a név pontosan nem azonosítható.
+- „a jelenlegi húránvezetés" – feltehetően „a jelenlegi HUN-REN vezetés" lehetett.
+- „Jakab Rand" – valószínűleg egy személynév, de pontosan nem azonosítható.
+- „Meg lepsényi Istvánra" – feltehetően „Meggyesi Istvánra" utal, az ASR torzította a nevet.
 
 ## Átirat
 
