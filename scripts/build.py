@@ -15,6 +15,7 @@ Usage:
     python build.py --out /path  # custom output directory
 """
 import argparse
+import hashlib
 import html
 import json
 import re
@@ -265,7 +266,7 @@ def _build_support_block(channel_support: dict, channel_name: str = "") -> str:
     )
 
 
-def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str, transcript_block: str, root: str = "..", source_rel: str = "", channel_data: dict | None = None) -> str:
+def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str, transcript_block: str, root: str = "..", source_rel: str = "", channel_data: dict | None = None, css_fname: str = "style.css", js_fname: str = "app.js") -> str:
     # channel_support also carries affiliation/direction/notes from channels.yaml (canonical)
     video_id = html.escape(str(fm.get("video_id", "")))
     video_url = html.escape(str(fm.get("video_url", f"https://www.youtube.com/watch?v={video_id}")))
@@ -395,6 +396,8 @@ def _build_video_page(fm: dict, tldr_md: str, details_md: str, uncertain_md: str
             source_label=source_label,
             summary_model=summary_model,
             channel_meta_block=channel_meta_block,
+            css_fname=css_fname,
+            js_fname=js_fname,
         )
         .replace("__POSTHOG_SNIPPET__", _POSTHOG_SNIPPET)
         .replace("__TTS_BAR__", _TTS_BAR_HTML)
@@ -439,7 +442,7 @@ def _card_html(entry: dict) -> str:
 
 
 
-def _build_index(data: list[dict]) -> str:
+def _build_index(data: list[dict], css_fname: str = "style.css") -> str:
     seen: dict[str, str] = {}
     for e in data:
         slug = e["channel_slug"]
@@ -502,6 +505,7 @@ def _build_index(data: list[dict]) -> str:
             direction_chips=direction_chips,
             affiliation_chips=affiliation_chips,
             cards=cards,
+            css_fname=css_fname,
         )
         .replace("__POSTHOG_SNIPPET__", _POSTHOG_SNIPPET)
         .replace("__POSTHOG_INIT_JS__", _POSTHOG_INIT_JS)
@@ -545,15 +549,24 @@ def build(site_root: Path, out_dir: Path) -> None:
 
     channel_data_map = _load_channel_data(site_root)
 
-    # Copy static assets (minified)
+    # Copy static assets (minified) with content-hash filenames for cache busting
     style = site_root / "scripts/style.css"
     if style.exists():
         minified = _minify_css(style.read_text(encoding="utf-8"))
-        (out_dir / "style.css").write_text(minified, encoding="utf-8")
+        css_hash = hashlib.sha256(minified.encode()).hexdigest()[:8]
+        css_fname = f"style.{css_hash}.css"
+        (out_dir / css_fname).write_text(minified, encoding="utf-8")
+    else:
+        css_fname = "style.css"
     app_js = site_root / "scripts/app.js"
     if app_js.exists():
+        js_content = app_js.read_text(encoding="utf-8")
+        js_hash = hashlib.sha256(js_content.encode()).hexdigest()[:8]
+        js_fname = f"app.{js_hash}.js"
         (out_dir / "scripts").mkdir(exist_ok=True)
-        (out_dir / "scripts/app.js").write_text(app_js.read_text(encoding="utf-8"), encoding="utf-8")
+        (out_dir / f"scripts/{js_fname}").write_text(js_content, encoding="utf-8")
+    else:
+        js_fname = "app.js"
     (out_dir / ".nojekyll").touch()
 
     # robots.txt – allow all crawlers incl. social scrapers; point to sitemap
@@ -594,7 +607,7 @@ def build(site_root: Path, out_dir: Path) -> None:
         ch_slug = str(fm.get("channel_slug", ""))
         ch_data = channel_data_map.get(ch_slug, {})
         fm["_page_url_rel"] = page_url
-        page_html = _build_video_page(fm, tldr_md, details_md, uncertain_md, transcript_block, root=root, source_rel=source_rel, channel_data=ch_data)
+        page_html = _build_video_page(fm, tldr_md, details_md, uncertain_md, transcript_block, root=root, source_rel=source_rel, channel_data=ch_data, css_fname=css_fname, js_fname=js_fname)
         out_page = out_dir / page_url
         out_page.parent.mkdir(parents=True, exist_ok=True)
         out_page.write_text(page_html, encoding="utf-8")
@@ -660,7 +673,7 @@ def build(site_root: Path, out_dir: Path) -> None:
     (out_dir / "data.json").write_text(
         json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    (out_dir / "index.html").write_text(_build_index(data), encoding="utf-8")
+    (out_dir / "index.html").write_text(_build_index(data, css_fname=css_fname), encoding="utf-8")
 
     print(f"Built {len(data)} video(s) → {out_dir}")
 

@@ -73,8 +73,8 @@ _VIDEO_TMPL = """\
 <meta name="twitter:image" content="https://i.ytimg.com/vi/{video_id}/hqdefault.jpg">
 <!-- JSON-LD -->
 <script type="application/ld+json">{jsonld}</script>
-<link rel="stylesheet" href="{root}/style.css">
-<script src="{root}/scripts/app.js" defer></script>
+<link rel="stylesheet" href="{root}/{css_fname}">
+<script src="{root}/scripts/{js_fname}" defer></script>
 __POSTHOG_SNIPPET__
 </head>
 <body>
@@ -154,7 +154,7 @@ _INDEX_TMPL = """\
 <meta name="twitter:description" content="Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói – gyorsan átláthatod a lényeget.">
 <!-- JSON-LD -->
 <script type="application/ld+json">{{"@context":"https://schema.org","@type":"WebSite","name":"Röviden","url":"{site_base_url}/","description":"Hosszú magyar podcastek, interjúk és beszélgetések AI-összefoglalói.","inLanguage":"hu"}}</script>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="{css_fname}">
 <script>!function(){{var t=localStorage.getItem('ytm_theme');if(t==='dark'||t==='light'){{document.documentElement.setAttribute('data-theme',t);}}else if(window.matchMedia('(prefers-color-scheme: dark)').matches){{document.documentElement.setAttribute('data-theme','dark');}}}}();</script>
 __POSTHOG_SNIPPET__
 </head>
