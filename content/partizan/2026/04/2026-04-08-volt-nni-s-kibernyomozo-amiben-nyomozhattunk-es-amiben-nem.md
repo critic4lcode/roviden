@@ -14,328 +14,80 @@ duration_sec: 5724
 tags:
 - rendőrség
 - korrupció
-- politikai nyomás
-- oknyomozás
+- interjú
+- közélet
+- belpolitika
 transcript_source: youtube_subtitle
-summary_model: anthropic/claude-haiku-4.5
+summary_model: google/gemini-3-flash-preview
 ---
 
-## Összefoglaló
+<!-- SECTION:TLDR -->
 
-# tl;dr
+- Virág Norman Viktor volt NNI-s nyomozó a rendőrségen belüli politikai befolyásoltságról és rendszerszintű szakmai problémákról tálalt ki.
+- Állítása szerint Szabó Bence százados ellen koncepciós eljárás folyik, miközben az állomány valójában hősnek tekinti a meghurcolt tisztet.
+- Az NNI bizonyos esetekben „VIP rendőrségként” működik, soron kívül intézve celebek, politikusok és kormányközeli szereplők pitiáner ügyeit.
+- A nyomozó szerint a vezetés passzív maradt orosz kiberbűnözőkkel szemben, és a külügyminisztérium elleni hackertámadás ügyében sem indult kötelező nyomozás.
+- A rendőrséget kritikus létszámhiány és elavult infrastruktúra sújtja; a III. kerületi kapitányság feltöltöttsége például 60% alá süllyedt.
+- A szakmai előmenetel feltétele a politikai lojalitás, a kritikus hangvételű vezetőket pedig azonnal eltávolítják pozíciójukból.
+- Létezik informális bírságolási kvóta, a hajléktalanok vegzálását pedig fotókkal kell igazolni a felsővezetés felé.
+- Viktor 10 év után a bürokrácia és a méltatlan körülmények miatt távozott, jelenleg az üzleti szférában dolgozik IT-szakértőként.
 
-Virág Norbert Viktor, 30 éves volt rendőr beszél arról, hogy 2021 és 2024 között a Nemzeti Nyomozó Iroda (NNI) kiberbűnözés elleni főosztályán, majd a III. kerületi rendőrkapitányságon dolgozott, mielőtt felmondott. Az interjú a rendőrség belső működésének, politikai nyomásának és etikai dilemmáinak feltárása.
+> „A kollégák nagy része azt érzékeli, hogy az emberhez méltó körülmények a munkavégzéshez nincsenek meg.” – Virág Norman Viktor
 
-Viktor szerint a rendőrségen belül VIP-rendőrség működik: a kormányhoz közel álló személyek, politikusok, celebek ügyeit prioritásként kezelik, míg az ellenzéki képviselőkkel szembeni feljelentéseket éveken át nem vizsgálják. Konkrét példákat hoz: Mága Zoltán Facebook-feltörésének nyomozása a hatáskörön kívül volt, mégis erőforrásokat pazaroltak rá, míg egy államtitkár kártyaadatainak ellopása valóban közérdekű lett volna.
+<!-- SECTION:DETAILS -->
 
-A Szabó Bence-ügy központi: a százados, aki pedofilok tucatjait juttatott börtönbe, koncepciós eljárásnak indított ellene az állam, amikor az orosz kibertámadások elleni nyomozást akartak elindítani. Viktor szerint ez tiszta visszaélés, és az állomány Bencét hősnek tartja, nem árulónak – amit a belügyminiszter állított.
+A beszélgetés alanya Virág Norman Viktor, aki 2021 és 2024 között a Készenléti Rendőrség Nemzeti Nyomozó Iroda (NNI) kiberbűnözés elleni főosztályán dolgozott felderítő nyomozóként, majd rövid ideig a III. kerületi kapitányságon volt csoportvezető. Az interjú célja a rendőrségen belüli rendszerszintű problémák, a politikai befolyásoltság és a szakmai állomány elégedetlenségének feltárása.
 
-Az orosz szálak: az amerikaiak megkerestek, hogy egy orosz kiberbűnözői fórum (Antichat) magyar szereplőit nyomozzák ki, de a vezetőség nem volt proaktív. Egy orosz tárhelyszolgáltató cég gyanús, de nem történt intézkedés. Az ukrán kémhárítási ügy kapcsán feltett kérdések megválaszolatlanok maradtak.
+## A Szabó Bence-ügy és a rendőrségi morál
+Viktor elmondása szerint eredetileg a létszámhiány és az infrastruktúra állapota miatt kereste meg a nyilvánosságot, de Szabó Bence százados (szintén volt NNI-s) elleni eljárás híre végleg meggyőzte az interjú szükségességéről. Szabó Bencét a belügyminiszter árulónak nevezte, de Viktor szerint az állomány valójában hősnek tartja őt.
 
-A rendőrségen belüli elégedetlenség: a fizetések nevetségesek (kezdő járőr nettó 250 ezer, nyomozó 350 ezer forint), míg NER-közeli celebek milliót keresnek. Viktor utolsó fizetése csoportvezetőként 510 ezer nettó volt, túlórával ritkán 700 ezer. Most junior IT-biztonsági szakemberként jóval jobban keres, kevesebb stresszel.
+- **Koncepciós eljárás:** Viktor szerint a Szabó Bence elleni hivatali visszaélés vádja nem áll meg, és az eljárást egyértelműen koncepciósnak minősíti.
+- **Belső feszültségek:** Illusztrációként említette, hogy az NNI egyik fedett objektumában az irodák ajtajára bináris kóddal kormányellenes és Putyin-ellenes üzeneteket írtak ki a munkatársak, ami 2024-es távozásakor is kint volt.
+- **Szakmai megbecsülés:** Szabó Bence munkásságát méltatva kiemelte, hogy a százados több tucat pedofilt juttatott börtönbe, így a „gyerekvédelem” nevében történő meghurcolása különösen visszás.
 
-A politikai nyomás: hajléktalanok elleni vegzálás, választási plakátok őrzésére kirendelt járőrök, kötelező bírságkvóták (3 bírság egy 12 órás szolgálatban), és egy titkos rangsor a harmadik kerületi kapitányságon, ahol a bírságolás súlyozottan számít. Az állomány 65%-os feltöltöttsége, és a vezetők felmondása után még rosszabb lett.
+> „A rendőrségnek majdhogy nem szerintem a legalján van [a társadalmi hierarchiának]. ... A kollégák nagy része azt érzékeli, hogy az emberhez méltó körülmények a munkavégzéshez nincsenek meg.” – Virág Norman Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=509)
 
-A rendőrség vezetői többsége nem beszél nyelveket, nem ért máshoz, és a hatalomnak való megfelelésből él. Az igazi szakemberek vagy lejáratják őket, vagy elmennek a civil szférába. A média iránti félelem paranóiás: Laponyi Zsolt egy ártatlan posztja miatt pánik az ORFK-n.
+## „VIP rendőrség” és politikai elvárások
+Az interjú egyik központi állítása, hogy az NNI bizonyos esetekben „VIP rendőrségként” funkcionál, ahol a kormányközeli szereplők, celebek vagy állami vezetők ügyei prioritást élveznek, gyakran a hatásköri szabályok megkerülésével.
 
-Viktor szerint szintet lépett a hatalom: koncepciós eljárás vár rá, pedig csak a társadalomnak szólt. De úgy érzi, az állomány már forponton van – Laponyi, Szabó és ő három rendőr, aki nyilvánosan szólt. Ez nem félelem, hanem ellenállás lehet.
+- **Mága Zoltán ügye:** A zenész Facebook-oldalának feltörése miatt az NNI kiberosztálya nyomozott, holott ez egy kapitánysági szintű „piti” ügy. Viktor szerint a főosztályvezetőt a művész közvetlenül hívogatta, a nyomozóknak pedig „helpdeskként” kellett sürgetniük a Facebookot a profil visszaállítása érdekében.
+- **Államtitkári bankkártya:** Egy állami vezető kártyaadatainak ellopása miatt akkor is elrendeltek fizetett túlórát az adatok gyűjtésére, amikor általános túlóra-stop volt érvényben más, fontosabb ügyekre.
+- **Hivatali visszaélés gyanúja:** Viktor beszámolt egy esetről, ahol egy főosztályvezető ismerősének vélt Facebook-problémája miatt büntetőeljárás elrendelése nélkül, általános számon végeztettek adatgyűjtést a közösségi óriástól, ami véleménye szerint kimeríti a hivatali visszaélés fogalmát.
 
----
+> „Mi ezt sokszor úgy hívtuk, amikor ilyen személyekkel volt ügyünk, hogy VIP rendőrség. ... Politikusok, állami vezetők, rendőri vezetők, NER-hez köthető figurák, celebek.” – Virág Norman Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=1718)
 
-#  Részletes összefoglaló
+## Orosz befolyás és nemzetközi ügyek
+Viktor, mint angolul jól beszélő nyomozó, rálátott a nemzetközi megkeresésekre is. Két konkrét esetet említett, ahol az „orosz szál” felbukkant, de a magyar vezetés passzív maradt.
 
-## A beszélgetés kontextusa és a beszélő bemutatása
+- **Antichat-fórum:** Az amerikai hatóságok (FBI) segítséget kértek egy orosz kiberbűnözői fórumhoz köthető, Budapesten élő alak, Gregory Zsurajov ügyében. Bár a házkutatás megtörtént, a magyar vezetés nem engedte az eszközök kivitelét, és nem indított saját nyomozást a fórum magyar áldozatainak felderítésére.
+- **Gyanús tárhelyszolgáltató:** Egy Magyarországon élő orosz férfi tárhelyszolgáltató cége jelentős forgalmat bonyolított, miközben az illető feltűnően szerényen élt. Az amerikaiak kérték a vele való találkozó megszervezését, de a magyar nyomozók – érthetetlen módon – nem vettek részt a megbeszélésen.
+- **Külügyminisztériumi hackertámadás:** Viktor tudomása szerint az NNI-nél nem indult nyomozás a külügyi rendszerek orosz feltörése ügyében, holott ez törvényi kötelességük lett volna. Úgy véli, a vezetés a realitásokat mérlegelve (beazonosíthatatlan elkövetők) inkább „nem ment bele” a kényes ügybe.
 
-Virág Norbert Viktor 30 éves, 2016-tól járt a Nemzeti Közszolgálati Egyetemre, 2019-ben végzett nyomozóként. IT-háttérrel rendelkezik, ezért 2021-től a Nemzeti Nyomozó Iroda (NNI) kiberbűnözés elleni főosztályán dolgozott felderítő nyomozó hadnagyként. 2024-ben átment a III. kerületi rendőrkapitányságra készletéti csoportvezetőnek, hogy 24/72 órás beosztásban dolgozhasson és IT-karriert indítson. A feszített tempó miatt azonban abbahagyta az IT-s foglalkozást, majd végül felmondott. Jelenleg junior IT-biztonsági szakemberként dolgozik az üzleti szférában.
+## Rendszerszintű problémák és létszámhiány
+A rendőrség állapota Viktor szerint tragikus, a fluktuáció óriási, a szakmai színvonal pedig a lojalitásnak van alárendelve.
 
-Viktor március közepén kereste meg a Partizánt, még a Laponyi Zsolt-interjú és a Direkt36 cikk előtt. Személyesen ismeri Laponyi Zsoltot és Szabó Bencét, aki szintén az NNI-nél dolgozott. Azt érezte, hogy nyilvánosságot kell adni az állomány állapotáról és a Szabó Bence elleni koncepciós eljárásról.
+- **Lefejezett kapitányság:** A III. kerületben a „fegyverpénz” kifizetése után a kapitány, a rendészeti osztályvezető és Viktor is egyszerre szerelt le. A kerület feltöltöttsége 60% alá süllyedt.
+- **Politikai lojalitás:** A vezetői kinevezéseknél a szakmai tudásnál fontosabb a hatalom kiszolgálása. Aki kritikát fogalmaz meg (például a túlórák hiánya miatt), azt azonnal leváltják és alacsonyabb beosztásba helyezik.
+- **Bírságolási kényszer:** Megerősítette, hogy létezik informális elvárás a napi bírságkvótára (2-3 darab/szolgálat), és a III. kerületi teljesítményrangsort is a bírságolási hatékonyság vezette, nem a bűnügyi eredményesség.
+- **Hajléktalanok vegzálása:** Beszámolt arról, hogy a hajléktalanok közterületről való kiszorítását Viber-csoportokban küldött fotókkal kellett igazolni a felsővezetés felé.
 
-> „Amikor megtudtam a Szabó Bencével kapcsolatos ügyet, hogy ellene egy kvázi koncepciós eljárást indítottak, azt gondoltam, ez nem áll meg. Ezt egyértelműen koncepciósnak minősítem." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=251)
+> „A rendőr szakmai előmenetelhez igenis szükséges az, hogy pontosan értse azt, hogy adott esetben a hatalom, a politikai vezetés milyen vélt vagy valós elvárásokkal élhetne.” – Virág Norman Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=3384)
 
-## Szabó Bence és a koncepciós eljárás
+## A távozás okai és a jövő
+Viktor 10 év után hagyta el a pályát, jelenleg az üzleti szférában dolgozik IT-biztonsági szakemberként, lényegesen magasabb fizetésért és kevesebb stressz mellett. Úgy látja, a rendőrség a nyilvánosságtól és a médiától való rettegésben él, miközben a szakembereit nem tudja megtartani.
 
-Szabó Bence százados az NNI gyerekvédelmi és szexuális kizsákmányolás elleni osztályán dolgozott. Viktor szerint ő az egyik legjobb szakember az intézményen belül, és munkájával több tucatpedofilt juttatott börtönbe. Az ellene indított eljárás koncepciós: a gyanúsítás gyermekpornográfiáról szólt, de az eszközökön nem találtak gyermekpornográfiát.
+- **Bürokrácia:** Kritizálta a „1970-es éveket idéző” papíralapú ügyintézést és a digitalizáció hiányát.
+- **Félelem a következményektől:** Tart tőle, hogy megszólalása miatt koncepciós eljárást indítanak ellene hivatali visszaélés címén, de hangsúlyozza, hogy nem vezérelte jogtalan előnyszerzés, csupán a társadalmi tájékoztatás.
 
-Pintér Sándor belügyminiszter azt állította, hogy az állomány árulónak tartja Bencét. Viktor ezt határozottan cáfolja:
+> „Azt látom, hogy a hatalom szintet lépett. ... Koncepciós eljárást indíthatnak ellenem. ... Viszont én azt gondolom, hogy ez a társadalomra sem veszélyes, hogy ilyen széles társadalmi rétegeket érdeklő ügyekről én beszélni merek.” – Virág Norman Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=5461)
 
-> „Nem, nem tartják árulónak. Nyilvánvalóan ezt lehet, hogy leírták valamilyen jelentésben a belügyminisztérium felé, hogy jó színben tüntessék fel magunkat a vezetők, de én ezeket az embereket személyesen is ismerem, akik a nemzeti nyomozóiroda kiberbűnözés elleni főosztályán dolgoznak és nem hogy nem árulnak, hanem hőskén hősnek tartják." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=304)
+<!-- SECTION:UNCERTAIN -->
 
-Erre bizonyítékként hozza fel, hogy az NNI fedett objektumának negyedik emeletén az irodák ajtajára bináris kóddal írva van: „fak Orbán, fak Putyin" – ez 2022 február 23-a óta ott van, az ukrán-orosz háború kezdete óta. Ez az állomány hozzáállásáról árulkodik.
-
-A Szabó Bence-ügy valódi problémája: az eljárás során legalább négy-öt bűncselekmény merült fel (hatóság félrevezetése, információs rendszer megsértése, választások rendje elleni bűncselekmények, hivatali visszaélés), de ezeket nem vizsgálták. Az ügy jogalapja sem volt világos az érintett nyomozók előtt.
-
-## A VIP-rendőrség: politikai és celebügyek
-
-Viktor szerint az NNI gyakorlatában működik egy „VIP-rendőrség": a kormányhoz közel álló személyek, politikusok, állami vezetők, rendőri vezetők, NER-közeli figurák és celebek ügyeit prioritásként kezelik.
-
-### A Mága Zoltán-ügy
-
-Mága Zoltán Facebook-fiókját feltörték külföldi hackerek – ez egy egyszerű információs rendszer megsértés alapeset lett volna. Azonban mivel Mága volt az érintett, az NNI nyomozta az ügyet, holott a hatáskörön kívül volt. Mága közvetlenül az osztályvezetőt hívogatta az ügy állásáról. Viktor többször kapott utasítást, hogy írjon a Facebooknak, hogy állítsák vissza a profilt, holott a Meta nem válaszolt, és az eljárás alapvetően jogsértő volt.
-
-> „Valójában igazából ilyen nem tudom én helpdesknek használtak téged, hogy kommunikálj a Facebookkal annak érdekében, hogy történik meg a visszaállítása ennek a Facebook oldalnak." – Gulyás Márton [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=1526)
-
-### Az államtitkár kártyaadatainak ellopása
-
-Egy államtitkár kártyaadatait ellopták. Az érték 500 ezer és 5 millió forint közötti volt, így nem lett volna az NNI hatásköre. Azonban az eljárás során túlóra-stop volt, és Viktor otthonról hívták be este 6-tól 10-ig dolgozni az ügyön, amit elszámoltak neki. Közben más, fontosabb ügyekre nem jutott túlóra.
-
-### Az ellenzéki képviselők ügyei
-
-Hadházi Ákos és más ellenzéki képviselők több feljelentést tettek az NNI-hez. Ezek az ügyek éveken át húzódtak nyomozás nélkül, és nem történt gyanúsítás. Viktor szerint ez a kettős mérce egyértelmű: a kormányhoz közel álló személyek ügyei gyorsak és intenzívek, az ellenzékiek pedig elakadnak.
-
-### A főosztályvezető ismerőse Facebook-ügye
-
-Egy főosztályvezető ismerőse (barátnője) feljelentést küldött egy nem nyilvános hatósági email címre, hogy a Facebookját feltörték. Az email tartalma nem volt egyértelmű – lehet, hogy csak elfelejtette a jelszót. Mivel nem volt egyértelmű bűncselekmény, nem rendeltek el büntetőeljárást. Azonban a főosztályvezető utasítást adott, hogy küldjön megkeresést a Facebooknak az IP-cím és regisztrációs adatok lekéréséhez.
-
-> „Egy főosztályvezető, gyakorlatilag az ismerettségi körében lévő ember adott esetben a Facebookkal szembeni jogsérelmét úgy próbálta elintézni, hogy megkerülve a teljes hivatali eljárásrendet, gyakorlatilag magánszívességet kérve." – Gulyás Márton [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=1913)
-
-Ez tiszta hivatali visszaélés: jogtalan előnyt szerzett, jogtalan hátrányt okozott (az NNI erőforrásait pazarolta), és veszélyes a társadalomra.
-
-## Az orosz szálak
-
-### Az Antichat-fórum és az amerikai megkeresés
-
-Az amerikai hatóságok megkeresték az NNI-t: egy orosz kiberbűnözői fórum (Antichat) vezetői ellen folytatnak eljárást. A fórum nyilvános része IT-biztonsági tartalmakkal foglalkozik, de van egy rejtett része, ahol bűncselekményeket szerveznek, szervereket támadnak meg, stb.
-
-A fórum két vezetője: Gregory Zsurajov (orosz származású, Magyarországon élt, 2020-21 körül elhunyt) és egy „Big Bear" nevű orosz férfi. Az amerikaiak azt szerették volna, hogy az NNI házkutatást végezzen Zsurajov magyarországi címén.
-
-Kimentek négy magyar nyomozó és négy amerikai, lefoglaltak számítógépeket, laptopokat, routereket, switcheket. Az NNI vezetősége azonban nem engedte, hogy az amerikaiak kivigyék az eszközöket, csak tükörmentést engedélyeztek. Viktor visszaadta az eszközöket Zsurajov családjának.
-
-A probléma: az NNI nem indított nyomozást magyar sértettekről, holott a fórumon keresztül magyar áldozatok is lehetnek. Felmerülnek kiber-bűncselekmények, de a vezetőség nem volt proaktív – vagy kifejezetten gátolta az eljárás megindítását.
-
-> „Nekem a problémám nyilván ezzel az üggyel az, hogy felmerülnek itt különböző kiber bűncselekmények. Meg van egy fórum, ami arra szakosodik, hogy mondjuk bűncselekményeket kövessen el. Akkor mi, mint az Eneni, én nem azt mondom, hogy itt most olyan hú de nagy dolgokat kellett volna csinálni, hogy rárúgni itt emberekre az ajtót az vagy bármi. De hogy miért nem rendeltünk el legalább egy eljárást ismeretlen tettes ellen?" – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=2742)
-
-### Az orosz tárhelyszolgáltató
-
-Van egy orosz származású férfi, aki tárhelyszolgáltatással foglalkozik Magyarországon. Az NNI sokszor kontaktálta, mert az ő szerverén bűncselekménnyel összefüggésbe hozható adatok voltak. Az amerikaiak szerettek volna vele találkozni, de az NNI nem küldött senkit.
-
-Gyanús: a cég éves nettó árbevétele 100 millió forint fölött van, miközben a tárhelyek ára csak 60 euró körül van. Az ember visszafogottan él, kerüli a feltűnést. Viktor szerint felvetődik a kérdés: milyen kapcsolatai lehetnek ennek az embernek?
-
-> „Nekem ez egyrészt ez gyanús, hogy ilyen alacsony árú szolgáltatás alapján, hogy jön ki ilyen nagy, illetve még az, hogy azért ez egy tök jó pénz így magyar viszonylatban valakinek a cége ilyen sokat termelés." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=2986)
-
-### A külügyminisztérium orosz kibertámadása
-
-2022-ben sajtóhírek jelentek meg, 2024-ben pedig egy belsős dokumentum igazolta: a külügyminisztériumot orosz kibertámadások érték. Az NNI tudása szerint nem indult nyomozás. Viktor szerint ez egy tipikus ügy lenne az NNI-nek – állami infrastruktúra elleni támadás –, de nem történt semmi.
-
-> „Az én tudásom szerint nem indult. Ez nem jelenti azt, hogy esetleg annyira titokban tartották, vagy próbálták ezt annyira titokban tartani, hogy valakinél ez ott volt, és én nem értesültem róla, de az én tudásom én nem én nem tudok róla." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=2938)
-
-## A koncepciós eljárás az informatikusok ellen
-
-Viktor megemlít egy másik esetet: egy informatikus scriptet írott, amely kitöltötte a nemzeti konzultációt és beküldte azt a belügyminisztériumnak. Az ügyészség végül bűncselekmény hiányában szüntette meg az eljárást, de az embert gyanúsítottként hallgatták ki, házkutatást tartottak nála, eszközeit lefoglalták.
-
-A gyanúsítás: információs rendszer megsértése (DDOS-támadás). Azonban a valódi cél véleménynyilvánítás volt, nem a szerver leállítása. Az ügyészség ezt maga is elismerte, amikor szüntette az eljárást.
-
-> „Tehát hogy ez már akkor ott a gyanúsítás kihallgatás napján kiderült, hogy hogy alaptalan a gyanúsítás." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=2297)
-
-## A fizetések és az anyagi helyzet
-
-### A rendőri fizetések
-
-Nyílt forrásból elérhető adat (HST melléklete): egy kezdő őrmester járőr nettó 250 ezer forint, egy kezdő hadnagy nyomozó nettó 350 ezer forint. Viktor utolsó fizetése a III. kerületi BRFK-n csoportvezetőként, két diplomával és felsőfokú nyelvvizsgával, pótlékok nélkül nettó 510 ezer forint volt. Túlórákkal ritkán érte el a 700 ezret.
-
-Ezzel szemben NER-közeli celebek 1-1,5 millió forintot keresnek jóval kevésbé veszélyes munkakörben.
-
-> „Egy kezdő őrmester rendőrjárő, aki érettségvel rendelkezik most kezdő fizetésként nettó 250000 Ft-ot kap a munkáért egy kezdő hadagy nyomozó, mondjuk nettó 3500et." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=620)
-
-### A fegyverpénz és a felmondások
-
-A kormány propaganda szerint a hatvi fegyverpénz jó. Azonban ha kiszámoljuk: egy kezdő járőr 6 × 250 ezer = 1,5 millió forint, amit 48 hónapra lebontva 31 ezer forint/hó. Ez még az alapfizetéshez adva is nevetséges.
-
-Viktor volt az első, aki beadta a felmondást a III. kerületi kapitányságon. Péntek vagy szombaton adta be, hétfőn a kapitány, majd a kapitány maga, majd a rendészeti osztályvezető. Ez egy teljes lefejezés volt.
-
-Az ORFK-s dokumentum szerint a III. kerület feltöltöttsége 65% volt, amikor Viktor még ott volt. Azóta még több rendőr szerzett le. Viktor feltételezése: most már 60% alatt van.
-
-> „Én voltam az első nálunk, aki beadta. Nekem már meg is volt írva egyébként előre a leszerelés. 30-án utalták a pénzt. Én 31-én adtam be." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=3847)
-
-## A rendőri vezetők kompetenciája és lojalitása
-
-### Nyelvtudás és képzettség hiánya
-
-Az NNI felderítő osztályán 20 emberből csak 3 volt felsőfokú végzettséggel. Azonban az osztály nemzetközi ügyeket kezel, ahol az angol kommunikáció alapvető. Sok vezető egyáltalán nem beszél idegen nyelveket.
-
-Viktor megemlít egy esetet: amerikai ügyészek és más külföldi bírók tartottak előadást. Az angol tudással rendelkezők angolul szólaltak meg, a vezetők pedig fordítóra szorultak.
-
-### Külföldi képzések és szimpátia
-
-A külföldi képzésekre nem azokat küldték, akiknek szükségük volt rá, hanem akiknek a vezetőséghez jó viszonyuk volt. Viktor például nem mehetett el egy malveres ügyek képzésre, holott nála voltak ezek az ügyek. Helyette egy másik ember ment, akit a vezető szimpatikusabbnak tartott.
-
-### Politikai lojalitás és előmenetel
-
-Viktor szerint az öreg rendőrök azt mondták: az osztályvezetői szinttől kezdve számít a politikai lojalitás. Most már inkább a kapitányi szint, és folyamatosan növekszik. A főkapitányi és NNI-vezetői szinten már nagyon fontos.
-
-> „Nekem amikor elkezdtem a szakmát, az öreg rendőrök azt mondták, hogy a osztályvezetői szinttől. Hát én inkább mivel fogy az állomány, én én inkább úgy látom, hogy mondjuk a kapitányi szint, de hogy ez ez folyamatosan növekszik." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=3312)
-
-A politikai lojalitás nem kimondott, hanem viselkedésből, ki nem mondott dolgokból érthető meg. Például a Mága-ügy: nem volt konkrét utasítás, hogy nyomozzatok, de a vezetők érezték szavak nélkül, hogy jobb, ha ők kezelik.
-
-### A kritikus vezetők eltávolítása
-
-Volt egy felderítő osztályvezető, aki kompetens volt és intelligens. Az igazgatói értekezleten felvetette, hogy ha van túlóra, meg tudják oldani az ügyeket, de túlóra nélkül nem. Ezt az embert vagy aznap, vagy másnap leváltották a pozícióból. Még azt is eljátszották, hogy a kiberre helyezték át, így más helyre kellett járnia.
-
-> „Ezt az embert vagy aznap, vagy másnap, vagy két napra valami nagyon rövid időtervallumban leváltották a főosztályvezetői pozícióból, mert ezt a kritikát elmerte mondani." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=3709)
-
-## A gyakorlati problémák az NNI-nél
-
-### Hatáskör és illetékesség
-
-A BM 25/2013 rendelet szabályozza, hogy melyik rendőrségi szerv melyik büntető ügyben nyomozhat. Az NNI a legkiemeltebb ügyeket nyomozza. Azonban gyakorlatban sok olyan ügyet nyomoztak, ami nem volt az NNI hatásköre.
-
-### Túlóra-stop és erőforrás-pazarlás
-
-Volt olyan időszak, amikor túlóra-stop volt, mégis az NNI-t terhelték le olyan ügyekkel, amelyek nem voltak az NNI hatásköre. Ezalatt a valóban fontos ügyek elmaradtak.
-
-### A „Harry" ügy
-
-Viktor megemlít egy ügyet, amely szerinte sokkal inkább érdemelt volna túlórát: a „Harry" ügy (valószínűleg egy nagyobb kibertámadás vagy hasonló). Azonban erre nem jutott túlóra.
-
-## A III. kerületi kapitányságon tapasztaltak
-
-### Járőrkapacitás és politikai feladatok
-
-A III. kerületi kapitányság országosan is nagyon gatya létszámhelyzetben van. Volt olyan éjszaka, hogy csak egy járőrpáros volt az egész Óbudára. Azonban a járőrök politikai feladatokra voltak kirendelve.
-
-### A Lajos utcai plakátőrzés
-
-Kormánypárti plakátokat letéptek a Lajos utcán. Ebből büntetőeljárás indult. Az utasítás: civil ruhás nyomozóként este 9-től hajnal 1-ig őrizni kellett a plakátokat. Viktor szerint ez a BRFK legmagasabb szintjéről jött.
-
-> „Én nem tudom, hogy mi a logika mögött, hogy 9 órától hajnal egy óráig. Miért pont ez a 4 óra? Ha nincsen ilyen egetverő bűncselekmény, tehát mit tudom rablás satöbbi nincsen folyamatban, akkor oda kell menni és a civil autóból őrizni kell azokat a plakátokat, a kormánypárti plakátokat, hogy ne történjen semmilyen bűncselekmény." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=2087)
-
-### Hajléktalanok elleni vegzálás
-
-Amikor a közterületen való tartózkodást szabálysértésnek minősítette a parlament, a rendőrség túlreagálta. A III. kerületben Viber-üzeneteket kellett küldeni egészen a főkapitányig, hogy egy tér már üres, nincs ott hajléktalan.
-
-Később ezt formalizálták: a járőröknek „hajléktalan körözést" kell végezni, fényképeket kell készíteni az olyan területekről, ahol nincs hajléktalan. Ezzel papíron meg szűnt a hajléktalanság.
-
-> „Úgyhogy akkor meg tudod erősíteni, hogy hajlékalanokkal szembeni vegzatúra, hatósági vegzatúra az igenis része volt a rendőrségi gyakorlatnak. Sajnos igen." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=4372)
-
-### A bírságkvóta
-
-Van egy informális, de világos elvárás: egy 12 órás szolgálat alatt 3 bírságot kell kiszedni. Ez változik (volt 2, most 3), de az elvárás világos. A parancsnok azt mondja: amíg nincs meg a három, addig be se gyertek.
-
-Ez jogsértő, mert előfordulhat, hogy egy járőr nem talál három szabálysértést egy nap alatt. Azonban a gyakorlatban ez az elvárás létezik.
-
-> „Tehát egyértelműen ki tudod vagy meg tudod erősíteni te is, hogy van egy ilyen formális, informális szürke zonás elvárás egyértelműen jelezve, hogy bírságolni kell." – Gulyás Márton [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=4930)
-
-### A rangsor és a bírságolás
-
-A III. kerületi kapitányságon van egy titkos rangsor, amely a járőrök teljesítménye alapján sorolja be őket. A rangsor nagy részben a bírságolás mértéke alapján készül. Az egyik járőr, akit „Bírság királynőnek" hívnak, főleg bírságol, és ő az első a rangsorban.
-
-> „Én ez alapján az információ alapján gondolom azt, hogy a bírság kiszabása az az az nagyobb nagyobbat nyom alatba, illetve hát ugye a Zsolt az nem is tudom ilyen feltételes módba említette ezt, csak ugye, hogy meg van szabva, hogy ki kell adni kötelező a bírságkiadás." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=4841)
-
-### A vagyoni alapú különbségtétel
-
-A rendőrség másképp kezel szegény embereket, mint gazdagokat. Egy hajléktalan könnyebben kap jogtalan intézkedést, mert tudják, hogy nem fog panaszt tenni. Egy milliomos vállalkozó viszont ügyvéddel védekezik, így a rendőrség óvatosabb.
-
-> „Egy szegényebb ember nyilvánvalóan kevesebb eséllyel kapja meg ugyanazt az eljárást, azt mondod, mint egy jól szituált polgár." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=4433)
-
-## A média iránti félelem
-
-A rendőrségi vezetés rendkívüli módon fél a médiától. Laponyi Zsolt egy ártatlan posztja után pánik keletkezett az ORFK-n. Panikhangú telefonhívás érkezett, hogy Laponyi megint posztolt, és hogy miért nincs már az ORFK-n, hogy ezt megbeszéljék.
-
-Viktor szerint a vezetőség sokszor nem is tudja, hogy miért fél a médiától. Sok olyan ügy van, amit meg lehetne magyarázni, de helyette a vezetőség pánikba esik.
-
-> „Attól rettegnek a legjobban a médiától. Így van. És miért alapvetően? Nyilván sejtem, hogy konkrétan mi az, ami a félelem tárgya?" – Gulyás Márton [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=4466)
-
-A média iránti félelem azt mutatja, hogy a rendőrség vezetése nem proaktív, nem transzparens, és nem partneri a nyilvánossággal.
-
-## A rendőri munka stresszfaktorai és a felmondás okai
-
-### Az elvárások és a politikai nyomás
-
-Viktor szerint a 10 éves karrierjének 80%-a az volt, hogy politikai és rossz állampolgári attitűdnek való megfelelést erőltessenek. Például a kegyelmi ügy után: ha gyerekes ügy felmerült, akkor belementünk, még ha előrelátható volt is, hogy nem lesz semmi.
-
-> „Én azt gondolom, persze voltak nagyon szép dolgok, meg felderítések, ami aminek örültem, meg meg tök jó volt. De a 80%-át egyébként azt tette ki, hogy az ilyen politikának meg a rossz állampolgári attitűdnek való megfelelést akartuk erőltetni." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=4095)
-
-### A közterületi hajléktalanok ügye
-
-Amikor a közterületen való tartózkodást szabálysértésnek minősítette a parlament, az elvárás az volt, hogy a rendőrség ezt erőteljesen kezelje. Ez egy túlreagálás volt, mert sok olyan emberrel intézkedtek, aki nem volt agresszív vagy kéregetett.
-
-### Az igazi munka hiánya
-
-Viktor azt gondolja, hogy az igazi nyomozati munka a Partizán, a Direkt36 és az Átlátszó által végzett munka. Ő azt szerette volna csinálni, de helyette hülyeségekkel foglalkoztak.
-
-## A vezetői kompetencia és a fluktuáció
-
-### A tehetséges vezetők elvándorlása
-
-Azok a vezetők, akik kompetensek és kiállnak az embereikért vagy az elveikért, nem sokáig maradnak pozícióban. Ha nagyon tehetségesek, akkor a civil szférából jön egy olyan ajánlat, ami nem is feltétlenül több pénz, csak kevesebb stressz, és átmennek oda.
-
-A III. kerületből 2023-24-ben három vezető ment át egy bankhoz: két osztályvezető és egy osztályvezető. Nem feltétlenül volt szignifikáns fizetéskülönbség, hanem a nyugalom és a home office lehetőség volt a húzóerő.
-
-### Az átpolitizáltság
-
-A rendőrség nagyon átpolitizált. Az állomány nagy része érzi, hogy a rendőrség az állampolgárok elnyomására szolgál, nem a védelmére. Ezt a második világháború előtti és utáni történelem, valamint a 2006-os események erősítik meg.
-
-> „Magyarországon volt egy olyan rendszer, ami a második világháború előtt is és után is a rendőrséget, a rendvédelmi szerveket az állampolgárok elnyomására használta föl. Nyilván ezen a bizalmon nem segítettek a 2006-os események sem." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=4644)
-
-## A jogi és etikai kérdések
-
-### A parancsok és a jogsértés
-
-A katonai szervezeteknél az alapvetés, hogy a parancsot végre kell hajtani. Azonban ha a parancs szóban van kiadva, és az alárendelt azt gondolja, hogy jogsértő, akkor kérheti írásban a parancsot. Ha írásban megkapta, akkor már köteles végrehajtani, és utána lehet jogorvoslatért fordulni.
-
-Viktor egy olyan esetet említ, amikor az AH (Alkotmányvédelmi Hivatal) azt szerette volna, hogy ő és egy kollégája végezzenek házkutatást, miközben az AH-s emberek lehallgatókat telepítsenek. Ezt nem kaptuk írásban, és felvetettem a parancsnokomnak, hogy jogalapot szeretnénk tudni. Utána erről nem volt szó írásban, és levettünk az ügyről.
-
-### Az információ hiánya
-
-Az egyik furcsa dolog az, hogy amikor az AH beavatkozott a Szabó Bence-ügybe, nem mondták el, hogy miről van szó. Holott az NNI-nél dolgozó nyomozóknál nemzetbiztonsági cégípusú átvilágítás van, és kezelhetnek minősített iratokat. Ezért legalább az érintett nyomozókat tájékoztatni lehetett volna.
-
-## A jövőbeli változások
-
-### Mit kellene megváltoztatni?
-
-Viktor szerint a következő változások szükségesek:
-
-1. **Bürokrácia csökkentése**: Fölösleges papírozás, még 1970-ben vagyunk a digitalizáció terén.
-2. **Megbecsültség**: Anyagilag és erkölcsileg is. Ha van egy sikeres nyomozó, azt meg kell becsülni.
-3. **Informatikai rendszer**: Sokkal jobbá és hatásosabbá tenni.
-4. **Szervezeti struktúra**: Átszervezni, mert van sok vízfej, miközben a végeken nincs ember.
-5. **Lakhatás**: Ez egy nemzeti szintű probléma, amit meg kell oldani.
-
-> „A bürokráciának a nagyon radikális csökkentése, tehát ez a fölösleges papírozás, az, hogy még mindig olyan szempontból 1970-ben vagyunk, hogy kinyomtatjuk a dolgokat, úgy kötjük össze, a digitalizációnak ezt követni kéne." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=5192)
-
-### A lakhatási krízis
-
-Viktor szerint a lakhatás a kulcsprobléma. A 3%-os hitel csak marketing, nem oldotta meg a problémát. Az építési költségek adóját és ÁFÁ-ját kellene csökkenteni, hogy több ház épüljön. Az állam kollégiumokat is építhetne.
-
-## Az ukrán kémhárítási ügy
-
-A hivatalos narratíva szerint a Tisza-párt szervereihez hozzáférést szerző informatikusok valójában ukrán kémek voltak. Viktor szerint ez a narratíva nem állja meg a helyét:
-
-1. **Miért nem történt feljelentés?** Ha a szolgálatok 2023 óta tudtak erről, miért nem tettek feljelentést az ügyészségnél?
-2. **Miért nem érték őket tetten?** Ha kémkedésről van szó, miért nem fogták el őket?
-3. **Miért a kamufeljelentés?** Miért volt szükség gyermekpornográfia miatt feljelentésre, ha valóban kémhárítási ügy volt?
-4. **Miért a szerver-hozzáférés?** Miért szeretett volna hozzáférést szerezni a Tisza szerveréhez?
-5. **Az anyagi forrás?** Honnan volt 240 millió forintja, vagy miért ajánlott fel 120-120 milliót az informatikusoknak?
-
-> „Szerintem nem. Miért nem lenne igaz? Tegyük föl egyelőre, hogy igaz ez a narratíva. És ak tényleg egy ilyen kiémhárítási ügy volt. Nekem a kérdésem csak az, hogyha a szolgálatok tudtak erről 2023 óta, egyrészt alapvetően egy 17 éves gyereknek, mert ugye akkor 17 éves lehetett ez a Gundalf, hogyha jól teszem össze az információkat. hogy hogy volt olyan informatikai tudása, hogy őt az ukrán szolgálatokba akartak szervezni." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=5286)
-
-## A jogi következmények és a forpont
-
-### Lehetséges eljárás Viktor ellen
-
-Viktor szerint szintet lépett a hatalom. Eddig a propagandával próbálták lejáratni az embereket, de mivel neki és Szabó Bencének nemzetbiztonsági átvilágítása van, és az életvitelüket ellenőrizték, ez nem működne. Ezért szerinte koncepciós eljárást indíthatnak ellene hivatali visszaélés miatt.
-
-Azonban Viktor szerint ez nem áll meg: a célzat, hogy bárkinek jogtalan előnyt szerezzen vagy hátrányt okozzon, nincs. Nem szeretne ilyet. Ez a társadalomra sem veszélyes, hogy széles társadalmi rétegeket érdeklő ügyekről beszél.
-
-> „Számítesz-e bármilyen jog következményre amiatt, hogy itt most megszólaltál ebben az adásban? Igen, én azt látom, hogy a hatalom szintet lépett." – Gulyás Márton [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=5383)
-
-### A forpont az állományon belül
-
-Viktor szerint nem véletlen, hogy az elmúlt hetekben három rendőr jelentkezett a médiánál: Laponyi Zsolt, Szabó Bence és ő. Ez azt mutatja, hogy az állomány forponton van.
-
-> „Szerintem nem véletlen, hogy az elmúlt hetekben pont három rendőr jelentkezett a a médiánál, hogy Alaponyi Szabó és én, amit a műsor elején is említettem, hogy ez a társadalmi hierarchia, hogy ebben hova helyezték a rendőrséget, és hogyan bántak a rendőrökkel az elmúlt 16 évben." – Virág Norbert Viktor [*](https://www.youtube.com/watch?v=K3K2LY7JTLM&t=5500)
-
-Ha az olyan embereket, akik nem csak magukért, hanem az állományért is kiállnak, meghurcolnak, az nem feltétlenül félelmet vált ki, hanem ellenállást. Pintér Sándor, ha valóban az egyetlen tiszta figura a NER-ből, ezt meg kellene értenie.
-
-<details>
-<summary>⚠️ Értelmezhetetlen vagy bizonytalan szakaszok</summary>
-
-- Az átirat több helyen tartalmaz félreismert szavakat és értelmezhetetlen szótöredékeket (pl. „eneni" helyett valószínűleg „NNI", „zené" helyett „NNI", „Bvenence" helyett „Bence", „Kovalcsik" helyett valószínűleg egy adatelemző neve). Ezek a szövegkörnyezet alapján korrigálva lettek.
-- Az „antichat" fórum neve több alakban jelenik meg az átiratban, de az angol nyelvű szakirodalom alapján az „Antichat" helyes.
-- Néhány hely értelmezhetetlen marad: „MVS" az ORFK mellett – valószínűleg egy rövidítés, de pontos jelentése nem világos az átiratból.
-- Az „Harry" ügy pontos tartalma nem derül ki az átiratból, csak hogy egy nagyobb kibertámadásról lehetett szó.
-- A „Gundalf" becenév egy informatikusra utal, de a teljes neve és szerepe nem világos.
-
-</details>
+- **Laponyi Zsolt / Loponyi:** Az átiratban mindkét alak szerepel, a referencialista és a kontextus alapján a helyes név Laponye Zsolt lenne, de mivel az átirat következetlenül használja, a szövegben a leggyakoribb alakot tartottam meg.
+- **Szabó Bvenence / Bence:** Egyértelmű ASR-hiba, Szabó Bence a helyes alak.
+- **Virágnor Viktor / Virág Norman Viktor:** A név bemutatásakor torzult, a referencialista és az interjú vége alapján javítva.
+- **Antichat.xz / .ru / .xyz:** A domain végződések bizonytalanok az átiratban, de a kontextus (orosz kiberfórum) egyértelmű.
+- **Gundalf:** Valószínűleg egy online becenév (Gandalf?), az átiratban ebben a formában szerepel.
 
 ## Átirat
 
