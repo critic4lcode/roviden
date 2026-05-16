@@ -1,1440 +1,905 @@
 ---
 date: '2026-05-12'
-title: 'ÉLŐ: Ruff Bálint Miniszterelnökséget vezető miniszterjelölt bizottsági meghallgatása
-  folytatódik'
+title: 'ÉLŐ: Ruff Bálint Miniszterelnökséget vezető miniszterjelölt bizottsági meghallgatása'
 description: ''
-video_id: 6gRMgTxWzEQ
-video_url: https://www.youtube.com/watch?v=6gRMgTxWzEQ
+video_id: wuAvIcKkrJE
+video_url: https://www.youtube.com/watch?v=wuAvIcKkrJE
 channel_slug: kontroll
 channel_name: Kontroll
 affiliation: tisza-aligned
 direction: centrist
 notes: kontroll.hu - Magyar Márton, Tisza-közeli szerkesztőségi média
-published_at: '2026-05-12T10:08:47+00:00'
-duration_sec: 4592
-tags: []
+published_at: '2026-05-12T08:36:35+00:00'
+duration_sec: 2815
+tags:
+- kormányváltás
+- korrupció
+- propaganda
+- tisza párt
 transcript_source: youtube_subtitle
 summary_model: deepseek/deepseek-v4-pro
 ---
 
 <!-- SECTION:TLDR -->
 
-- A meghallgatás a Miniszterelnökséget vezető miniszterjelölt bizottsági ülésén zajlott, ahol a képviselők négyperces időkeretet kaptak, amit többen a demokrácia korlátozásaként kifogásoltak.
-- A bizottság 8 igen, 3 nem szavazattal, nyílt szavazáson támogatta dr. Ruff Bálint György miniszterjelölt kinevezését.
-- Ruff Bálint elismerte korábbi SZDSZ-es tanácsadói múltját, amit lelkiismereti elszámolásként értékelt, és hangsúlyozta, hogy 2008-ban a Bajnai-kormány támogatása miatt távozott a közéletből.
-- Élesen bírálta a „nemzeti kormány" kifejezést, mondván azt a Fidesz „elrabolta", és ez a „mi és ők" szemlélet a történelem legsötétebb időszakait idézi.
-- Ígéretet tett a kormányzati kommunikáció teljes átalakítására, a lejárató kampányok megszüntetésére, és hogy a kormányinfókon nem aláznak meg újságírókat.
-- Bejelentette, hogy 2026. június 1-jétől megtiltják harmadik országból vendégmunkások behozatalát, és szigorú migrációs politikát folytatnak.
-- Ukrajna gyorsított EU-csatlakozását nem támogatják, helyette a magyar kisebbség jogainak érvényesítését és ügydöntő népszavazást szorgalmaznak.
-- A vagyonvisszaszerzési hivatalt a parlament alá rendelnék, az ügynökakták nyilvánosságát szakmai konszenzussal készítenék elő, és visszaadnák az Integritási Hatóság jogköreit.
-- > „Aki a magyar államnak dolgozik, legyen az fegyveres testületben, miniszterként, vagy csak irodistaként, szolgálatként fogja fel, amit itt tölt, hogy magyar embereknek segíthet a boldogulásukban." – Ruff Bálint
+- Ruff Bálint miniszterelnökséget vezető miniszterjelölt parlamenti meghallgatását közvetítette a Kontroll; a pozíciót korábban Gulyás Gergely töltötte be.
+- Gulyás Balázs szakértő szerint Ruff Bálint ért a feladatához, de szokatlan a politika határvidékéről érkezni ilyen magas pozícióba.
+- Ruff Bálint expozéjában 1990-et, 2010-et és 2026-ot emelte ki, élesen bírálva a rendszerváltás hibáit, valamint Gyurcsány Ferenc és Orbán Viktor kormányzását.
+- Részletesen beszámolt a Karmelita, a Kabinetiroda és a Belügyminisztérium "hatcsillagos" luxusáról, amit a COVID alatt építettek ki, miközben az ország gazdasága stagnált.
+- Bejelentette, hogy a titkosszolgálatok kikerülnek a miniszterelnökség alól, a KSH visszanyeri szakmai függetlenségét, és a minisztérium politikai elemző szervvé alakul.
+- Három sajtószóvivői rendszert vezetnek be, és törvénybe iktatják, hogy az állam nem folytathat gyűlöletkampányt vagy propagandát.
+- A Nemzeti Vagyonvisszaszerzési és Védelmi Hivatalt július 1-jétől tervezik munkába állítani, a lehető legszigorúbb antikorrupciós szabályokkal.
+- Ruff Bálint szerint az előző kormány 20 000 milliárd forint EU-s forrástól fosztotta meg az országot, és a sebek begyógyítása akár 20 évig is eltarthat.
+- > „Az igaz, aminek igaza lesz." – Ruff Bálint idézte Orbán Viktor elvét, amellyel a TISZA-kormány filozófiáját állította szembe: a tévedés beismerése nem szégyen.
 
 <!-- SECTION:DETAILS -->
 
-## Ruff Bálint meghallgatásának keretei és a bizottság működése
+## Ruff Bálint miniszterjelölti meghallgatásának kontextusa
 
-A meghallgatás a Miniszterelnökséget vezető miniszterjelölt bizottsági ülésén zajlott. Az elnök a kezdetekkor jelezte, hogy a 2018-as és 2022-es miniszteri meghallgatások jegyzőkönyvei szerint korábban frakciónként hét perc, illetve képviselőnként meghatározott időkeret volt érvényben a Fidesz-KDNP vezetésű bizottságban. A jelenlegi ülésen négyperces időkeretet szabtak meg a képviselők számára, amit többen kifogásoltak, köztük Apáti István képviselő is, aki szerint ez „a demokrácia rendkívüli korlátozása és meglehetősen méltatlan".
+A Kontroll csatorna élőben közvetítette Ruff Bálint Miniszterelnökséget vezető miniszterjelölt parlamenti bizottsági meghallgatását. A közvetítés előtt a csatorna munkatársa ismertette a támogatási lehetőségeket, külön kiemelve, hogy az adó 1%-át nem kérik, hanem az Iványi Gábor-féle Oltalom Karitatív Egyesületnek javasolják felajánlani, míg közvetlen támogatást a Tabula Rasa Média Alapítványon keresztül fogadnak.
 
-A meghallgatás végén a bizottság nyílt szavazással döntött: 8 igen, 3 nem szavazattal, tartózkodás nélkül támogatta dr. Ruff Bálint György miniszterjelölt kinevezését a Miniszterelnökséget vezető miniszteri pozícióra.
+A műsorvezető elmondta, hogy Ruff Bálint lesz a "kabinetfőnöke kvázi az egész kormánynak", aki a korábban Gulyás Gergely által betöltött pozíciót veszi át. Magyar Péter korábban jelezte, hogy a kormányinfók formátuma megváltozik: három szóvivőt jelentett be (két RTL-es és egy ATV-s műsorvezetőt). A műsorvezető szerint az elszámoltatás és a Vagyonvédelmi és Visszaszerzési Hivatal lesz Ruff Bálint "krédója".
 
-## Ruff Bálint személyes háttere és politikai múltja
+## Gulyás Balázs szakértői kommentárja a meghallgatás előtt
 
-Szűcs Gábor képviselő kérdőre vonta Ruff Bálint korábbi politikai szerepvállalását. Felidézte, hogy Ruff 2006-2007 között a magyar kormány jogi tanácsadója volt, 2007-2008 között kabinetfőnök egy minisztériumban, 2008-2009 között pedig az SZDSZ politikai és kommunikációs tanácsadója – egy olyan párté, amely akkoriban kormányon volt. A képviselő szerint így Ruff éppen azt a korszakot képviselte, amelyet ő maga „trükkök százainak" és „finoman szólva sem jó korszaknak" nevezett.
+A közvetítésben rövid beszélgetés hangzott el Gulyás Balázzsal, a Szabadsajtó Klub munkatársával.
 
-Ruff Bálint válaszában elismerte, hogy 25-26 éves korában jogászként dolgozott ebben az időszakban, és azt mondta: „Lehet, hogy rosszul tettem. Elszámoltam a lelkiismeretemmel. Szerintem 100%-on elszámoltam, de biztos nem teszek úgy, hogy ott se lettem volna." Hozzátette, hogy 2008-ban azért távozott a közéletből, mert nem tudott azonosulni azzal, hogy az SZDSZ támogatta a kisebbségben lévő Bajnai-kormányt. Úgy gondolta, helyesebb lett volna előrehozott választásokat tartani, amit valószínűleg a Fidesz nyert volna meg.
+### Ruff Bálint alkalmassága
+Gulyás Balázs szerint Ruff Bálint "ért ahhoz, amire vállalkozott". Megjegyezte, hogy szokatlan, amikor valaki "a politika határvidékéről" (újságíróként, megmondóemberként) ilyen magas pozícióba kerül, de Ruffnak van politikai múltja az SZDSZ-kormány alatt, ahol tisztségviselő volt. Hozzátette: "erre nem lehet senki büszke, hogy az SZDSZ alatt bármilyen tisztséget vállalt".
 
-> „Lehet, hogy rosszul tettem. Elszámoltam a lelkiismeretemmel. Szerintem 100%-on elszámoltam, de biztos nem teszek úgy, hogy ott se lettem volna." – Ruff Bálint [*](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1692)
+### A minisztérium várható felépítése
+Gulyás Balázs folyosói pletykákra hivatkozva elmondta, hogy "tükörreferatúrák" lesznek, hasonlóan az első Orbán-kormány idejéhez. Ez azt jelenti, hogy "tulajdonképpen az összes minisztérium kicsiben ott lesz a miniszterelnökségen belül", így ez "nem lesz kisminisztérium", és egy ilyen szétterjedő portfóliójú apparátust nem lesz könnyű vezetni.
 
-## A „nemzeti kormány" kifejezés kritikája
+### A kormány jellege
+Arra a kérdésre, hogy Ruff Bálint képezhet-e ellenpontot egy "ennyire jobboldali fejű kormányban", Gulyás Balázs azt válaszolta: "Fogalmam sincs." Szerinte ez a kormány nem politikai ideológiák alapján szerveződik, hanem "ha nem is szakértői kormány, de már majdnem az". A tegnapi és mai meghallgatások alapján ezt a benyomást erősítette meg.
 
-Ruff Bálint élesen bírálta a Fidesz által használt „nemzeti kormány" kifejezést. Álláspontja szerint nincs olyan, hogy „nemzeti kormány", mert a magyar nemzet kormánya mindig az, amelyet a magyarok többsége megszavaz. Kijelentette: „Önök ezt a szót elrabolták, maguknak vindikálták." Hozzátette, hogy ez a fajta „mi és ők" szemlélet vezetett oda, hogy a korábbi miniszterelnök „eltaposandó rovarnak" nevezte a fél országot. Ruff szerint ez a gondolkodásmód a történelem legsötétebb időszakait idézi.
+## A bizottsági meghallgatás formai keretei
 
-> „A magyar nemzetnek bárki a vezetője, az a nemzet kormánya. Önök ezt a szót elrabolták, maguknak vindikálták." – Ruff Bálint [*](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1412)
+A meghallgatást az Igazságügyi és Alkotmányügyi Bizottság tartotta Nagy Imre termében. Az elnök ismertette, hogy Magyar Péter miniszterelnök tájékoztatta a házelnök asszonyt dr. Ruff Bálint György miniszterelnökséget vezető miniszterré történő kinevezésére vonatkozó javaslatáról. Mivel a házbizottságban nem alakult ki konszenzus, a házelnök asszony állásfoglalása alapján került sor a meghallgatásra.
 
-## Kormányzati kommunikáció és propaganda
+A meghallgatás rendje: a miniszterjelölt expozéja, majd képviselői kérdések és vélemények négyperces időkeretben. Tuzson Bence volt igazságügyi miniszter is négy percben szólalhat fel, illetve az Európai Uniós Bizottság ellenzéki tagja, a KDNP delegáltja öt percben. Ezt követően a miniszterjelölt egyben válaszol a kérdésekre.
 
-Több képviselő is foglalkozott a kormányzati kommunikáció kérdésével. Tóth Norbert képviselő „Rogáni Gyűlöletközpontként" hivatkozott a kabinetirodára, és azt kérdezte, hogyan lehet begyógyítani azokat a sebeket, amelyeket az állami propaganda ejtett a társadalom szövetén. Ruff Bálint válaszában kifejtette, hogy az elmúlt 10 évben körülbelül 40 milliárd forintból folytattak lejárató kampányokat, hergelést és propagandát. Ígéretet tett arra, hogy a kormányzati kommunikáció teljesen megváltozik: nem ő fogja tartani a kormányinfókat, hanem „erre sokkal jobb és alkalmasabb emberek", akik válaszolnak a kérdésekre, nem rohannak el, nem aláznak meg senkit, és nem tiltanak ki újságírókat.
+## Ruff Bálint expozéja
 
-> „Az én idős rokonaim bekapcsolják például az M1-et, ne úgy feküdjenek le, hogy nem tudnak aludni, mert attól félnek, hogy másnap atomháború lesz." – Ruff Bálint [*](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3682)
+### A csapat bemutatása
+Ruff Bálint bemutatta munkatársait:
+- Jobbján **Csontos Bence**, a TISZA Párt parlamenti képviselője, a Bajai körzet győztese, nemzetközi szakértő, filozófia diplomával – ő lesz a politikai parlamenti államtitkár
+- Balján **Dr. Biron Nagy András**, politikatudományok doktora – szakpolitikai államtitkár-jelölt
 
-Szűcs Gábor képviselő felvetette, hogy ha a TISZA-kormány törvénybe iktatja a gyűlöletkeltés és lejáratás tilalmát az állam részéről, akkor az ilyen beszédek, mint amit Ruff éppen mondott, a jövőben nem hangozhatnának el. Ruff erre nem reagált érdemben.
+### Történelmi keretezés: három dátum
+Ruff Bálint három dátumot emelt ki: 1990, 2010 és 2026.
 
-## Európai uniós ügyek és források
+**1990**: A rendszerváltás "különleges helyzetben" érte Magyarországot, 100 000 szovjet katona állomásozott az országban, a Szovjetunió összeomlott. "A külső körülmények erősebbek voltak, mint a belső." Magyarország óriási lehetőséget kapott, hogy nyugati demokratikus ország legyen, de "rengeteg hiba volt, amit elkövetett a rendszerváltás akkori politikai elitje" – az ügynökakták kérdése, az elszámoltatás, a gazdasági helyzet rendezése, a jogállam felállítása.
 
-Ruff Bálint elmondta, hogy a miniszterelnök azért vonta magához az uniós ügyek felügyeletét, hogy a lehető leggyorsabban haza tudják hozni az uniós forrásokat. Kifejtette, hogy a magyar gazdaság 2023 óta 0%-os GDP-növekedést mutat, miközben az előző kormányzat palotákat építtetett. Ígérete szerint a kormányzat első lépései között lesz az Európai Ügyészséghez való csatlakozás.
+**2010**: Orbán Viktor és a Fidesz "főkefodalomban" kapott kétharmados többséget, ami "egyértelmű válasza volt a magyar társadalom többségének arra a kormányzásra, ami Gyurcsány Ferenc nevéhez, meg talán Bajnai Gordon nevéhez kapcsolódik". A lehetőség óriási volt, a felhatalmazás hatalmas, az elvárások óriásiak.
 
-Az uniós források felhasználásával kapcsolatban elmondta, hogy a lebonyolítási rész Lőrincz Viktória miniszter asszonyhoz kerül, pontosan azért, „hogy ne legyen egy kézben", és ne úgy költsék el a pénzt, ahogy az előző kormánypárt tette – „annak adott, aki az övé volt, annak osztotta el, aki eleget tudott kérni érte".
+> „És ebben mi történt? Hát talán a legrosszabb 16 év, amit ez az ország az elmúlt mondjuk 36 évében átélt." – Ruff Bálint [*](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1178)
 
-## Migrációs politika
+Ruff Bálint szerint Gyurcsány Ferenc és Orbán Viktor "az elmúlt 20 évünket tönkretették". Gyurcsány hat évig, Orbán 16 évig volt miniszterelnök, és "így ketten kéz a kézben Magyarországot, aki 2010-ben az Unió egyik újonnan csatlakozó országai közül a legfejlettebb volt, vidám volt, reményekkel teli volt, 16 évvel később a legszegényebb, legkorruptabb, legszomorúbb országgá tette."
 
-A migrációs paktummal kapcsolatban Ruff Bálint hangsúlyozta, hogy a TISZA-kormány szigorú migrációs politikát fog folytatni, megvédi a határait és nem engedi be az illegális migrációt. Felrótta az előző kormányzatnak, hogy soha nem mondták el a választóknak: a migrációs paktum három lehetőséget kínál – befogadás, segítés vagy pénzügyi hozzájárulás.
+**2026**: A TISZA Párt soha nem látott kétharmados felhatalmazást kapott a "Fideszes választási törvények között".
 
-Bejelentette, hogy 2026. június 1-jétől a kormányzat megtiltja, hogy harmadik országból vendégmunkások jöjjenek Magyarországra dolgozni. Ezt azzal indokolta, hogy az előző kormányzat „magyar emberek helyett külföldről hozott be embereket dolgozni", és ebből a Fideszhez köthető személyek „milliárdosok lettek".
+### A tegnapi "tárlatvezetés" élménye
 
-> „2026. június 1-jétől megtiltja a kormányzat azt, hogy harmadik országból jöjjenek Magyarországra vendégmunkások dolgozni, mert önök nemzeti kormánya azt csinálta, hogy magyar emberek helyett külföldről hoztak be embereket." – Ruff Bálint [*](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3602)
+Ruff Bálint részletesen beszámolt arról, hogy előző este Magyar Péter miniszterelnökkel, a belügyminiszterrel és Velkey Györggyel együtt bejárta azt a három épületet, amely a miniszterelnökséghez fog tartozni.
 
-## Ukrajna és kisebbségvédelem
+#### A Karmelita
+A Színház utcai épületről – amely korábban egyházi kezelésben lévő színházépület volt – Ruff Bálint elmondta, hogy "mint egy kísértetház", "üres hatalmi központ". Szép képek, fél galéria, antik könyvritkaságok vannak benne. Megjegyezte: "Szerintem meg ott a helye."
 
-Ruff Bálint egyértelművé tette, hogy a TISZA-kormány nem támogatja Ukrajna gyorsított EU-csatlakozását. Közölte, hogy Ukrajna kezdje el a normális ütemű csatlakozási folyamatot, és hajtsák be az ukránokon a magyar kisebbség jogait. Felrótta, hogy Orbán Viktor 2014 óta egyszer sem látogatott el Kárpátaljára, ahol magyar emberek élnek háborús körülmények között.
+#### A Kabinetiroda (Rogán Antal egykori épülete)
+Ezt az épületet nevezte a legmegdöbbentőbbnek:
 
-> „A miniszterelnök nem megy el arra a helyre, ahol magyar emberek élnek, akiket bombáznak. Ez a komplex megoldás, hogy nem megy oda. Ez tényleg elég komplex." – Ruff Bálint [*](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3433)
+> „Az olyan, amit egyszerűen szerintem mindenkinek látnia kell, aki magyar. Nem öt csillagos, hanem hat csillagos, ha azt lehet ezt a mondatot mondani." – Ruff Bálint [*](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=767)
 
-Hozzátette, hogy ha Ukrajna a rendes tempóban meg tud felelni minden elvárásnak, akkor ügydöntő népszavazás lesz Magyarországon a csatlakozásáról.
+Az épületben található:
+- Egy 1 méter átmérőjű tömör márványasztal egy szivarszobában, ahol "a miniszter és társai elbeszélgessenek az élet nagy dolgairól egy szivar, vagy egy whisky, vagy egy tonic, vagy egy ásványvíz mellett"
+- Egy étterem full panorámával, ahonnan "vidáman mosolyogva néztek le ide a pornépre"
+- Egy csigalépcsőn megközelíthető magánkilátó, ahol "Rogán Antal és barátai 360 fokban tudták megnézni, hogy a pornép hogyan él ebben a kis hazában"
+- Carrara márvánnyal (vagy porcelánnal) felszerelt mosdók
 
-## Ügynökakták és múltfeltárás
+Ruff Bálint hangsúlyozta, hogy mindezt a COVID alatt rendelték, miközben "az ország szétesett, nulla gazdasági növekedés volt három évig". Az épület költsége körülbelül 60 milliárd forint.
 
-Az ügynökakták nyilvánosságával kapcsolatban Ruff Bálint elmondta, hogy nem ő fogja benyújtani a törvényt, hanem széles körű szakmai konszenzus alapján történészek, levéltári szakértők, pszichológusok, szociológusok és jogászok bevonásával készül majd el. Elmondása szerint az iratanyagok körülbelül 10%-a még titkos, ezek nagy részét a jelenlegi nemzetbiztonsági szolgálat őrzi.
+> „És miközben ettek a jóvárosott menzán, azon gondolkodtak, hogy vajon mi legyen a következő gyűlöletkampány, amit az ország ellen elindítanak, hogyan fogjuk tovább terrorizálni a gyermekeinket, hogyan fogjuk háborús pszichózisban tartani az öregeinket, hogyan lehet belerúgni bárkibe, aki ellent mer mondani ennek a hatalomnak." – Ruff Bálint [*](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1431)
 
-Célként jelölte meg, hogy a már feloldott titkosítású adatbázisokat a modern technológia segítségével összekapcsolják, ami korábban 5-10 évig tartott volna, most viszont 5-10 napra szűkülhet le. Hangsúlyozta, hogy a határidő október 23-a, a forradalom 70. évfordulója előtti nap.
+#### A Belügyminisztérium
+A harmadik épület, amelynek költsége 100 milliárd forint volt. Ruff Bálint elmondása szerint a másik két épület luxusa "valójában semmi a belügyminisztérium luxusához képest". A 16-15 fős csoport "jó 10 percre kábé senki egy szót nem szólt. Csendben sétáltunk ebben az épületben."
 
-A rendszerváltás utáni időszakkal kapcsolatban elmondta, hogy a miniszterelnök kiemelt programja a 90 utáni „magánosítási" kérdés és a magyar titkosszolgálatok működésének vizsgálata. Ebben Borvendég Zsuzsanna lesz a szakértő.
+Kiemelte, hogy abban a minisztériumban, ahová a teljes szociális, egészségügyi és oktatási ágazat tartozott, olyan termekben beszélték meg "a 380 000 forintos szociális szférában lévő átlagfizetést, ahol egy négyzetméternyi szőnyeg valószínűleg ennél jóval drágább". Leírt egy 80 méter hosszú, 30 méter széles miniszteri tárgyaló előtti bevezető folyosót is.
 
-## Vagyonvédelem és korrupcióellenes intézkedések
+### A TISZA-kormány miniszterelnökségének alapelvei
 
-Ruff Bálint kifejtette, hogy a vagyonvisszaszerzési és védelmi hivatal nem közvetlenül hozzá fog tartozni, hanem a parlament elé lesz rendelve, alkotmányos kétharmaddal létrehozott szervezetként. Ennek célja, hogy „minden magyar ember meg tudjon majd bízni benne". Hangsúlyozta, hogy a vagyonvisszaszerzés nem a kormány, hanem az erre szakosított szervek feladata lesz.
+Ruff Bálint hangsúlyozta, hogy az ő minisztériuma nem lesz olyan "halálcsillag", mint az Orbán-kormány három központi minisztériuma. Az alapelvek:
 
-> „Én nem fogok senkit sem levadászni, senkit megfélemlíteni. Nem vendettát, nem bosszút, nem elszámoltatást, jóvátételt, jóvátételt, amit önök ebben az országban műveltek." – Ruff Bálint [*](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2820)
+> „Visszaállítani a jogállamot, visszaállítani azt, hogy a hazát szolgálni kell, visszaállítani azt, hogy az állam nem bánt, hanem szolgál." – Ruff Bálint [*](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1844)
 
-Az antikorrupciós intézkedésekkel kapcsolatban a meghallgatás utáni sajtótájékoztatón elmondta, hogy a frakció hozzá fog nyúlni a közbeszerzési szabályozáshoz, visszaadják az Integritási Hatóság jogköreit, és lesz vagyonnyilatkozati jogkiterjesztés is.
+További alapelvek:
+- Embereket nem lehet véleményük miatt megkülönböztetni
+- A gyereket védeni kell, nem kiszolgáltatni
+- Az állam nem költhet évente 20-30-40-100-200 milliárd forintot más emberek megbélyegzésére
+- A közpénz az közpénz
+- A propagandának nincs helye az államban
+- Aki az államban dolgozik, az szolgál – mind a 10 millió magyar embert, nem csak azt, aki rászavazott
+- El kell választani a hatalmi ágakat
+- Egy politikus nem mindenható
 
-## Kormányablakok és területi közigazgatás
+### A miniszterelnökség szervezeti változásai
 
-Csúzda Gábor képviselő kérdésére válaszolva Ruff Bálint elmondta, hogy a kormányablakok és az egyablakos ügyintézés kérdése komplex téma, amellyel kapcsolatban még nincs kész megoldása. Ugyanakkor bírálta a főispáni rendszert, amely szerinte arra szolgált, hogy „a kínai akkumulátorgyáraknak minden építkezésén szemet hunyjanak". Kijelentette, hogy a TISZA-kormány a legszigorúbban fog fellépni ezek ellen, és Gajdos László miniszter fogja véghezvinni a szükséges változtatásokat.
+Ruff Bálint konkrét szervezeti változásokat is bejelentett:
 
-## Jogállamiság és hatalmi ágak szétválasztása
+1. **Titkosszolgálatok**: Elkerülnek a miniszterelnökségtől, vissza oda, ahová valók – a Belügyminisztérium, a Honvédelmi Minisztérium, az Igazságügyi Minisztérium vagy a Külügyminisztérium alá.
 
-A jogállamisággal kapcsolatos kérdésekre Ruff Bálint élesen bírálta az előző kormányzatot. Felhívta a figyelmet arra, hogy az Alkotmánybíróság elnöke „PT Péter" (utalva ezzel arra, hogy a testület elnöke személyes kapcsolatban áll a kormánypárttal). Kijelentette, hogy a jogalkotásért, jogalkalmazásért és jogállamért az igazságügyi miniszter felel, míg a politikai tervezésért és a rendszerváltás motorjaként az ő minisztériuma.
+2. **KSH**: Szakmai kontrollja visszakerül a pénzügyminiszterhez, majd rövid időn belül újra önálló intézmény lesz, "aminek a számainak majd újra hihetünk".
 
-A gyermekvédelmi törvénnyel kapcsolatban feltett kérdésre Ruff Bálint nem adott érdemi választ, helyette az előző kormányzat kegyelmi ügyét hozta fel, és azt mondta: „Önök már ne haragudjanak. Önök művelték ezt."
+3. **A minisztérium szerepe**: Politikai elemző és politikai javaslattevő szerv lesz, jogszabályokat nem fog kezdeményezni, törvényeket nem fog előkészíteni – erre a szakminisztériumok hivatottak.
 
-## Ellenzéki képviselők együttműködési lehetőségei
+4. **Belső struktúra**:
+   - Politikai parlamenti államtitkárság (Csontos Bence)
+   - Stratégiai államtitkárság
+   - Szakpolitikai államtitkárság (Biron Nagy András)
+   - Tükörreferatúrák (a minisztériumi struktúra leképezése, hasonlóan az 1998-2002 közötti Stumpf István-féle modellhez, de más szemlélettel)
+   - Kommunikációs államtitkárság
 
-Csúzda Gábor képviselő kérdésére, hogy a Fidesz-KDNP színeiben egyéni körzetben megválasztott képviselők hogyan tudnak majd együttműködni a kormánnyal, Ruff Bálint ígéretet tett arra, hogy minden képviselőt segíteni fog, függetlenül pártállásától. Kijelentette: „Egy megválasztott parlamenti képviselő, nekem kötelességem önt mindenbe segíteni. Ha hozzám fordul, mindig fel fogom venni a telefont önnek."
+### Kommunikációs reform
 
-## A meghallgatás utáni sajtótájékoztató
+Ruff Bálint bejelentette, hogy három sajtószóvivő fogja tájékoztatni a sajtót és az országot a kormány döntéseiről. Ez "szolgálat" lesz.
 
-A meghallgatás után Ruff Bálint rövid sajtótájékoztatót tartott, ahol további részleteket osztott meg:
+> „Törvénybe fogjuk iktatni, hogy a magyar állam gyűlöletet, lejáratást, más emberek megbélyegzését nem tehet soha többet." – Ruff Bálint [*](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2415)
 
-- A vagyonvisszaszerzési hivatal nem közvetlenül hozzá fog tartozni, hanem külön hatalmi ágként, a parlament elé rendelve működik majd.
-- Az ügynökakták nyilvánosságát a lehető legszélesebb körben, az etikai és jogi kereteket betartva kívánják megvalósítani.
-- Célja, hogy egy év múlva már működjön a vagyonvisszaszerzési és védelmi hivatal, megbecsült szakemberek vezetésével.
-- Az uniós pénzek mielőbbi hazahozatalát és a gazdaság beindítását szintén prioritásként kezeli.
-- A kormányzati kommunikációban teljesen más hangnemet és stílust ígért: válaszolni fognak a kérdésekre, nem aláznak meg senkit, és nem tiltanak ki újságírókat.
+Külön kitért arra, amit az előző kormány "a gyermekeinkkel" művelt: "egy YouTube mesét nem lehetett megnézni úgy, hogy ne valamilyen atomtámadás vagy képzelt ellenség jöjjön fel". Hasonlóképpen bírálta a nyugdíjasokkal szembeni "háborús pszichózist" és a közpénzből finanszírozott propagandát.
 
-> „Aki a magyar államnak dolgozik, legyen az fegyveres testületben, miniszterként, vagy csak irodistaként, szolgálatként fogja fel, amit itt tölt, hogy magyar embereknek segíthet a boldogulásukban." – Ruff Bálint [*](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4349)
+### Az elszámoltatás és a Vagyonvédelmi Hivatal
+
+Ruff Bálint pontosította, hogy nem a minisztérium fogja kidolgozni a Nemzeti Vagyonvisszaszerzési és Védelmi Hivatal törvényét, hanem "141 országgyűlési képviselő fogja benyújtani a legdurvább és legbiztosabb jogállami keretek között". A hivatal tervezetten július 1-jétől áll munkába.
+
+Az antikorrupciós lépéseket a kormány a lehető leghamarabb meghozza. Ruff Bálint szerint "a múltban is, a jövőben is és jelenben is a legkeményebb szabályok lesznek, amit Magyarország valaha látott".
+
+### A 398 tételes lista
+
+Ruff Bálint utalt egy általa vezetett listára, amely jelenleg 398 tételnél tart. Az utolsó tétel "az oroszok visszahívása az országba", az első pedig a "cigánybűnözés" kifejezés használata. A lista alapján a kormány lépni fog, ahol hatásköre van, de Ruff Bálint hangsúlyozta: "én nem vagyok elszámoltató, nem is fogok elszámoltatni, az én dolgom az, hogy a terepet biztosítsam arra, hogy egy másik hatalmi ág tegye most már úgy a dolgát, ahogy szeretné".
+
+### A 20 000 milliárd forintos EU-s forrásvesztés
+
+Ruff Bálint szerint az előző kormány 20 000 milliárd forintot "vett el a közösből" az Európai Uniós források sajátként kezelésével. Ezt nevezte annak az oknak, amiért a magyar lakosság nagy százaléka azt mondta, hogy "elég".
+
+> „20 milliárd forintot vettek el a közösből. 20 000 milliárd forintot. Nem kevés." – Ruff Bálint [*](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1861)
+
+### Orbán Viktor "hat törvénye" és a hübrisz
+
+Ruff Bálint elmondta, hogy a tegnapi bejárás során megtalálta azt a táblát, amelyre Orbán Viktor "hat törvénye" van felírva. Az egyik szerinte a legsokatmondóbb:
+
+> „Az igaz, aminek igaza lesz." – idézte Ruff Bálint Orbán Viktor elvét [*](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2682)
+
+Ezzel szemben a TISZA-kormány filozófiája:
+
+> „Az emberek tévednek, az emberek változnak, és az én minisztériumom azon lesz, hogy a politikai tévedéseket megpróbálja kijavítani." – Ruff Bálint [*](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2355)
+
+Hangsúlyozta, hogy a TISZA-kormány és az Orbán-kormány között az a nagy különbség, hogy a tévedés "nem szégyen, ilyen van. A jó Isten nem tud tévedni. Az emberek, a halandók tévednek sokat. A kérdés az, hogy tévednek és beismerik és tanulnak belőle, vagy tévednek és még mindig a gyásznak az első fázisában vannak."
+
+### A gyász fázisai – ismétlődő motívum
+
+Ruff Bálint többször is utalt a "gyász fázisaira", Tuzson Bence közbeszólásaira reagálva. Elmondása szerint Tuzson Bence "az első fázisban van még, de majd hátha megy a másikba is". Ez a pszichológiai utalás (a gyász öt fázisa: tagadás, düh, alkudozás, depresszió, elfogadás) visszatérő eleme volt az expozénak, amellyel a Fidesz-KDNP képviselőinek a választási vereség feldolgozására utalt.
+
+### A kórházi állapotok kontrasztja
+
+Ruff Bálint konkrét példaként említette a János kórházat, az Uzsokit, az újpesti kórházat és a délpesti kórházat, ahol "nem az, hogy WC-papír nincsen, hanem a fejére szakad az embernek a mennyezet a gyermekosztályon is". Ezt állította szembe a minisztériumi luxussal.
+
+### A miniszterelnöki felkérés
+
+Ruff Bálint elmondta, hogy Magyar Péter a következő szavakkal kérte fel a feladatra:
+
+> „Bálint, eleget beszéltél az elmúlt három évben, hogy milyen milyen milyen szeretnél csinálni. Itt az idő, hogy megcsináld." – idézte Ruff Bálint Magyar Pétert [*](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1964)
+
+Ruff Bálint válasza: "azt hiszem, hogy értem, mire gondol. És erre amire nem lehet, amire nem lehet nemet mondani, akkor az embernek a hazája hívja, hogy jönni kell."
+
+### Azonnali intézkedések
+
+Ruff Bálint ígéretet tett arra, hogy amint bekerülnek a minisztériumba, "a valaha volt legnagyobb átvilágítást fogom elrendelni azonnal, politikait, gazdaságit és még egyéb dolgokban is". A kommunikációs szerződések átnézése is azonnal megkezdődik.
+
+### A sebek gyógyításának időtávlata
+
+Ruff Bálint reálisan értékelte a helyreállítás időigényét: míg a gyűlöletpropaganda megszűnése azonnal érezhető lesz, "annak a normaszegésnek [...] a megjavítása, vagy a sebek begyógyítása lehet, hogy inkább 20 év lesz, mint 10". Külön kiemelte, hogy az előző kormány "15 óta, 11 évig egy-két generációnyi fiatalt neveltek és sokkoltak azzal, hogy egész életükben háborús plakátokat kellett nézniük az utcán. Bombákat, embereket, háborút."
 
 <!-- SECTION:UNCERTAIN -->
 
-- „fékek és energijok rendszerét" – valószínűleg „fékek és ellensúlyok rendszerét"
-- „békesetá" – valószínűleg „fékeket és ellensúlyokat"
-- „TDI Zoltánt" – kontextus alapján valószínűleg más személy, nem azonosítható egyértelműen
-- „Kisésből képviselő úr" – valószínűleg elírás, a kontextusból nem azonosítható pontosan
-- „Hallerté Dudeó képviselő asszony" – valószínűleg elírás, nem azonosítható pontosan
-- „Jóászman képviselő asszony" – valószínűleg elírás, nem azonosítható pontosan
-- „Stung Péter képviselő úr" – valószínűleg elírás, nem azonosítható pontosan
-- „Simon Krisztian Márk képviselőtársam" – valószínűleg elírás, nem azonosítható pontosan
-- „Boka Zsolt képviselő úr" – valószínűleg elírás, a referencialista alapján Bóka János lehet
-- „Nav Basic Tibor volt miniszter úr" – valószínűleg Navracsics Tibor
-- „Borvendi Zsuzsannak" – valószínűleg Borvendég Zsuzsanna
-- „Vajdos László miniszter" – valószínűleg Gajdos László környezetvédelmi miniszter
-- „Tanács Zoltán" – valószínűleg Tarr Zoltán
-- „Ruf Bálin György" – a jegyzőkönyvben így szerepel, de a kontextus alapján Ruff Bálint
+- "Kátai Német Wilmosnak a meghallgatását láthatták, aki a családügyi miniszter lesz" – A név valószínűleg ASR-hiba, a kontextus alapján egy korábbi miniszterjelölti meghallgatás alanyáról van szó, de a pontos név nem rekonstruálható.
+- "Stóf István miniszter" – Valószínűleg Stumpf Istvánra utal, aki 1998-2002 között a Miniszterelnöki Hivatalt vezette.
+- "Biron Nagy András" – A név kétszer is így szerepel, valószínűleg helyesen Bíró-Nagy András vagy hasonló összetett név.
+- "Velkeyi György" – Valószínűleg Velkey Györgyre utal, aki a TISZA-kormány egészségügyi területéhez kapcsolódhat.
+- "Tótavi Árpádddal, Stumf Andrással és Tompos Ádámmal" – A nevek ASR-torzítások lehetnek, a Szabadsajtó Klub munkatársaira utalnak.
 
 ## Átirat
 
 <details>
 <summary>Teljes átirat megjelenítése</summary>
 
-[00:00:00](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=0) Szeretnék én is fölteni önnek kérdés jogállamiságról beszélünk.
+[00:00:32](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=32) Segíts, hogy talpon maradhassunk.
 
-[00:00:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1) Ön szerint az belefér a jogállamiság keretébe, hogy a fékek és energijok rendszerét aként kívánjuk fel lebontani egy felszólító köztársasági elnököt arra, hogy mondjon le.
+[00:00:32](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=32) Másfél éve azon dolgozunk, hogy új hangot hozzunk a nyilvánosságba.
 
-[00:00:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=13) Hogy mikor volt utají ilyen TDI Zoltánt távolították el így az TDI Zoltán utoljá fölszólítani a bíróság más hatalmi állat vezetőinek, hogy ott mondjanak le az ügyészséget, a bíróságot.
+[00:00:36](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=36) Egyre több tartalommal, egyre magasabb színvonall igyekszünk megmutatni neked Magyarország is a világhíreit egy új szemüvegen keresztül.
 
-[00:00:28](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=28) Az alkotmánybíróság tudja mi a lényege egy demokráciának?
+[00:00:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=43) Élő közvetítésekkel, interjúkkal, elemzőműsorokkal, dokumentumfilmekkel, riportokkal, vitaműsorokkal és írott cikkekkel.
 
-[00:00:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=31) Az az, hogy eltolva vannak ezek az intézmények, hogy ciklusokon évelnek át ezek az é pont ezt biztosítja a hatalmi egyensúly, hogy ne lehessen átérni.
+[00:00:49](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=49) Sokan kérdeztétek, hogy hogyan tudnátok felajánlani nekünk az adótok 1%-át.
 
-[00:00:43](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=43) Az, hogy ön akarják táborítani az összes ilyen és utána a saját embere akarják ezekre ebbe a fékekbejtetni az egyértelműen azt jelenti, hogy le akarják bontani az országban a békesetá ön egy szót sem mondott arról, hogy az európai uni mit szeret.
+[00:00:53](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=53) Mi is úgy gondoljuk, hogy a sajtószerepe nagyon fontos, de az adód 1%-át nem kérjük.
 
-[00:00:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=59) Ön lesz az a miniszter aki egyébként fog szerelni az európai uniós kérdel a Magyarország képviseletéhez.
+[00:01:00](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=60) Azt javasoljuk, adjátok ezt nálunk nemesebb célra, az Iványi Gábor nevével fémjelzett Oltalomkaritatív egyesületnek.
 
-[00:01:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=68) Ugye ön önhöz tudtozni az Európai Uniós ügye.
+[00:01:06](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=66) Viszont ha lehetőségedben áll, támogass minket közvetlenül az alapítványunkon, a tabula ráza média Alapítványon keresztül, utalással vagy a PayPal-on.
 
-[00:01:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=71) Itt van például a migrációnak a kérdése.
+[00:01:16](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=76) Osd meg ezt a videót az ismerőseiddel, és segíts, hogy talpon maradhassunk.
 
-[00:01:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=73) Napi 1 millió eurós irságot fizetik azért, mert a migrációs kérdésben Magyarország nem változott az álláspontal.
+[00:01:31](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=91) Hamarosan kezdődik Ruf Pálint miniszterjelölti meghallgatása.
 
-[00:01:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=82) Magyarország ezért felfított az Európai bíróság szemben.
+[00:01:33](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=93) Ő lesz a kabinetfőnöke kvázi az egész kormánynak.
 
-[00:01:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=87) Ennek a bnek a lényege az, hogy az Európai Bíróságnak kárképzést kell fizetnie a döntése miatt Magyarország számára, mert ez szemben pont az európai érzékekkel.
+[00:01:39](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=99) A miniszterelnökséget vezető miniszter.
 
-[00:01:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=97) és egy soha nem látott mértékű egyébként az előterjesztés, tehát a kereseten túlterjesztkedő döntés bizár.
+[00:01:41](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=101) Ezt a tisztséget ezelőtt Gulyás Gergely töltötte be.
 
-[00:01:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=105) Kérdésem az, hogy ezt a tert amit egyébként nemzetközi ügyvédi irányz folytatni fogja miniszter úr a másik oldalon pedig ön a elmúlt időszakban nemzeti kormányzás időszakát indítak.
+[00:01:44](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=104) Őt fogja váltani Ruf.
 
-[00:02:03](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=123) Óriási eredmények vannak erős sorolhatnák a családtámogatási rendszertől kezdve a bírósági ügyek felgyósításánál beszélünk számos olyan kérdésről ami hihetetlen a gyerek az ütöbbi időszak és ezeket ön egy kalapál úgy, hogy a közbeszerzési rendszerről beszél tudja ön azt hogy egyáltalán hogy a közbeszerzési szabályok azok uniós szabályok által determinált közbeszerzési szabályok is tisztában van azzal, hogy az Európai Unió minősítése szerint a magyar közbeszerentési rendszer Európa legjobb közbeszerési rendszerei közé tudja nem tisztában van ez nem én mondom el uniósályt is.
+[00:01:46](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=106) Magyar Péter már beszélt arról, hogy a kormányinfók meg fognak változni.
 
-[00:02:42](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=162) Tehát ön azt úgy gondolom hogy ezekkel a kérdésekkel nincs tisztáb az egyébként amit itt elmondott a felkészületségünket.
+[00:01:48](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=108) Tehát nem Ruf Bálint és valaki fogja ezeket vezetni.
 
-[00:02:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=173) Köszönöm szépen.
+[00:01:52](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=112) Bejelentett három szóvivőt, két RTL-s és egy ATV-s műsorvezető női igazolásban.
 
-[00:02:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=176) Mielőtt megadnám a szót a következő képviselőnek, azért szeretném a a bizottság figyelmébe ajánlani a 2018-as és 2022-es miniszteri meghallgatások jegyzőkönyveit ennek a bizottságnak a az üléséről.
+[00:02:01](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=121) Úgyhogy hamarosan várjuk, hogy Rufbánknak mi is lesz pontosan a feladata.
 
-[00:03:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=188) Ugyanis 2018-ban frakciónként hét perc időkeretet határozott meg az akkori kormánypárti Fidesz KD.
+[00:02:04](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=124) Egy dolog, az biztos, az elszámoltatásról szó lesz.
 
-[00:03:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=197) kormánypárti vezetésű bizottság.
+[00:02:06](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=126) Erről már előzetesen is Facebook posztjában is beszélt, hogy az elszámoltatás és a vagyonvédelmi és visszaszerzési hivatal lesz a az ő krédója, az ő műve.
 
-[00:03:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=197) 22-ben pedig képviselőként határozott meg képviselőként időkeretet.
+[00:02:21](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=141) Nemrégiben, hogyha a nézőink követték az előző élőadásunkat, ott Kátai Német Wilmosnak a meghallgatását láthatták, aki a családügyi miniszter lesz.
 
-[00:03:23](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=203) Most megadom a szót Boka Zsolt képviselő úr.
+[00:02:28](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=148) Viszont itt is van mellettünk egy sajtómunkatárs, Gulyás Balázs.
 
-[00:03:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=215) Üdvözlöm miniszterö úr.
+[00:02:34](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=154) Szervusz!
 
-[00:03:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=215) Nekem egy rövid kérdésem lenne, hogy kifejtené ezt az antikorrupciós intézkedéseket a korrupció visszaszorítása érdekében tervezeti javaslatnak.
+[00:02:34](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=154) Jó napot!
 
-[00:03:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=224) Köszönöm.
+[00:02:34](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=154) Mi ho ma téged ide, Balázs?
 
-[00:03:49](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=229) Köszönöm.
+[00:02:38](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=158) A te személyed valójában azt kell, hogy mondjam, számítottam rá, hogy itt jelen leszel és és csak emiatt.
 
-[00:03:49](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=229) Csúszda Gábor képviselő úgy elkezett felszólás a szót.
+[00:02:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=163) Tehát engem a miniszteri meghatoltások természetesen nem érdekelnek, hiszen újságíró vagyok.
 
-[00:03:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=236) Köszönöm szépen elnök úr, tisztelt bizottság, tisztelt tisztelt miniszterjelölt úr.
+[00:02:50](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=170) Igen.
 
-[00:03:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=239) Én ugye mindennapi életet jobban érintő kérdéseket szeretnék föltenni.
+[00:02:50](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=170) Tehát nagyon szépen köszönöm, hogy miattam eljöttél ide, de ha jól látom, akkor Ruf Bálint fog hamarosan érkezni.
 
-[00:04:03](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=243) Ugye területi közigazgatásnak a reformért is elítétel lesz, ha jól olvastam a programokban és hallottam a sajtó megnyilvánulásaikban.
+[00:02:55](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=175) Mit gondolsz arról, hogy ő lett a miniszterelnökséget vezető miniszter, vagy hát lesz?
 
-[00:04:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=256) Alapvetően én járásigazlatban dolgoztam korábban, és ezzel kapcsolatban lenne egy olyan kérdésem, hogy az egylatos ügyintézés, tehát hogy az állampolgárok mindent egyen el tudjanak intézni a kormányablatban, vagy majd hívjunk ezt bárhogy máshogy, hogy ezt megkívánják-e tartani, illetve az ápalkalmazást kívánják-e tovább fejleszteni, ez fog működni a továbbiakban is, hiszen ez egy valószínű még fejlesztendő dezú szolgáltatás most az állampolgárok részére.
+[00:03:00](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=180) Hát ért ahhoz, ami amire vállalkozott.
 
-[00:04:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=284) Ugye egyéni körzetben megválasztott képviselőként számomra egy fontos kérdés az, hogy hogyan tudunk dolgozni majd 10en mi, akik Fidesz KDNP színében nyertünk egyéni körzetet.
+[00:03:03](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=183) Az nyilván furcsa, amikor egy újságíró vagy megmondó ember, vagy vagy valami, tehát a politika határvidékéről valaki átül a nagy politikába, és és ráadásul ilyen magas pozícióba, de van neki ugye politikai múltját az SDS kormány alatt, ő volt tisztségviselő.
 
-[00:04:57](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=297) Hogyan tudunk majd dolgozni a saját választó kerületünkért?
+[00:03:22](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=202) Jó, de erre nem lehet senki büszke, hogy az SZDS alatt bármit bármilyen tisztséget vállalt.
 
-[00:04:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=299) Mennyiben fogják a véleményünket kikérni döntéselőkészítési folyamatokban?
+[00:03:26](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=206) Tehát nem ezért szeretjük Bálintot, ha mondhatom még így, hiszen még nem miniszter, úgyhogy még úgyhogy még nem kell megadnom neki azt a tiszteletet, ami kijár a pozíciójához.
 
-[00:05:04](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=304) Ez számomra is azt gondolom, hogy az általán képviselt választó polgárok szám is egy fontos kérdés.
+[00:03:36](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=216) De a viccet félretérve szerintem érti azt a területet, amit elvállalt, és nem lesz kis feladat, hiszen arról beszéltek itt a folyosói pletykák, hogy ilyen tükörreferatúrák lesznek, mint az első kormány idején.
 
-[00:05:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=310) Ugye azt leszögeztük, hogy konstruktív ellenzéként szeretnénk együttműködni.
+[00:03:51](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=231) Magyarán tulajdonképpen az összes minisztérium kicsiben ott lesz a miniszterelnökségen belül.
 
-[00:05:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=313) Én a magam részéről maximálisan meg tudom ezt ismételni, hogy az átal képvisel 71 település vonatkozásában mi minden olyan helyet szeretnénk támogatni, amely az ott élőknek az érdekét szolgálja.
+[00:03:58](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=238) Úgyhogy ez nem lesz egy nem lesz kisminisztérium.
 
-[00:05:25](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=325) Ebben hogyan fogunk tudni együtt dolgozni minisztériumokkal, akár a miniszterelnökséggel is.
+[00:03:59](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=239) És nyilván egy nagy apparátust meg egy ennyire szétterjedő portfóliójú aparátust nem lesz könnyű vezetni.
 
-[00:05:33](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=333) Itt a fékek és ellensúlyok rendszerével kapcsolatban a jogállamság kérdéskörében nagyon sok kérdés felmerült felmerőd már én itt a bírói függetlenséggel kapcsolatban szeretném azt kérdezni.
+[00:04:07](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=247) De egyébként azért jött azért küldtek ide a szerkesztő kollégáit, hogy a szabadsajtóklubról beszéljünk, de bármiről tudok egészen hosszan.
 
-[00:05:47](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=347) Igazsági miniszterjelass asszonytól már megkérdeztük ezt.
+[00:04:13](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=253) Rendben.
 
-[00:05:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=350) Érdemű választ nem kaptunk rá, de alapvetően ezt helyre szeretnék állítani, javítani szeretnék.
+[00:04:16](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=256) Akkor lenne még kérdésem ezzel kapcsolatban a szakértelmed miatt, de beszélj a szabadságot.
 
-[00:05:57](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=357) ennek az állapotát.
+[00:04:19](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=259) Milyen szépen mondtad szakértelmem miatt?
 
-[00:05:57](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=357) És azt öntől szeretném kérdezni, hogy öntől szerintetbe belefér-e az, hogy egy aktív politikus egy bírót kritizál, vagy személyben vagy esetleg az átfalmá hozott ítélet vonatkozásában.
+[00:04:23](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=263) Igen.
 
-[00:06:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=373) És mivel az Európai Uniós ügyek önöhöz fognak tartozni, ezzel kapcsolatban lenne még egy olyan kérdésem, hogy ugye megfogalmazuk az Európai egy 27 pontos feltételrendszert kérést Magyarország felé, amely teljesült és ennek ellenére mégsem érkeztek meg az Európai uniós források Magyarországra.
+[00:04:23](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=263) Csak hogyha már nehéz dolga lesz Bálintnak, tehát hogy hogy még egy kérdés, hogy ő képezhet-e szerinted ellenpontot egy ennyire jobboldali fejű kormányban?
 
-[00:06:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=391) Ezzel kapcsolatban szeretném kérdezni a véleményat.
+[00:04:34](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=274) Fogalmam sincs.
 
-[00:06:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=395) Oké.
+[00:04:34](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=274) Én szerintem ez a kormány ez nem politikai ideológiák alapján szerveződik, én úgy látom, hanem sokkal inkább egy ilyen, ha nem is szakértői kormány, de már majdnem az.
 
-[00:06:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=396) Köszönöm szépen.
+[00:04:46](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=286) Tehát egy ilyen szakértői kormányt látok.
 
-[00:06:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=397) Én köszönöm.
+[00:04:47](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=287) A tegnapi meg a mai meghallgatások alapján mind a két nap itt voltam, de úgy láttam egyébként, hogy bement a miniszteri előtt, úgyhogy szerintem mennetek kellene anélkül, hogy én beleszólnék a munkátokba.
 
-[00:06:39](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=399) Köszönöm képviselő úr.
+[00:04:57](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=297) Még egy gondolatot majd a szabadsajúra kell.
 
-[00:06:39](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=399) Kisésből képviselő úr a szót.
+[00:05:01](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=301) meg fogsz dömben pénteken este 6:00 órakor újra a szokásos csapattal Tótavi Árpádddal, Stumf Andrással és Tompos Ádámmal jövünk, és természetesen szó lesz a miniszteri meghallgatásokról is, mert izgalmasak voltak.
 
-[00:06:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=404) Köszönöm szépen a szót elnök úr.
+[00:05:15](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=315) Úgyhogy nézzétek ti is a szabadsajtóklubot, most pedig akkor a miniszteri meghallgatás.
 
-[00:06:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=406) Tisztelt miniszterjelölt úr, én nagyon köszönöm az expozéját, mert képviselőtársammal ellentétben én úgy gondolom, hogy kellőképpen behatárolta a politikai működésének a a kereteit.
+[00:05:17](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=317) Köszönöm szépen.
 
-[00:06:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=418) Azonban én egy olyan kérdést tennék föl, amit az expozéjában nem érintett, ugyanis a közhatalmat gyakorló személyekkel kapcsolatban a demokratikus rendszerekben időről időről felmerülnek különböző alkotmányos és jogállamisággal kapcsolatos kérdések.
+[00:05:19](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=319) Én köszönöm, hogy kitölthettem a üres járatot.
 
-[00:07:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=432) Én ebben a keretben kérdezném önt, hogy hogy mit gondol, miért fontos a közhatalmat gyakorló személyek megbízatásának időbeli korlátozása.
+[00:05:26](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=326) Gyere, gyere, tarts meg.
 
-[00:07:23](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=443) Köszönöm szépen.
+[00:05:29](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=329) Igen.
 
-[00:07:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=446) Köszönöm.
+[00:05:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=342) Az a jó, hogy azér riporteremnél van a mikrofonom.
 
-[00:07:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=446) Szűcs Gábor képviselő úrnak adok a szót.
+[00:05:44](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=344) Egy mikrofon bocsánat, bocsán megfoghatom.
 
-[00:07:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=451) Tisztelt miniszter úr, miniszterjelölt úr, tisztelt bizottság.
+[00:05:58](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=358) Beletem.
 
-[00:07:32](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=452) Köszönöm szépen.
+[00:05:58](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=358) Jó.
 
-[00:07:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=455) Először is gratulálok a jelöléshez.
+[00:06:02](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=362) Jó.
 
-[00:07:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=456) Köszönöm.
+[00:06:05](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=365) És akkor most persze jó kicsit.
 
-[00:07:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=457) Másodsorban miniszterölt úr, az a gyülebeszéd, amit önt méltatlan lenne bárhol, de ebben a házban, mert a nagy teremben, ahol az 56-os főső képei néznek le ránk, az többi mint méltat.
+[00:06:11](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=371) Megoldom.
 
-[00:07:47](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=467) Ön azt mondta, hogy finoman szólva sem volt időszak, trükkök százai voltak a gyurcsány kormány alatt.
+[00:06:12](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=372) Jó.
 
-[00:07:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=473) Azt mondom, hogy egyetértek önnel miniszterí igaz.
+[00:06:22](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=382) kérek Szükség!
 
-[00:07:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=475) A probléma az saját nem életrajz alapján 2006 és 7 között jogi tanácsadója volt Magyarország kormányának.
+[00:06:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=403) J Jó Tegnap voltam háztűznézőben, majd beszélek róla.
 
-[00:08:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=482) 2007 és 2008 között kabinetfőnök volt az egyik minisztériumban.
+[00:08:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=522) Persze, gyere.
 
-[00:08:06](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=486) 2008 és 2009 között pedig a szabaddemokraták szövetségének politikai és kommunikációs tanácsadója, akik akkor legmásab szerint kormányok voltak.
+[00:09:08](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=548) amit szeretnél Ide oldalróg elérjétek.
 
-[00:08:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=495) Akkor önnel az a korszak jönne vissza, amitő úgy jellemzett, hogy trükkök 100 és finoman szól, sem jó korszak.
+[00:09:26](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=566) Köszönöm.
 
-[00:08:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=501) Azt mondta, hogy a legrosszabb 16 év volt, meg a legszegénybett Magyarország 2010 és 2026 között az 1990-es alap adatot alapvé reált.
+[00:09:41](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=581) KZ Hárunk még igen a kedések milyen ksőtás Addig meséljek a tegnapról, vagy még ne?
 
-[00:08:28](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=508) Ha az a 100%, akkor 2010-ben 122%, 2025-ben 233% reál.
+[00:10:14](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=614) Húha.
 
-[00:08:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=521) Reál délér.
+[00:10:14](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=614) Napirend keretében napirend napirendében jó lesz.
 
-[00:08:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=521) Még egyszer mondom, nem nominális alap felhoztam még azt, hogy legszomorúbb ország lettünk.
+[00:10:18](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=618) Szerintem meg Ja, nem kell.
 
-[00:08:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=525) Én nem tudom, hogy tudom a szomorúságunk nincs mértékegysége.
+[00:10:23](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=623) Három helyen voltunk karmelita, kabinetiroda és Berügyminisztérium.
 
-[00:08:49](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=529) Nem is tudom, hogy lehet ilyet állítani.
+[00:10:30](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=630) Ez egy ilyen esti tárlat volt.
 
-[00:08:51](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=531) Ugyanakkor az egészségben eltöltött évek számára az Európai Unióban Magyarország útimal a második legjobb problémának ígérte meg azt, hogy panorámás menzája büféje van a karmelitának.
+[00:10:35](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=635) Érdemért még nem láttam soha.
 
-[00:09:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=541) A karmelita kolostar egy hegynek a tetején van és bármennyire is szeretnénk ezt a kormányra ráhúzni, nem rajtuk múlik, hogy van kilátásokat.
+[00:10:35](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=635) Soha.
 
-[00:09:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=550) ö kritizálta a felújított épületeket.
+[00:10:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=643) Azt hittem, hogy a karmelita lesz a legmegdebbentőbb.
 
-[00:09:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=552) Milyen érdekes, hogy a Tisza frakció nem ül be a képviselő Irodázba, ahova előtte mindenki, hanem a felújított szabadgyérgy irodalházba ül be, amit egyébként a baliberális sajtó még mielőtt önök beköltözték, azért kritizáltak, hogy milyen drágán új voltak fel és ezért teljesen felesleges volt.
+[00:10:45](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=645) De nem, de nem.
 
-[00:09:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=567) Azt mondta, hogy törvénybenatják, hogy gyűlökkert és lejártást nem folytathat az állam.
+[00:10:49](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=649) Melyik volt?
 
-[00:09:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=571) Ezzel én egyetértem.
+[00:10:51](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=651) Milyen szempontból?
 
-[00:09:32](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=572) Na azonban ha az állam ugye nyilván az állam képviselőjire is vonatkozik, akkor ilyen beszédet kép miniszter előtt, amit itt ön most elmondt, valószínűleg többet nem mondhat el az újabb szabályok értelmében.
+[00:10:55](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=655) Lux luxi szempontból.
 
-[00:09:43](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=583) Nem tudom a négy perces keretemből, amiből meg kéne tudnom, hogy mi lesz az elkövetkező még éppen mennyi marad még de rákérnék egy-két valamily szakpolitikai kérdés.
+[00:10:58](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=658) A karmelita az abból kábé már mindent láttunk már.
 
-[00:09:51](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=591) Két és fő pestztéltart képviselő kettő és fél pztéltart.
+[00:11:04](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=664) Szerintem ilyen fotók alapján.
 
-[00:09:54](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=594) Hát mi másfél van akkor köszönöm szépen.
+[00:11:05](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=665) Bemenni egy olyan volt, mint egy ilyen kísértett ház.
 
-[00:09:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=598) Van Brüsszellos Magyarország többek között ilyen most a választás után jött ki az ítélete az Európai bizottságben elhangzatik minket a gyermekvédelmi törvényért.
+[00:11:07](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=667) Szóval egy ilyen mintogy egy ilyen filmélmény vagy olvasmányélmény az emberből ah bemegy, ami egy üres hatalmi ilyen központ.
 
-[00:10:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=607) Kíváncsi vagyok az önálláspontjön jogász ugye ezt a partizánban sokat láthatanyára van arról a véleménye szakmai és politikai is, hogy ezt hogyan kell meginkelni.
+[00:11:18](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=678) Így falak lettek.
 
-[00:10:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=615) Kinek van ön szerint igaz?
+[00:11:18](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=678) Szépek a képek.
 
-[00:10:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=617) Szükség van-e egy jobb harmonizációra Magyarországon, hogy megfeleljük az Európai Unió bíróságának ítéletére?
+[00:11:24](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=684) Fél galéria ott van szerintem.
 
-[00:10:23](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=623) Ha szükség van ehhez, milyen jogharmonizációra van szükség?
+[00:11:24](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=684) Hát két fél.
 
-[00:10:25](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=625) követ az Alkotmány bíróság állásfoglást egyébként kikért.
+[00:11:27](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=687) És ilyen nagyon szép a könyvtár.
 
-[00:10:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=631) Egyet fogunk ezzel érni, hogy követni fogják azabban foglalokat, mert ezek az alkotmány bíróság úgy gondolom, hogy jogi alkotmányúi kérdésekben mégis csak irányó kellene, hogy legyen.
+[00:11:32](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=692) Egy csomó ilyen régi antík könyvbitkaság van.
 
-[00:10:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=638) És itt a gyermek törvény kapcsán azért szóra került a csender is.
+[00:11:37](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=697) Szerintem meg ott a helye nyilvánvalóan nyilván nyilván állandóan forgatja a miniszterelnök úr a latin nyelvi magyar irodalom 500 évvel ezelőtti könyve itt micsoda mondomás azt nem tudom bőrkötésbe de nem aztán volt a láttam a vaságya az egész egy ilyen Nem, félmérnek.
 
-[00:10:42](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=642) Erre is csak anytérés, hogy ön megváltoztatná mondjuk azt az alapvát, hogy az anyanő az apa férfi vagy az ember férfi és nő alapvetés a szírmát, amiknek véleményem szerint azért kellett belekerülnie nemzeti alapítmányokba meg fontos törvényekbe, mert vannak olyanok, akik ezt meg szeretnék változtatni kíváncsi ön hozzáállására változtatnának helyzen.
+[00:12:07](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=727) Na és akkor utána átmentünk a a kabinetirodára, ami egy új régió épület.
 
-[00:11:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=662) illetve még nem isz kérem, hogy erre válaszolj milyen harmonizációt terveznek az Európai Unió bíróság ítéletének megfelelése érdekében, vagy pedig nem felelnek meg és kitartanak a szuverenstást.
+[00:12:13](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=733) Ez a Vöröskeresztnek volt hiszem fontos.
 
-[00:11:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=675) Köszönöm szépen.
+[00:12:16](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=736) A vöröskeresztnek volt régen a székháa, bombatámadás érte, akkor egy zsibásár volt, aki emlékszik rá, ott volt egy ilyen fokhitelek.
 
-[00:11:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=676) Köszönöm képviselő úr.
+[00:12:25](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=745) És akkor visszaépült rá az, ami visszaépült.
 
-[00:11:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=676) Tóth Norbert képviselő úr észre adok a szót.
+[00:12:28](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=748) És azt őszintén mondom nektek meg önöknek.
 
-[00:11:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=684) Köszönöm a szót.
+[00:12:33](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=753) Ugye erről sose láttunk képeket.
 
-[00:11:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=684) Tisztelt bizottság, tisztelt miniszterjel úr.
+[00:12:35](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=755) Talán a 444 írt róla annó, hogy milyen a eszköz beszerzése, vagy a bútor beszerzése.
 
-[00:11:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=686) Említette a Rogáni Gyűlöletközpontot.
+[00:12:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=762) Az olyan, amit egyszerűen szerintem mindenkinek látnia kell, aki magyar.
 
-[00:11:29](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=689) Külön öröm számomra, hogy Zuzsan Bence képviselőtársam és Szűcs Gábor is megszólítva érezte magát ebben.
+[00:12:47](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=767) Nem öt csillagos, hanem hat csillagos, ha azt lehet ezt a mondatot mondani.
 
-[00:11:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=696) Magénak érezte a kérdéskört és kellemetlen magyarázkodásba kezdett.
+[00:12:50](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=770) Egy olyan fényűző luxus, ami a világ bármelyik, nem a világ legdrágább helyének, legdrágább hoteljének a legdrágább szobái.
 
-[00:11:40](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=700) Azt láttuk, hogy az elmúlt másfél évtizedben az állam teljesen kiüresítette kormányzati kommunikáció eszközét.
+[00:13:04](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=784) És miben nyilvánul?
 
-[00:11:47](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=707) Ezt a hatalma megtartása érdekében közpénz milliárdokból kitartott állami propaganda gépezettés irányította.
+[00:13:08](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=788) H mondom, mondom, mondom, amíg várunk, mondom.
 
-[00:11:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=718) Mély megvetéssel gondolok itt azokra a kitartott propagandistákra is, akik magyar emberek életét tették tönkre és hatalmas sebeket ejtettek a társadalom szövetén.
+[00:13:09](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=789) Tisztelettem, addig felállok.
 
-[00:12:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=730) Hogyan lehet ezeket a sebeket begyógyítani?
+[00:13:12](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=792) Köszönöm.
 
-[00:12:14](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=734) És bár említetted szeretném kicsit részletesebben kérdezni, hogy mit tervez annak érdekében, hogy a kormányzati kommunikáció most már végre valóban betöltse eredeti szerepét.
+[00:13:15](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=795) Képvisel napot kíván.
 
-[00:12:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=742) Köszönöm szépen.
+[00:13:17](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=797) Jó napot kívánok.
 
-[00:12:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=746) Köszönöm képviselő úr.
+[00:13:21](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=801) Szia.
 
-[00:12:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=746) Apáti István képviselő a szó.
+[00:13:23](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=803) Na, szóval mondhatom még, vagy inkább majd hagyjam abba a tá majd inkább majd a főülésen mondjon még, hogy hagyjam abba?
 
-[00:12:28](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=748) Köszönöm szépen tisztelt bizottság, tisztelt miniszter elnök úr.
+[00:13:29](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=809) Hát abba.
 
-[00:12:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=751) Elnőtt úr csak annyit szeretnék mondani, nem az ő vezetését kritizálva, hogy az ellenérve akart itt a képviselő időkeretek kapcsán, de pontosan maga alá terelgette a vizet cégeljesen szólva, hiszen az amit azt amit elmondott a 2018-as és 2022-es teszes miniszterelőtti meghallgatási gyakorlatról, az pont azt támasztaná alá, hogy önök ne csinálják, hogy önök elértek, hogy önök különbek legyenek.
+[00:13:32](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=812) Pedig van szivarszoba is.
 
-[00:12:52](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=772) Ez a négy perces időkeret, a demokrácia rendkívüli időkeres, rendkívüli korlátozás és meglehetősen méltatlan.
+[00:13:40](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=820) Standapolunk.
 
-[00:12:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=779) miniszterelőt munkáját a Magyarország és EUzonylatban a szuverén nemzetállamokon alapuló nemzetek Európája, hogy az Európai Egyesült Államok koncepciója alapján kívánja végezni.
+[00:13:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=822) Szendapolunk.
 
-[00:13:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=790) Ezt a kérdést feltettem másfél óra vezi miniszterel asszonynak nem sikerült rá neki válaszolni.
+[00:13:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=822) Nem mesél, hogy hogy dolgozott.
 
-[00:13:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=797) Elkerülte, megkerülte a válaszolást.
+[00:13:48](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=828) Hát önrá, önre vártunk meg önre.
 
-[00:13:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=799) Remélem, mer egyenes választot.
+[00:14:00](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=840) Ez egy bizottságülés.
 
-[00:13:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=801) Ön a miniszterelnök bizalmi embere.
+[00:14:04](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=844) Most már köszönöm szépen.
 
-[00:13:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=801) A politikai súlyja jóval túlmutat a majd a törvénym felsorok miniszteri hatás körén.
+[00:14:11](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=851) Újra teljes létszámmal.
 
-[00:13:28](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=808) Milyen tanácsot ad majd Magyarország miniszterelnökének?
+[00:14:14](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=854) Jelen az igazságí és alkot megyei bizottság.
 
-[00:13:32](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=812) Engedje be a bevándorlókat Magyarországra, vagy azt, hogy a bevándorlókat az országhatármányin kívül kell tartani?
+[00:14:18](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=858) Soron következik.
 
-[00:13:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=821) Mit kíván változtatni azon a valóban áldottan állapoton, hogy német autóipari multicégek és kínai akkumulátorgyárok gyarmat területévé, felségterületévé megszállás övezetévét tették Magyarország jelentős részét.
+[00:14:18](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=858) Második napirendi pontunk dr.
 
-[00:13:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=833) Kíván ezzel valamit kezdeni?
+[00:14:20](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=860) Ruf Bárint György minisztereléget vezető miniszterjelölt kinevezés előtti meghallgatása.
 
-[00:13:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=835) Aztán az átvilágítást milyen határidővel tudják vállalni, tehát hogy milyen határidővel akár a tegnap össz felkeresett három létesítmény állapotainak, előzményeinek átvilágítását, akár én ajánlanék az önfigyelmében egy szélesebb vizsgálati spektrumot, tehát tekintsük ezt egy látóérgővítő miniszterelőtti meghallgatásnak.
+[00:14:25](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=865) Nagy tisztelettel köszöntöm miniszterjel tudat és munkatársainkat.
 
-[00:14:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=855) Én úgy tudom, hogy Magyarország történben kezdődött, és még csak nem is 1990-ben, de reálisan 1990-ig kellene visszanyúlni az elszámoltatás kapcsán.
+[00:14:32](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=872) Magyar Péter miniszterelnök úr arról tájékoztatta a házelán asszonyt, hogy dr.
 
-[00:14:25](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=865) A rablóprivatizáció az ország kifosztása kapcsán.
+[00:14:37](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=877) Róm Bálint György úr miniszterelnökséget vezető miniszterrel miniszterré történő kinevezésére tesz javaslatot.
 
-[00:14:29](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=869) Ezt a szerencsétlen nemzetet többször tették tönkre.
+[00:14:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=883) És az országgyűlésről szóló törvény 44.
 
-[00:14:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=871) Akkor amikor a kommunisták a magánbagyonból közbont csináltak, aztán amikor a közbont privatizálták, ez a játék össze oda visszajátszott.
+[00:14:46](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=886) szakasz második bekezdése alapján a miniszteriéri tisztségre javasolt személyt kinevezése előtt a feladatkörrel rendelkező országgyűlési bizottság meghallgatja és személyi javaslatot véleményez.
 
-[00:14:39](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=879) elfogad egy olyan mi hazánkos javaslatot, mely szerint a stratégiai állami vagyont, de ideértem a például a MBAN vagy az MBM-ben lévő állami tulajdoni hányadot is, és a stratégiai cégeknél lévő állami tulajdoni hányadot is négyödös parlamenti védelem alá helyezzük.
+[00:14:57](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=897) Mivel a házbizottságban nem alakult ki konszenzus, házelnök asszony állásfoglalt a miniszterjelöltek meghallgatási rendjéről.
 
-[00:14:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=893) Tehát 4-5ös parlamenti szavazás döntés nélkül ne lehessen ebből 1%-ig sem értékesíteni, csak azért, hogy a történelem megismételje meg önmagát.
+[00:15:05](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=905) és házenök asszony felkérte a bizottságot, hogy az állásforlásban foglaltja megfelelően hallgassa meg miniszterjelölt urat.
 
-[00:15:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=901) És alapvetően igazságot, aki nem tanul a történelemben, ő kénytelen ezt még egyszer átélni.
+[00:15:11](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=911) Erre a meghallgatásra kerül mossor, vagy arról az ülésünk elején már döntöttünk, a meghallgatás a miniszter előtt bemutatkozó beszédével kezdődik, majd a képviselői kérdések és vélemények következnek négyperces időkeretben.
 
-[00:15:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=907) Azt én nem szeretném egyik vélető ezt végigélni vagy újra átélni.
+[00:15:30](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=930) Amennyiben fel kíván szólalni természetesen az elfogadott tárgyalási rendek megfelelően Tuzson Bence miniszter úr is négy percben lehetőséget kap erre illetve a házbizottság megállapodása alapján az Európai Uni bizottságának ellenzéki tagja a KDNP delegáltja öt percben megalkodás alapján szólalhat és ezt követően fog sor kerülni a miniszterjelölt összefoglaló válaszára tehát egyben válaszol egyben egykörben kérdezünk és egy egy körben egyben válaszol a miniszterjel most pedig kezdjük meg a meghallgatást.
 
-[00:15:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=911) Aztán remélem, hogy tényleg fontos lesz ön számára a véleménynyilvánítás és a sajtó szabadsága.
+[00:16:01](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=961) Megadom a szót elsőként Dr.
 
-[00:15:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=917) Egyedül a mi hazánk mozgalomnak van erkölcsi, politikai és jogi alapjá tekintetben felemelni a szavát.
+[00:16:01](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=961) Ruf Bálin György, miniszterjelölt úrnak expózi megtartására.
 
-[00:15:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=922) 1,2% hét szerepelt a pártunk.
+[00:16:06](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=966) Parancsoljunk.
 
-[00:15:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=922) Jó van a társadalmi támogatottsággal valamennyi híradásban, TV2-ben, RT klubban sorolhatnám mjuk hosszan.
+[00:16:08](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=968) Köszönöm a szőt szót elnök úr és nagyon szépen köszönöm a meghívást és nagyon jó munkát kívánok önöknek.
 
-[00:15:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=930) Az egyetlen olyan pártelnök, egyetlen olyan párt vagyunk a világon, ami valamenti képviselettel rendelkezik és minden valós indok nélkül a pártelnököt törölték a Facebookra, jogerős bíróítéletet nem képes a magyar állam érvényesíteni.
+[00:16:11](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=971) lesz dolguk elég, van mit helyreáhallítani.
 
-[00:15:42](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=942) É ez a választások végedmény bizony nagyon jelentősen befolyásoltak.
+[00:16:13](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=973) Ez a terem ugye Nagy Imre terme, ez a bizottság az egyik legfontosabb bizottsága volt a rendszerváltás után a magyar jog és államtudománynak, illetve vagy ennek a képviseletének, az államnak egy legfőbb helye volt.
 
-[00:15:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=946) Az elszámoltatás kapcsán mit tart elsődlegesnek?
+[00:16:25](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=985) Van mit reparálni, van régi elődök, akiket lehet megfelelni.
 
-[00:15:48](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=948) Tehát erőből fognak ennek nekimenni miniszterelőt úr, vagy észsz?
+[00:16:30](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=990) Jó munkát kívánok.
 
-[00:15:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=953) Tehát az állam büntetői igényének az érvényesítése vagy a központi költségvetés javára visszaszerezhető vagyon mértéke lesz a fontosabb.
+[00:16:30](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=990) Had mutassam be a mellettem ülő embereket.
 
-[00:16:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=961) Gondolok itt arra, hogy a vádalkú intézményével ötözve, csak próbálok ötleteket adni kötelező vagy elvált társadalmi felelősségvállalás jogcen, vagy hívhatjuk ezt már, hogy egy meghatározott megtorló jellegű befizetéssel vagyon visszaszerzéssel nem válthatja meg az érintett szabadságát.
+[00:16:34](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=994) mellettem jobbra Csontos Bence állapító jelöltett, aki a Tiszának a parlamenti képviselője, a Bajai körzet győztese, nemzetközi szakértő és filozófiából van diplomája, és tőlem balra pedig Dr.
 
-[00:16:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=980) Nem piszkos alkukról beszélek, hanem csak arra próbálok utalni, hogy mit választanak.
+[00:16:50](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1010) Biron Nagy Andrást, aki politikatományok doktora és államtitkár jelöltő lesz a szakpolitikai államtitkár a miniszterelnökségen.
 
-[00:16:25](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=985) Tehát ez egy nagyon nehéz kérdés lesz.
+[00:16:59](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1019) Szóval ez az csapatunk.
 
-[00:16:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=986) Könnyű erről beszélni, nehezebb lesz végrehajtani.
+[00:16:59](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1019) És akkor elkezdtem folytatnám akkor, hogy akkor a Tuzson igazság volt igazság miniszter úr értse, hogy miről meséltem.
 
-[00:16:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=987) Ugyanis az a kérdés, hogy nagyon nagyobb részét akarjuk visszaszerezni, vagy minél több jogerős szabadságvesztést szeretnének esetleg látni a folyamat végén.
+[00:17:05](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1025) Ö kicsit ez egy politikai hogy mondjam meghallgatás lesz, mert hogy én mégis csak a minisztereléget fogom vezetni.
 
-[00:16:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=996) Sajnos lejárt az időem.
+[00:17:14](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1034) Abból kezd avval kezdeném, hogy mi az a felhatalmazás, amit a Tiszapárt kapott a magyar emberektől.
 
-[00:16:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=998) Remélem, hogy lesz lehetőségem még ezt bővebben kifejteni, hiszen négy perc gyakorlatilag arik, hogy bemenegedjen a motor így a kommunikációs motor az emberben.
+[00:17:22](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1042) Mi az a 3,1 millió akarat, amit a Tiszapárt képviselni fog a következő időben?
 
-[00:16:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1006) És ne zárkózzanak el olyan képviselők javaslataitól, akik hosszú évtizedes, másod évtizedes parlamenti tapasztalattal rendelkeznek és én nagyon szívesen felajánlom a hazám és a magyar nemzet szolgálatába a legértékesebb örökségemet a józf paraszti eszemét.
+[00:17:27](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1047) Szóval kicsit hátrébb kezdeném, és három dátumot emelnék ki.
 
-[00:17:05](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1025) Köszönöm szépen.
+[00:17:33](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1053) 90, 2010 és 2026.
 
-[00:17:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1027) Köszönöm képviselő.
+[00:17:39](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1059) A 90-es rendszerváltás egy különleges helyzetben kapta el és érte Magyarországot.
 
-[00:17:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1027) Biztos vagyok benne, hogy lesz még lehetősége kérdezni rész.
+[00:17:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1062) Itt volt 100000 szovjet csata harcos megszálló hadseregként voltak jelen Magyarországon.
 
-[00:17:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1031) Szeretném megadni a szót Stung Péter képviselő úrnak.
+[00:17:50](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1070) A Szovjetunió összeomlott és az ölünkbe hullott a régen bágyott szabadság.
 
-[00:17:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1037) Köszönöm szépen a szót.
+[00:17:56](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1076) külső és belső körülmények együtt.
 
-[00:17:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1037) Eln tisztelt bizottság, tisztelt miniszterjel úr.
+[00:17:56](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1076) Talán a külső külmények erősebbek voltak, mint a belső.
 
-[00:17:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1039) Két kérdésem lenne.
+[00:18:00](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1080) Abbal persze történészi feladat, hogy vajon összeomrott volna el a Magyar Szocialista párt szocialista munkáspárt, vagy a Szöveti Unió nem volna össze a szörtézi feladat.
 
-[00:17:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1042) Az önöket nyilvánossággal nyilvánossággal kapcsolatos az egyik.
+[00:18:12](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1092) Mindenesetre 90-ben kapott Magyarország a hazánk egy óriási lehetőséget arra, hogy egy nyugati demokratikus ország legyen.
 
-[00:17:28](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1048) Sokszor elhangzik az azért, hogy ugye jelenleg is van lehetőség azeknek arra, hogy betekintsenek.
+[00:18:20](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1100) Hogy ez mennyire sikerült, megint történészi feladat, de ami tény, ami tény, rengeteg hiba volt, amit elkövetett a rendszerváltás.
 
-[00:17:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1051) el tudná mondani nekünk, hogy hogyan fog változni a nyilvánosság az aktáknak a nyilvánosságata során.
+[00:18:25](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1105) Akkori politikai elitje, amiről majd biztos fogunk itt beszélni többek között.
 
-[00:17:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1056) Másik kérdésem pedig, hogy 2010 után a kétos Fidesz többségem a világ legpazarbb és legelőbb viszonet kapfinanszírozási rendszerét vezette be.
+[00:18:30](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1110) Az ügynökakták kérdése, az elszámoltatás, felelősségra vonás kérdése, a gazdasági helyzet rendezése, a magyar jogállam és alkotmányosság felállítása úgy, hogy minden magyar ember abban boldogan, vidáman és derősen érezze magát.
 
-[00:17:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1070) Van-e szándék arra, hogy a párt és a kapálytransírozást, tehát mindkét területet újraszabja az kormány?
+[00:18:48](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1128) Ugrok előre 20 évet, és 2010-ben volt egy másik ilyen lehetőség.
 
-[00:17:54](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1074) Köszönt köszönöm szépen.
+[00:18:51](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1131) Akkor Orbán Viktor a Fidesz kapta meg.
 
-[00:18:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1082) Jóászman képviselő asszony részére megadom a szót.
+[00:18:53](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1133) Ő maguk ezt úgy jellemzik, hogy főkefodalomban kaptak egy kétharmadoshados.
 
-[00:18:06](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1086) Ánök úr.
+[00:18:58](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1138) akkor régi szabályok szerint két többséget, ami egy egyértelmű válasza volt a magyar társadalmok többségének arra a kormányzásra, ami Gyurcsány Ferenc nevéhez, meg talán Bajnegadon nevéhez kapcsolódik, ami hát finom se volt egy jó időszak a Magyar Közság történetében.
 
-[00:18:06](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1086) Köszönöm szépen a szót.
+[00:19:17](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1157) Trükkök százai, nem is erről mondani.
 
-[00:18:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1087) Miniszterjelölt volónak pedig gratulálok is a KDNP-re vonatkozó megjegyzésétől függetlenül én konstruktív ellenzéki politikusként szervezeti és szigorúan szakpolitikai kérdéseket fogok feltenni.
+[00:19:17](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1157) A lényeg, a lényeg egy egyértelmű mandátumot kapott Orbán Viktor is a Fidesz és a KDNP, ha létezik egy ilyen, hogy egy új országot, egy működő polgármagyarszágot teremtsen.
 
-[00:18:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1099) A szervezeti kérdés vonatkozásában milyen felelősségi rendszerben fog működni az Európa Politika koordinációja, illetve milyen felügyelet alatt lesz az Európai Unió mellett működő állandó képviselet?
+[00:19:28](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1168) A lehetőség óriási volt, a felhatalmazás hatalmas, az elvárások óriásiak.
 
-[00:18:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1110) Ez lenne a szervezeti kérdésem.
+[00:19:33](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1173) És ebben mi történt?
 
-[00:18:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1111) A szakpolitikai kérdésem pedig az, hogy mi az álláspontja a Tisza kormánynak a migrációs paktum végrehajtására vonatkozóan a medék kérelmek esetében lehetőség lesz-e a hazánkban történő benyújtásra, illetve a menekültügyi eljárások vonatkozásában átveszi-e a Tiszakormány relokációs kvótát.
+[00:19:38](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1178) Hát talán a legrosszabb 16 év, amit ez az ország az elmúlt mondjuk 36 évében átélt.
 
-[00:18:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1130) Ukrajna kapcsán pedig szeretném feltenni azt a kérdést, hiszen én itt az Európa üyek bizottságát képviselem tanácskozási joggal, hogy a Tisza támogatja-e Ukrajna úgynevezett csatlakozási kérelmének első klaszterének a megnyitását, ez napirenden van-e vagy nem.
+[00:19:47](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1187) Én aztán nem leszek se Gyurcsány Ferencnek a dicsérője, nagyon távol áll tőlem, de az, hogy ők ketten, Gyurcsány Ferenc és Orbán Viktor az elmúlt 20 évünket tönkretették, az szerintem az egy tény.
 
-[00:19:06](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1146) Illetőleg két kérdésem van-e.
+[00:19:58](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1198) Az egyik csak négy évig volt miniszterelnök, de ó, dehogyis.
 
-[00:19:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1148) Mi a az álláspontja a Tiszakormánynak az egyhangúságról?
+[00:20:02](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1202) hat évig volt miniszternök, a másik 16 évig volt és így ketten kéz a kézben Magyarországot, aki 2010-ben az Urió egyik a újjal csatlakozó országhoz közik legfejlettebb volt, vidám volt, reményekkel teli volt, 16 évvel késő a legszegényebb, legkorruptabb, legszomb országgá tette.
 
-[00:19:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1151) a minősített többségi döntéshozat arra a történő áttérés azon esetében, ahol ezt a szerződések áthidaló klauzúrái lehetővé teszik.
+[00:20:20](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1220) 4-2 kéth3hadot kapott Orbán Viktor és a Fidesz k Fidesz és a KDNP, hogy ezt az országot jó irányra helyezze, hogy a polgári Magyarországot megvalósítsa, hogy működőképessé tegye, hogy az egészségügyet rendbe tegye, hogy az oktatás rendbe tegye, hogy legyen középosztály, hogy legyen egy elismert országunk.
 
-[00:19:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1161) És az utolsó kérdés, miniszterjelölt úr, ez pedig a védett benzin ára vonatkozik, és az exportiradamra vonatkozó kötel kötelezettség szegési eljárásra itt mi a TZA kormány álláspontja.
+[00:20:40](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1240) Ezek hát nem sikerültek.
 
-[00:19:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1170) Köszönöm szépen a válaszátkozóst.
+[00:20:45](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1245) hogy mennyire nem sikerültek, azt tegnap éltem át úgy igazán annak a hangulatát, hogy vajon mibe lehetett ez a 16 évet állt uralkodó elit ebben az országban.
 
-[00:19:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1175) Köszönöm szépen képviselő asszony.
+[00:20:56](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1256) Tegnap volt szerencsém a miniszterelnök úrral és a belügyminiszterrel és ügyminiszterrel együtt és Velkeyi Györggyel együtt egy olyan élményre, ami szerintem egy ember életében valószínűleg egyszer fordul elő.
 
-[00:19:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1178) Szeretném megadni a szót Hallerté Dudeó képviselő asszony társam.
+[00:21:08](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1268) Benézhettem abba a minisztériumba, hogy egyébként majd holnap át fogok venni.
 
-[00:19:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1184) Köszönöm szépen elnök úr, köszönöm a miniszterjelölt végtelenül elgondolkodtató szavait.
+[00:21:15](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1275) ami elhíresült és az volt a neve, hogy Karmelita és társai színház utcában volt a Karmelita.
 
-[00:19:51](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1191) Én úgy érzem, hogy értő figyelem mellett teljesen világos volt a miniszterjelnök miniszterjelölt programja.
+[00:21:22](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1282) Most is ott van.
 
-[00:19:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1195) A szomorúság mérőszámához szeretném javasolni mindenki 2026.
+[00:21:24](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1284) Szerintem ez sok mindent elmondva, aki a színházutca van.
 
-[00:20:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1202) április 12-igi adatokat.
+[00:21:26](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1286) Nyilván azért, mert igen egy színházépület volt, mielőtt még korábban ez egyház kezelte el.
 
-[00:20:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1202) értőfigyelemmel nézze, és talán ez választal képviselőtársam által fölvetetteket.
+[00:21:32](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1292) És egy tárlatvezetésen estünk át úgy, hogy ugye láttunk már képeket belülről a karmelitáról.
 
-[00:20:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1208) A kérdésemet részben már képviselőtársam föltette, ugyancsak az ügynökaktávkal kapcsolatban szeretném megkérdezni a miniszterjel úrat, hogy különös figyelemmel a nemzetbiztonsági adatvédelmi, személyiségi jogi kockázatokra tekintettel, mennyiben lesz másabb ez a jelenlegi nyilvánosság, mint ami jelenleg is ismert.
+[00:21:44](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1304) Miniszter úr is láttuk azt a bizonyos kép, azt a kék falat, ahol a miniszter úr előlobogtatta a jelentését a szőlőutcáról.
 
-[00:20:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1227) Köszönöm szépen a válaszást.
+[00:21:53](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1313) Lehetett tudni, hogy mik történtek ott ebben a ebben az épületben.
 
-[00:20:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1230) Köszönöm szépen.
+[00:21:56](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1316) Voltak képek, voltak fotók.
 
-[00:20:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1231) Köszönöm szépen képviselő asszony.
+[00:21:58](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1318) azt visszaadni, azt az úrizálást, azt a pénzpazarlást, azt hittem, hogy nem tudja visszaadni semmi.
 
-[00:20:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1231) Simon Krisztian Márk képviselőtársam a szó.
+[00:22:08](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1328) De akkor oké vagy nem ugye nem tudja visszaadni semmi, vagy az, hogy jurizálás, de hadd mondjam végig ezt majd beszélgetünk.
 
-[00:20:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1238) Köszöntöm a bizottság tagjait és köszöntöm miniszterölt urat.
+[00:22:15](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1335) Jó, az se.
 
-[00:20:40](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1240) Szűzs Gávol képviselőtársa gyűlöletbeszédnekte Mr.
+[00:22:18](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1338) Utána így együtt, mi megnéztük a karmelitát, átsétáltunk a Rogán Antal féle kabinetirodára, ami ugye szintén az én tárcámhoz fog kerülni, és holnap egy részét át is fogom venni ennek a minisztériumnak.
 
-[00:20:48](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1248) Jultt úrnak az expozéját.
+[00:22:33](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1353) És azt mondtam itt korábban, én még ilyet nem láttam, és még sok mindent láttam.
 
-[00:20:51](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1251) Valószínűleg másképp éltük meg ezt a pár évet.
+[00:22:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1362) ilyen luxust, ilyen kivagyiságot, ilyen pénzköltést, szerintem példátlan még ebben a furcsa 16 éves nerluxizásban is.
 
-[00:20:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1255) Az expoz elején volt egy történeti visszatekintés, tehát az elmúlt 20 évet elemezte ó Bálint úr.
+[00:22:52](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1372) Csak egy pár dolgot hadd mondjak.
 
-[00:21:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1262) A Gyurcsány és az Orbán időszakot én is így éltem meg.
+[00:22:56](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1376) Egy 1 m átmérőjű márvány, tömör márványasztal van egy úgynevezett szivarszobában, amit mindenki szivarzobának gondolt, ahol arra volt értesítve egy külön szoba, egy full panorám szoba, hogy a miniszter és társai elbeszélsek az életnagy dolgairól egy szivar, vagy egy whisky, vagy egy tonic, vagy egy ásványvíz mellett.
 
-[00:21:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1267) Abszolút magamnak érzem a programot is, és örülök, hogy részt vehetek ennek a programnak a kidolgozás a jogi szempontból.
+[00:23:24](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1404) Az az étterem, ami ebben a méztumban működik, az olyan megdöbbentő, hogy emberek, miközben az ország szétesett, miközben nulla gazdasági növekedés volt három évig, miközben a covid alatt rendelték az építését, vidáman mosolyogva egy full panorámával néztek le ide a pornépre, onnan föntről ide le.
 
-[00:21:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1275) jogász vagyok.
+[00:23:51](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1431) És miközben ettek a jóvárosott menzán azon gondolkodtak, hogy vajon mi legyen a következő gyűlölet kampány, amit az ország ellen eléítanak, hogyan fogjuk tovább terorizálni a gyermekeinket, hogyan fogjuk háború pszichópá tartani az öreginket, hogyan lehet belerúgni bárkibe, aki ellent mer mondani ennek a hatalomnak.
 
-[00:21:18](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1278) A jelölt úr is többek között jogász végzettségű, és jogi jellegű természetű élv szeretnék feltni.
+[00:24:13](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1453) És akkor azt mondja, már még nem láttam semmit, vagy már mindent láttam, bocsánat.
 
-[00:21:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1287) 48 éves vagyok, de már két alkotmányozsi folyamatot megéltem.
+[00:24:16](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1456) Akkor mondták, hogy de várjon, várjon miniszter úr, ott lehet felfele menni még.
 
-[00:21:32](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1292) Tehát a 90-es években volt egy alkotmányozási folyamat, ami a kommunista alkotmányt módosította, illetve 2011-ben elfogadják az alaptörvényt, mint 2012.
+[00:24:20](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1460) Felfele, igen, felfele.
 
-[00:21:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1304) január 1jén léptek hatályba az alaptörvény és annak a módosításai álláspont szerint és sokak szerint nem megfelelő tás párbeszéd mellett született meg, ezért sokunk nem érzi magáinak az alaptörvényt, illetőleg ennek a módosításait.
+[00:24:25](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1465) Egy csiga lépcsőn keresztül az ember feljutott valószínű az ország legszebb panorámájú magánkilátójába, ahol Rogán Antal és barátai 360 fokba tudták megnézni, hogy a pornép hogyan él ebben a kis hazában.
 
-[00:22:06](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1326) A Tiszapárt minisztereként mit csinál a másképp, tehát hogyan lehet nagyobb társadalmi felhatalmazással egy nemzet újra egyesítő alkotmányzási folyamatot fékhez vinni ezt vetünk.
+[00:24:39](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1479) külön bejáratú lépcsővel felmenni a vár fölé és körültekinteni, mint a régi elődje, pontosan ugyanúgy.
 
-[00:22:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1344) Köszönöm szépen képviselőtársaimnak a kérdéseket és megadom a lehetőséget miniszterelnök úrnak, hogy bocsánatom valami főkelet pár másodpercnál természetesen az hány másodperc 10 másodperc.
+[00:24:53](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1493) És miközben az ország szétrohadt, miközben törvény vagy rendelet lett arra hozva legyen minden kórházban WCpír, itt Kararai Márvánnal volt minden egyes mosdó felszerelve.
 
-[00:22:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1355) egy kerkíts el akkor és akkor köszönöm szépen.
+[00:25:08](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1508) Lehet, hogy nem Kararai, az csak máshonnan hozták, vagy porcelán.
 
-[00:22:39](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1359) Csak röviden szeretnék reagálni T Norbert képviselőtársam felvetésére a Rogán Ante is a kabinet példa kapcsán mondta, hogy magaménak éreztem.
+[00:25:13](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1513) Parcelán, dehogy porcelán.
 
-[00:22:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1366) Azért éreztem magaménak a kérdést, mert megtisztelem a miniszteréről a tudat azzal, hogyha valamire kitér, akkor arra foglalak reflektálni egész egyszerűen erről van szó, hogy ön is, ugyan én is tagja vagyok ennek a bizottságnak.
+[00:25:16](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1516) És miközben ezt megnéztük, néztünk körbe, azon gondolkodtunk, hogy ezek az emberek mivel lehettek, hogy kerültek ebbe az állapotba, hogy tudtak ebbe azért sokszor használt hübrbe esni, de ilyen mélyen, hogy miközben az ország leáll, nem működik, nincs egy olyan szegmense, amiben van siker, bocsánat, Misosen túl, ők ott állnak és néznek ki és azt mondják, hogy minden rendben van.
 
-[00:22:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1376) Tehát kérdéseket teszett fel a miniszterjel úrónak és ha lenné nagyó képviselőtársamnak pedig annyit szeretnék mondani mondta hogy nézze meg az április 12-i adatokat szívesen kérem hogy tartsa a tárgyhoz és miniszterjelöltet kér adatot azért mérnek tehát nem tudom melyik adatokból olvassam ezt ki de lehet hogy miniszter miniszter úr vezi ha miniszter úr tud ebben segíteni azt meg köszön köszönöm szépen miniszter előtt tudunk a szót oké köszönöm szépen a kérdéseket főleg amik konstruktívak voltak de aztem nem az is az is fontos kezdjük az elejéről ilyen alapvetésekkel nincs olyan, hogy nemzeti kormány.
+[00:25:46](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1546) Na és akkor még nem volt vége ennek a tárlatvezetésnek.
 
-[00:23:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1410) Ilyen nincs.
+[00:25:52](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1552) Azt mondták, hogy még nem értek semmit.
 
-[00:23:32](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1412) A magyar nemzetnek bárki és a vezetője az a nemzet kormánya.
+[00:25:54](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1554) A belügyminisztérium, na az már valami.
 
-[00:23:34](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1414) Önök ezt a szót elrabolták, maguknak indikálták.
+[00:25:57](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1557) Hát jó, végül is csak 10 óra van, még sétáljunk egyet.
 
-[00:23:40](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1420) Nem most kezdték 2002-ben haza nem lehet ellenzékben.
+[00:25:59](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1559) Nincs is messze.
 
-[00:23:47](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1427) Erre a magyar emberek 3,4 milliója mond száma mondta azt, hogy nem a magyar nemzet kormánya mindig az a kormány, hogy a magyarok többséggel megszavaz.
+[00:25:59](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1559) A Belügyminisztérium, ami ugye ahol én voltam, a két az egyik épület, hogy kamerita mennyibe került, arra vannak beések.
 
-[00:23:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1435) És nagyon-nagyon szeretnénk, hogyha már ez fázisokban van, mert valószínűleg visszamint az első fázisba.
+[00:26:12](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1572) Az, hogy mennyibe került ez a miniszterelnöki kabinetiroda, az valahol a 60 milliárd Ftnál van.
 
-[00:24:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1441) Ezt szerintem át kéne gondolni és nem akarok tácskat adni önöknek, mert a leg lehető legtávolabban az, hogy önöknek segítsek ezt feldolgozni, ezt a traumát.
+[00:26:15](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1575) De akkor a másik, a harmadik épület, a Belügyminisztérium, azt tudjuk, hogy 100 milliárd Ftba került.
 
-[00:24:09](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1449) minél jobban vannak a traávan, én annál jobban örülök.
+[00:26:24](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1584) 100 milliárd Ftba.
 
-[00:24:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1452) De hogy hova vezetett az?
+[00:26:28](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1588) És akkor oda elsétáltunk, ott várt minket egy készíti rendőr, aki a parancsnoka volt az épületnek, és mondta, hogy itt van a Belügyminisztérium.
 
-[00:24:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1452) Hogy valakik azt gondolták, hogy csak mi és ők vannak.
+[00:26:40](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1600) És igaza volt annak, aki azt mondta, hogy ilyet még nem láttunk, mert valóban az a másik két épületnek a luxusa az valójában semmit a belügyminiszter luxusához képest.
 
-[00:24:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1459) Mi, akik ránk szavaznak, ők, akik nem szavaznak ránk.
+[00:26:50](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1610) És ott sétáltunk ott és 16-an, 15-en voltunk és pillanatra, nem is olyan pillanatra, egy jó 10 percre kábé senki egy szót nem szólt.
 
-[00:24:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1461) És ők ők velük meg lehet bármit csinálni.
+[00:27:02](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1622) Csöndben sétáltunk ebben az épületben, és majd lesz róla mindenféle felvétel meg videó.
 
-[00:24:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1464) Mindig csak a mi lényeg.
+[00:27:08](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1628) Csak azt szeretném mondani, hogy az semminél jobb, semmi nem jellemzi azt jobban, mint amikor az a minisztérium, ahova nem biztos, hogy a miniszter miatt, de mégis csak hozzákerült a teljes szociális, a teljes egészségügyi, a teljes oktatási ágazat olyan termekben beszéli meg a 380000 Ft-os szociális szférában lévő átlagfizetést, ahol egy négyzetméter nyi egy négyzetméternyi szőnyeg valószínűleg ennél jóval drágább és ott így álltunk és néztük meg az emberek mit gondolhattak magukban, hogy ez jár nekik hogy ennyire jó az országnak ilyen jól megy, hogy erre költsünk el 100 milliárd Ftot, hogy kell a 80 m x 30 m széles miniszteri tárgyaló előtti bevezető 80 m 60 az jár, az kell és gond Gondolkodtam ezen, ugye készültem erre a mai meghallgatásra.
 
-[00:24:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1466) Nem tudom, ismeri igazság, hogy miniszter úr a Kmitti jogfilozófiát és politika filozófiát.
+[00:28:09](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1689) Nem ebből készültem, hogy tárp fogok önnek vezetni, hanem inkább elmondom azt, hogy ez miért érdekes, mert a Tisza kormány és a Tiszapárt többek között erre, ennek a leállítására, ennek a megállítására kapta meg a Fideszes választási törvények között a soha nem látott kétharmados feltámmazást.
 
-[00:24:32](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1472) Ha nem ismeri, akkor most úgy is sok szabad ideje van, lehet tanulmányozni, hogy a mi és ők hol vezettek ebben a történel.
+[00:28:33](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1713) többek között ezért a féktelen, elrugaszkodott, úrizáló gyűlhez, amit önökö csináltak.
 
-[00:24:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1478) A történelem legrosszabb napjaig, amikor az ön miniszterelnöke eltaposandó rovarnak hívta a fél országot, azt nem tudom, hogy ez mennyire volt az ön szempontjából polgári vagy nem gyűlöletkelő, amikor az ön volt főnöke 200 milliárd Ftot öntött bele konzultációkba, reklámkampányokba, felvilágosítodó kampányokba, azért, hogy a magyar embereket megtévesze, megvezesse hergelje, azt nem tudom mennyire re fér bele a szép polgári erkölcsbe.
+[00:28:53](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1733) A gyűl, amit abból az épületből vezéreltek, abból az épületből vezér abból az épületből vezéreltek, ahol miközben kilőttek embereket, mármint hogy botrányokat csináltak, leá cikeket közöltek róla, nevüket fzták fel, regényeket írtak róla, miket csináltak, jó esően egy kellemes, jól elesett kávé mellett beszélgettek arról, hogy milyen szép a kilátás.
 
-[00:25:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1513) nagyon röviden önhöz, és nem akarok mondani, nem vagyok se pszichológus, se gyönytatópap, egy magyar polgár vagyok, három gyermekem van, és hazámat jöttem szolgálni, de amikor ön képviselő lett, akkor 2,3 millió Fidesz szavazónak a döntése miatt 2 millió, majd 2ó460 ön egy listás képviselő volt, és aztán bekerült ide az országgyűlésbe, ami nagyon szép foglalkozás, és ezért ehhez sok Sok sok erőt és jó munkát kívánok, de amit ön előtte művelt megafonosként egy olyan cégben, aminek a finanszírozását hát szerintem még sokáig fogják az arra szakosodott hatóságok vizsgálni, és önök semmi mást nem csináltak, az elmúlt 10 évben körülbelül 40 milliárd Ftból 40 milliárd Ftból embereket vegzáltak.
+[00:29:19](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1759) És amikor beszélünk arról, hogy milyen lesz a miniszterelnökség, ne haragudjon képviselő úr, képviselő úr, megkérem, hogy ne zavarjon indokolatlanul a a hozzászólását.
 
-[00:26:04](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1564) a Facebookot eltömítették a propagandájukkal, a gyűlöletkeltésükkel, a levadászásokkal, a hergelésükkel.
+[00:29:29](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1769) Tudom, hogy vanz meg a bizottságóság.
 
-[00:26:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1576) Én azt javaslom önnek, és ezt mondom, csak magánember javaslom, hogy lehet, hogy előtte ezt kéne rendbe rakni és utána majd beszélni arról, hogy kinek mi a felelőssége, meg ki mit csinált a jövőben.
+[00:29:34](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1774) Tudom, hogy van a gyásznak fázis van a gyásznak fázisai.
 
-[00:26:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1586) És akkor amikor hozzám mondott, arra se, hogy válaszoljak.
+[00:29:36](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1776) Tudom, hogy vannak a gyásznak fázisai és a a gyász fázisaira tudom, hogy vannak.
 
-[00:26:33](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1593) Ahogy Gulyás Gergely volt miniszter úr fogalmazott, ismerjük egymást jó régen.
+[00:29:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1783) Tudom, hogy vannak.
 
-[00:26:39](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1599) Együtt jártunk egyetemre, ők fölöttem jártak, és ő, hogy ezt jó indulatból, vagy rossz indulatból mondta, azt mondta, hogy én nem változtam, mindig hűmaradtam ahhoz, amiket képviseltem az elveimhez.
+[00:29:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1783) Higgy el.
 
-[00:26:51](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1611) Én a pázman jártam, és magamat mindig is a demokratának gondoltam, és mindig az ellen álltam ki, amikor úgy éreztem, hogy a hazám rossz irányba fordul.
+[00:29:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1783) Ön szem az első fázisban van még, de majd hátha megy a másikba is.
 
-[00:27:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1621) Én 2008-ban, amikor mondott, hogy miért távoztam a közéletből, azért, mert azt gondoltam, hogy az, amikor már nem koalíciós párt SZDS, liberális párt már nem létezik 16 éve, egy olyan hibát követ el azzal, hogy támogatja a kisebbségben lévő bajnai kormányt, ami nem tudok azonosulni és felálltam, mert azt gondoltam akkor, amit gondolok most is, hogy akkor ez lett volna jó az egész ország számára, 10 millió magyar ember számára.
+[00:29:49](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1789) Jó, mindent fogunk beszélni.
 
-[00:27:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1650) Ha bevégzik végre az MSZ kormányzása és előzott választások jönnek, amin valószínűleg önök nyertek volna a Fidesz.
+[00:29:49](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1789) Szóval ezért jártam ott, és azt szeretném neki elmondani, hogy miért lesz más az ország.
 
-[00:27:42](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1662) Ezt gondtam akkor.
+[00:29:56](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1796) Érzem, miért lesz más az a mész, amit én fogok vezetni.
 
-[00:27:42](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1662) Ez lett volna a helyes az országnak és nem az az egy év, amit a Bajnai Gordon által szakértői kormánynak nevezett időszak volt, amiben a két párt, aki ezt alkotta, megsemmisült.
+[00:30:00](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1800) már abból látszik, hogy más, hogy ugye a orbáni hatalomgyakorlásnak a központja ez a három minisztérium volt.
 
-[00:27:54](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1674) Önök meg két habadot kaptak belőle.
+[00:30:07](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1807) Olyannyira azt mond ez a központja, hogy fázi minden törvénybe, minden helyzetben ők azt mondta, hogy van egy egy központ, ami irányít mindent, egy erő, én úgy mondanám, hogy egy halálcsillag, amiből aztán lehet vezérelni ezt az országot, vagy nem is az országot, inkább azt a politikát, amivel ők 16 évig mérgezték a magyar lakosságot.
 
-[00:27:57](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1677) Azért, mert a magyar emberek, aran nemet mondtak.
+[00:30:34](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1834) Az én minisztérium nem lesz ilyen.
 
-[00:28:00](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1680) De látja, tudok beszélni erről.
+[00:30:38](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1838) Sok minden szempontból nem.
 
-[00:28:00](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1680) El tudom mondani, hogy akkor azt gondoltam, amit hogy rosszul tettem, hogy 25-6 éves koromban jogászként dolgoztam ebben.
+[00:30:38](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1838) De az egyik oka miért nem?
 
-[00:28:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1690) Lehet, hogy rosszul tettem.
+[00:30:40](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1840) Mert én azt gondolom, hogy a felhatalmazás egyértelmű.
 
-[00:28:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1690) Elszámoltam a lismeretemmel.
+[00:30:44](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1844) Visszaállítani a jogállamot, visszaállítani azt, hogy a hazát szolgálni kell, visszaállítani azt, hogy az állam nem bánt, hanem szolgál.
 
-[00:28:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1692) Szerintem 100%-on elszámoltam, de biztos nem teszek úgy, hogy ott se lettem volna.
+[00:30:54](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1854) Visszaállítani azt, hogy embereket nem lehet a véleményük miatt megkülönböztetni.
 
-[00:28:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1696) Ezt kívánom önöknek, hogy az útja egyébként a megbékélésnek, hogy amit önök műveltek közpénz vagy áttételes közpénz milliárdokban, mert ezt majd kideríti az elszadó hatóság, azt először hozzák rendbe és ahogy tanult sokat látható szakértő barátja tudott bocsánatot kérni áldogért.
+[00:30:58](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1858) Visszaállítani azt, a gyereket védeni kell, nem kiszolgálni.
 
-[00:28:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1717) Szerintem a bocsánatkérés nem szégyen, sőt egy erő, egy emberi fontos erő.
+[00:31:01](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1861) vissza az állam nem köthet el évente 20 30 40 100 200 milliárd Ftot arra, hogy más embereket megzálljon.
 
-[00:28:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1725) egyetértek azt mint hogy önök elmúlt 10 évben y 10 évvel ezelőtt egyetemista volt öt éves és én egy év dolás az rendbe van én ezt javaslom benne hogy ezzel számoljan el és akkor túson egy mondatot csak és nem akarok itt tényleg személyeskedni hogy mi a különbség a tiszakormány és mondjuk az Orbánkormány között ezekben a kérdésekben én egy percig se állítom hogy minden tudás birtokában vagyok sőt sőt na ne nem várjon meg meg befejezem sőt amihez nem értek, ahhoz meg fogom keresni a legjobb szakértőt, aki elmondja nekem.
+[00:31:11](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1871) Viszállteni azt, hogy a közpénz az közpénz.
 
-[00:29:18](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1758) Ez szerintem egy erény.
+[00:31:13](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1873) Viszállteni azt, hogy a propagandának nincs helye az államba.
 
-[00:29:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1761) Ami nem a feladatom, abból nem fogok nyilatkozni, mert az a feladattal rendelkező miniszter fog nyilatkozni, mert nem is tennék úgy, mintha tudnám, hogy mit kéne tenni.
+[00:31:18](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1878) Visszállteni azt, hogy aki az államban dolgozik, az szolgál.
 
-[00:29:29](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1769) Beismerem, hogy nem tudom.
+[00:31:20](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1880) Minden 10 millióan magyar embert szolgál.
 
-[00:29:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1771) De amikor ön a jogállam védelméről beszél, akkor egy pillanatra azért, hogy mondjam még a sokat látott szemem is ugye elkerekedik.
+[00:31:22](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1882) Nem csak azt, aki rászavazott.
 
-[00:29:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1784) Tehát csak azért, amit a Szőllőutcában műveltek, azért önöknek nem is kéne itt lennie, mert nem azért, mert én nem akarom mondatni bármilyen pozícióról soha se tennék ilyet, ki vagyok én, de az, hogy abban a kérdésben ön kiállt igazságügy miniszterként, egy időutazóként, ugye, mert korábban volt kész a jelentés, még megkapta volna a felhatalmazást a kormánytól és ön olyan kormányhatározó mikor már rendelet alapján hozta létre ezt a jelentést, ami egyébként benyult egy másik hatalmi ágnak a folyamatban lévő ügyében, és ön kijelentette az egész ország előtt, hogy nem volt kiskorú áldozat.
+[00:31:27](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1887) Visszajállítani azt, hogy el kell választani a hatalmi ágakat.
 
-[00:30:23](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1823) Bocsánat, ezt mondta.
+[00:31:29](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1889) vissza egy politikusnál egy politikus nem mindenható és vissza ezt az országot az utolsó pillanatban saját maga saját maga mentette meg, amikor 3,1 millió ember azt mondta erre a kormányzatra, hogy elég.
 
-[00:30:28](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1828) Jó, akkor majd visszanézzük, hogy mit mondott.
+[00:31:54](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1914) És ezt szerettem volna mondani analógiának, hogy 2010-ben is volt az, hogy elég.
 
-[00:30:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1830) De ami abból az ügyből kinőtt, azért hogy mondjam, ha az ember tükörbe néz, nem kell, hogy ennyi ember, csak a tükörbe, hogy önök kérdeznek tőlem gyermekvédelmi kérdéseket.
+[00:31:57](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1917) tényleg volt kisebb szavazatszámmal, de ezt mondta a magyar népnek a nagy része Gyurcsány Ferencre.
 
-[00:30:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1841) Önök már ne haragudjon.
+[00:32:07](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1927) Most pedig megérezte azt, megtanulta azt, rájött arra, hogy mi az ereje, hogy mi a szeretet ereje, és hogy mi a szavazata ereje.
 
-[00:30:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1844) Ne haragudjanak már.
+[00:32:16](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1936) És elég hangosan, olyan hangosan, ami hangosan hát nem a Holdról, mert ez az önöknek az analógiája, de mondjuk az egész országból minden egyes, szinte majdnem minden egyes választókörzetben, amiket nem csaltak el, azokat is, azt mondták, hogy elég, és egy új országot szeretnék, egy békés európai működő Magyarországot.
 
-[00:30:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1844) Önök művelték ezt.
+[00:32:44](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1964) Amikor a miniszter engem felkérte erre a feladatra, akkor azt mondta, hogy Bálint, eleget beszéltél az elmúlt három évben, hogy milyen milyen milyen szeretnél csinálni.
 
-[00:30:47](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1847) És amikor a legnagyobb bajt, ön kiállt igazságügy miniszterké és azt mondta, hogy nincsen kisu áldozat.
+[00:32:52](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1972) Itt az idő, hogy megcsináld.
 
-[00:30:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1853) És amikor a legnagyobb baj, amikor a legnagyobb baj volt, önök ahelyett, hogy bármit tettek volna, vagy nogdacú bocsatot kértek volna, inkább átrakták a Bébe a szőlőutcat, hogy ne kéjen vele foglalkozni, és önök kérdeznek tőlem ilyen kérdéseket.
+[00:32:55](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1975) Én meg azt mondtam, hogy hú, azt hiszem, hogy értem mire gondol.
 
-[00:31:05](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1865) Nem mondom még egyszer, nem egymással beszélgetünk, a szavazóikkal beszélgetünk.
+[00:32:59](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1979) És erre amire nem lehet, amire nem lehet nem mondani, akkor az embernek a hazája hívja, hogy jönni kell.
 
-[00:31:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1872) a szavazóikkal, akik rendes magyar emberek, akiket önök képviselnek, akikkel és még egyszer mondom, azt amikor itt fel fogok állni és meg fognak szavazni, remélem önök is, már nem biztos, hogy kell, akkor én 10 millió embernek leszek és a hatalmatnak leszek a miniszterre nem fogok soha különbséget vászok ennek is soha különbséget tenni magyar és magyar között arra, hogy ki kire szavaz.
+[00:33:04](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1984) És én azt mondtam neki, hogy én szívesen leszek annak a mésznak a vezetője, aki ennek a rendszerváltásnak, rendszerváltásnak a motorja lesz.
 
-[00:31:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1896) Sőt, mondok még egy egy sőt, jobban fogok igyekezni, hogy a fideszes hamitársamat is meg tudjam nyerni, hogy ne önökre szavazanak legközelebb.
+[00:33:17](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=1997) A minisztérium erről fog szólni egy jogállami keretek között és azokkal a különbségek most el fogok most mondani.
 
-[00:31:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1905) És amit ön kérdezett, szem az egy valóban konstruktív kérdés volt.
+[00:33:25](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2005) Tehát az a fktelen pénzpazarlás, ami ebben az elmúlt 16 évben jellemezte ezt a három minisztériumot, arra még nem tudok teljesen minden számról beszámolni önöknek, de ígérem, hogy fogok.
 
-[00:31:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1910) Egyrészt egy megválasztott parlamenti képviselő, nekem kötelességem önt mindenbe segíteni.
+[00:33:40](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2020) Amint bekerülünk a minisztériumba, a valaha volt legnagyobb átvilágítást fogom elrendelni azonnal, politikait, gazdaságit és még egyéb dolgokban is.
 
-[00:31:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1913) És azokat, akiket ön képvisel, szintén kötelességem mindenbe segíteni.
+[00:33:52](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2032) De hogy mikor ránézek arra, hogy egy ország, aminek nem kell nem kell messze menni, képviselő úr, a János kórházba is elég elmenni, ami itt van ugye Budán, de bárhova is, az uzsokiba is el lehet menni, vagy az újpesti kórházba, vagy a délpesti kórházba, és akkor csak Budapestről beszélünk, ahol nem az, hogy BC papír nincsen, hanem a fejére csak az embernek a mennyezet a gyermekosztályon is.
 
-[00:31:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1918) Amiben tudom, segíteni fogom.
+[00:34:19](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2059) és önök ott dolgoztak fent azokban az épületekben, és azt gondolták, hogy ez jár önöknek és ez normális.
 
-[00:32:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1921) Ha hozzám fordul, mindig fel fogom venni a telefont önnek.
+[00:34:28](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2068) Akkor szem nagyon sokat nem kell arról mondanom, hogy hol fogjuk a pénzt megfogni ebben a minisztériumban.
 
-[00:32:03](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1923) Egy, kettő.
+[00:34:36](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2076) Egy, kettő.
 
-[00:32:05](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1925) kormányablakok kérdéske.
+[00:34:39](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2079) Az én mésztól elkerül a titkosszolgálatok mindenfajta kontrollja vagy vezetése.
 
-[00:32:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1928) Ez egy olyan komplex dolog, hogyha most én azt mondom, hogy itt van a megoldás, előveszem innen, akkor nyugosan mondhatná, hogy ez ez micsoda.
+[00:34:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2083) Visszakerül oda ahova való a belügyminisztérium alá, a katonai a a homelá minisztérium alá és az igazsági miniszter alá vagy a küminisztérium alá.
 
-[00:32:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1933) Önök létrezek egy rendszert, aminek a tetején egy politikai kinevezet áll.
+[00:34:52](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2092) Ott van a helye.
 
-[00:32:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1939) Úgy hívják, hogy főispán.
+[00:34:52](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2092) Nem földnak a melitába, a luxuspalotába ráengedni az emberek, titkoszatokat.
 
-[00:32:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1944) Van ilyen, van olyan.
+[00:35:01](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2101) Visszikerül a helyére.
 
-[00:32:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1944) Pár dolgot nem csináltak ezek a főiskolák.
+[00:35:04](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2104) A KSH ugye amit valamilyen oknál fogva úgy gondoltak, hogy a legjobb helye ott van náluk, annak szakmai kontrollja visszakerül a pénzügyminisztérium pénzügyminiszterhez és utána egy nagyon röv időn belül újra önálló intézmény lesz, aminek a számainak majd újra hietünk.
 
-[00:32:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1946) Várok ennek is.
+[00:35:25](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2125) Az én minisztériumom azzal fog foglalkozni, hogy politikai elemző és politikai javaslató tevő szeryen.
 
-[00:32:28](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1948) Amikor azt mondta, hogy német és kínai gyarmat lett, azért orosz is, hogy rakja oda a pátió.
+[00:35:34](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2134) Jogszabályokat nem fog kezdeményezni, nem fog törvényeket előkészíteni, mert arra megvan, hogy megvannak a szakminisztériumok.
 
-[00:32:32](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1952) Tudom, hogy ezt távol öntöl, de azért rakjuk össze.
+[00:35:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2142) Az én feladatom az, hogy mindenben segítsem a miniszterelnök munkáját és minden miniszter munkáját, hogy tartsuk azt az irányt, amit a Tiza programja lefektet, illetve a kormányprogram majd el be fog mutatni.
 
-[00:32:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1957) Az nem járja.
+[00:35:56](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2156) Az én feladatom az, amiket ígért a Tiszapárt a kampányba, azt mind mind megvalósítsuk.
 
-[00:32:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1957) Az nem járja.
+[00:36:04](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2164) Az én felatom az is, hogyha esetleg valaki azt gondolná, hogy kezdjünk el felejteni, hogy mik történtek velünk az elmúlt 16 évben, akkor majd én meg fogom mondani, hogy várjatok egy pillanatot és elő fogom venni ezt a táblázatot.
 
-[00:32:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1957) Mondom ezt úgy, hogy semmilyen feladatom nem lesz egyébként a kameryabbakkokkal szemben.
+[00:36:18](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2178) Még még még van még, hogy mondjam, még fejlődik.
 
-[00:32:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1964) Ahogy előbb mondtam, én egy olyan mész veszetek, aki politikai, szakpolitikai ügyekben fog segíteni a kormánynak és a miniszterelnöknek, de az nem járja, hogy a főisvánok azért lettek odarakva, hogy a kínai atógyáraknak minden építkezésén szembet hújanak.
+[00:36:25](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2185) Ez most egyelőre 398nál tart.
 
-[00:32:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1979) Az nem járja.
+[00:36:28](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2188) Az utolsó az oroszok visszahívása az országba.
 
-[00:33:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1981) És erre lesz a Tiszának programja.
+[00:36:30](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2190) Az első a casétreho nálam végigmegyünk rajta és ahol a kormánynak van dolga ott a kormány fog lépni de és most alához még megkérdez én nem vagyok elszámoltató nem is fog elszámoltatni az én dolgom az hogy a tejetet biztosítsam arra hogy egy másik hatalmi ág tegye most már úgy a dolgát, ahogy szeretné, hogy hogy a dolgok történjenek a politikai béke való felmentve szabadon a saját eldé és esküjük szerint tudjanak újra dolgozni.
 
-[00:33:04](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1984) Vajdos László miniszter véghez fogja vinni, és a legszigorúbban, a legszigorúbban fogunk fellépni ezek ellen.
+[00:37:19](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2239) És egy pillanatet még hagy mondjak egy dolgot, ha már erről beszéltük, hogy hibrisz.
 
-[00:33:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1992) Mert ha már azt mondja, hogy nemzeti kormány.
+[00:37:26](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2246) Nehéz az fel, amikor még az előző munkámban voltam, és próbáltam elemezni, hogy mit törik ebbe az országba.
 
-[00:33:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=1993) Milyen az a nemzeti kormány, aki 100 milliárdokat adott különböző koruzsan úr most Facebookozik, vagy beszélgetünk, vagy látja ez a tiszteletlenség.
+[00:37:32](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2252) Talán leg talán a legszomorúbb ellenzéki szempontból a legdepressziósabb pillanatban léptem a nyilvánosság elé 2023-ban, hogy meg talán ugye elmondhassam azt, hogy az Orbán rendszer nem omnipotens, hogy Orbán Viktor nem egy mindent tudó félisten.
 
-[00:33:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2007) látja, mikor valaki beszél, mond a telefonját nyomkodja, de oké, végülis ezt a gyászat nem tudom melyik fázis majd, de ez már tényleg pszichológusok kérdése.
+[00:37:54](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2274) Amikor ott sétáltunk tegnap, akkor az egyik ablaknál, és ez nagyon érdekes volt, megtaláltam azt a táblát, amire fel van írva Orván Vitornak a hat törvénye.
 
-[00:33:34](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2014) Szóval 100 milliárdokat költöttek arra, hogy megmérgetik ezt az országot a Cattlere, a Samsung-ra, az ilyen-olyan gyárakra.
+[00:38:04](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2284) Már eleve az, hogy neki van hat törvény, de mindegy, hogy van hat törvénye.
 
-[00:33:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2025) ide települtek, semmilyen törvényt be nem tartottak, mindenre szemet hunytak, és önök még adteki még pénzt is.
+[00:38:10](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2290) Ebből az egyik, ami szerintem a leg sokat mondóbb, az igaz, amd igaza lesz.
 
-[00:33:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2030) Szóval amikor ezeket beszélgetünk, akkor lehet, hogy itt kéne kezdeni először a jogállami normáknak a utólagos önökben lévő felülvizsgálatát, hogy vajon mennyi érdeket szolgált a nemzeten túl ezek a gyárak idejöttek és így működtek vele a DÁpról.
+[00:38:20](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2300) Az az ember, aki azt gondolja, hogy neki nem lehet tévednie, az a legnagyobb bűnt követi el.
 
-[00:34:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2048) Arról is kérdezett.
+[00:38:28](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2308) Nem csak magával szembe, az egy dolog, hanem a hazájával szembe is.
 
-[00:34:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2050) Szerintem a DÁp egy, hogy mondjam, mint elv egy jó dolog.
+[00:38:31](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2311) Én egy olyan minban leszek, olyat fog vezetni, aki igenis fog tévedni.
 
-[00:34:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2052) Az, hogy Rogán Antal csinálja, az meg az önöknek a, hogy mondjam, a furcsa gyakorlása.
+[00:38:39](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2319) Sőt, akkor is fog tévedni, ahol fogok szolgálni, sőt a miniszterök is fog tévedni.
 
-[00:34:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2057) Szerintem van erre lesz van erre egy nem szerintem, hanem van erre egy külön minisztérium, ami pontosan ezzel fog foglalkozni.
+[00:38:46](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2326) Egy nagy különbség lesz.
 
-[00:34:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2067) Tanács Zoltán vezeti, aki a teljes magyar digitalizáció kérdését átvilágítja, lesz mit átvilágítani, és utána ami jó, azt megtartja, ami rossz, azt pedig átalakítja.
+[00:38:49](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2329) a Tiszakormány és az Orbánkormány között, hogy ez nem szégyen, ilyen van.
 
-[00:34:39](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2079) És még mi mondom ez szintén nekem a mésznak semmi köze nincsen.
+[00:38:55](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2335) A jó Isten nem tud tévedni.
 
-[00:34:42](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2082) És egy általános elvet is hagy mondjak.
+[00:38:55](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2335) Az emberek, a halandók tévednek sokat.
 
-[00:34:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2085) Én azt gondolom, hogy akik itt ülnek belejtve engem, aki nem is egy ősi képviselő, egy felatunk van a hazánkat szolgálni és fel se merül.
+[00:38:58](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2338) A kérdés az, hogy tévednek és beismerik és tanulnak belőle, vagy tévednek és még mindig a gyásznak az első fázisában vannak.
 
-[00:34:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2093) látja, 16 évet éltünk ebben az Orbánrendszerben, ha lehet így hívnom, amiben egy dobozt rakott ránk többek között az önminisztériuma, nem a igazságügyi, a másik, amiben értünk, mit lehetett mondanunk, mit lehetett gondolnunk, hogyan kellett viselkednünk, mi fér bele, mi nem fér bele, mitől kapok kokit, mitől kapok megafon lejáratást, mitől kapok, hogy hazáruló vagyok.
+[00:39:09](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2349) De az is jó.
 
-[00:35:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2122) Ezeket csinálták ebb az országgal.
+[00:39:15](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2355) Az emberek tévednek, az emberek változnak, és az én minisztérium azon lesz, hogy a politikai tévedéseket megpróbálja kijavítani, és segítsen abban, hogy ez a kormány sikeresen tudja végrehajtani azt, amit 3,4 millió ember adott neki feladatként.
 
-[00:35:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2124) És ez az ország erre azt mondta, hogy ez a kocka vagy a doboz, amit ránk raktak, ez többet nem kell se nyelvben, se a hogyan kell viselkedni, se az önök normáiba, se az, hogy önnek a fejébe, és nem az ön hibája, az önok fejébe egyáltalán felmerül, hogy önt nem fogja ez a kormányzat segíteni abba, hogy az önt megválasztó képviselőknek segítsen, hogyha felnő a fejébe, mert ugye azt ki csinálta?
+[00:39:29](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2369) Szerintem most már több mint 3,4, de a választáson 3,4 volt.
 
-[00:35:48](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2148) Az önkormánya, a korábbi azt tudott, bocsánat, hadd fejezzem be.
+[00:39:33](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2373) Hogyan fog kézni a minisztérium?
 
-[00:35:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2153) Ott volt különbség, hogy valaki egyéni Fideszes országgyűlési képviselő vagy egyéni elházi országi képviselő.
+[00:39:37](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2377) Tehát már említettem csontos képviselő volt.
 
-[00:35:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2158) Itt itt most jelenás szerint ilyen különbség nincs.
+[00:39:40](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2380) Ő lesz a politikai parlamenti államtitkár.
 
-[00:36:06](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2166) Ez a különbség többek között.
+[00:39:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2382) Emellett lesz még egy stratégiai államtitkárság, lesz egy szakpolitikai államtitkárság, amit András fog vezetni.
 
-[00:36:06](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2166) És tudja miért van ez a különbség?
+[00:39:50](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2390) Itt lesz az úgynevezett tükörreferatúra, tehát leképezve a mészmi struktúrát hasonlóan, de nem úgy, ahogy a 98 és 2002 között Stóf István minisztersége volt, alatt volt, de egy teljesen más szemlélettel.
 
-[00:36:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2167) Azért, mert valójában amikor megválasztják a választói, akkor azt kérik, hogy ön képviselje őket.
+[00:40:07](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2407) lesz egy kommunikációs államtitkárság, az a feladata, hogy egyszer és mindenkorra egyrészt átnézem minden kommunikációs szerződést, ez egy dolog.
 
-[00:36:14](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2174) Képviselje őket.
+[00:40:15](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2415) De most itt mondom önöknek, törvénybe fogjuk iktatni, hogy a magyar állam gyűletet, lejáratást, más emberek megbéjegzését nem tehet soha többet.
 
-[00:36:14](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2174) Itt meg az a dolga az embereknek, hogy segítsen az ön képviseleti jogára gyakorlásában.
+[00:40:34](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2434) Amit önök műveltek a gyermekeinkkel, hogy egy YouTube mesét nem lehetett megnézni úgy, hogy ne valamilyen atomtámadás vagy képzelt ellenség jöjjön fel, amit önök műveltek az öregeinkkel, a nyugdíjasainkkal, a szépkorinkkal, akik rettegve féltek az atomháborútól, amit örök minden hullámhuszon hazudtak nekik, és közpénz 100 met erre elköltöttek, és utána nem azt mondják, elnézést, hanem még önöknek állj feljebb.
 
-[00:36:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2180) Nekem pedig egy miniszter lesz az a dolgom, hogy az ön szavazóit mindenbe segítsen, mert ez a miniszter feladata.
+[00:41:04](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2464) Hát a gyásznak vannak fázusai.
 
-[00:36:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2190) Na, szóval ennyit a nemzeti oldalról.
+[00:41:11](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2471) De miközben önök a gyász fázisaira készülnek, mi dolgozunk tovább.
 
-[00:36:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2190) És nagyon szeretném kérni, hogy ha majd a gyázban vagyunk, felejtsük ezt egyszer és mindenkorra el.
+[00:41:18](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2478) És a lehető leghamarabb, és akkor mi a kérdésére válaszolok előre?
 
-[00:36:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2195) A magyar kormány minden ember, magyar embernek a kormánya, tehát a nemzet kormánya.
+[00:41:23](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2483) Nem a miniszterség fogja kidolgozni a nemzeti vagy visszaszerzési és védelmi hivatalnak a törvényét, hanem 141 osztyűlési képviselő fogja benyújtani a legdurvább és leg biztosabb jogállami keretek között lesz felállítva az a hivatal.
 
-[00:36:42](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2202) Nincs, hogy valaki nemzeti meg nem nemzeti, ezért buktak el többek között ezeket a szavak miatt, et használta.
+[00:41:44](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2504) És ha minden jól megy, ahogy eltervezik, július 1jétől munkába is áll, és teszi majd a dolgát.
 
-[00:36:48](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2208) Ezért az embereknek.
+[00:41:54](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2514) Amik viszont a kormányzatra vatkoznak, antikorrupciós lépések, azokat a lehető leghabb fogjuk meghozni.
 
-[00:36:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2210) Na.
+[00:42:02](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2522) Itt volt előttem igazság minasszony előtt, ő már mondott dolgokat.
 
-[00:36:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2210) Ja, bocsánat, van még egy.
+[00:42:08](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2528) Azt tudom önnek mondani, vagy önöknek mondani, hogy a múltba is, a jövőben is és jelenben is a legkeményebb szabályok lesztek, amit Magyarország valaha látott.
 
-[00:36:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2210) Jaj, hát van még egy, ne haragudjon.
+[00:42:20](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2540) Azért, mert ha majd gondolkodnak a gyász köbző szakaszaiban, hogy miért vesztettik el ezt a választást ott a karmelétán túl, az az, hogy 20 milliárd Ftot vettek el a közösből.
 
-[00:36:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2213) Amikor azt kezd tőlem, hogy hatalmi ágak szétválasztása.
+[00:42:36](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2556) 20000 milliárd Ftot.
 
-[00:36:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2216) Hogy hívják azmánybíróság elnökét?
+[00:42:40](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2560) Nem kevés.
 
-[00:36:57](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2217) Ne haragudjon, Tuzsan úr, PT Péternek, ugye?
+[00:42:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2563) Remélem annak egy részét majd a másik hatalmi vissza tudja majd szerezni önöktől, de azt a bűnt, amit önök elkövettek azzal, hogy az Európai Uniós forrásokat önök sajátként kezelték, és az volt a sik, hogy kinek lesz több belőle.
 
-[00:37:00](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2220) És akkor itt szerintem ezt így megbeszéltük akkor ünnökakt nyilvánosságra nem ide.
+[00:43:05](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2585) És miközben az országot így hagyták lepusztulni, az egy olyan bűn, amire a magyar lakosság nagyon nagy százaléka azt mondta, hogy elég.
 
-[00:37:09](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2229) A válasz kérdést.
+[00:43:24](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2604) És hog mi lesz más a politika a médiával kapcsolatban?
 
-[00:37:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2232) Oké.
+[00:43:28](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2608) Egyrészt az, hogy három sajtószövő fogja tájékoztatni majd a kormány döntéséről a sajtót is, meg az országot.
 
-[00:37:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2232) Szóval a rendszerváltásnak a tanulságai, ügynökakták, ügynöknyilvánosság.
+[00:43:39](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2619) És ez egy szolgálat lesz.
 
-[00:37:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2239) Amikor a Fidesz kéthaddal nyert 2010-ben, akkor volt egy olyan belső hangjuk, nem talán még akkor még tett, ami nem volt itt a a Fidesz közelében, hogy a lehető leggyorsabban kell ezt megoldani ezt a problémát.
+[00:43:39](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2619) Szolgálat.
 
-[00:37:33](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2253) Akkor akkor 20 éve volt ez a problémája az országnak.
+[00:43:39](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2619) Ezt szeretném újra aláhúzni.
 
-[00:37:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2256) És egyetértek Apáti képviselő úrral, hogy ez egy olyan méreg volt a 90-es évek Magyarország után, ami egyébként a mai napig tart.
+[00:43:43](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2623) Kiment a gyakorlatból ez önöknél meg főleg az ember amikor Magyarországon születik vagy magyarnak vallja magát akkor a legfőbb jó ami történhet vele hogyha megkéri az hazája hogy szolgálja.
 
-[00:37:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2266) Úgy tart a mai napig, hogy az elkövetők nagy része már nem él.
+[00:44:01](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2641) Ez azt jelenti, hogy mi közös bennünk magyarok vagyunk ezt az országot imádjuk a gyerekeink itt itt élnek az őseink itt nyugszanak azt a helyet tudjuk szolgálni.
 
-[00:37:49](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2269) És úgy tartom a mai napig, hogy a bántalmazottak, a megfigyeltek, ak az értéket tönkretették, nagy része nem él.
+[00:44:15](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2655) És amit még szeretnénk félre meg ajánlani, mértékletesség, kötelességtudat, ha az a szeretet.
 
-[00:37:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2279) Igazságtétel itt valójában nem született.
+[00:44:23](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2663) Ezek nagy szavak, nagy részüket önök maguknak vindikálták, és nagy részük most valójában újra megtöltést kívánnak.
 
-[00:38:04](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2284) hanem egy szőnyeg alá söpört ügylet, és akkor lett a szőnyeg, hogy aztán már nem is látszik már az alja.
+[00:44:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2682) Ez egy nagyon nehéz feladat lesz.
 
-[00:38:14](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2294) És akkor még egy alaptvetés.
+[00:44:47](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2687) Az a minisztéri, amit én fog vezetni, azon fog dolgozni nap 24 órájában, hogy azt a rengeteg bűnt, sebet, bántalmazást, amikor önök elkövettek az elmúlt 16 évben, azt megpróbáljuk legalább rendbe hozni.
 
-[00:38:14](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2294) Nem én fogom ezt a törvénybe nyújtani.
+[00:45:00](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2700) És egyet kiemelnék, nem kettőt.
 
-[00:38:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2296) Hogy nyújtanál még be mész vezető miniszterként?
+[00:45:05](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2705) Amikor azt kérdezik, hogy mikor lesz jobb, hogyan lesz jobb, valami rögtön jobb lesz.
 
-[00:38:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2300) Ehhez egy olyan szakmai konszenzus kell, amiben mindenki, aki ez ebben az országban ért ehhez, történészek, levéltári szakértők, pszichológusok, szociológusok, jogászok részt vesznek.
+[00:45:09](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2709) Az, hogy nincsen gyűlet propaganda, azt már rögtön lehet érezni.
 
-[00:38:34](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2314) És hogyha az a politikai akarat, hogy végre tegyünk ebben rendet, ebben is tegyünk rendet, akkor induljon ez a munka el.
+[00:45:13](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2713) Az, hogy folyik a mondom még a a gyász első fázisa.
 
-[00:38:43](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2323) És mik az alapelvei ennek?
+[00:45:27](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2727) Jó.
 
-[00:38:43](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2323) Úgy mondom ezt még egyszer, hogy a végső szót az országgyűlés fogja meghozni, és nem én, de amit érátok, az a következők.
+[00:45:27](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2727) Szóval, hogy nincs gyűlet propaganda, amit közpénz 100 millióból öntöttek önök ránk.
 
-[00:38:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2333) Van egy szakmai konszenzus a levéltári szakmában, mind az ABTL-ben, mind az országos levéltárban, hogy valójában amikről beszélünk anyagok, ilatanyagok az körülbelül 10%-nyi titok van még.
+[00:45:32](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2732) Én nem kötök, én nem öntök semmit.
 
-[00:39:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2342) Nem olyan kevés.
+[00:45:35](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2735) Önök öntötték.
 
-[00:39:05](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2345) Nem olyan kevés.
+[00:45:37](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2737) igazságminiszter úr most már nem sokáig az szóval amit ránkárás, hogy tartózkodjon az ülés kinokolatlan megzavarás a gyász első fázisa.
 
-[00:39:09](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2349) Ezeknek a nagy részét a mostani szolgálat őrzi a saját levéltárába, arra hivatkozva, hogy olyan információk vannak benne, ami a mai napig is a nemzetbiztonságot érinti.
+[00:45:46](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2746) Szóval amit öntöttek ránk az most megszűnt.
 
-[00:39:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2360) Nehéz elképzelni, hogy hány ilyen valóban ilyen aktual lehet, ami most is érinti, de biztos vannak ilyenek.
+[00:45:48](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2748) Az a normaszegés, amihez ön is asszisztált többek között, annak a megjavítása, vagy a sebekójítása lehet, hogy inkább 20 év lesz, mint 10.
 
-[00:39:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2364) Ezért én azt fogom javasolni majd, mikor megkérdezik a véleményemet, hogy a határ a határidőt, amit a miniszterelnök kitűzört, Oper 22, úgy tudjuk a leggyorsabban betartani, hogyha egy széles körű konszenzusos jobbkört adunk majd a levéltárti vezetőknek, azzal, hogy lehet, hogy leggyorsabban kapcsolják össze a már feloldott titkosítású adatbázisokat, a már meglévő adatbázisok, amik egyébként nyilvánosak.
+[00:46:04](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2764) amit önök műveltek a gazdaságban, amit önök műveltek az egészségügyben, az oktatásban, a szociális szférában, bárhova tudnék tudnám sorolni, mert ugye mészőricen kívül nincs másk azt, amiben akkor nagyon jó teljesítettek volna mindenhez hozzá fogunk állni, és valahol lesznek gyors javulások, valahol lesznek lassú javulások, de önök 15 óta, 11 évig Egy két generációnyi fiatalt neveltek és sokkaltak azzal, hogy egész életükben háborús plakátokat kellett nézniük az utcán.
 
-[00:39:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2393) és a modern technológia segítségével, ami korábban mondjuk 5-10 év lett volna, ez most már 5-10 nappá tud leszűkülni, hogy kapcsoljuk össze és lássunk tisztán, hogy mi volt a múltunk 90 előtt.
+[00:46:42](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2802) Bombákat, embereket, háborút.
 
-[00:40:04](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2404) És amit kérdezt fontos, mert 90 után is ez a múlt meghatározza azt, amit ön kérdez.
+[00:46:47](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2807) Önök igen.
 
-[00:40:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2410) és a miniszterelnök úrnak szintén fontos kiemelt programja, amit pont kérdez apáti úr, a 90 utáni magyosodási kérdés a magyar titkosszolgálatok működése.
+[00:46:49](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2809) Két generáción nyit, hogy nek velük mi lesz a jövőben, hogyan fogják ezt feldolgozni.
 
-[00:40:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2424) Ennek van egy kiváló pártársa, Borvendi Zsuzsannak, aki ennek a nemzetközi szakértője, hogy hogyan mentette át az akkori kommunista elit a vagyonát, a hatalmát, hogyan lettek a párt titkárokból egyébként minden pártban potentátok.
-
-[00:40:43](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2443) Ezt és egyszer és mindenkorra kivizsgáljuk, de bocsánat, nem a politikusok vizsgálják ki, hanem a szakértők vizsgálják ki.
-
-[00:40:49](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2449) És ha ebbe tisztán fogunk látni, szerintem akik itt ülnek a terembe, meg állnak mindenki minden korosztályba, nagyon meg fogunk lepődni.
-
-[00:40:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2459) És ahhoz, hogy el tudjunk, tudjunk egy újlapot nyitni közösen, mindannyian, ahhoz például ezt rendbe kell tenni, jóváétel.
-
-[00:41:05](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2465) Jóváétel.
-
-[00:41:05](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2465) És persze figyelni kell arra, teljesen igaza van, aki kérdezte, hogy akiket akiket megfigyeltek, akikről írtak, akik a legmélyebb privát szérába belehatoltak, nekik is legyen joguk és a leszámotnak meg védekezni azzal, hogy mi kerül ki és miért nem kerül ki, mert mondom még egyszer, ezt nem én fogom eldönteni Ruf Bálént miniszterként, hanem az erre szakosodott, rendkívül képzett és okos magyar történész.
-
-[00:41:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2497) pszichológus, társamtudós szakma, aki ezzel fel lesz kérve, és gyorsan kell majd dolgozniuk, mert a határidő az itt van.
-
-[00:41:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2504) És akkor mit kérdezett még?
-
-[00:41:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2504) Október 23, hogy itt ülünk ebbe a terembe.
-
-[00:41:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2513) Ennek a szellemébe fogok eljárni mindig.
-
-[00:41:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2515) Október 23a egy olyan ünnep lesz, a 7.
-
-[00:41:57](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2517) évforduló, meg tudjuk mutatni mindannyian önök is, hogy egy a nemzet.
-
-[00:42:04](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2524) Ünnepeljük majd meg együtt.
-
-[00:42:04](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2524) hogy a 70 éve aztán lefolytott és vérbe vert vérbe folytott csodálatos foralom 70 év után úgy találja ezt az országot, hogy vidáman, demokratikusan, európaian vagyunk együtt.
-
-[00:42:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2546) És nem véletlen azt, hogy ezt választottam.
-
-[00:42:29](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2549) A szovjet orosz befolyásmentesen merési feladatunk lesz nem az enyém, hanem a szakszer szaks szerveknek.
-
-[00:42:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2555) Ha és nagyon szeretném azt, hogy 23-án majd együtt ünnepeljük ezt meg együtt, hogy 70 év után nagyének meg a Mártir társainak a halála nem volt hiábavaló, hanem az országunk vére nem egy kompország lett, hanem egy nyugati orientációjú európai békés működő ország.
-
-[00:43:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2582) Nemzeti korrupcióellemellenes dolgok, ugye azt azt is kérdezték valamelyik ők.
-
-[00:43:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2587) Ki vagyok én?
-
-[00:43:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2587) Ezt megmondjam.
-
-[00:43:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2590) Én egy miniszter leszek, aki abban fog segíteni, hogy az ország legjobb szakemberei egy olyan, és ezt tudom mondani, példátlanul kemény törvénycsomagot nyújtsanak be a ház elé, amiben egyszer és mindenkorra az ír magvát is eltüntetjük annak, hogy hogy mondta Tus, hogy a legjobbkor legjobb közbeszerzési szabályok Magyarországon vannak.
-
-[00:43:33](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2613) Igen, azt láttuk.
-
-[00:43:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2617) az unió szerint a legjobb közöszerzés mindegy majd mind majd mind elmondja na hogy annál isabbak legyenek mint amit a Tuzsan úr mondan legyen, hogy amikor hogy ne az legyen, hogy az ideérkező hazahozott Európai Uniós forrásoknak megint a felét ellopja valaki, valaki, aki szerint a legjobb, aki abban a rendszerben műzint a legjobb, kábé felében egyedül indult.
-
-[00:43:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2639) ezeken a közelzéseken annyira jó volt.
-
-[00:44:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2641) És aminek van kormányzati része, abba tudok arról tudok mesélni, de ennek a feladata az igazság igazságügyminiszternél lesz.
-
-[00:44:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2651) Ő jó alkotási, aki előbb itt ült a helyemen.
-
-[00:44:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2652) Pontosan azért, hogy mutassuk azt, hogy mi a hierarchia a kormányban.
-
-[00:44:18](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2658) jogalkotásért, a jogalkalmazásért, a jogállamért az igazságügy miniszter felre politikai tervezésért, a rendszerváltás motorjaként az én minisztérium felel, de ő nála van a szakmai kontroll, ő a kodifikátor, ő az, aki elmondja, az ő minisztériuma, hog ez megfelelő-e a legszigorúbb jogállami jelveknek.
-
-[00:44:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2677) És ugye van itt egy tehát valamelyik mondott a mit kért a stúdió és ezt megcsináltuk de aztán szóval van itt vannak itt kérdések azért nem minden nem mindennek feleltük meg.
-
-[00:44:48](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2688) Az egyik ilyen például az egész kérdéskörre és mondom még egyszer ezt megint nem az én tárcám ez, de szívesen beszélgetek erről, mert mégis csak ebbe buktak bele, ezért segít kipróbálok.
-
-[00:44:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2699) Szóval, hogy a magyar állam hogyan áll hozzá a saját vagyonához.
-
-[00:45:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2702) Én azt gondolom, hogy az am magyar ámok a vagyonára mindig és mindenkor, ha már itt mondta, vigyáznia kell.
-
-[00:45:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2708) Magyar állam vagyona, 10 millió ember vagyona.
-
-[00:45:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2711) Önök parcsön.
-
-[00:45:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2719) Húha!
-
-[00:45:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2719) Ez ez újra vissza az első fázisba.
-
-[00:45:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2722) Szóval, hogy amikor eladja valaki a belügyminiszum, amikor valaki eladja a belügyminisztrium épületét, pontosan annyi pénzért egy külföldi vevőnek, amennyivel be kell fektetni egy másik helyen, és ezt a választások előtt csinálja, azt nem tudom, hogy vagyonnak milyen védelme.
-
-[00:45:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2735) Ha valaki eladja a legszebb épületeit, kastélyit, a parkjait magánkézbe helyezi, az nem tudom mennyire a védelme.
-
-[00:45:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2745) Az én tártámnak nem feladata a vagyonvédelme, de a politikai a politikai beleszólás abba, hogy a magyar vagyonnal mi legyen, az próbálok segíteni és egyetértek önnel ebben.
-
-[00:45:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2756) A magyar vagyont megtartani kell, és amit lehet, azt vissza kell szereznie a magyar ország számára, amiket önök elherdáltak, elajándékoztak, kiszerveztek.
-
-[00:46:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2768) De most nem mondom tovább.
-
-[00:46:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2771) Ez egy feladata lesz.
-
-[00:46:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2771) De még egyszer, és akkor megint még egyszer, egy alapel jogállamban nem a magyar kormány fogja visszaszerezni ezeket az vagyontárgyakat, hanem az erre szakasított szervek, amikhez nekem, nekünk a magyar kormánynak il nekem aztán főleg semmi igazabb nincsen és nem hiszes soha.
-
-[00:46:28](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2788) Én nem fogok senkit sem levadászni, senkit megfélemelíteni.
-
-[00:46:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2790) Én egy dolgot fogok csinálni, csak van egy probléma, ami tényleg egy egy HR probléma.
-
-[00:46:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2795) Nincs annyi jogász ebben az országban, amennyi kell az önök bűnek az átvilágításához.
-
-[00:46:42](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2802) Tehát hogyha mindenki ide ide vezetnék ugye sorkatonaként, hogy kötelező önök az önök dolgait kivizsgálni, akkor is lehet, hogy 10 évig tartana.
-
-[00:46:47](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2807) Ezért szépen fogunk haladni.
-
-[00:46:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2810) Az én minisztriumban lesz erre egy külön csapat, aki ezt fogja végezni és amint valamire valamit találunk, be fogunk róla számolni.
-
-[00:46:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2819) És ne fog tenni a megfelelő lépéseket.
-
-[00:47:00](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2820) Nem vendettát, nem bosszút, nem elszámoltatást, jóváételt, jóváételt, amit önök ebben az országban műveltek.
-
-[00:47:14](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2834) Aztán azt a beszéltünk, MSZNP-ről beszéltünk, Bajnról beszéltünk.
-
-[00:47:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2844) Igen.
-
-[00:47:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2846) Volt volt még volt még település területfejlesztésről valakinek kérdése.
-
-[00:47:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2850) Lőrin Viktória miniszterasszonyhoz tartozik ez a kérdés.
-
-[00:47:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2851) Tudom önnek volt oda lehet bármikor fordulni.
-
-[00:47:34](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2854) Neki van erre egy koncepciója.
-
-[00:47:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2856) uniós, bocsánat, az uniós kérdések.
-
-[00:47:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2858) Szóval azért van az én minisztériumomban az államtitkárság, egy egy az egyik egyik államtitkárság, mert több van a a kormányban, mert a miniszterelnök prioritásként tekint arra, hogy az önök által majdnem elvesztett uniós forrásokat a lehető leggyorsabban haza tudjuk hozni.
-
-[00:47:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2878) Merthogy miközben épültek ezek a gyönyörű paloták, a magyar gazdaság 24 óta 23 óta 0%-os bűvölésben volt.
-
-[00:48:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2888) Tehát miközben az emberek a a 204-ü élelmiszerinflációt nyögték, bocsánat én meghallgattam 204- inflációt nyögték.
-
-[00:48:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2897) Önök azt gondolták, hogy a legjobb lenne megépíteni palotákat.
-
-[00:48:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2902) De mondok még amit szerintem még egy érdekesz a választó kérdésére.
-
-[00:48:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2907) Azok a rendőrök, akik ezeket a épületeket védik, tudja mennyi egy átlagfizetés a magyar rendőrségnél, a BM-nél?
-
-[00:48:33](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2913) Mondjuk egy kezdőfizetés mennyi kábé nettó annyiba került, mint mondjuk két kocka, á nem egy a WC-ben.
-
-[00:48:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2926) Annyiért dolgozikot havonta egy magyar rendőr családdal, amennyivel önök lerakták azt a két csempeko kockát.
-
-[00:48:52](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2932) És miközben így van az ágazat, rendőrség, szociális, egészségügyi oktatás, önök azt tették közbe, hogy két kockány érted mit mondok?
-
-[00:49:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2948) Nem, nem válaszolok, csak érted mit mondok?
-
-[00:49:09](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2949) Önzet az normális, hogy ilyen törték ebbe az országba, hogy aki ezért felelős, nyilván nem kérte, hanem egy egyébként.
-
-[00:49:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2960) Na mindegy.
-
-[00:49:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2960) Szóval önzet ez normális.
-
-[00:49:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2960) És akkor mondom, hogy mi miért rendelte magához?
-
-[00:49:25](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2965) Azt mondja a miniszterelnök, hogy enélkül a pénzek nélkül a magyar gazdaságot nem lehet érdemben beindítani, hiszen önök olyan szinten zülesztették le, miközben ezeket építették, hogy harmadik éve van 0%-os GDP növekedés, pedig ott volt a pénz.
-
-[00:49:40](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2980) Majd egyszer majd biztos történészek megmondják, hogy önök miért nem hozták haza, miért tudtak legalább egy pár dagot csinálni, például csatlakozni az európai ügyészséghez, mert az egy leggyorsabb dolog.
-
-[00:49:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2990) első lépése lesz a kormányzatnak.
-
-[00:49:52](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2992) Miből állt volna?
-
-[00:49:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2995) Mitől féltek?
-
-[00:49:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=2995) Hát Európai Unió tagja vagyunk, szverén nemzetek szövetségeként, ha már így választok a másik kérdésre, de önök ezt nem gondolták, hogy kell.
-
-[00:50:05](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3005) Önök úgy döntöttek, hogy inkább elkötenek egy 100 milliárdokat kampányra.
-
-[00:50:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3010) Majd a kampányról majd beszéljünk egyszer, vagy talán egy másik alkalommal.
-
-[00:50:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3015) miközben a magyar kórházakban, iskolákban, közintézményekben az elemi elvának nincsen megfelelő higiénia.
-
-[00:50:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3021) És ők azt gondolták, hogy ez mindegy, mert annyiszor megúszták már a különböző propagandával, amit tettek a mi is őkkel, a hergeléssel, az atomháborúval, hogy inkább ragadjon az a pénz ben a gonosz Brüsszelnél, mert önöknek mindegy, de a másik 10 milliónak meg nem mindegy.
-
-[00:50:43](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3043) és a miniszterelnök magához vonta az uniós ügyek felügyeletét azért, hogy a lehető leggyorsabban tudja hazahozni a pénzeket, hogy meg tudja mondani Brüsszelnek, hogy ezt és ezt megtesszük, megvan az a négy terület, amiben lépéseket kell tenni, többet pedig nem, mert ez a pénz egyébként jár nekünk magyar embereknek, és szeretnénk minél gyorsabban a minél hatékonyabban elkölteni.
-
-[00:51:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3067) Nem úgy mint önök, hogy a felét el hazavitték, hanem úgy, hogy ne vigyen ebből senki semmit, csak az, akinek jár.
-
-[00:51:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3076) Ez az oka.
-
-[00:51:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3076) Ez az oka.
-
-[00:51:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3076) És hol van még?
-
-[00:51:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3080) Ugye, mert hogy most ugye több minisztrériumban van, és ugye a a most már talán nyugdíjas, Nav Basic Tibor volt miniszter úrnak az állapítkása, nem hozzám kerül, hanem Lőrincs Viktória miniszter asszonynál lesz a legolyorítási része ennek a az uniós forrásoknak.
-
-[00:51:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3096) Pontosan azért, hogy ne legyen egy kézben.
-
-[00:51:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3098) Pontosan azért, mert ott legyen, ahol legjobban tudják, hogy mire lehet elkölteni.
-
-[00:51:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3101) És ne úgy költségkel, amit önébként próbált helyesen mondani, hogy az elődei vagy a kormány pártja tette, hogy annak adott, aki az övé volt, annak osztotta el, aki elegott kérni érte.
-
-[00:51:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3115) Mi volt még a kérdés?
-
-[00:51:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3118) Ja, igen, igen.
-
-[00:51:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3119) Migrációs paktum.
-
-[00:51:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3119) Migrációs paktum.
-
-[00:51:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3119) Igen.
-
-[00:51:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3119) Szóval a migrációs pakt következőt mondok még egyszer.
-
-[00:52:03](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3123) A migrációs paktban, amivel önök szintén hát azt nem tudom hány milliárd sok milliárdért hergelték a magyar népet.
-
-[00:52:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3130) Ja, bocsánat akartam még annyit mondani.
-
-[00:52:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3131) Az unió nem unió kérdésről, hogy miért vesztettek.
-
-[00:52:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3137) Azt gondolták önök, hogy ameddig mondják a hülyeséget az embereknek, idő után el fogják tényleg teljesen hinni.
-
-[00:52:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3142) Magyarország 1100 éve 1100 éve döntött Szent Istvánnál, hogy mi a nyugatrészei vagyunk.
-
-[00:52:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3150) A legnagyobb a legnagyobb lépés volt ebbe az országba a mi életünkben.
-
-[00:52:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3155) Kábé körbes egy év idősek lehetünk, amikor a hazánk végre megérkezett az Európai Unióban, meg a NATOba.
-
-[00:52:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3161) Végre odaérkezett, ahova mindig is vágyak.
-
-[00:52:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3165) Nem a varsói szerződésbe, meg a türk tanácsba, meg a KGST-be, hanem a NATOb és az Európai Unióba, amire magyar emberek népszavazásra adtak felhatalmazást.
-
-[00:52:54](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3174) Önök ezt próbálták megkérdőjelezni ott Bóka mindenféle pozícióból, hergelni, reklámozni, jön a gonosz brüsszel, elveszi nem tudom micsodákat.
-
-[00:53:05](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3185) És ahelyett, hogy a magyar nép ezt elhitte volna önöknek, pont ellenkezőleg soha nem volt ilyen magas se az uniós, se a NATO támogatottsága.
-
-[00:53:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3195) Nem vértlenül.
-
-[00:53:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3195) Tudja miért?
-
-[00:53:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3195) Mert a magyar emberek mindannyiunk beleértve nem Moszkvába szeretnének menni, hanem legszívesebb magyar szem szeretnének boldogulni, de a kell nekik mondjuk nyaralniuk, akkor biztos nem a szevasztopoli lankákat választják.
-
-[00:53:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3206) Önök ezt nem értették meg, hanem helyette hát nem tudom 100-200 milliárd bóka.
-
-[00:53:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3211) Mennyi ment el propagandára?
-
-[00:53:34](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3214) Tudom, hogy nem tud válaszolni, csak nézek, hogy amire bocsánat.
-
-[00:53:40](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3220) Melyik részett van?
-
-[00:53:40](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3220) A propaganda vagy ezt y az ön minisztérium csinálta?
-
-[00:53:43](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3223) Nincsen mutatás.
-
-[00:53:43](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3223) Ja, bocsánat, akkor majd bocsánat, nálam úgy el is válaszolok.
-
-[00:53:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3226) Szóval ugye ebben a hár ugye három dolgot lehet tenni a mércos paktumban, ugye az ember befogad, vagy az ember segít vagy pénzt ad, ugye ez a három lehetőség.
-
-[00:53:57](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3237) Ezt sose mondták el.
-
-[00:53:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3239) Soha nem mondták el.
-
-[00:54:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3242) Tuzsan urak most önematetlan, soha nem mondták el.
-
-[00:54:04](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3244) Megmondta Magyar Péter a tiszapát ezzerszer, hogy tartani fogja a szigorú migrációs politikát, és be fogja és amit és egyébként önöket dicsérve pontosan azt fogja csinálni, amit megvédi a határait és nem engedi be az illegális migrációt.
-
-[00:54:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3260) Sőt, sőt sőt, sőt sőt, sőt sőt nem dialógus, sőt sőt, sőt de most de most nem dialogus, mert most válzok az ön kérdésére.
-
-[00:54:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3267) Sőt, 2026.
-
-[00:54:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3270) június 1jétől megtiltja a kormányzat azt, hogy harmadik országból jöjjenek Magyarországra vendégmos dolgozni, mert önök nemzeti kormányt azt csinálták, hogy magyar emberek helyett külföldről hoztak be magyar emberek munkája helyett dolgozni.
-
-[00:54:47](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3287) Ugye apáti be egyetért velem, ugye ide hoztak embereket dolgozni, és az önök különböző rokonai, családtagjai, nem az önök, hanem a Fideszben lettek ebből milliárdosok.
-
-[00:54:57](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3297) ide hoztak ide hoztak jobb sorsra való embereket olyan kékezek dolgozni amivel egyébként borzasztó azért hogy önök minél több tudk ebből keresni de ennek vége lesz és június 1jével megszüntetjük ezt a lehetőséget és azt szeretnénk kérni minden cégtől hogy hogy most itt az idő hogy magyar embereknek munkát mi volt még mi volt még első csatlakozási klasszerek ja ja tehát tehát Ukrajna Magyar Péter konkrét ja konkrétan fog konkrétan fogok válaszolni.
-
-[00:55:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3331) Magyar Péter körülbelül annyiszor mondta el, hogy annyiszor lenne 100 Ft, akkor lett most lenne mondjuk nem tudom egy millió.
-
-[00:55:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3338) Ukrajna gyorsított tagságát nem támogatja a Tiszakormány.
-
-[00:55:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3341) Ukrajna kezdje el a normális ütembel a csatlakozást.
-
-[00:55:47](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3347) Egy, kettő, amik önem sikerült.
-
-[00:55:47](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3347) Nem sikerült, nem is akarták.
-
-[00:55:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3350) hajtsák be az ukránokon azt, hogy a magyar kisebbség önök el sem mentek el.
-
-[00:55:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3356) Ezért nagyon éveken keresztül ez nem ezért ezért a miniszterelnök bocsánat a miniszterelnök elment Kárpátjába látogat.
-
-[00:56:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3373) Mikor ment mikor tudpátjába?
-
-[00:56:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3375) egy olyan egy olyan helyen, ami egy háborúban lévő ország, ahol magyar 100000 magyar hosszú évek óta közünk még hányszor volt Orbán Viktor Kárpátalján mióta Ukrajna háborúban áll?
-
-[00:56:25](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3385) Ön az előbb mondta, hogy szakértői szinten kell megkezdeni a tárgyalást akkor tudja hány év egyet én magam ez nem bocsánat, bocsánat, bocsánat, bocsánatok ne haragudjon.
-
-[00:56:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3397) Fogok válaszolni, tehát fog válaszolni tehát.
-
-[00:56:39](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3399) Tehát ezek nem korrekt.
-
-[00:56:42](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3402) Fogok válaszolni.
-
-[00:56:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3404) tudja mi nemaki nem megy elvig arra a helyre ahol mag látni hogy a kisebbségi jogokért vívott küzdelem a legkomplexebb dolog és hogy milyen nehéz lesz Ukrajnában az tényleg egy amit önök művetek az tényleg egy egy elég komplex dolog volt egy más nemzetközi jogi kérdés elsődlegesen majd meglátjuk az önök eredményeket megjár meglátjuk biztos hogy az az a az az a komplex ha valaki nem megy el egy olyan helyre ahol magyar emberek ltak mi szakértő ismét el kezdődik Szakítő, bocsánat, ne haragudjon.
-
-[00:57:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3433) A miniszterelnök nem megy el arra a helyre, ahol magyar emberek élnek, akiket pombáznak.
-
-[00:57:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3436) Olyan helyen.
-
-[00:57:18](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3438) Ez a komplex megoldás, hogy nem megy oda.
-
-[00:57:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3439) Ez tényleg elég komplex.
-
-[00:57:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3441) Akkor menjön oda.
-
-[00:57:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3441) És ez de most nem magamról beszélek, hanem az, hanem Orbán az ön párt elnökéről miniséről túl.
-
-[00:57:26](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3446) Egy olyan nemzetközi jogásszal beszél, aki szakértőként is észett ezeknek a kisebbségi jognak.
-
-[00:57:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3451) Volt Orbán Viktor Ukrajnában én nem ezt én nem ezt kérdeztem öntől.
-
-[00:57:33](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3453) Ő se válaszol nekem.
-
-[00:57:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3456) Én válaszolok rá.
-
-[00:57:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3456) Elkezdtem válaszolni.
-
-[00:57:39](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3459) Tisztelt képviselőtárset kérni, hogy őrizzük meg nyugodtság vagy higatságat.
-
-[00:57:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3466) választal kérdés a jövőben kérdez tehát az a 11 pont ami a feltétele zsan úr megint vissza az első fázisba tehát hogy az a 11 pont ami garantálja a magyar kisebbség nyelvi használatát autonomai kérdését amitet önök is próbálták elintézni komplexen úgyhogy nem mentek oda az szakértő szinten amint a kormányzat feláll kőkemény Án be lesz hajtva.
-
-[00:58:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3496) Külügyminiszter úr rengeteget tárgyalt erről.
-
-[00:58:18](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3498) Esem igaz.
-
-[00:58:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3499) Külügyminiszter úr, melyik külminiszter úr?
-
-[00:58:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3501) Szép hát nem tudjuk a ja bocsánat, de ő inkább Moszkvába járt, ugye?
-
-[00:58:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3504) Tehát ő ő ő egy ilyen kegy kitérővel ment, de miért nem hajuk válasz?
-
-[00:58:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3507) Ez sem volt.
-
-[00:58:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3507) Többször nagy többször volt többször volt Ukrajnáb volt akkor a te kisért nagy erő.
-
-[00:58:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3515) Igen, igen.
-
-[00:58:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3515) Lehet ak mások találkozott.
-
-[00:58:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3517) Na mindegy.
-
-[00:58:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3517) Szóval azt, tehát akkor csak, hogy akkor rögzítsük, hogy itt a jegyzőkönyvnek, tehát nem támogatja a Tiszok nyorsított csatlakozást és amit már elmondott 3000erszer Magyar Péter, ha a rendes tempóban megfelel Ukrajna, abban egyébként háborúban jelen pillanatban, de ha meg tud felelni minden elvárásnak, akkor ügyöntő népszavazás lesz Magyarországon erről, ahogy ezt már ezzerszer elmondtuk.
-
-[00:59:00](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3540) És még egyszer én azt gondolom, akkor most meg se adok egy jó tanácsot, nem vagyok egy ilyen nagy jótácsadó, de most ezért meg se adom.
-
-[00:59:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3548) Az nem egy kisebbségvédelmi politika, ha valaki arra a helyre legfőbb szinten nem átogat el, amely országban 100000 magyar ajkó ember élt, és így háborúban élnek.
-
-[00:59:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3559) 2014 óta egyszer sem volt ott a volt miniszter elnött.
-
-[00:59:25](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3565) A mi nemzetpolitikánkkal azt hiszem, hogy ez veszélyez tudom kioktatni minket.
-
-[00:59:28](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3568) Hát ez biztam a magyar állandó érteketen, amikor először jó.
-
-[00:59:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3576) Szóval és akkor és akkor bocsánat, amik amiket önök kérdeztek a nemzet egyesítéssel kapcsolatban szerintem a nemzet egységes.
-
-[00:59:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3585) Az, hogy a politikusok pedig első fázisban vannak, az az ő bajuk, de ez jó sok terápiával megoldható.
-
-[00:59:49](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3589) Ami a kérdés inkább az, hogyan tudunk a terápia személyeskedés.
-
-[00:59:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3595) Miért nemít?
-
-[00:59:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3598) A terápia az minősítés.
-
-[00:59:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3598) Hát szerintem az ember bajban van, akkor szüksége van segítségre.
-
-[01:00:02](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3602) Hogy tehát a következőt szeretném mondani a Tiszakormány célja az, hogy Tiszakormány célja, hogy minden magyar kormányának tekintse.
-
-[01:00:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3610) Minden.
-
-[01:00:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3610) Az is, aki a mi Hazánkra szavazott, az is, aki a Fideszre hát nem szavaztak, az is, aki nem szavazott.
-
-[01:00:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3619) Kölcsönös tisztelet.
-
-[01:00:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3619) Köszönöm még egyszer.
-
-[01:00:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3620) szavazta minisztelet jó tisztelet miniszterítik a szeret bocsánat akkor aki a KDMPrei szavaztak mindenkinek a Magyarország nem a jó mindenkinek aki magyar ember magyarul álmodik magyarul beszéljön Magyarországon trianoni határokon hogy akár külföldre kényszerítve a a kormánye legyen.
-
-[01:00:39](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3639) Ehhez sok lépésre van szükség az első lépés az hogy lássunk tisztán hogy mit veszünk át.
-
-[01:00:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3644) Mit veszünk át?
-
-[01:00:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3646) Nem látunk tisztán.
-
-[01:00:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3646) Látok, láttunk már valamit, de nem látunk mindent.
-
-[01:00:51](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3651) Nem látjuk a mélységét annak a bűnnek, a bűnszintnek, amit a előző kormányzat tett.
-
-[01:00:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3658) Ha ezt tudjuk, avval el fogunk, azt be fogjuk mutatni benne magyar embereknek, hogy a 16 évük miről szólt minden szinten.
-
-[01:01:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3667) Ez egyik.
-
-[01:01:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3667) A másik, jóváétel.
-
-[01:01:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3670) Eztem aláhozni.
-
-[01:01:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3670) Jóétel minden szinten, erkölcsileg, morálisan, gazdaságilag, politikailag.
-
-[01:01:16](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3676) De az ország megyemli azt, hogy végre újlapot tudjon nyitni.
-
-[01:01:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3682) És ennek amikről beszéltünk ma a részesei ügynökakták, vagyon visszaszerzés, normális beszéd, jogállam, kisebbséget védelme, propaganda befejezése, hergelés befejezése, az emberek az embereknek a felnőttként tekintése arra, hogy az én idős rokonaim bekapcsolják például az M1-et, Ne úgy feküdjenek le, hogy nem tudjak alódni, mert attól félnek, hogy másnap atomháború lesz.
-
-[01:01:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3718) Komplex kezelés.
-
-[01:02:00](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3720) És ha ezt meg tudjuk csinálni, el tudjuk kezdeni, akkor hiszek abban, hogy azokkal az emberekkel, ahogy még egyszer mondtam, nem a Fidesz szavazókkal.
-
-[01:02:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3727) A fidel szavazókal senkinek semmi baja nincsen.
-
-[01:02:10](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3730) Sőt honfitársaink, szomszédaink, barátaink, egy a nemzet, azokkal, akik képviselték őket, és akik elkövették ezeket a bűnöket, vagy feltétek elkövet bűnöket, az egy másik kérdés.
-
-[01:02:22](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3742) De még egyszer mondom, ez nem az én dolgom lesz.
-
-[01:02:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3744) Megfőbb majd én feljelentést teszek, de nem én fogoket elítélni.
-
-[01:02:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3750) És ha ezzel túl vagyunk, ezzel megvagyunk, hosszú idő lesz, akkor lehet, hogy tudunk majd újra tényleg derűsen, közösen lenni ebbe a hazába.
-
-[01:02:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3758) Mindenki nekem ez a célom ezért szeretnék dolgozni köszönöm, hogy meghallgattam.
-
-[01:02:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3761) Minister úr bocsántak még nem kaptunk választja az Európa unió bíróságának döntés gondból amivel ugye gyermekvédelmi törvény most pár napja van most már bocsánat képviselőtársam legyen kedves bocsánat én válaszoltam rá megpróbáltam kedvesen válaszolni az önöknek a gyermekekkel kapcsolatos elköltett dolga szerintem ezt ne nyissuk tovább szerintem vá vádaskodás nem reagál képvisel szeretném rendre utasítan én azt gondolom hogy a miniszteri meghallgatás én azt gondolom hogy önöknek Az önöknek önöknek mit mondtam gyermekvédelemről vagy kérdezni gyermekek védelmével kapcsolatban egy sok-sok bocsánat kérdés után lenne majd akkor nem kérdezhetek a ministre meghall bocsánat válaszoltam válaszoltam a kérdés csak azt kö a miniszterak a válaszát köszönjük a meghallgatásnak ez a része lezárult most szavazás következik az országgyűlésről szóló törvény 44.
-
-[01:03:40](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3820) szakasz második bekezdése kimondja, hogy a bizottság nyílt szavazással dönt arról, hogy a miniszterjelöl támogatását rögzítje.
-
-[01:03:50](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3830) Erre a határozat hozatalra kerül most sor.
-
-[01:03:52](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3832) Kérdezem a bizottság tagjait, hogy ki az, aki támogatja dr.
-
-[01:03:57](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3837) Ruf Bálin György miniszterjelölt úrnak a miniszterelnökséget vezető, miniszter történő kinevezését kérem készfelemeléssel szavazzunk, aki támogatja.
-
-[01:04:09](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3849) Ki az, aki nem támogatja?
-
-[01:04:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3853) Köszönöm.
-
-[01:04:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3853) Tartózkodó szavazat pedig nincsen.
-
-[01:04:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3855) Azért megállapítom, hogy nyolc igen és három nem szavazattal tartózkodás nélkül a bizottság támogatja Dr.
-
-[01:04:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3864) Ruf Bálint György miniszterjel úrnak a miniszterelnökséget vezető miniszterré történő kinevezését.
-
-[01:04:29](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3869) A bizottságnak erről a döntéséről házelnökasszonyt tájékoztatni fogom.
-
-[01:04:34](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3874) Köszönöm miniszter úrnak a megjelenését.
-
-[01:04:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3877) válaszoljuk a türelmét.
-
-[01:04:39](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3879) Köszönöm szépen.
-
-[01:04:40](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3880) És sok sikert kívánok a munkájához.
-
-[01:04:40](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3880) Ezt a napirendű pontot lezárom.
-
-[01:04:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3884) Képviselőtársaim tájékoztatom, hogy a bizottság következő üléséről a plenáris időpontjától függően kerül sor, mely legkésőbb későbbieknak fogok információvalhoz szolgálni.
-
-[01:04:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3893) Az ülést verekesztem.
-
-[01:04:55](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3895) Köszönöm szépen nagyon.
-
-[01:04:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3896) Köszönöm szépen mindenkinek.
-
-[01:04:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3896) Jó munkát kívánok.
-
-[01:05:04](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3904) Bocsánat.
-
-[01:05:24](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3924) Biztos el fogom fel vagyok magam.
-
-[01:05:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=3936) Č Nem lősz meg h Gyerek.
-
-[01:06:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4001) Hát itt talán ilyen ösvények vannak.
-
-[01:06:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4004) utaz már csak ős jó vagyá figyelj te vedd hátulról sz ez egy keretes szerkez ez egy keretes szerkezetra megyünk és a pajzs előbbá nem álló köszönt Itt vagyok.
-
-[01:07:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4065) Sziasztok.
-
-[01:07:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4065) És akkor ha lehet, akkor bocsánat.
-
-[01:07:51](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4071) Öt kérdésre vagyok.
-
-[01:07:51](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4071) Jó, eleget beszéltem az elmúlt három év.
-
-[01:07:53](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4073) Most megyek dolgozni.
-
-[01:07:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4076) Miniszter úr azt mondta, hogy a lehető legkeményebb antikorrupciós szabályokat fogják hozni.
-
-[01:07:59](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4079) Mik lesznek ezek?
-
-[01:08:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4081) Lesz egy kest javaslatunk.
-
-[01:08:01](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4081) Hamaros be fogjuk mutatni.
-
-[01:08:05](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4085) péld pár példát mondanak.
-
-[01:08:07](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4087) Hát amit a bent hallgattunk, hogy mennyire jó a közbeszerzési szabályozás most ahhoz hozzá fog nyúlni a frakció.
-
-[01:08:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4093) Lesznek arra javaslatai, az integritási hatóságnak a jogköreit vissza fogjuk adni, amit eredetileg kértek.
-
-[01:08:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4097) Lesz egy vagy nyilatkozati jogkiterjesztés is, és még sok minden más is.
-
-[01:08:25](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4105) Vannak olyan fideszes miniszterek, akiknek van félnivalójuk most a vagyonátvizsgálás után, és lesznek-e esetleg Fidesz akták?
-
-[01:08:30](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4110) Ahogy mondtam, hogy tőlem senkinek semmilyen félnivalója nincsen, mert ez egy másik jogág, aki ezt fogja végezni.
-
-[01:08:34](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4114) Az én minisztriumban meg fog kezdődni az átvilágítás átvilágításnak az eredményét a lehető leggyorsabban megfőkel osztani.
-
-[01:08:42](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4122) Fog kommunikáció, amit ígértek, hogy fog kinézni ez a kommunikáció az, ami teljesen más, mint aki beszél.
-
-[01:08:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4126) Hát akkor nem én fogom tartani a kormányinfókat, hanem erre sokkal jobb és alkalmasabb emberek, akik szolgálni fogják a hazajukat, és azt fogják mutatni, hogy önöknek például válaszolni kell kérdésekre, és nem elrohanni, meg nem megalázni, meg kitiltani, meg karanténba rakni, meg olyan hangon beszélni, ahogyan beszéltek önökkel, egyszerűen csak válaszolni a kérdésekre a legjobb tudás szerint.
-
-[01:09:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4148) Ez a ez a cél.
-
-[01:09:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4152) I mivel lenne, bocsánat még még még válaszolok erre.
-
-[01:09:15](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4155) és betartani a törvényeket, és betartani azt, hogy jo van tudni az embereknek, hogy mi történik az országban.
-
-[01:09:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4161) Akkor is, ha jó, akkor is, ha rossz, akkor is, ha valakit kellemetlenül érint, jóuk van tudni.
-
-[01:09:25](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4165) És nem egy kormány nem a feladata, hogy elmondja, hogy mit lehet tudni és mit nem, hanem a kommnak szolgálni kell és meg kell mutatni azt, hogy mit ötk az országba.
-
-[01:09:35](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4175) Ezért lesz más.
-
-[01:09:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4176) A Bój jelentés mikor lesz nyilvános a lehető leg a lehető legkarabb.
-
-[01:09:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4181) De mondjuk idén egy hónapó idén szerintem annál sokkal rövidebb ideig a vó visszaszerzési hivatalt hogyan fogja segíteni a kormány sehogyan külön jogángak fog tartozni a parlament elé lesz rendelve alkotmányos kétharmaddal létrehozott szervezetnek az a feladata olyan intézmény legyen, amiben minden magyar ember meg tud majd bízni és az a feladata, ami nehéz dolog, hogy azt megmutassa, hogy a magyar államagyonával nem lehet visszaélni és mindennek egy idő után lesz következménye.
-
-[01:10:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4211) De még egyszer mondom, egy másik hatalmi ág azért, hogy még az árnyékosabb előtt üljen az rá, hogy valaki itt baszokés fog végezni.
-
-[01:10:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4220) Nem jóváétel, ahogy bent is mondtam.
-
-[01:10:23](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4223) És az a 20000 milliárd Ft, ami eltűnt a közös kaszából, annak egy részét remélem ez a hivatal visszafújtóbat szerezni.
-
-[01:10:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4231) Ennek itt mennyiségével mivel lenne elégedett, hogyha mikor lenne az első olyan közpénz forint, ami visszavándorol az államkasszában?
-
-[01:10:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4237) Azt mivel lennék én elégedett?
-
-[01:10:37](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4237) Ez egy másik kérdés.
-
-[01:10:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4238) A parlament fogja meghozni ezeket a döntéseket.
-
-[01:10:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4241) De mivel lenne elégedett?
-
-[01:10:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4241) Az egy magánkérdés, remélem minél gyorsabban.
-
-[01:10:44](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4244) De bocsánat, akkor a saját munkahon kéretésével kapcsolatban.
-
-[01:10:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4245) Tehát mit mondanám, hogy hol akar tartani egy év múlva és hol akar tartani a ciklus végére, illetve amikor elvállalta ezt a posztot, akkor mondott-e bármi olyat Magyar Péternánek, hogy mi az, amit hogyha megtesz a kormány, az ennek már nem fér vele?
-
-[01:10:58](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4258) Hogy hol szeretik tartani egy év múlva?
-
-[01:11:00](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4260) Szeretném, hogyha létrejönne a parlament által a vagyon visszaszerés és védelmi hivatal, és egy olyan hivatal lenne, ami már dolgozik, megbecsült szakemberek vezetik és az egész ország számára tud megjutatóan beszámolni arról, hogy az elmúlt 16 évben mi történt.
-
-[01:11:14](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4274) Ez egyik.
-
-[01:11:14](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4274) A másik, az uniós pénzek érkezzenek haza, és a gazdaság kezdene el működni, és az az alapfeltétel, hogy tudjunk jobban élni.
-
-[01:11:28](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4288) A harmadik, hogy ami amit mondtam bent is a rendszerváltásnak ezt a hazugságát, hogy nem lehet nyilvánosságra róni az ügyekaktákat, ezt a lehető leggyorsabban tegyük meg, és október 22-én a 70.
-
-[01:11:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4298) évforduló előtt egy nappal legyen az etikai és jogi kereteket betartval lehető legszélesebb nyilvánság.
-
-[01:11:49](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4309) Megtudhassuk azt, hogy mi történt velünk, a szüleinkkel, a nagyszüleinkkel.
-
-[01:11:54](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4314) Azt is szeretném, hogy felír olyan szervezet a magyar kormány, ami merőben másképp működik, mint az előző kormány, számonkérhető legyen, emberséges legyen, jogállami legyen, és elkezdjen működni a magyar emberek érdekében.
-
-[01:12:08](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4328) Azt szeretném, amikor eljönnek majd meghallgatni, hogy mit csinálunk, akkor minden kérdésükre legyen válasz.
-
-[01:12:13](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4333) Lehet, hogy nem azonnal, egy pár nap múlva, egy hét múlva, hogyha annyira bonyolult, de mindig legyen válasz.
-
-[01:12:19](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4339) És am önök is tudják dolgozni, a feladatokat csinálni, és mi is tudjuk dolgozni a feladatunkat, de a mi feladatunk az, hogy szolgáljunk.
-
-[01:12:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4347) És szerintem ez a szolgálat, ez egy nagyon fontos szó.
-
-[01:12:29](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4349) Aki a magyar államnak dolgozik, legyen az fegyveres testületben, miniszterként, vagy csak irodastként, szolgálatként fogja fel, amit itt töltett, hogy magyar embereknek segíthet boldogulásukba.
-
-[01:12:43](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4363) És a hatalom, mint olyan, az semmit nem ér.
-
-[01:12:46](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4366) A lényege az, hogy az ember tudjon jobbá, jobbá tenni, jobbá tenni a környezetét, jobbá tudja tenni az országát, lehessen jobban élni ebben az országba.
-
-[01:12:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4376) Ezekkel felegetlenné.
-
-[01:12:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4376) azt mondta, hogy fontos feladat kigyógyítani az embereket a háborús.
-
-[01:13:00](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4380) Nem már kérdezett még nem kérdezett, hogy ugye magyar Péter többször lemondásra szólította fel a köztársasági elnököt, ön említette itt Polt Pétert.
-
-[01:13:11](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4391) Hogyha ezek a Fidesz által kinevezett emberek maguktól nem mondanak le, akkor annak milyen eszközökkel tervezik őket eltávolítani?
-
-[01:13:17](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4397) Illetve mi indokol három kormányszóidőt?
-
-[01:13:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4401) Két kell közö különböző kérdés.
-
-[01:13:21](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4401) Az, hogy milyen eszközökkel ez a parlamentnek a dolga, törvény hozóhatalom.
-
-[01:13:27](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4407) Mind akkor három szóvött, mert rengeteg ügy van.
-
-[01:13:29](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4409) Köszönöm szépen mindenkinek, jó munkát.
-
-[01:13:31](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4411) Szervusztok.
-
-[01:13:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4418) Sziasztok.
-
-[01:13:38](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4418) Köszi.
-
-[01:13:41](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4421) Jó, jó, jó.
-
-[01:13:45](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4425) Ez volt Ruf Bálint miniszterelnökséget vezető miniszterjelölt meghallgatása, aminek egyrészt volt bulvárértéke is, ugyanis a Fidesz és a KDNP-s képviselőkkel egyfajta csörte alakult ki.
-
-[01:13:56](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4436) Bár a négy perces keretet túllépték, Ruf folyamatosan válaszolt az ő kérdéseikre, de konkrétumokat is megtudhattunk, például azt, hogy a vagyon visszaszerzési és védelmi hivatal nem közvetlenül hozzá fog tartozni, nehogy az állam és a vagyonvisszaszerzés összekapcsolódhasson.
-
-[01:14:12](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4452) Ők csupán vizsgálatokat fognak elindítani, amik alapján majd később a hivatal intézkedhet.
-
-[01:14:18](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4458) Köszi, hogy eddig velünk tartottatok.
-
-[01:14:20](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4460) Most egy kisebb szünet fog következni, aztán pedig este érkezünk a miniszterek beiktatásával.
-
-[01:14:25](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4465) Addig is nézzétek meg Katei Német Wilmossal készült élőadásunkat és Kármán Andrással készült leendő pénzügyminiszterrel készült élőadásunkat.
-
-[01:14:36](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4476) Sziasztok!
-
-[01:15:14](https://www.youtube.com/watch?v=6gRMgTxWzEQ&t=4514) เฮ
+[00:46:54](https://www.youtube.com/watch?v=wuAvIcKkrJE&t=2814) y
 
 </details>
