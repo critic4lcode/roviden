@@ -2,777 +2,767 @@
 date: '2026-05-19'
 title: Komment - HírTV
 description: ''
-video_id: lAxXPwElugA
-video_url: https://www.youtube.com/watch?v=lAxXPwElugA
+video_id: j_J_yqLeS7U
+video_url: https://www.youtube.com/watch?v=j_J_yqLeS7U
 channel_slug: hir-tv
 channel_name: Hír TV
 affiliation: fidesz-aligned
 direction: conservative
 notes: Mediaworks/KESMA kormánypárti hírTévé
-published_at: '2026-05-19T18:06:42+00:00'
-duration_sec: 2188
+published_at: '2026-05-19T05:56:18+00:00'
+duration_sec: 2120
 tags:
 - kegyelmi botrány
+- kormánykritika
+- társadalmi megosztottság
 - magyar péter
-- tisza párt
-- belpolitika
+- puzsér
 transcript_source: youtube_subtitle
 summary_model: deepseek/deepseek-v4-pro
 ---
 
 <!-- SECTION:TLDR -->
 
-- Magyar Péter nyilvánosságra hozta a kegyelmi ügy minisztériumi iratait, és Sulyok Tamást is felszólította a Sándor-palotai dokumentumok kiadására.
-- A dokumentumok nem tartalmaztak érdemi újdonságot, de megerősítették: Varga Judit nem javasolta K. Endre kegyelmét, és az elnöki hivatal időnyomást gyakorolt a pápalátogatás miatt.
-- Magyar Péter narratívája felmentette volt feleségét, azt sugallva, hogy Varga Juditot megvezették — ez a TISZA-szavazók körében kritikát váltott ki.
-- Novák Zoltán szerint a teljes tisztázáshoz parlamenti vizsgálóbizottságra van szükség, amely Novák Katalint is beidézheti a kegyelmi döntés indoklására.
-- Forgács István szerint a kampányban félrevezető volt a „pedofideszezés", mivel Varga Judit sem K. Endre, sem Budaházy György kegyelmét nem támogatta.
-- A köztársasági elnök választási módjáról megoszlottak a vélemények: Varga Etele a közvetlen választást támogatná, Novák Zoltán szerint ez nem oldaná meg a politikai megosztottságot.
-- A résztvevők egyetértettek, hogy nehéz mindkét oldal számára elfogadható elnököt találni; Novák Zoltán szerint a személyiségnek kell felnőnie a tisztséghez.
-- Ukrajna EU-csatlakozása kapcsán a TISZA álláspontja változott: a korábbi támogatás után Magyar Péter 11 feltételt szabott, és a gyorsított csatlakozás nem reális.
-- A híradó bejelentései szerint a 480 forintos benzinár nem valósul meg, és a TISZA költségvetési lyukak miatt nem tudja teljesíteni ígéretei nagy részét.
+- A kormány sajtótájékoztatóján bejelentették: a kegyelmi ügy aktáit másnap nyilvánosságra hozzák, de a költségvetési hiány csökkentéséről és a benzinárról nem esett szó.
+- Szentesi Zöldi László szerint a kormány múltfeltáró lendülete őszre kifullad, és a TISZA lesz az első, amely valódi kormányzást követel.
+- Magyar Péter a Karmelitában közölte Havasi Bertalannal, hogy nem kap felmentési pénzt, és távoznia kell; az esetet gúnyos szóváltás kísérte.
+- Halász Gábor „neo jakobinus túlmozgásnak" nevezte a miniszterelnök stílusát, és úgy vélte, segítségre van szüksége a poszthoz való felnövéshez.
+- Molnár Zsolt szerint a kegyelmi ügy iratainak nyilvánossága tisztázhatja a felelősöket, és elkerülhetővé teszi a kollektív felelősségre vonást.
+- Szentesi Zöldi László figyelmeztetett, hogy az iratok közzététele elterelő hadművelet is lehet, és a kormány koncokat dobál a valódi kormányzás helyett.
+- A Puzsér-vita kapcsán Halász Gábor szerint az irónia is gyűlöletet szíthat, és a társadalmi megosztottság tragikus véghez vezethet.
+- Lánci Rihard szerint Magyar Péternek nincs mérlegelési lehetősége Sulyok Tamás lemondatásában, mert a kampányban ezt ígérte.
+- Szentesi Zöldi László alkotmányossági aggályokat fogalmazott meg, mondván, a törvényes alap felrúgása politikai rendetlenséggel fenyeget.
+- A TISZA szavazótábora heterogén; Halász Gábor szerint a választók nem a gúnyolódó stílusra szavaztak, és a fideszes átpártolók könnyen kihátrálhatnak.
 
 <!-- SECTION:DETAILS -->
 
-## A kegyelmi ügy dokumentumainak nyilvánosságra hozatala
+## A kormány sajtótájékoztatójának bejelentései
 
-Magyar Péter miniszterelnök 2026. május 19-én sajtótájékoztatón hozta nyilvánosságra a kegyelmi ügy azon dokumentumait, amelyek az Igazságügyi Minisztériumban voltak elérhetők. Az iratokat feltöltötték a kormány.hu/igazságtétel oldalra. Magyar Péter egyúttal felszólította Sulyok Tamás köztársasági elnököt is, hogy a Sándor-palotában fellelhető dokumentumokat is bocsássa nyilvánosság elé. Sulyok Tamás a közösségi oldalán jelezte, hogy Magyar Péter rendelkezésére bocsátja ezeket az iratokat.
+A műsor kezdetén a műsorvezető, Futó Boglárka ismertette, hogy nem sokkal az adás előtt ért véget Magyar Péter miniszterelnök és két kormányszóvivő sajtótájékoztatója. A tájékoztatón több bejelentés is elhangzott:
 
-### A dokumentumok tartalma és újdonságértéke
+- A közigazgatási államtitkárok személye már ismert, bár a Magyar Közlöny legutóbbi száma május 16-án jelent meg, így a frissítés még nem történt meg – annak ellenére, hogy a miniszterelnök szerint már elérhető.
+- A kegyelmi ügy aktáit a holnapi nap folyamán nyilvánosságra hozzák. Magyar Péter úgy fogalmazott, hogy két akta létezik: az egyiket a kormány hozza nyilvánosságra, a másik a köztársasági elnökhöz tartozik, ezért arra kérte Sulyok Tamást, hogy ő is tegye meg ugyanezt.
+- A sajtótájékoztatón nem esett szó arról, hogyan tervezik csökkenteni a költségvetési hiányt, és arról sem, mikor jön a 480 forintos benzin.
 
-A beszélgetés résztvevői egyetértettek abban, hogy a dokumentumok alapvetően nem tartalmaztak olyan információkat, amelyekről korábban ne lehetett volna tudni. Novák Zoltán, a Méltányosság Politika Elemző Központ projektigazgatója szerint a legérdekesebb rész az volt, hogy Magyar Péter olyan narratívát épített fel, amelyben mintegy felmentette volt feleségét, Varga Judit volt igazságügyi minisztert.
+## A kormány múltfeltáró tevékenységének értékelése
 
-> „Tulajdonképpen egy olyan narratívát épített föl a sajtótájékoztatón belül, amiben volt felmentette a saját feleségét. Tehát gyakorlatilag adott egy olyan értelmezést az egésznek, hogy voltaképpen a volt igazságügy miniszter megvezette a saját minisztériuma. Tehát, hogy nem biztos, hogy tudta, hogy mit írt alá." – Novák Zoltán [*](https://www.youtube.com/watch?v=lAxXPwElugA&t=140)
+### A boszorkányüldözés időtávja
 
-Novák Zoltán hangsúlyozta, hogy az ügy teljes tisztázása csak akkor lehetséges, ha Novák Katalin volt köztársasági elnök a következő 10-20 évben nyilvánosan elmondja, miért döntött a kegyelem megadása mellett, és kinek a hatására.
+Szentesi Zöldi László újságíró úgy vélekedett, hogy Magyar Péter és az új kormány feltáró igyekezete „100%-os", hiszen eddig szinte kizárólag az előző kormány vélt vagy valós bűneiről lehetett hallani. Szerinte ez a fajta kormányzati szándék nagyjából őszre, legkésőbb év végére kifullad, és a TISZA lesz az első, amely kimondja: nem elegendő a boszorkányüldözés, valódi kormányzásra, törvényekre és szakpolitikai hozzáállásra van szükség.
 
-Varga Etele szociológus-közgazdász rámutatott, hogy a dokumentumokból kiderült: Varga Judit valóban nem javasolta a kegyelmet K. Endrének, ami eddig csak „városi legenda" volt. Emellett az is megerősítést nyert, hogy a köztársasági elnöki hivatal időnyomást helyezett a kegyelmi főosztályra, mivel a kegyelmeket a pápalátogatás előtt szerették volna elbírálni.
+> „Én úgy gondolom, hogy nagyjából ősszel, legkésőbbi év végére kifullad ez az igyekezet, és a tapasztalataim alapján úgy vélem, hogy a tiszva elsőként fogják azt mondani, hogy nem elegendő nekik a boszorkányüldözés." – Szentesi Zöldi László [*](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=145)
 
-Lajkó Fanni, az Alapjogokért Központ elemzője szerint ezek az információk már korábban is ismertek voltak sajtóértesülésekből és Magyar Péter 2024 májusi interjújából. A pápalátogatásra hivatkozás pedig Novák Katalin korábbi indoklásában is szerepelt.
+Lánci Rihard újságíró hozzátette, hogy még nagyon az elején vannak, és Orbán Viktor is azt mondta egy nagyinterjúban, hogy a kormányzás még el sem kezdődött. Szerinte jelenleg egy olyan „látványpolitizálás" zajlik, amely a választóknak szól – különösen annak a 3,3 millió embernek, aki úgy szavazott április 12-én, hogy az Orbán-kormánynak mennie kell.
 
-> „Én nem mondanám azt, hogy a nagyon újszerű dolgok lennének, inkább csak a korábbi talán homályosabb információkra erősítettek rá." – Lajkó Fanni [*](https://www.youtube.com/watch?v=lAxXPwElugA&t=366)
+### A Karmelita bemutatása és a Havasi-ügy
 
-### A TISZA-szavazók reakciója
+A szombati nap folyamán Magyar Péter személyesen mutatta be a sajtónak a Karmelita épületét és a miniszterelnöki kabinetiroda különböző részeit. Az eseményen megjelent Havasi Bertalan helyettes államtitkár is, és a tetőteraszon szóváltás alakult ki közte és a miniszterelnök között.
 
-Lajkó Fanni megjegyezte, hogy TISZA-párti körökben kritika érte Magyar Pétert, mert sokan úgy érzik, hogy a miniszterelnök a volt feleségét mentegeti. Ez megosztotta a szimpatizánsokat, annak ellenére, hogy a kegyelmi ügy részleteinek nyilvánosságra hozatala kampányígéret volt.
+A beszélgetés részletéből kiderült, hogy Magyar Péter közölte: Havasi Bertalan nem kap felmentési pénzt, és „lassan el kéne hagyni ezt az épületet". A miniszterelnök ironikusan megjegyezte azt is, hogy „menjenek Szabó Bálint mellett van még hely".
 
-### A vizsgálóbizottság kérdése
+> „A gatyánál fogva kilógathatsz... a felmentési pénzről levonhatod. – Nem lesz felmentési pénz. Nem hallottad? Találkozunk a bíróságon." – Magyar Péter és Havasi Bertalan szóváltása [*](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=338)
 
-A beszélgetés során felmerült, hogy parlamenti vizsgálóbizottság fog alakulni az ügy kivizsgálására. Novák Zoltán szerint ez fontos lépés, mivel a dokumentumok önmagukban nem adnak teljes képet. A vizsgálóbizottság akár Novák Katalint is beidézheti, és kényszerítheti a kegyelmi döntés indoklásának nyilvánosságra hozatalára, ami jelenleg nem kötelező.
+Az eset után a Magyar Közlönyben megjelent Magyar Péter aláírásával Havasi Bertalan azonnali hatályú felmentése, a miniszterelnöki kabinetirodát vezető miniszter javaslatára – noha ilyen miniszteri pozíció jelenleg nincs is.
 
-### A kegyelmi ügy politikai keretezése
+### A stílus megítélése
 
-Forgács István romaügyi szakértő hosszabban elemezte a kegyelmi ügy politikai kommunikációját. Szerinte a választási kampány során folyamatos „átkeretezés" történt, és több olyan állítás is megkérdőjeleződött, amelyek a kampány narratíváját adták.
+Halász Gábor, Kiskutas polgármestere „felfokozott neo jakobinus túlmozgásnak" nevezte a történteket, és úgy vélte, a ritmust már nem lehet tovább fokozni. Kifogásolta, hogy Magyar Péter minden mondatában ott van a gúnyolódás, és szerinte valakinek segítenie kellene neki „felnőni ahhoz a nagyon alátámasztott poszthoz".
 
-> „Kiderült, hogy a gödi gyár az nem mérgez meg emberek százreit egyébként egyik napról a másikra. Kiderül, hogy egyébként a kegyelmi ügyben, miközben pedofideszezés ment egyébként gyakorlatilag egy másfél éven keresztül ebben az országban, Vargudit felelősségét rángatta folyamatosan mindenki" – Forgács István [*](https://www.youtube.com/watch?v=lAxXPwElugA&t=541)
+> „Nem volt miért egyébként gúnyolódni. Ráadásul egy ilyen eseményen ilyen alantos vitába belebocsátkozni. Szóval tényleg valahogy valakit kellene találni, aki egy kicsit segít neki felnőni ahhoz a nagyon alátámasztott poszthoz." – Halász Gábor [*](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=540)
 
-Forgács kiemelte, hogy Varga Judit nemcsak K. Endre, hanem Budaházy György kegyelmi kérvényét sem támogatta, miközben a kampányban a Fideszt azzal vádolták, hogy „terroristákat és pedofileket ment fel". Szerinte Varga Judit tiszteletet érdemel, amiért végigcsinálta a kampányt anélkül, hogy kiállt volna saját magáért, noha nem ő volt a felelős a döntésért.
+Lánci Rihard szerint a tárlatvezetés a választóknak szól, és a kétharmadot biztosító szavazóréteg igényeit tökéletesen kielégíti. Ugyanakkor furcsának tartotta, hogy egy miniszterelnök helyettes államtitkárral szócsatába bocsátkozik.
 
-Novák Zoltán ugyanakkor felhívta a figyelmet arra, hogy Varga Juditnak lehetősége lett volna nem ellenjegyezni a kegyelmi döntést, ahogy azt Dávid Ibolya tette Göncz Árpád elnöksége idején. Ezért Varga Judit politikai felelőssége fennáll.
+Molnár Zsolt országgyűlési képviselő megjegyezte, hogy a 3,3 millió ember tudta, milyen habitusú vezetőre szavaz, hiszen a kampányban is látható volt ez a stílus. Szerinte a helyettes államtitkár, akinek a kommunikáció volt a feladata, számíthatott rá, hogy vele szemben másképp lépnek fel, mint egy környezetvédelemért felelős ügyosztály vezetőjével.
 
-### A leköszönő kormány felelőssége
+## A kegyelmi ügy nyilvánosságra hozatala
 
-A beszélgetésben elhangzott, hogy a leköszönő Fidesz-kormánynak másfél éve lett volna vizsgálatot indítani az ügyben, de ezt nem tette meg. Novák Zoltán szerint a politikai felelősséget a kormány nem vállalta, és nem igyekeztek felderíteni az ügy körülményeit.
+Molnár Zsolt fontosnak tartja a kegyelmi ügy teljes iratanyagának nyilvánosságra hozatalát, mert így tisztázódhat a rengeteg félreértés, legenda és „rossz ízű pletyka". Szerinte a Fidesz érdeke is az, hogy a köd eloszlassa az ügy körül, és ha vannak felelősök, azok derüljenek ki – így elkerülhető a kollektív felelősségre vonás.
 
-## A köztársasági elnök személye és választási módja
+> „Ha az iratokból az, hogy van felelőse, akkor nem egy kollektív felelős, hanem azok, akik ezt tették." – Molnár Zsolt [*](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=689)
 
-A beszélgetés második nagy témája a köztársasági elnök személye és a választás módja körül forgott, különös tekintettel arra, hogy Magyar Péter rendszeresen felszólítja Sulyok Tamást a lemondásra.
+Szentesi Zöldi László ugyanakkor arra figyelmeztetett, hogy a kegyelmi ügy nyilvánosságra hozatala is lehet egy elterelő politikai hadművelet része. Szerinte a kormány szakpolitikai válaszok és valódi kormányzás helyett „koncokat dobál oda a magyar közönségnek". Példaként hozta fel az állambiztonsági iratok közzétételének szándékát is, rámutatva, hogy Magyarországon nincsenek „ügynöklisták", csak olyan dokumentumok, amelyek állambiztonsági kapcsolatrendszereket írnak le.
 
-### Közvetlen vagy közvetett elnökválasztás?
+> „Azt a felelőtlenséget, azt a politikai felelőtlenséget, hogy ilyen típusú ügyekkel elkápráztatni az embereket a valódi kormányzás helyett, ennek higgyétek el, hogy nem négy éve, hanem négy hónapja sincs hátra." – Szentesi Zöldi László [*](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=942)
 
-Varga Etele a közvetlen köztársasági elnökválasztás híve, mert szerinte így csak hiteles személyt választana meg a nép. Novák Zoltán ezzel szemben úgy véli, hogy a közvetlen választás nem oldaná meg a problémát, mert az elnökjelöltek ugyanúgy politikai jelöltek lennének, és nem testesítenék meg a nemzet egységét. Álláspontja szerint közvetlen elnökválasztásra csak akkor van szükség, ha az elnöknek nagyobb jogosítványai vannak, mint például Lengyelországban.
+## A gyűlöletbeszéd és a társadalmi megosztottság
 
-Lajkó Fanni rámutatott, hogy a korábbi Fidesz-kétharmad idején megválasztott köztársasági elnököket mind „fideszesnek" bélyegezték, és ha most a TISZA kétharmados többséggel választana elnököt, ugyanez a logika alapján őt „TISZA-snak" lehetne nevezni.
+### A Puzsér-vita és az irónia határai
 
-### A korábbi köztársasági elnökök népszerűsége
+A műsorban lejátszottak egy részletet Puzsér Róberték adásából, amelyben a résztvevők arról beszéltek, hogy „azokat a mocskokat, azokat a rohadt szemétládákat, akik valaha bármilyen okból a Fideszre szavaztak, el nem takarítjuk az országból", és hogy ők „nem a nemzet részei". Lánci Rihard tisztázta, hogy ez egy TISZA-paródia volt, a tiszás kommentelők kifigurázása, amit Puzsér Róbert utólag meg is erősített azzal, hogy „irónia az ország, ahol az irónok élnek".
 
-Magyar Péter egy korábbi megszólalásában utalt arra, hogy a rendszerváltás utáni köztársasági elnökök – Göncz Árpád, Mádl Ferenc, Sólyom László – kiemelkedően népszerűek voltak, míg Sulyok Tamás népszerűsége 15-17% között mozog.
+Halász Gábor szerint azonban ez a „viccnek is aljas", és az ilyen tartalmak – különösen, ha kiragadják a szövegkörnyezetből – alkalmasak arra, hogy „visszafordíthatatlanra kormányozzák a gyűlöletet". Elmondta, hogy személyes ismeretségi körében is tapasztalja a megosztottságot: egy hat-nyolc éves gyereknek a szülei azért nem engedik találkozni a barátjával, mert azok a Fideszre szavaztak.
 
-> „Nem véletlen volt az, hogy Gönc Szárpád alatt, de még Ádul Ferenc alatt is és Solyom László alatt is a köztársasági elnök, a mindenkori köztársasági elnök, teljesen mindegy, hogy melyik oldalnak volt a jelöltje, a legnépszerűbb magyar politikus volt." – Magyar Péter (idézet a műsorban) [*](https://www.youtube.com/watch?v=lAxXPwElugA&t=1336)
+> „Idáig le lemegy, átitadódik a társadalom. Ennek tragikus vége lesz." – Halász Gábor [*](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1235)
 
-Forgács István szerint Göncz Árpád idején a társadalom kevésbé volt kihegyezve arra, hogy ki mit képvisel, bár elismerte, hogy a MIÉP-esek kifütyülték a Hősök terén. Novák Zoltán szerint a köztársasági elnök elsősorban intézmény, és nem a népszerűség, hanem a hozzáértés és a nemzetegyesítés a fontos.
+Szentesi Zöldi László szerint a politika egy szakma, és az ilyen „diákköri viccek" nem politika. Úgy vélte, a négy „fekete pólós srác" (Puzsérék) „értelmiségi locsifecsiben" próbálja kifejezni magát, ami nem mérhető a valódi politikai cselekvéshez.
 
-### Milyen elnököt lehet találni?
+Molnár Zsolt elismerte, hogy az iróniának és a fekete humornak helye van a 21. században, és a politikának is alkalmazkodnia kell a változó világhoz, de hangsúlyozta: határt kell szabni a gyűlöletnek. Történelmi párhuzamokra utalva (görögök, spanyolok, szovjet-oroszországi utódállamok, délszláv országok) figyelmeztetett, hogy a verbális és emocionális polgárháború is nagyon sokat árthat egy nemzetnek.
 
-A beszélgetés résztvevői egyetértettek abban, hogy nehéz olyan személyt találni, aki mindkét politikai tábor számára elfogadható. Novák Zoltán szerint olyan embert kell keresni, aki „egyformán osztja meg mind a két oldalt". Hozzátette, hogy a személyiségnek kell felnőnie a feladathoz, ahogy például Áder János esetében történt.
+> „Nem juthatunk el oda, hogy egy általános iskolás azért legyen bármilyen irányból kiközösítve, azért barátságok, családok züljenek szét, mert más politikai meggyőződés alapján gondolkodnak." – Molnár Zsolt [*](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1437)
 
-## Ukrajna európai uniós csatlakozása
+## A köztársasági elnök lemondatásának kérdése
 
-A harmadik fő téma Ukrajna EU-csatlakozása volt, amely júniusban újabb szakaszba léphet a csatlakozási tárgyalások megkezdésével.
+### A politikai nyomásgyakorlás
 
-### A TISZA álláspontjának változása
+Magyar Péter a sajtótájékoztatón ismét felszólította Sulyok Tamás köztársasági elnököt, hogy május 31-ig távozzon önként. A műsorvezető felvetette, hogy ez a fajta nyomásgyakorlás hogyan egyeztethető össze a választási éjszakán meghirdetett „árkok betemetésével" és a nemzeti egységgel.
 
-Lajkó Fanni emlékeztetett, hogy a Nemzet Hangja konzultáción a résztvevők 58,2%-a támogatta Ukrajna EU-csatlakozását, és a TISZA akkor azt ígérte, hogy a konzultáció eredménye a kormányprogram része lesz. Magyar Péter később ezt többször tagadta, és kettős kommunikációt folytatott. Jelenleg 11 feltételt szabott a csatlakozási tárgyalások megkezdéséhez, és ha ezek teljesülnek, nem zárkózik el a tárgyalások megkezdésétől.
+Lánci Rihard szerint a TISZA kampányának szerves része volt az ígéret, hogy a NER vezetőit – köztük elsőként a köztársasági elnököt – leváltják. Magyar Péternek nincs mérlegelési lehetősége, mert ha nem tartaná magát ehhez az ígérethez, súlyos hitelvesztést szenvedne el.
 
-### A csatlakozás realitása
+> „Szerintem itt valójában neki sincsen mérlegelési lehető." – Lánci Rihard [*](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1836)
 
-Novák Zoltán szerint a gyorsított csatlakozás nem reális, és nincs olyan felgyorsított tárgyalási menetrend, amellyel Ukrajna 2027 végéig csatlakozhatna. Az uniós vezetők nyilatkozatait a „remény ajtajának nyitvahagyásaként" értékelte.
+### Jogi és alkotmányossági aggályok
 
-> „Ez az uniós vezetők részéről a remény ajtajának nyitvahagyása. Itt van egy nemzet, amelyik honvédőháborút vív. Számukra az uniós csatlakozás egy távlati cél, de nagyon fontos, hogy ez a távlati cél ez ott pislákoljon előttük" – Novák Zoltán [*](https://www.youtube.com/watch?v=lAxXPwElugA&t=2080)
+Szentesi Zöldi László hangsúlyozta, hogy Sulyok Tamás törvényesen, a parlament által megválasztott államfő, és az, hogy valaki „neres természetű elnöknek" nevezi, már politikai minősítés. Szerinte Magyar Péter ellenségképet épít, hasonlóan a lengyelországi helyzethez, ahol a kormány és az elnök viaskodik. Úgy vélte, az elnök elmozdítása még alkotmánymódosítással is olyan belpolitikai vihart eredményezne, ami hosszú távon nem kedvez a kormánynak, mert a magyar emberek – pártállástól függetlenül – konzervatívok a törvényesség kérdésében.
 
-### A TISZA-szavazók megosztottsága
+> „A kiegyezéstől egészen 1948-on keresztül 1990-ig, ha nem a törvényes alapon állt a magyar alkotmányosság, akkor a politikai rendetlenség mindig azzal fenyegette az országot, hogy elmerülünk." – Szentesi Zöldi László [*](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1702)
 
-Forgács István úgy vélte, hogy a TISZA-szavazók többségét nem érdekli mélyen Ukrajna kérdése, és a kampányban a téma elsősorban a Fidesz-ellenes pozicionálást szolgálta. Szerinte a választás után ez a kérdés veszített jelentőségéből, és várhatóan „finom visszakozás" következik a TISZA részéről.
+Molnár Zsolt megjegyezte, hogy ha Pokol Béla alkotmányjogásznak igaza van, és a köztársasági elnök személye sérthetetlen, akkor a lemondásra való felhívás alkotmányellenes – és ezt éppen a miniszterelnök követi el. Ugyanakkor elismerte, hogy ha az Országgyűlés kétharmaddal módosítja az alaptörvényt, a jogi helyzet megváltozik.
 
-> „Ha Orbán azt mondta, hogy Ukrajnát nem szeretjük, akkor a tiszások azt mondják, hogy Ukrajnát szeretjük. Megérkezik a választás, nyer a Tisza. Most már nem annyira fontos Ukrajna egyébként a tisztás oldalnak. Ez a 3,3 millió ember magasról nem érdekli, hogy egyébként mi történik Ukrajnával." – Forgács István [*](https://www.youtube.com/watch?v=lAxXPwElugA&t=1944)
+Halász Gábor szerint a TISZA kampányának leghangsúlyosabb része volt a NER vezetőinek leváltása, és Magyar Péter a győzelmi beszédében is azt mondta, hogy mindenkinek távoznia kell, aki az elmúlt 16 évben a rendszer tartóoszlopa vagy kiszolgálója volt. A polgármester ugyanakkor aggasztónak tartja az „állandó fenyegetést" és a „lincshangulat gyártását", és példaként említette, hogy zalai polgármestereket is lemondásra szólítanak fel minden ok nélkül.
 
-## A híradó bejelentései
+## A kormányzás kilátásai és a választói bázis törékenysége
 
-A műsor végén a híradó kollégája ismertette az esti híradó témáit:
-- A kegyelmi ügy iratainak nyilvánosságra hozatala, amelyből nem derült ki érdemi újdonság
-- Költségvetési lyukak – Panyi Miklós országgyűlési képviselő szerint a TISZA nem lesz képes megvalósítani ígéretei nagy részét
-- A 480 forintos benzinár nem valósul meg, Magyar Péter a magas olajárra hivatkozva nem teljesíti kampányígéretét
+A beszélgetés során többször előkerült, hogy a TISZA szavazótábora rendkívül heterogén: négy-öt különböző ideológiai iskolából és pártszimpátiából érkeztek. Szentesi Zöldi László szerint a 3,3 millió szavazó döntő többsége azt szeretné, hogy előbb-utóbb érdemi politika és kormányzás legyen, ne pedig a múlt ügyeinek felemlegetése.
+
+Molnár Zsolt türelemre intett, mondván, hogy a kormány alig alakult meg, és ha most „törvénygyárat üzemeltetne", az lenne a probléma, hogy elhamarkodottan hoz törvényeket. Szerint a szokásos 100 napos türelmi időt meg kell adni, és év végére kell látszania az érdemi politikai vívmányoknak.
+
+Halász Gábor ugyanakkor úgy vélte, hogy a 3,3 millió ember alapvetően arra szavazott, hogy megdöntsék Orbán Viktort – „fúrófejnek használták" Magyar Pétert. Szerinte a választók nem a „gúnyolódó, arrogáns, kekeckedő, pöffeszkedő stílusra" szavaztak, és ez nem lesz elég hosszú távon. Különösen az 5-600 ezer fideszes átpártoló esetében tart attól, hogy ha a számukra érzékeny szimbolikus és valóságos kérdésekben a TISZA nem megfelelően lép fel, gyorsan kihátrálnak a párt mögül.
+
+Lánci Rihard megjegyezte, hogy a miniszterelnök nagyinterjújában 5-6000 milliárd forintnyi ígéret hangzott el, ami ekkora lyukat ütne a költségvetésen, hogy lehetetlen megvalósítani. Szerinte szeptembertől elkerülhetetlenek lesznek a valódi kormányzati lépések, amelyekkel szembe kell néznie a 3,3 millió szavazónak.
 
 <!-- SECTION:UNCERTAIN -->
 
-- Az átiratban több helyen előforduló „Slyok Tamás" / „Sujak Tamás" / „Sullyok Tamás" alakok: a kontextus alapján Sulyok Tamás köztársasági elnökről van szó, az ASR következetlenül ismerte fel a nevet.
-- „Varga Telezociológus közgazdász" – a kontextusból Varga Etele szociológus-közgazdászra következtethetünk.
-- „Répási Róbert" – feltehetően Répássy Róbert volt igazságügyi államtitkár.
-- „Rubovski Rita" – valószínűleg egy oktatási miniszterjelölt neve, de pontos alakja nem azonosítható egyértelműen.
-- „Kendre" / „K. André" / „KNr" – a kontextus alapján K. Endre, a kegyelmi ügy érintettje.
-- „Budaházi" – a kontextus alapján Budaházy György.
-- „Mártakosz" – feltehetően Valdis Dombrovskis vagy más uniós biztos nevének torzult alakja, de nem azonosítható egyértelműen.
-- „Gönc Szárpád" / „Gönycárpád" / „Göncerpád" – Göncz Árpád.
-- „Ádul Ferenc" / „Márd Ferenc" – Mádl Ferenc.
-- „Sólyek" – Sólyom László.
-- „Dávid Dávid Ibolya Gönc Árpád" – Dávid Ibolya és Göncz Árpád.
-- „Smit Pál" – Schmitt Pál.
-- „mi az miánkosok" – valószínűleg a Mi Hazánk képviselői.
-- „jus előlti státusz" – tagjelölti státusz.
-- „pedofideszezés" – a Fidesz pedofilügyekkel való összemosására utaló kampánykifejezés.
-- „diszkálréna" – a kontextus alapján „diszkrecionális" (mérlegelési jogkör).
-- „Sándor palotában elérhetők" – Sándor-palota, a köztársasági elnök hivatala.
-- „Alapjókért Központ" – Alapjogokért Központ.
-- „méltányosság politika elemző központ" – Méltányosság Politika Elemző Központ.
-- A műsor végén szereplő „เฮ" karakter értelmezhetetlen, valószínűleg ASR hiba vagy kódolási maradvány.
+- „a turániátok lehullott rólunk" – a Puzsér-részletben elhangzó mondat, amelynek pontos jelentése és kontextusa az átirat alapján nem rekonstruálható egyértelműen.
+- „a négy fekete póló srác egy diákköri foglalkozáson elkezd ironizálni az ironokkal" – Szentesi Zöldi László megjegyzése, amelyben az „ironok" kifejezés valószínűleg Puzsér Róbert „irónia országa" kifejezésére utal vissza, de a pontos összefüggés nem teljesen világos.
+- „a korunk Bibó Istványa" – egy ironikus megjegyzés a Havasi-jelenetben, amelynek célpontja nem azonosítható egyértelműen.
+- „Szabó Bálint mellett van még hely" – Magyar Péter megjegyzése Havasi Bertalannak, ahol Szabó Bálint személye és a kontextus nem világos.
+- „megleszá meglesz" – a Havasi-jelenetben elhangzó töredék, amelynek jelentése nem rekonstruálható.
 
 ## Átirat
 
 <details>
 <summary>Teljes átirat megjelenítése</summary>
 
-[00:00:00](https://www.youtube.com/watch?v=lAxXPwElugA&t=0) Nincs itt semmi látnivaló.
+[00:00:00](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=0) Ez azonban nem derült ki, hogy a költségvetési hiányt hogyan tervezik csökkenteni, valamint arról sem esett szó, mikor jön a 480 Ft-os benzin.
 
-[00:00:00](https://www.youtube.com/watch?v=lAxXPwElugA&t=0) Nem derült ki semmilyen újdonságg a kegyelmi ügyben.
+[00:00:05](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=5) Azt azonban bejelentette, holnap nyilvánosságra hozzák a kegyelmi ügy részleteit.
 
-[00:00:05](https://www.youtube.com/watch?v=lAxXPwElugA&t=5) Magyar Péter beígért nagy leleplezésekor.
+[00:00:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=12) Témánk mára is van bőven.
 
-[00:00:08](https://www.youtube.com/watch?v=lAxXPwElugA&t=8) Aztán rohamtempó.
+[00:00:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=14) Vendégeim már a stúdióban.
 
-[00:00:08](https://www.youtube.com/watch?v=lAxXPwElugA&t=8) Júniusban megkezdődhetnek a csatlakozási tárgyalások az Unió és Ukrajna között.
+[00:00:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=14) Azonnal kezdünk.
 
-[00:00:14](https://www.youtube.com/watch?v=lAxXPwElugA&t=14) Témánk mára is van bőven.
+[00:00:23](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=23) [zene] Jó estét kívánok.
 
-[00:00:14](https://www.youtube.com/watch?v=lAxXPwElugA&t=14) Vendégeim már a stúdióban.
+[00:00:28](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=28) Köszöntöm önöket.
 
-[00:00:16](https://www.youtube.com/watch?v=lAxXPwElugA&t=16) Azonnal kezdünk.
+[00:00:28](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=28) Ez itt a komment hétfőn a Hír TV-n.
 
-[00:00:28](https://www.youtube.com/watch?v=lAxXPwElugA&t=28) Jó estét kívánok.
+[00:00:29](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=29) Én futó Boglárka vagyok.
 
-[00:00:28](https://www.youtube.com/watch?v=lAxXPwElugA&t=28) Köszöntöm önöket.
+[00:00:32](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=32) A stúdióban pedig vendégeim Lánci Rihard újságíró.
 
-[00:00:28](https://www.youtube.com/watch?v=lAxXPwElugA&t=28) Én Futó Boglárka vagyok.
+[00:00:36](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=36) Üdvözlöm a nézőket.
 
-[00:00:30](https://www.youtube.com/watch?v=lAxXPwElugA&t=30) Ez pedig itt a komment kedd este a Hírtvén.
+[00:00:37](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=37) Halász Gábor Kiskutas polgármestere.
 
-[00:00:32](https://www.youtube.com/watch?v=lAxXPwElugA&t=32) A stúdióban pedig vendégeim Lajkó Fanni az Alapjókért Központ elemzője.
+[00:00:39](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=39) Jó estét kívánok.
 
-[00:00:39](https://www.youtube.com/watch?v=lAxXPwElugA&t=39) Jó estét kívánok!
+[00:00:40](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=40) Molnár Zsolt Wort országgyűlési képviselő és Szentesi Zöldi László újságíró.
 
-[00:00:39](https://www.youtube.com/watch?v=lAxXPwElugA&t=39) Novák Zoltán a méltányosság politika elemző központ projektigazgatója.
+[00:00:45](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=45) Jó estét kívánok.
 
-[00:00:43](https://www.youtube.com/watch?v=lAxXPwElugA&t=43) Jó estét!
+[00:00:45](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=45) Szervusztok.
 
-[00:00:44](https://www.youtube.com/watch?v=lAxXPwElugA&t=44) Forgácsi István roma ügyi szakértő.
+[00:00:45](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=45) Jó estét kívánok nektek én is és ezúton is köszönöm szépen, hogy elfogadtátok a meghívásunkat és itt vagytok velünk.
 
-[00:00:46](https://www.youtube.com/watch?v=lAxXPwElugA&t=46) Jó estét kíván!
+[00:00:51](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=51) És hát ezekben a percekben, egy pár perccel ezelőtt ért véget a sajtótájékoztató a kormány döntéseiről, amelyet ugye Magyar Péter miniszterelnök és két kormányszóvivő tartott.
 
-[00:00:47](https://www.youtube.com/watch?v=lAxXPwElugA&t=47) És Varga Telezociológus közgazdász.
+[00:01:02](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=62) Ezen bejelentették, hogy már ismertek a közigazgatási államtitkárok.
 
-[00:00:49](https://www.youtube.com/watch?v=lAxXPwElugA&t=49) Szeretettel köszöntök mindenkit.
+[00:01:07](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=67) Magyar Péter azt javasolta a Hírtvének, hogy frissítsék a magyar közlönnyt.
 
-[00:00:51](https://www.youtube.com/watch?v=lAxXPwElugA&t=51) Szervusztok!
+[00:01:09](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=69) Ezt megtettük.
 
-[00:00:51](https://www.youtube.com/watch?v=lAxXPwElugA&t=51) Én is köszöntelek benneteket, és ezúton is köszönöm szépen, hogy itt vagytok ma velünk, és elfogadtátok a meghívásunkat, és engedjétek meg, hogy Fandit pedig elsőként köszöntsem itt, aki bár ugyan a Hírtv nézőinek ismerős lehet, de a kommentben itt nálunk először szerepel.
+[00:01:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=72) Egyébként nem elérhető még.
 
-[00:01:06](https://www.youtube.com/watch?v=lAxXPwElugA&t=66) Első témánk pedig nem más, mint az, hogy ugye Magyar Péter tegnap tartott egy sajtótájékoztatót, amelyen közölte, hogy nyilvánosságra hozzák a kegyelmi ügy részleteit a mai nap folyamán.
+[00:01:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=72) A legutóbbi magyar közlőy az május 16-án jelent meg.
 
-[00:01:15](https://www.youtube.com/watch?v=lAxXPwElugA&t=75) Ez meg is történt, és ismét egy sajtótájékoztató keretein belül nyilvánosságra hozták azokat a dokumentumokat, amelyek ugye az igazságügyi minisztériumban voltak elérhetők, és azt már a tegnapi nap folyamán bejelentette, hogy ugyanerre kéri Slyok Tamás köztársasági elnököt is, hogy azokat a dokumentumokat is bocsátsa a nyilvánosság elé, amelyek pedig ugye a Sándor palotában fellelhetők.
+[00:01:17](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=77) Úgyhogy bár a miniszterelnök szerint elérhető, ez még nem történt meg, valamint bejelentette azt is, hogy nyilvánosságra hozzák a kegyelmi ügy aktáit, mégpedig a holnapi nap folyamán.
 
-[00:01:37](https://www.youtube.com/watch?v=lAxXPwElugA&t=97) Na még mielőtt itt belemennénk egyébként a Súlyok Tamás és Magyar Péter közötti konfliktusba, hangulatba, vitába, nézzük meg, hogy mi hangzott el azon a sajtótájékoztatón.
+[00:01:30](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=90) Úgy fogalmazott a miniszterelnök, hogy két akta van.
 
-[00:01:48](https://www.youtube.com/watch?v=lAxXPwElugA&t=108) Ugye ismertette ezeket a dokumentumokat, és ezeket fel is töltötték a kormány.hu/igazságtétel oldalra.
+[00:01:31](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=91) Az egyik ugye, amelyet ők nyilvánosságra tudnak hozni, a másik azonban ugye a köztársasági elnökhöz tartozik.
 
-[00:01:55](https://www.youtube.com/watch?v=lAxXPwElugA&t=115) Na hát így első pillantásra, Zoli, láttad-e esetleg ezeket a dokumentumokat?
+[00:01:38](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=98) Így arra kérte Súlyok Tamást, hogy ugyanezt tegye meg a holnapi nap folyamán.
 
-[00:02:00](https://www.youtube.com/watch?v=lAxXPwElugA&t=120) Neked volt-e benne bármi újdonság?
+[00:01:43](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=103) Laci elsőként vagy itt nálunk, úgyhogy engedd meg, hogy elsőként hagyjam meg a szót.
 
-[00:02:02](https://www.youtube.com/watch?v=lAxXPwElugA&t=122) Én a sajtótájékoztatót néztem végig, nem kutogattam a dokumentumokban.
+[00:01:46](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=106) Mit gondolsz erről a bejelentésről?
 
-[00:02:09](https://www.youtube.com/watch?v=lAxXPwElugA&t=129) Számomra az volt a legérdekesebb része, hogy tulajdonképpen egy olyan narratívát épített föl a a sajtótájékoztatón belül, amiben volt felmentette a saját feleségét.
+[00:01:50](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=110) Úgy érzékelem, hogy Magyar Péter és az új kormány feltáró igyekezete 100%-os.
 
-[00:02:20](https://www.youtube.com/watch?v=lAxXPwElugA&t=140) Tehát gyakorlatilag adott egy olyan értelmezést az egésznek, hogy voltaképpen a volt igazságügy miniszter megvezette a saját minisztériuma.
+[00:01:56](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=116) Tehát eddig voltaképpen, ha belegondoltok, semmilyen más ügyről nem hallhattunk, csak az előző kormány vélt vagy valós bűneiről.
 
-[00:02:30](https://www.youtube.com/watch?v=lAxXPwElugA&t=150) Tehát, hogy nem biztos, hogy tudta, hogy mit írt alá.
+[00:02:01](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=121) Tehát ezek az általat felsorolt tények, jól illeszkednek ebbe a kormányzati szándékba.
 
-[00:02:34](https://www.youtube.com/watch?v=lAxXPwElugA&t=154) Nekem ez volt benne a legérdekesebb rész.
+[00:02:06](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=126) A magab részéről arra vagyok kíváncsi, hogy hány hónapig, tehát nem évig, hány hónapig tarthat az az igyekezet, amelyek amellyel igyekeznek feltáni olyan ügyeket, amelyek vagy jelentősek, vagy kevésbé jelentősek, de legalábbis politikai értelemben elvihetőek olyan jogi fórumokra, ahol elmarasztalásra számíthatnak.
 
-[00:02:36](https://www.youtube.com/watch?v=lAxXPwElugA&t=156) Ö és továbbra is patog a labda, mert nem tudunk még minden részletet.
+[00:02:25](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=145) Én úgy gondolom, hogy nagyjából ősszel, legkésőbbi év végére kifullad ez az igyekezet, és a tapasztalataim alapján úgy vélem, hogy a tiszva elsőként fogják azt mondani, hogy nem elegendő nekik a boszorkányüldözés.
 
-[00:02:42](https://www.youtube.com/watch?v=lAxXPwElugA&t=162) És egyébként benne van az egész sztoriban az, hogy soha nem fogunk teljesen tisztább látni.
+[00:02:40](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=160) Töbre van szükség valódi kormányzásra, valódi törvényekre, valódi szakpolitikai hozzáállásra.
 
-[00:02:47](https://www.youtube.com/watch?v=lAxXPwElugA&t=167) Én szerintem ebben a az ügyben valaha csak Novák Katalin fog tudni rendet vágni, ha ő egyszer valamikor a következő 10-20 évben kiáll, vagy megírja, hogy miért döntött így, ő minek a hatására döntött így, kinek a hatására döntött így, akkor fogjuk ezt megtudni.
+[00:02:46](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=166) Ebben a tekintetben tehát nem meglepő, ami történt.
 
-[00:03:11](https://www.youtube.com/watch?v=lAxXPwElugA&t=191) Ezekben a dokumentumokban szerintem ezt nem fogjuk megtalálni.
+[00:02:51](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=171) Hónapokig még ezt fogjuk hallgatni, de valamikor azt hiszem, hogy kifulladnak.
 
-[00:03:14](https://www.youtube.com/watch?v=lAxXPwElugA&t=194) De akkor nem derült ki semmi olyan, amiről eddig ne tudtunk volna szerinted?
+[00:02:57](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=177) Ricsi, te egyetértesz Lacival, hogy ez ki fog fulladni?
 
-[00:03:18](https://www.youtube.com/watch?v=lAxXPwElugA&t=198) Hát a az mindenképpen egy új értelmezés.
+[00:03:00](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=180) Nagyon az elején vagyunk még.
 
-[00:03:22](https://www.youtube.com/watch?v=lAxXPwElugA&t=202) Egyrészt megtudtuk azt, hogy Varga valóban nem javaslattal küldte föl ezt a dolgot.
+[00:03:00](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=180) Orbán Viktor azt mondta nagy interjúban, hogy a kormányzás még nem kezdődt el, tehát hogy hogy azt majd akkor tudjuk értékelni, amikor ténylegesen most jelen esetben valóban egy olyan győzelem, két győzelmi után látható még további ez a látványpolitizálás történik, ami arról szól, hát ez ugyanaz, amikor tehát nem tudom Janukovicsot, Sauseskut satöbbi, most nem összevetve Orbán Viktorral ugye leváltották, akkor mindenhol megmutatták, hogy itt itt itt nyaralt, itt élt itt végezte a a hogy is hívják ott a a hivatali idejét.
 
-[00:03:28](https://www.youtube.com/watch?v=lAxXPwElugA&t=208) Ez eddig városi legenda volt.
+[00:03:34](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=214) Tehát most jel ha már szóba hoztad, mennyire tartod egyébként ízlésesnek azokat a tárlatvezetéseket, amiket Magyar Péter végzett a Karmelitában?
 
-[00:03:31](https://www.youtube.com/watch?v=lAxXPwElugA&t=211) Szerintem ez fontos, ezt eddig nem tudtuk.
+[00:03:44](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=224) Nem tudom, tárlatvezetésből ízlés dolgában nem vagyok annyira erős, tehát a muzeológia szakot soha nem végeztem el.
 
-[00:03:35](https://www.youtube.com/watch?v=lAxXPwElugA&t=215) És ennek kapcsán kaptunk egy olyan értelmezést magától a miniszterelnöktől, hogy a a volt igazságügyminiszter, az exneje, az könnyen lehet, hogy nem is tudta adott esetben, hogy mit ír alá.
+[00:03:50](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=230) Igaziból ez a választóknak szól.
 
-[00:03:47](https://www.youtube.com/watch?v=lAxXPwElugA&t=227) Tehát egyáltalán nem biztos, hogy ez egy tehát hogy könnyen lehet, hogy megvezették őt a saját minisztériumából.
+[00:03:52](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=232) kétharmada a választóknak, bocsánat, nem kétharmada, 3,3 millió ember úgy szavazott április 12-én, hogy a Orbán kormánynak mennie kell.
 
-[00:03:55](https://www.youtube.com/watch?v=lAxXPwElugA&t=235) Ez még ez azért egy érdekesség.
+[00:04:00](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=240) Jelen esetben ők kíváncsiak arra, hogy mire költötték a pénzüket, és arra is, hogy hogyan mutatja be ezt Magyar Péter.
 
-[00:03:55](https://www.youtube.com/watch?v=lAxXPwElugA&t=235) Én szerintem ez ad egy ad egy e nyilván Magyar Péter keretezése.
+[00:04:06](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=246) Úgyhogy jelen esetben a szavazóknak szól, az ő szavazóinak szól ez a fajta tárlatvezetés.
 
-[00:04:00](https://www.youtube.com/watch?v=lAxXPwElugA&t=240) Ez nem a dokumentumokból derül ki.
+[00:04:11](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=251) Érdekesnek érdekes, hogy én újságérő szemmel ebben mit látok.
 
-[00:04:00](https://www.youtube.com/watch?v=lAxXPwElugA&t=240) Ez nyilván Magyar Péter keretezése, amiről szó keretezése, de ott hozott fel rá, hogy mondjam, bizonyító erejű részleteket kronologikusan és tehát, hogy volt egy ilyen értelmezése és indoklása is volt hozzá.
+[00:04:15](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=255) Vannak érdekes események.
 
-[00:04:16](https://www.youtube.com/watch?v=lAxXPwElugA&t=256) Ezt ezt speciál egyébként lehet, hogy ki tudjuk deríteni, sőt e tekintetben lehet, hogy még Varga is meg fog szólni.
+[00:04:15](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=255) Ez a gatyával fogva fellógatás az érdekes volt egyébként a tetőteraszon.
 
-[00:04:22](https://www.youtube.com/watch?v=lAxXPwElugA&t=262) Az érdekes az, hogy van benne újdonság, amit nem tudunk.
+[00:04:19](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=259) És szerintem az nem egy miniszterelnöki hatáskör, hogy egy helyettes államtitkárral egy ilyen szócsatát vívjon.
 
-[00:04:25](https://www.youtube.com/watch?v=lAxXPwElugA&t=265) Tehát én ezt végigbogaráztam mind a hat oldalt és vagy mind a hat dokumentumot, bocsánat.
+[00:04:26](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=266) Azt én szerintem én azt az ilyen furcsa dolognak tartottam.
 
-[00:04:32](https://www.youtube.com/watch?v=lAxXPwElugA&t=272) És itt azért több dolog is előkerült egyfelől, amit már te is említettél, miszerint Varga Judics, sőt maga az államtitkár a Répási Róbert sem javasolta K.
+[00:04:30](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=270) Szerintem az nem Magyar Péter hatásköre, hogy egy helyettes államtitkár legyen az Havasi Bertalan egyébként egy ilyen egy ilyen kólás doboz gatyánál fellogatva satöbbi szócsatál menjen le.
 
-[00:04:41](https://www.youtube.com/watch?v=lAxXPwElugA&t=281) Andrét kegyelemre.
+[00:04:39](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=279) Az nekem fura volt, de egyébként a látható a nézettségből és a belpolitikai események követéséből, hogy ez még jelenleg a kéthadot biztosító szavazórétegnek tökéletesen az igényeit kielégíti.
 
-[00:04:41](https://www.youtube.com/watch?v=lAxXPwElugA&t=281) A másik pedig az időnyomás, amit ugye a köztársasági elnöki hivatal helyezett a kegyelmi főosztályra, ugyanis a kegyelmeket el szerették volna a pápa érkezése előtt bírálni.
+[00:04:53](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=293) Ha már Ricsi szóba hozta, akkor valóban érdemes arról is beszélni, ami a szombati nap folyamán történt.
 
-[00:04:54](https://www.youtube.com/watch?v=lAxXPwElugA&t=294) Nyilvánvaló, hogy ezek most itt technikai részletek, tehát az ügy politikai súlyát nem ezek a dolgok fogják elsősorban meghatározni.
+[00:04:56](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=296) Ugye Magyar Péter bemutatta már egy élő videóban a múlt hét folyamán a karmelitát, valamint a ezeket az épületeket.
 
-[00:05:05](https://www.youtube.com/watch?v=lAxXPwElugA&t=305) Ez teljesen világos.
+[00:05:04](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=304) viszont a szombati nap folyamán ezt megmutatták a sajtónak is, és Magyar Péter ekkor is vállalta a túravezető szerepet, és személyesen mutatta meg a különböző részeit ugye a miniszterelnöki kabinetirodának, és hát valóban itt megjelent Havasi Bertalan és a tetőn kialakult egy kis szóváltás köztük, ahogy erre utaltál.
 
-[00:05:05](https://www.youtube.com/watch?v=lAxXPwElugA&t=305) Oké.
+[00:05:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=322) Úgyhogy még mielőtt itt megadnám a reagálás lehetőségét, nézzünk bele ebbe a beszélgetésbe, és akkor ezzel fogjuk folytatni.
 
-[00:05:05](https://www.youtube.com/watch?v=lAxXPwElugA&t=305) Ezzel együtt azért nagyon várom azt, hogy a Sándor Palota, hogyha kiadja az őféle dokumentációt, ami ott található a köztársasági elnöki hivatalnál, ki ezt ugye Slyok Tamás bejelentette a közösségi oldalán, hogy ugye Magyar Péter rendelkezésére bocsájtja ezeket a dokumentumokat és átadja azt, ami a Sándor Palotában elérhető.
+[00:05:31](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=331) Na még itt van egy a korunk Bibó Istványa még tartja a frontot.
 
-[00:05:25](https://www.youtube.com/watch?v=lAxXPwElugA&t=325) Fanni, neked volt benne valami újdonság?
+[00:05:35](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=335) Szervusz.
 
-[00:05:28](https://www.youtube.com/watch?v=lAxXPwElugA&t=328) Hát nem volt benne jóság, mert valóban itt konkrétan Varga Juditól nem hangzott az el, hogy ő nem javasolta a kegyelmet megadni K.
+[00:05:35](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=335) Szervusz szervusz.
 
-[00:05:37](https://www.youtube.com/watch?v=lAxXPwElugA&t=337) Andrének, viszont már akkor voltak sajtóértesülések erről belső körökből, illetve maga Magyar Péter is elmondta 2024 májusában egy interjúban, hogy őnek is arról van tudomása, hogy Varga Judit nem javasolta kegyelmet megadni KNR-nek.
+[00:05:37](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=337) Szervusz.
 
-[00:05:51](https://www.youtube.com/watch?v=lAxXPwElugA&t=351) Ez az időbeli dolog is igazából talán erre is azt mondanám, hogy most került ez megerősítésre, de akkor is már tudtuk, hogy milyen okból adták meg abban az időintervalumban ezt a kegyelmet, és az nyilván a pápol látogatásnak az oka volt.
+[00:05:38](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=338) A gatyánál fogva kilógathatsz a nagyobb lenne nagyobb lenne a látvány még doboző átadás át nem lesz meg nem hogy azt a fizet végkiel nem végkiegítés.
 
-[00:06:02](https://www.youtube.com/watch?v=lAxXPwElugA&t=362) Ugye ez később Novák Katona is azzal indokolt, hogy a pápa látogatás miatt.
+[00:05:50](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=350) Bocsánat a a felmentési pénzől levonhatod.
 
-[00:06:06](https://www.youtube.com/watch?v=lAxXPwElugA&t=366) Tehát én nem mondanám azt, hogy a nagyon újszerű dolgok lennének, inkább csak a korábbi talán homályosabb információkra erősítettek rá.
+[00:05:55](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=355) Nem lesz felmentési pénz.
 
-[00:06:13](https://www.youtube.com/watch?v=lAxXPwElugA&t=373) Én azt gondolom, hogy ezt is már sokan tényként kezelték, hogy Vargóit nem nem javasolta, illetve, hogy a pápa látogatások miatt volt ez a sürgetés.
+[00:05:55](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=355) Nem hallottad?
 
-[00:06:22](https://www.youtube.com/watch?v=lAxXPwElugA&t=382) De valóban én is azt látom egyébként akár több Tiszás körben, hogy ők most azt érzik, hogy Magyar Péter a volt feleségét mentegeti.
+[00:05:58](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=358) Találkozunk a bíróságon.
 
-[00:06:30](https://www.youtube.com/watch?v=lAxXPwElugA&t=390) Tehát sokak számára még akár úgy tűnik a Tiszás körökben nekem a különböző kommenteket olvasva, hogy nekik nem szimpatikus az, hogy most Magyar Péter ezzel az üggyel előállt.
+[00:05:58](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=358) Így van.
 
-[00:06:40](https://www.youtube.com/watch?v=lAxXPwElugA&t=400) Ez most nyilván nekik egy ilyen politikai kommunikációs kérdés, de azt látom, hogy kritika éri Magyar Pétert egyébként a saját szavazó bázisában emiatt.
+[00:05:58](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=358) a kollégáidnak azért ennél kicsit megleszá meglesz köszönjük szépen gyerünk gyere jobb aki kitalálja hogy minisztériumi épületben munkahelyen ahol kormánytisztelőknek a személy köszönjük szépen ilyesmi oda betengedett a a fidesz megújulását láthattuk köszönjük szépen [nevetés] köszönöm lassan egyébként el kéne hagyni ezt az épületet menjenek Szabó Bálint mellett van még hely kedves havasi javtas Hú, felmentési pénz, na az nem lesz, mondta Magyar Péter, valamint azt is, hogy lassan el kéne hagyni ezt az épületet.
 
-[00:06:49](https://www.youtube.com/watch?v=lAxXPwElugA&t=409) pedig ugye ez egy ígérete volt a kampányban, hogy a kegyelmi ügy részleteit nyilvánosságra hozzák.
+[00:06:38](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=398) Ugye a most látott képsorok azok a szombati nap folyamán történtek valamikor a késő délelőtti kor, a délutáni órákban.
 
-[00:06:54](https://www.youtube.com/watch?v=lAxXPwElugA&t=414) István, hát ez most megtörtént az ígéret.
+[00:06:45](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=405) És hát este meg is érkezett a válasz erre a Csetepatéra, és hát megjelent a magyar közlönyben.
 
-[00:06:57](https://www.youtube.com/watch?v=lAxXPwElugA&t=417) Igen, csak ugye csak ugye a fogalmazott úgy, hogy a saját szimpatizánsai réte saját szimpatizánsait is megosztotta, hogy most a kegyelmi üggyel foglalkozik.
+[00:06:50](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=410) Az alábbi az igazság, az igazgatásról szóló törvénypontja alapján a miniszterelnöki kabinetirodát vezető miniszter javaslatára, Dr.
 
-[00:07:05](https://www.youtube.com/watch?v=lAxXPwElugA&t=425) De hát ez egy várható lépés volt, hiszen a kampányban megígérte.
+[00:06:59](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=419) Havasi Bertalant, a miniszterelnöki kabinetiroda helyettes államtitkárát azonnali hatállyal felmentem.
 
-[00:07:08](https://www.youtube.com/watch?v=lAxXPwElugA&t=428) Tudomás, bocsi Bogi.
+[00:07:06](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=426) És Magyar Péter aláírása.
 
-[00:07:08](https://www.youtube.com/watch?v=lAxXPwElugA&t=428) Tudomásom szerint vanni ugye jogász.
+[00:07:10](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=430) Gábor, mit gondolsz az esetről?
 
-[00:07:10](https://www.youtube.com/watch?v=lAxXPwElugA&t=430) Igen, stimmt.
+[00:07:10](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=430) Hát mennyire jogszerű ez egyébként, vagy vagy mire lehet ebből következtetni?
 
-[00:07:11](https://www.youtube.com/watch?v=lAxXPwElugA&t=431) Szóval, hogyha most itt lesz vizsgálóbizottság, márpedig lesz parlamenti vizsgálóbizottsága ennek az ügynek, és ez megint csak ténykérdés, akkor azért azt kijelenthetjük-e, hogy azért mégis csak új dolog, hogy hivatalos dokumentáció került elő, és nem pedig csak egy olyan elhesegetendő dolog.
+[00:07:16](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=436) Nem vagyok jogász.
 
-[00:07:30](https://www.youtube.com/watch?v=lAxXPwElugA&t=450) Hát hivatalos dokumentáció került ki, de alapvetően az a kérdés, hogy a tény tények, az információk újszerűek-e, azokra azt mondhatjuk, hogy nem.
+[00:07:16](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=436) Én csak annyit látok, hogy ez egy felfokozott neo jakobinus túlmozgás és a ritmusa már szerintem nem tudom, hogy hova lehet ezt még följebb csavarni.
 
-[00:07:35](https://www.youtube.com/watch?v=lAxXPwElugA&t=455) Egy vizsgáló bizottság tudna-e dokumentáció nélkül dolgozni?
+[00:07:32](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=452) Tehát ez szombaton történt és most hétfő van.
 
-[00:07:40](https://www.youtube.com/watch?v=lAxXPwElugA&t=460) Hát ugye itt arra van szükség valóban, hogy meghallgassuk a feleket és ahogy itt Zoli is helyesen elmondta, itt igazából Novák Katolina azok egyedül tud erre választ adni, és az ő válaszára van szükség, de ugye alapvetően nem nyilvános az, hogy miért adott az indokolása, hogy miért adott kegyelmet valakinek.
+[00:07:36](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=456) És egy bejelentés már arról szól, hogy holnap megnyitja a az aktáit a a kegyelmi ügynek, és minden őrületbe van egy kicsi jó.
 
-[00:07:54](https://www.youtube.com/watch?v=lAxXPwElugA&t=474) Ez nem nyilvános, de természetesen egy vizsgálóbizottság akár erre is kényszített, hogy mégis tegye nyilvánosság elé.
+[00:07:46](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=466) Itt már ő azt használja, Magyar Péter a miniszterelnök, hogy azt ajánlja a köztársasági elnöknek, hogy ő is tegye meg ezeket a lépéseket és nyissa meg az aktákat.
 
-[00:07:59](https://www.youtube.com/watch?v=lAxXPwElugA&t=479) Itt is több szál felmerül, több név.
+[00:08:01](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=481) Nemrég még ott tartottunk talán egy-két hete, hogy mire utasítja, lemondásra utasítja többszört már a választási észak, ami egy ünnepség [torokköszörülés] volt számára.
 
-[00:08:03](https://www.youtube.com/watch?v=lAxXPwElugA&t=483) Hát, hogyha ez a vizsgálóbizottság feláll és valóban megjelenik mondjuk akár Novák Katalin, ha egyáltalán őt szeretnék beidézni, akkor itt viszont maradjunk kicsit annál, amit most itt Fanni említett, hogy ugye az indoklás az nem nyilvános, nem kell ugye megadni azt, hogy pontosan miért kapott kegyelmet.
+[00:08:11](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=491) Annyit engedj meg nekem, hogy ezt megjegyezzem, hogy ez egyébként a mai nap folyamán is megtörtént.
 
-[00:08:18](https://www.youtube.com/watch?v=lAxXPwElugA&t=498) Ugye Magyar Péter bejelentette azt is ezen a reggeli sajtótájékoztatón, hogy ez például neki nem szimpatikus, és ő ezt megváltoztatná, tehát indoklást kérne a kegyelmi ügyek nyomán.
+[00:08:15](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=495) Tehát ugyanezen a sajtótájékoztatón elhangzott Magyar Pétertől az, hogy Súlyak Tamás távozzon május 31-ig, amíg még ezt megteheti önként.
 
-[00:08:27](https://www.youtube.com/watch?v=lAxXPwElugA&t=507) István, erről például mit gondolsz?
+[00:08:23](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=503) Úgyhogy ez a mai napor félig meddig, de az, hogy elhangzott az, hogy a mi valamit ajánl, ez már egy negédes gesztus tőle.
 
-[00:08:29](https://www.youtube.com/watch?v=lAxXPwElugA&t=509) Hát nyilván a transzparencia fontos, ezt az emberek szívesen hallgatják, de én hadd lépjek vissza egy egy felet.
+[00:08:32](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=512) És az tűnt még fel ebben a teraszos vagy erkély jelenetben, hogy Havasi Bertalanna nem bírja ki miniszterelnök úr, hogy minden egyes mondatában vagy minden egyes szövegblokban egy kicsi gúnyolódás ne lenne.
 
-[00:08:36](https://www.youtube.com/watch?v=lAxXPwElugA&t=516) Itt elhangzott, el gyakran elhangzik ebben a műsorban, meg általában véve tényleg egy végtelen kampánynak a részei vagyunk, hogy mi a keretezés.
+[00:08:49](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=529) Nem volt miért egyébként gúnyolódni.
 
-[00:08:45](https://www.youtube.com/watch?v=lAxXPwElugA&t=525) Hát kérem szépen, ha itt most tényleg visszagondolunk, visszamegyünk a dolgok legelejére, akkor itt folyamatosan a választás óta az történik, hogy kisebb és nagyobb megvezetések révén történt az, ami történt, legalábbis a keretezés meg a kommunikáció tekintetében.
+[00:08:54](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=534) Ráadásul egy ilyen eseményen ilyen alantos vitába belebocsátkozni.
 
-[00:09:01](https://www.youtube.com/watch?v=lAxXPwElugA&t=541) Kiderült, hogy a gödi gyár az nem mérgez meg emberek százreit egyébként egyik napról a másikra.
+[00:09:00](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=540) Szóval tényleg valahogy valakit kellene találni, aki egy kicsit segít neki felnőni ahhoz a nagyon alátámasztott poszthoz.
 
-[00:09:06](https://www.youtube.com/watch?v=lAxXPwElugA&t=546) Kiderül, hogy egyébként a kegyelmi ügyben, miközben pedofideszezés ment egyébként gyakorlatilag egy másfél éven keresztül ebben az országban, Vargudit felelősségét rángatta folyamatosan mindenki, tehát az egésznek a keretezése megadta gyakorlatilag az egész kampánynak a narratíváját.
+[00:09:09](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=549) Azért ez egy bő kétharmad.
 
-[00:09:24](https://www.youtube.com/watch?v=lAxXPwElugA&t=564) És nekem legalábbis úgy tűnik, hogy egyre több dologról derül ki, hogy az, ami hangosan üvöltve, feketével aláhúzva volt a kampányban, folyamatosan beletolva az emberek arcába, arról folyamatosan kiderül, hogy hát az nem is úgy van, nem is úgy volt, nem is annyi volt, nem is ott volt, nem is annyiszor volt.
+[00:09:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=552) Ehhez fel kéne valahogy nőni.
 
-[00:09:42](https://www.youtube.com/watch?v=lAxXPwElugA&t=582) Nem tudom, értitek-e, mit amit mondok.
+[00:09:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=552) Ezeket bírni kell.
 
-[00:09:44](https://www.youtube.com/watch?v=lAxXPwElugA&t=584) És ez az ügy nekem ugyanez ilyen tekintetben, hogy olyan nagyon nagy varázslat nem történt.
+[00:09:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=554) Nem szabad.
 
-[00:09:51](https://www.youtube.com/watch?v=lAxXPwElugA&t=591) Sőt, és innentől a Varga Judit felé azt gondolom, hogy nagyon sok mindenkinek a tisztelete meg kell, hogy járjon, végigcsinálni úgy egy kampányt, hogy egyébként ő nem írta alá, nem támogatta ezt a felterjesztést, de folyamatosan ő lett elővéve, akár esetleg a saját pártja környékén is, hogy ő volt ezért, elnézést a hibáztatható, és ő nem szólalt meg ebben az ügyben.
+[00:09:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=554) Ezekre nem lehet így reagálni szerintem.
 
-[00:10:14](https://www.youtube.com/watch?v=lAxXPwElugA&t=614) nem állt ki saját magáért.
+[00:09:19](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=559) Na, vessünk egy pillantást itt a közlönyben megjelent javaslattevő miniszter személyére is.
 
-[00:10:17](https://www.youtube.com/watch?v=lAxXPwElugA&t=617) Nem tudom, értitek-e, mit mondok.
+[00:09:23](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=563) Ugyanis ez a miniszterelnöki kabinetirodát vezető miniszter.
 
-[00:10:17](https://www.youtube.com/watch?v=lAxXPwElugA&t=617) Tehát hogy ezt elbírni végigcsinálni, miközben egy teljes politikai közösség van pedofideszezésbe beolva.
+[00:09:28](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=568) Ilyen azonban nincs, és vélhetően nem Rogánantal kezdeményezte ugye Magyar Péternél havasi Bertalan eltávolítását.
 
-[00:10:23](https://www.youtube.com/watch?v=lAxXPwElugA&t=623) De pont ez volt, amit Magyar Péter a legelső interjújában szóvá tett, és amit most is keletez gyakorlatilag, hogy nők szoknyája mögé bújik Orbán Viktor.
+[00:09:35](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=575) Zsolt, mennyire férnek bele ezek az anomáliák?
 
-[00:10:34](https://www.youtube.com/watch?v=lAxXPwElugA&t=634) Miközben továbbra sem tudjuk nyilván, hogy miért kapott kegyelmet Kendre.
+[00:09:37](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=577) Nem akarom túl jogászkodni, de valószínűleg van valamilyen jogfolytonossága ennek a minisztériumnak, és annak is lehet már egy felelőse.
 
-[00:10:38](https://www.youtube.com/watch?v=lAxXPwElugA&t=638) Nyilván ezt egy olyan köztársasági elnök adta, aki 1000ers szállal köthető volt az akkori hatalomhoz.
+[00:09:46](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=586) Tehát nagy valószínűség szerint az a minisztérium, akinek a jobbfolytonosság alapján átvette a feladatokét egy új minisztérium, arra gondolhatott ez a magyar közlőyben megjelent.
 
-[00:10:42](https://www.youtube.com/watch?v=lAxXPwElugA&t=642) De ezt most tegyük félre.
+[00:09:58](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=598) De ez csak jogászként okoskodók, tehát semmilyen biztos információm nincs.
 
-[00:10:44](https://www.youtube.com/watch?v=lAxXPwElugA&t=644) Ettől függetlenül Varga Juditnak, és bizonyos értelemben nyilván lehet sajnálni vagy nem sajnálni, ezt mindenki döntse el maga, én ezt a lehetőséget meghagyom, de volt rá lehetősége, hogy ellenjegyezze, vagy ne ellenjegyezze.
+[00:10:01](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=601) Viszont két dolgot érdemes megjegyezni.
 
-[00:10:59](https://www.youtube.com/watch?v=lAxXPwElugA&t=659) Dávid Dávid Ibolya Gönc Árpád kegyelmi döntését nem ellenjegyezte az 1990-es években.
+[00:10:03](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=603) Az egyik erről Ricsi beszélt, hogy 3,3 millió ember nagyjából erre a habitusra szavazott.
 
-[00:11:05](https://www.youtube.com/watch?v=lAxXPwElugA&t=665) Ezt Varga Judit is megtehette volna, ezért ő vállalta a politikai felelősséget, noha nem neki kellett volna csak vállalni a egy másod.
+[00:10:10](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=610) Tehát azt gondolom erre vagy inkább mondjuk azt, hogy tudta azt, hogy ilyen habitusú lesz a miniszterelnök, hiszen ha megnéztük a kampányt, vagy ti erről tudnátok támadni, bocsás meg, de azért a kampányban voltak olyan balliberális véleményvezérek, akik többször fogalmaztak úgy, hogy most magyar Péterre kell szavazni, de igaz, orbefogva.
 
-[00:11:12](https://www.youtube.com/watch?v=lAxXPwElugA&t=672) Itt egyébként nem csak KNről van szó, hanem egyébként Budaházinak a kegyelmi kérvényét sem támogatta Varga Judit.
+[00:10:27](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=627) Ez többször hangzott el.
 
-[00:11:19](https://www.youtube.com/watch?v=lAxXPwElugA&t=679) És ez ugyanúgy a keretezés része volt, hogy a Fidesz terroristákat ment fel egyébként, pedofileket ment fel egyébként, miközben kiderül, hogy ezért a dologért az orbáni rendszerben, tehát az Orbán adminisztrációban leginkább felelő személy egyiket sem támogatta.
+[00:10:29](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=629) kétségtelen.
 
-[00:11:37](https://www.youtube.com/watch?v=lAxXPwElugA&t=697) Tehát mondom, nekem a legfőbb tanulság ebben a dologban egyrészt az, hogy nyilván derüljön ki ezekből a dokumentumokból valóban, hogy ki miért hogyan szerette volna ezt a dolgot.
+[00:10:29](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=629) Ezzel együtt tudni lehetett, hogy ő alapvetően egy ilyen habitusú vezető.
 
-[00:11:44](https://www.youtube.com/watch?v=lAxXPwElugA&t=704) De az, hogy a Novák Katalin nem, tehát Novák Katalint nem Orbán Viktor nevezte volna ki, és hogyha nem lett volna része a korábbi Fidesz adminisztrációnak.
+[00:10:33](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=633) Ez a jelenet, ez nem a legszerencsésebb.
 
-[00:11:54](https://www.youtube.com/watch?v=lAxXPwElugA&t=714) Tehát, hogy Zoli, annyit engedjél meg nekem, ne haragudj, Zoli, annyit engedjél meg nekem, ezt most még a laikus néző is tudja, és ezzel senkit nem bántok meg, hogy a köztársasági elnöki tisztség meg egyébként egy kormányzati munka, az legalábbis elméletben két különböző dolog.
+[00:10:36](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=636) Bár hozzáteszem az a helyettes államtitkár, akinek a kormányszóvivő meg a kommunikáció körül volt fontos feladata, annak azért számíthatott rá, hogy mondjuk az nem úgy történik, mint egy másik helyettes államtitkár, aki mondjuk a környezetvédelemért felelős ügyosztálynak vezethette.
 
-[00:12:08](https://www.youtube.com/watch?v=lAxXPwElugA&t=728) Úgyhogy ezért engedd meg még egyszer azt, hogy Orbánnak a saját kormányában az ezért a dologért leginkább felelős igazságügy miniszter nem támogatta annak a két embernek a kegyelmi kérvényét, akiknek a kegyelmi kérvénye után egyébként a kampány teljes mértékig ez az eleme ráégető volt a Fideszre.
+[00:10:53](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=653) Tehát azért azt gondolom itt azért nem csak a miniszterelnök provokálta ki ezt a helyzetet.
 
-[00:12:27](https://www.youtube.com/watch?v=lAxXPwElugA&t=747) Terroristákat ment fel, illetve pedofidesz, azaz itt egy több milliós közösség volt beletolva erőbel oda, hogy egyébként pedofil bűncselekményekkel érte egyet.
+[00:10:59](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=659) Viszont olyan nagyon érdekes dolog a kegyelmi ügy nyilvánosságra hozatala.
 
-[00:12:36](https://www.youtube.com/watch?v=lAxXPwElugA&t=756) Tehát innen nézve mondom azt, hogy át van keretezve ez a dolog erősen.
+[00:11:03](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=663) Én azt gondolom, hogyha ez a teljes iratanyagot tartalmazni fogja, akkor végre tisztázódhat az a rengeteg félreértés, legenda, rossz ízű plegyka, amilyek körül van.
 
-[00:12:39](https://www.youtube.com/watch?v=lAxXPwElugA&t=759) És innen nézve, és ez egyébként rengeteg ilyen dolog fog még előjönni, mindenről ki fog derülni, hogy nem is úgy volt, nem is annyi volt, teljesen mindegy.
+[00:11:18](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=678) Tehát hozzáteszem, legkevésbé aggódom a Fideszért, de azért talán az ő érdekük is az, hogy hogy az a borzasztó sok köd, ami körülötte van ennek az ügynek, hogy ez tisztázódjon, hogy egyrészt van-e ennek valós felelőse.
 
-[00:12:48](https://www.youtube.com/watch?v=lAxXPwElugA&t=768) Az emberek döntöttek.
+[00:11:29](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=689) Ha az iratokból az, hogy van felelőse, akkor nem egy kollektív felelős, hanem azok, akik ezt tették.
 
-[00:12:50](https://www.youtube.com/watch?v=lAxXPwElugA&t=770) Az, ami bele lett tolva az emberek arcába, az az én megítélésem szerint messze nem úgy volt, ahogyan azt egyébként ez a keretezés megadta annak ide.
+[00:11:35](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=695) Ha az illatokból az derül ki, hogy az ennél az összetettebb kérdés, akkor meg egy más helyzet van.
 
-[00:13:00](https://www.youtube.com/watch?v=lAxXPwElugA&t=780) Egy év 10 hónapja volt minimum a leköszönő kormánynak, hogy vizsgálatot rendeljen el az ügyben, hogy kiderítse, miért kapott kegyelmet KNre, hogy hogy történhetett ez a hiba.
+[00:11:39](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=699) Szerintem a legrosszabb ez a ez a köd, amiek az ügy körül van.
 
-[00:13:12](https://www.youtube.com/watch?v=lAxXPwElugA&t=792) Bocsás meg, Etele, ez most kiderült.
+[00:11:43](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=703) Én bízom benne, hogy hogy akkor ki fog derülni az, amiről egyébként nem tudom, jó ideje a magyar közélet beszél.
 
-[00:13:16](https://www.youtube.com/watch?v=lAxXPwElugA&t=796) Ezért áll föl a vizsgálóbizottság.
+[00:11:49](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=709) Harmadik bocsánat és befé mi lesz ennek a vége?
 
-[00:13:19](https://www.youtube.com/watch?v=lAxXPwElugA&t=799) És az ki fogja tudni deríteni?
+[00:11:53](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=713) Na ez erre akartam, hogy hogy szerintem lesz egy pillanat, hiszen itt arról volt úgy is szólt a kérdés, hogy meddig tartható fönn ez, hogy a múlt ügyeivel foglalkoznak.
 
-[00:13:21](https://www.youtube.com/watch?v=lAxXPwElugA&t=801) Ezt nem nekem kell tudnom, hanem azoknak, akik a vizsgálóbizottságot összerakják.
+[00:12:00](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=720) Erre jelenleg van igény, de azt gondolom, hogy a 3,3 millió itt bátor leszek.
 
-[00:13:25](https://www.youtube.com/watch?v=lAxXPwElugA&t=805) Én azt mondom, hogy ha valaki a politikai felelősséget nem vállalja az ügy ki nem vállalta ebben az ügyben a politikai felelősséget?
+[00:12:06](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=726) A döntő többség azért azt szeretné, hogy előbb-utóbb érdemi politika, érdemi kormányzás legyen, és ne merüljön ki a múlt ügyeinek fejhántolgatásában.
 
-[00:13:32](https://www.youtube.com/watch?v=lAxXPwElugA&t=812) A magyar kormány annyiban nem vállalta ebben az ügyben a politikai felelősséget.
+[00:12:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=734) Hozzáteszem, azért annyiban legyünk türelmesek, hogy alig alakult meg a kormány.
 
-[00:13:38](https://www.youtube.com/watch?v=lAxXPwElugA&t=818) Nem igyekeztek földíteni.
+[00:12:18](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=738) Tehát ha most a kormány törvénygyárat üzemeltetne, akkor az lenne a probléma, hogy elhamarkodottan hoz törvényeket.
 
-[00:13:38](https://www.youtube.com/watch?v=lAxXPwElugA&t=818) Nem igyekeztek földíteni.
+[00:12:23](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=743) Hogyha nem elég gyors, akkor meg az a probléma.
 
-[00:13:41](https://www.youtube.com/watch?v=lAxXPwElugA&t=821) Nem igyekeztek földeríteni ez a köztársági elnöknek a diskálrénak a része.
+[00:12:27](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=747) adjunk egy pár hónapot, szokták mondani ezt a 100 nap türelmi időt.
 
-[00:13:46](https://www.youtube.com/watch?v=lAxXPwElugA&t=826) Tehát a köztársasági elnök az, aki eldönti, hogy ad-e kegyelmet vagy nem.
+[00:12:29](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=749) Az év végére látszani kell annak, hogy túl a múlt egyébként részben jogos felhánytorgatásán kívül mik azok az érdemű politikai vívmányok, amiért érdemes ott kormány?
 
-[00:13:49](https://www.youtube.com/watch?v=lAxXPwElugA&t=829) És utána a politikai felelősség valóban azért, aki azt aláírja.
+[00:12:40](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=760) Igen, de szerintem az államügyeknek van és mindig is volt nem nyilvános része.
 
-[00:13:51](https://www.youtube.com/watch?v=lAxXPwElugA&t=831) És ez nem az a kérdés, hogy most nők szoknyája búj mögé bújt bárki is.
+[00:12:44](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=764) Én arra utaltam egyébként a a Zsolt, bocsánat, hogy belevágtam, hogy mi lesz ennek a vége, hogy az lesz ennek a vége, hogyha népi oldalról vagy politikusi oldalról akkora nyomás van, akkor az lesz a vége, hogy már nyomozati anyagokba is bele fogunk tekinteni, és már azt fogják követelni, mi lesz ennek tehát, hogy hogy hova fogunk így kijukadni.
 
-[00:13:55](https://www.youtube.com/watch?v=lAxXPwElugA&t=835) Hát egy férfi lett volna az igazságügyi miniszter, neki is ugyanúgy felelősséget kellett volna vállani, mert az aki aláírja a kormány részéről ellenjegyzi a kegyelmi döntést, ő vállalja a politikai felelősséget.
+[00:13:05](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=785) A másik az, hogy a 3,3 millió ember szerintem arra szavazott, hogy megdöntsék Orbán Viktort.
 
-[00:14:08](https://www.youtube.com/watch?v=lAxXPwElugA&t=848) Illetve az, aki még aláírta, Novák Katerin szintén vállalta.
+[00:13:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=792) Ez sikerült, nem is akárhogy.
 
-[00:14:12](https://www.youtube.com/watch?v=lAxXPwElugA&t=852) és az, hogy ő megadta ezt a kegyelmet vagy sem, ez az ő döntése.
+[00:13:15](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=795) Tehát fúrófejnek használták.
 
-[00:14:13](https://www.youtube.com/watch?v=lAxXPwElugA&t=853) És ezt nem kötelez indokolni, és a jogszabályok szólnak így.
+[00:13:15](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=795) Immár harmadik vagy negyedik próbálkozásra most sikerült.
 
-[00:14:17](https://www.youtube.com/watch?v=lAxXPwElugA&t=857) Tehát ha most itt mindenki jogállamiságot kiállt a tisztelás oldalon, és akkor ezt vegyük figyelembe, hogy neki nem volt kötelessége ezt megindokolni és ezt most tízszerben tartot az akkor de nem érdemelte volna meg a magyar társadalom azt, hogy indoklást kapjon egy ilyen skandálum után arra, hogy miért kapott kegyelmet egy pedofil segítő.
+[00:13:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=802) De nyert.
 
-[00:14:33](https://www.youtube.com/watch?v=lAxXPwElugA&t=873) nem érdemelte volna meg itt ugye ebben áll a politikai felelőssége a Fidesznek úgy úgy mérlegelte, hogy hát szerintük akkor nem érdemli meg szerintem az is egy fontos dolog, hogy egyrészt van két keretezése ennek a sztorinak, az egyik oldalon azt mondják, hogy ugye itt a a két nő vállalta a felelősséget, lemondott, kész, nincs mit, nincs mit erről beszélni.
+[00:13:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=802) Ő lett a miniszterelnök.
 
-[00:14:51](https://www.youtube.com/watch?v=lAxXPwElugA&t=891) Most az ellenzéki oldal az azért úgy állt ehhez hozzá, hogy hogy egyrészt ezzel a történet nincs befejezve, tehát ez neki ne ez neki nem elég.
+[00:13:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=802) Én nem gondolom, hogy erre a gúnyolódó, arogáns, kekeckedő pöffezkedő stílusra szavazott volna 3,3 millió ember.
 
-[00:15:00](https://www.youtube.com/watch?v=lAxXPwElugA&t=900) akarja tudni, hogy miért volt egyrészt.
+[00:13:36](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=816) Ez nem lesz elég.
 
-[00:15:02](https://www.youtube.com/watch?v=lAxXPwElugA&t=902) Másrészt azt gondolták sokan, hogy azért Novák Katalin az egyértelműen Orbán Viktor jelöltje volt erre a posztra, mint ahogy ma is tényszerűen nem igaz.
+[00:13:36](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=816) Annyira nem, bocsánat, egyetlen egy mondat, illetve nem kicsit több mondat.
 
-[00:15:13](https://www.youtube.com/watch?v=lAxXPwElugA&t=913) Tehát a parlament választja ugye a köztársasági elnököt, tehát ezt de nézzük azért a realitásokat.
+[00:13:41](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=821) Olyannyira nem lesz elég, hogy amikor a felmérések szerint az 5-600000 ember, aki a Fideszből átpártolt ideiglenes a Tiszára, voltaképpen egy projekt, egy választási projekt kedvéért, akik egyébként értékrendszerükben, világlátásukban, ízlésükben nem különböznek a Fidesz szavazóktól.
 
-[00:15:18](https://www.youtube.com/watch?v=lAxXPwElugA&t=918) Ha ezt valaki azt gondolja, hogy valmett valaki úgy köztársasági elnök, hogy azt nem konkrétan a miniszterelnök választja ki annak a személyét, akkor az az vagy hazudik, vagy nagyon nagyon nagtársaségi elnököt Magyar Péter fogja választani.
+[00:14:02](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=842) Ha azokat a szimbolikus és valóságos kérdéseket, amelyeket ezek az emberek, a Tisza szavazói érzékeny kérdésnek tartanak, akkor szerintem sokkal gyorsabban kihátrálnak a Tisza mögül, mint bárki sejteni.
 
-[00:15:37](https://www.youtube.com/watch?v=lAxXPwElugA&t=937) Én azt gondolom, igen, tehát ő fog javaslatot tenni a a személyére, és nagyon fontos, hogy a mostani, most egy kitérőt teszek, egy zárójeles kitérőt, mert ezt itt még nem mondtam el, hogy én szerintem a súlyokkal szembeni mostani kampánya is, ez a, hogy mondjam, ez a pengeváltás is akkor nyerhetsz csak értelmet, ha mellé tud rakni egy olyan személyt, amit tényleg mind a két oldalra el tud fogadni.
+[00:14:13](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=853) Emlékezzünk arra, hogy a Tisza 3,4 millió szavazója négy-öt különböző ideológiai iskolából, párt szimpátiából érkezett a Tisza környékére.
 
-[00:16:00](https://www.youtube.com/watch?v=lAxXPwElugA&t=960) Ez nagyon fontos.
+[00:14:24](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=864) És nem lehet, még egyszer mondom, ezt már az előbb említettem, nem lehet huzamos ideig állproblémákkal feltartani az érdeklődést.
 
-[00:16:02](https://www.youtube.com/watch?v=lAxXPwElugA&t=962) Természetesen ő fogja kiválasztani, és a parlamenti többség pedig megszavazza.
+[00:14:31](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=871) Na most egyetlen egy mondat még.
 
-[00:16:07](https://www.youtube.com/watch?v=lAxXPwElugA&t=967) És mi lenne akkor, hogyha kijelölné azt, hogy legyen közvetlen köztársasági elnökválasztás, belenyúlna ilyen szempontból az alkotmányba két.
+[00:14:33](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=873) Nincs szerintem ebben a stúdióban sem olyan ember, aki ne lenne kíváncsi a kegyelmi ügy részleteire.
 
-[00:16:15](https://www.youtube.com/watch?v=lAxXPwElugA&t=975) Jó, szerintem ez fölösleges.
+[00:14:39](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=879) Már csak azért sem, mert a kegyelmi ügyet szerintem a Fidesz kormányzat nagyon rosszul kezelte.
 
-[00:16:15](https://www.youtube.com/watch?v=lAxXPwElugA&t=975) Közvetlenül akkor kell a a köztársasági elnököt ez, de ez rendszerelmélet, akkor kell közvetlenül választani, ha nagyobb jogosítványai vannak.
+[00:14:43](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=883) És utólag, és akkor is azt hihettük joggal, hogy a kegyelmi ügy nagyon súlyos politikai következményekkel járhat.
 
-[00:16:23](https://www.youtube.com/watch?v=lAxXPwElugA&t=983) Tehát akkor vagy változtatni kell, például Lengyelországban van egy hasonló helyzet, ott nagyobb, hogy mondjam jogosítványai vannak az elnöknek és közvetlenül is választják.
+[00:14:51](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=891) Tehát én azt mondom, hogyha kiderül, hogy miről volt szó, ez örvendetes, csak hogy nem erről van szó, hanem arról van szó, hogy szakpolitikai válaszol kormányzás helyett koncokat dobál oda az új kormány a magyar közönségnek.
 
-[00:16:36](https://www.youtube.com/watch?v=lAxXPwElugA&t=996) Nem azt mondá nagyon hasonló Zoli, most bocs, hogy veled vitatkozom, de de én meg ilyen szempontból a közvetlen választás híve vagyok.
+[00:15:05](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=905) Gondoljatok például a a az állambiztonsági iratok közételének a szándékára, ugye arról van szó, hogy ügynöklistákat fognak közétenni.
 
-[00:16:45](https://www.youtube.com/watch?v=lAxXPwElugA&t=1005) Nem azért, mertogy ne tudna adott esetben egy politikai oldal jó jelöltet választani, mint mondjuk Sólyom László volt.
+[00:15:11](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=911) Ha valaki egy kicsit olvasott ember tudja, hogy Magyarországon nincsenek ügynöklisták, hanem olyan dokumentumok léteznek, amelyek állambiztonsági kapcsolatrendszereket és állambiztonsági viszonyokat festenek le, tehát a az a múzeumi besúgótól kezdve a szakpolitikai alapon beszervezett mérnök hírszerzőig és a Panni nénig, aki társadalmi kapcsolat és nagyon utálja a sógorát, mindenkit már fogunk találni ezekben az iratokban.
 
-[00:16:53](https://www.youtube.com/watch?v=lAxXPwElugA&t=1013) Így is lehet egy országnak kiváló köztársasági elnöke.
+[00:15:42](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=942) van, de azt a felelőtlenséget, azt a politikai felelőtlenséget, hogy ilyen típusú ügyekkel elkápráztatni az embereket a valódi kormányzás helyett, ennek higgyétek el, hogy nem négy éve, hanem négy hónapja sincs hátra.
 
-[00:16:55](https://www.youtube.com/watch?v=lAxXPwElugA&t=1015) Ezzel együtt viszont azt gondolom, hogy a nép, ha ki kell állni egy jelöltnek, a nép csak egy olyan embert fog megválasztani, csak egy olyan embert, aki meg aki mögött ott van a hitelesség.
+[00:15:54](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=954) Tehát a kegyelmi ügyet így is lehet nézni egy elterelő politikai hadművelet egyik szeletekét.
 
-[00:17:07](https://www.youtube.com/watch?v=lAxXPwElugA&t=1027) És akkor ő biztos bocsán ha itt elteleg gondolatmenet elindulunk, és bár nagyon kevés időnk maradt, valóban sikerülhet-e esetleg feltételes módban egy ilyen személyt választani, amikor láttuk azt, hogy például az oktatási miniszter jelölt kapcsán ugye kiszivárgott egy nép név és már az is, hogy megosztotta a választókat.
+[00:16:00](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=960) És engedjétek meg, hogy azzal foglalkozunk még egy kicsit, amit itt Zsolt említett, hogy szerinte azért is fontos, hogy ezt nyilvánosságra hozzák, mert így a jobb oldalt, valamint a Fidesz közösségét nem érheti egy kollektív felelősség.
 
-[00:17:27](https://www.youtube.com/watch?v=lAxXPwElugA&t=1047) De meg az, hogy most Lengyelországi példát behoztátok, hát ott is megvolt, hogy melyik elnök jelölt, melyik pártnak az emberre, vagy ki az, aki szimpatizál vele, és mondjuk a jobb oldali megvolt, hogy kit támogattak, kik pedig a globalisták.
+[00:16:10](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=970) Ugye így fogalmaztál?
 
-[00:17:40](https://www.youtube.com/watch?v=lAxXPwElugA&t=1060) Tehát, hogy ez alapvetően át van politizálva ez a kérdés is, hogy Igen.
+[00:16:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=972) Én ú igen, így is mondhatjuk, de táán az a legfontosabb belőle, hogy nem hogy kit nem érhet, hanem ha vannak felelősei, az derüljön ki és nyilvánvalóan azt a kormányzati körökben kell kezdi.
 
-[00:17:43](https://www.youtube.com/watch?v=lAxXPwElugA&t=1063) Én éppen ezért a közvetlen elnökválasztást szerintem a, hogy mondjam, semmit nem érnénk vele, mert akkor akkor ugyanolyan politikai jelöltek lennének, megint csak nem testesítenék meg a a nemzet egységét.
+[00:16:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=982) Viszont ha már itt a kollektív felelősség, ugye arról pont Gulyás Gergely beszélt egy pár héttel ezelőtt, hogy most így zajlik egyfajta politikai boszorkányüldözés, amire ugye Laci is utalt, és hogy itt a teljes jobb oldalt szeretnék egyfajta kollektív bűnösséggel megbélyegezni, és hát valami hasonlóról beszélt most egyébként Puzsér Róbert is.
 
-[00:17:52](https://www.youtube.com/watch?v=lAxXPwElugA&t=1072) Én szerintem nyilvánvalóan az elmúlt 16 évben Orbán Viktor jó érzékkel választott rosszul ezen a téren, de én szerintem nem lehetetlen olyat választani, és volt egyébként a a jobb oldalnak is az elmúlt 36 évben jó jelöltje, Sólyek a kik kikek ezek a jó jelöltek, és kik lehetnének most jó jelöltek?
+[00:16:39](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=999) Nézzük meg, hogy az egyik adásukban pontosan mi hangzott el, és akkor ezzel fogjuk folytatni.
 
-[00:18:16](https://www.youtube.com/watch?v=lAxXPwElugA&t=1096) Na, erről is fogunk beszélgetni, de már csak a reklám után ugyanis most el kell mennünk egy rövid szünetre.
+[00:16:46](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1006) A turániátok lehullott rólunk.
 
-[00:18:21](https://www.youtube.com/watch?v=lAxXPwElugA&t=1101) Maradjanak velünk.
+[00:16:46](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1006) Ebben már nem lehet hibázni, tehát többet hibát nem tudunk elkövetni.
 
-[00:18:42](https://www.youtube.com/watch?v=lAxXPwElugA&t=1122) Folytatódik a kommenttír tévén.
+[00:16:52](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1012) Áradjon.
 
-[00:18:42](https://www.youtube.com/watch?v=lAxXPwElugA&t=1122) A stúdióban pedig vendége még mindig Lajkó, Fanni, Varga, TeleNovák Zoltán és Forgács István.
+[00:16:52](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1012) Én ezzel nem teljesen értek egyet, és nagyon sajnálom, hogy vitatkoznom kell, hogy a teljes nép egyesült.
 
-[00:18:48](https://www.youtube.com/watch?v=lAxXPwElugA&t=1128) A reklám előtt pedig ugye ott hagytuk abba, hogy a köztársasági elnök innen indultunk, hiszen Magyar Péter a mai nap folyamán nyilvánosságra hozta a kegyelmi ügy azon részleteit és aktáit, amelyek az igazságügyi minisztériumban fellelhetők.
+[00:16:58](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1018) Én azt gondolom, hogy ez sosem lesz megoldva addig, amíg azokat a mocskokat, azokat a rohadt szemétládákat, akik valaha bármilyen okból valaha a Fideszre szavaztak, el nem takarítjuk az országból.
 
-[00:19:02](https://www.youtube.com/watch?v=lAxXPwElugA&t=1142) És arra kerte Sujak Tamás köztársasági elnököt, akit napjában többször szólít fel a lemondásra, hogy ő is tegye meg ugyanezt és hozza nyilvánosságra azokat a dokumentumokat, amelyek a Sándor palotában elérhetők.
+[00:17:10](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1030) Ők Nagyon igazad van.
 
-[00:19:13](https://www.youtube.com/watch?v=lAxXPwElugA&t=1153) És hát itt kialakult egy vita a baloldalon Etele és Zoli között, hogy mi lenne a jó megoldás a köztikai baloldalommal agyiban.
+[00:17:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1032) Nagyon igazad van.
 
-[00:19:20](https://www.youtube.com/watch?v=lAxXPwElugA&t=1160) Jó, a közvetlen elnökválasztás, vagy vagy mondjuk az, hogyha az eddigi gyakorlathoz hasonlóan ugye a parlament fogadna el ugye egy köztársasági elnököt, viszont jogosan merül fel az a kérdés, hogy kialakult egy csört már akkor a Tiszás szavazó táborban, amikor ugye Rubovski Rita neve csak felmerült, mint egy oktatási miniszterjelölt, az is ugye megosztotta itt a szavazótábort.
+[00:17:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1034) Rákfenéje az ország.
 
-[00:19:49](https://www.youtube.com/watch?v=lAxXPwElugA&t=1189) Sikerülhet-e vajon egyébként egy olyan köztársasági elnököt választani, hogyha Súlyok Tamást elmozdítják a hivatalából, akit el tudnak fogadni?
+[00:17:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1034) Sőt, sőt kiegészíteném ezt azzal, hogy azokat is, akik akkor, amikor ezek ezekre leszavaztak, akkor nem emeltek szót.
 
-[00:19:56](https://www.youtube.com/watch?v=lAxXPwElugA&t=1196) Az a 3,s fél millió ember, meg az a két, fél millió, meg azok is, akik nem szavaztak?
+[00:17:24](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1044) Nem mondták azt, hogy nem, soha [torokköszörülés] többé, itt a vörös vonal, rekesszük ki őket, hanem asszisztáltak, tudod, sunnyogtak, nem foglaltak állást.
 
-[00:20:03](https://www.youtube.com/watch?v=lAxXPwElugA&t=1203) Hát itt ugye a korábbi köztársasági elnököket is az országgyűlés választotta meg, és mivel ugye a Fidesznek az elmúlt 16 évben kétharmada volt, ezért rendre az összes közszársasági elnökre azt mondták, hogy Fideszes, csak azért, mertogy ugye fideszes kétharmaddal szavazták meg, csak akkor ugyanezen a logika mentén mondhatjuk azt, hogyha elmozdítják Sollyok Tamást és egy olyan országgyűlés van, ahol kétharmados Tisza kormány van, és úgy fognak megszavazni egy köztársasági elnökot, hogy egyébként a fideszesek és a mi az miánkosok nem nemmel szavaznak rá.
+[00:17:36](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1056) Őnekik se legyen maradásuk ebben az új hazában.
 
-[00:20:33](https://www.youtube.com/watch?v=lAxXPwElugA&t=1233) De ő lesz a köztársasági elnök, meg megvan a kétharmados szavazás, akkor innentől mondhatjuk a következő köztársaság elnökre is ebben az esetben, hogy ő akkor Tiszás.
+[00:17:38](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1058) De én annyiban vitáznék veletek, hogy te itt úgy fogalmazol, hogy hogy nem teljes a a nép, de ők nem tartoznak közénk.
 
-[00:20:40](https://www.youtube.com/watch?v=lAxXPwElugA&t=1240) Fogjátok mondani.
+[00:17:46](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1066) Ők, akik a Nerre szavaztak, ők nem a nemzet részei.
 
-[00:20:40](https://www.youtube.com/watch?v=lAxXPwElugA&t=1240) Ez ez az a helyzet, az a helyzet, hogy szerintem itt megint csak van egy kis kognitív diszonancia, ha nem is óriási.
+[00:17:55](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1075) Na, azok a koncok, ahogy Laci fogalmazott, valamint ezek a véleményformálói megszólalások hova gyűrűznek le szerinted, Ricsi?
 
-[00:20:47](https://www.youtube.com/watch?v=lAxXPwElugA&t=1247) Tehát itt a helyzet a következő.
+[00:18:01](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1081) Hát, hogyha ezt a beszélgetést elejétől néztük volna, ez pont egy tiszás paródia volt egyébként.
 
-[00:20:50](https://www.youtube.com/watch?v=lAxXPwElugA&t=1250) A a bocsánat, ezt muszáj voltam.
+[00:18:07](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1087) Tehát a tiszások bekommentáltak alájuk, hogy nem kéne kritizálni a Tisza kormányt, várni kéne, mert két hét után miért kell kritizálni, mert egyébként Puzsér Róberizgés szóvá tettek egyébként több olyan dolgot, ami nem tetszett nekik Magyar Péter hozzászólásaiban.
 
-[00:20:50](https://www.youtube.com/watch?v=lAxXPwElugA&t=1250) Szóval a helyzet a következő lesz belőle az van, hogy a Fidesz köztársasági elnökei, akikről direkt így is fogalmazok, a Fidesz köztársasági elnökei, ezek az emberek mind Fidesz tagok voltak a Sullyok Tamás leszámítva.
+[00:18:20](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1100) És ez, amit itt toltak egyébként, ez a Tiszás kommentelőnek a parafrázisa.
 
-[00:21:07](https://www.youtube.com/watch?v=lAxXPwElugA&t=1267) Tehát itt Áder János a Fideszben fontos pozíciókat betöltő ember volt, talán alelnök is volt, elnök talán nem, de hogy ő nagyon magas szinten mozgott a Fideszen belül.
+[00:18:24](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1104) Ők tiszásokat parodizáltak.
 
-[00:21:17](https://www.youtube.com/watch?v=lAxXPwElugA&t=1277) Novák Katalin, megint csak Fidesz tag, Fidesz alelnök.
+[00:18:27](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1107) Az, hogy ez sajnos így így jön le Magyarországon, ez ez nem az ő véleményük volt.
 
-[00:21:19](https://www.youtube.com/watch?v=lAxXPwElugA&t=1279) Előtte Smit Pál, Fidesznek volt többször jelöltje választásokon, szintén Fidesz tag.
+[00:18:32](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1112) Ez a ez a tiszások véleménye volt az ő szemüvegük keresztül.
 
-[00:21:27](https://www.youtube.com/watch?v=lAxXPwElugA&t=1287) Én azt hiszem, hogy ilyen szempontból igenis lehet azt mondani, és hogyha viszont a Tisza egy volt Tiszás tagot, vagy bármilyen tiszás személyt választ ki, akkor jogosan lehet azt mondani, hogy ez egy ez egy Tiszás köztársasági elnök.
+[00:18:36](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1116) Felcseszték magukat azon már bocsánat a kifejezésére, hogy Tiszások bekommenteltek puzsérék alá, hogy miért kell kritizálni Magyar Pétert.
 
-[00:21:41](https://www.youtube.com/watch?v=lAxXPwElugA&t=1301) De szerintem ennek a dolognak továbbra is úgy lehet kihúzni a méregfogát, hogy bízzuk az emberekre a döntést.
+[00:18:43](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1123) Egyébként a sajtónak szerintem az a dolga, hogy kritizálja a a jelenleg regnáló kormányt, legyen az Fidesz vagy akár Tisza.
 
-[00:21:48](https://www.youtube.com/watch?v=lAxXPwElugA&t=1308) Nem fog tudni olyan köztársasági elnököt találni nagyon nagy valószínűséggel a Tiszapárt, ami mind a 3,s fél millió szavazójának megfelel, ami lehet, hogy azóta már több a közvetett módon.
+[00:18:51](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1131) Ez a dolga szerintem a sajtónak.
 
-[00:22:02](https://www.youtube.com/watch?v=lAxXPwElugA&t=1322) Közvetett módon, de vondjuk be ebbe a beszélgetésbe Magyar Pétert is.
+[00:18:53](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1133) És ezt ezt a fajta stílust és hozzáást hozták ki, hogy a tiszások így gondolkodnak.
 
-[00:22:03](https://www.youtube.com/watch?v=lAxXPwElugA&t=1323) Ugyanis miniszterelnöknek is volt egy eszmuttatása a köztársasági elnökről és elnökökről.
+[00:18:58](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1138) Ezt egyébként Puzér Róbert le is hozta.
 
-[00:22:10](https://www.youtube.com/watch?v=lAxXPwElugA&t=1330) Hallgassuk meg, hogy ő mit mondott, és akkor ezzel fogjuk folytatni.
+[00:18:59](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1139) Fogalmazott, hogy felhívom a Hírtv kultúrát se hírből, se tévéből nem ismerő szerkesztőinek a figyelmét arra, hogy irónia az ország, ahol az irónok élnek.
 
-[00:22:16](https://www.youtube.com/watch?v=lAxXPwElugA&t=1336) Nem véletlen volt az, hogy Gönc Szárpád alatt, de még Ádul Ferenc alatt is és Solyom László alatt is a köztársasági elnök, a mindenkori köztársasági elnök, teljesen mindegy, hogy melyik oldalnak volt a jelöltje, a legnépszerűbb magyar politikus volt.
+[00:19:09](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1149) Viszont akkor teszem fel a kérdést, hogyha ez mondjuk a Hírtv valamelyik műsorában hangzott volna el, a tisztás szavazókkal összefüggésben, ugyanolyan stílusban és minőségben, ahogy ez Puzsér Róbertéknél hangzott el, akkor mi is védekezhetnénk azzal, hogy csak irónia vagy?
 
-[00:22:29](https://www.youtube.com/watch?v=lAxXPwElugA&t=1349) A hírtév még nem hírtvek nem emlékezhetnek rá, de akkoriban Gönc Árpádnak a népszerűsége 80% volt.
+[00:19:24](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1164) Hát mond tegyük tegyük fel, hogy oké, akkor ez egy puzsér vicc vagy hack.
 
-[00:22:35](https://www.youtube.com/watch?v=lAxXPwElugA&t=1355) De még Márd Ferencnek és Solyom Lászlónak is volt idő, amikor majdnem 70%.
+[00:19:31](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1171) Szerintem ez a viccnek is aljas.
 
-[00:22:42](https://www.youtube.com/watch?v=lAxXPwElugA&t=1362) Ehhez képest Sollyok Tamás népszerűsége valahol 15 és 17% között van.
+[00:19:31](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1171) Tehát van egy van egy határ, aminél főleg, hogyha valaki tudja, hogy a social médiában 10 másodperceket vágunk ki, nem a szöveg környezetében.
 
-[00:22:44](https://www.youtube.com/watch?v=lAxXPwElugA&t=1364) Lázár, János és nem tudom ki között.
+[00:19:42](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1182) Hogy mire alkalmas?
 
-[00:22:51](https://www.youtube.com/watch?v=lAxXPwElugA&t=1371) Valóban egyébként Gönc Árpád népszerűsége lenne itt a legjobb példa, István, amelyet fel tudod hozni Magyar Pétert.
+[00:19:45](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1185) Azt kell nézni, hogy az ilyen hosszú egy perces beszélgetések amiről a végén kiderül esetleg, hogy ez valami az ő poénjuk volt, hogy mire alkalmas.
 
-[00:22:57](https://www.youtube.com/watch?v=lAxXPwElugA&t=1377) Nagyon nehéz kérdés, mert Gönycárpád, amikor a köztársasági elnök volt, én azt gondolom, hogy kevésbé volt ilyen mértékben kihegyezve a társadalom arra, hogy ki mit képvisel.
+[00:19:56](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1196) Hát arra alkalmas egyébként, hogy visszafordíthatatlanra kormányozzák a a gyűlöletet.
 
-[00:23:06](https://www.youtube.com/watch?v=lAxXPwElugA&t=1386) Tehát, hogy nagyon furcsa, hogy én magam visszaemlékezve azokra az időkre, és soha nem éreztem azt, hogy Göncerpád azért lett volna bármilyen éles kritikának így a fókuszában, mert őt egyébként mondjuk az SZDS környékén gondolták az emberek.
+[00:20:01](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1201) És itt én ezt már többször mondtam, vagyis hát eddig háromszor, most mondom negyedszerre, hogy nekem van egy olyan érzésem, hogy ez valami tragédiába fog fulladni a végén kisemberek részéről.
 
-[00:23:19](https://www.youtube.com/watch?v=lAxXPwElugA&t=1399) És akkor se érezted így, amikor mondjuk a mi épes egybegyűltek nem engedték szóhoz jutni a hősök terén.
+[00:20:15](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1215) Épp a mai nap hallottam egy ismerősömtől, hogy megkérdezték a gyereküket, assassiszem hat vagy nyolc éves, hogy miért nem találkozik mostanában nem tudom, hogy melyik barátjával a játszótéren.
 
-[00:23:28](https://www.youtube.com/watch?v=lAxXPwElugA&t=1408) Ott nem csak a mi épes egybegyűltek voltak, azért maradjunk ennyiben.
+[00:20:26](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1226) És kiderült, és el is mondta, hogy azt mondták a a mármint a haverja azt mondta, hogy a szülei nem engedik, mert tudják, hogy Fideszre szavaztak.
 
-[00:23:30](https://www.youtube.com/watch?v=lAxXPwElugA&t=1410) Tehát az egy tehát az az nem csak ők voltak.
+[00:20:35](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1235) Idáig le lemegy, átitadódik a társadalom.
 
-[00:23:34](https://www.youtube.com/watch?v=lAxXPwElugA&t=1414) Még egyszer mondom, Zoli, azok más idők voltak a társalomnak a nagy része.
+[00:20:41](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1241) Ennek tragikus vége lesz.
 
-[00:23:37](https://www.youtube.com/watch?v=lAxXPwElugA&t=1417) A köztársasági elnök nem tudott, kiment és nem tudott megszólalni.
+[00:20:41](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1241) A következő az lesz, hogy menjen egy kört Orbán Viktor kis buszával, és akkor hétvégén be lehet majd erre fizetni, és azzal a a Tisza aktivisták támogatják a párt.
 
-[00:23:39](https://www.youtube.com/watch?v=lAxXPwElugA&t=1419) kifütyülték a köztársasági elnököt, de ez tényleg így a a a történelemnek így a az igazi hőskorában, legalábbis az újkori magyar történelem hős korában, ettől függetlenül az ő népszerűségé tényleg magas volt.
+[00:20:52](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1252) Hova fogunk jutni?
 
-[00:23:53](https://www.youtube.com/watch?v=lAxXPwElugA&t=1433) Nem, én nekem egy kicsit az a gondom ezzel, és itt tetele mondja, hogy válasszunk közvetlenül, hát ennyi erővel akkor föl kell menni, meg kell nézni, hogy melyik a legnépszerűbb influencer, és akkor be kell dobálni őket is egyébként, hogy akkor kérem szépen, őneki nagyon nagy a népszerűsége, akkor majd őt biztos kedvelik az emberek.
+[00:20:54](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1254) Hova vezet ez?
 
-[00:24:06](https://www.youtube.com/watch?v=lAxXPwElugA&t=1446) Nem, a köztársasági elnök egy intézmény.
+[00:20:54](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1254) Laci.
 
-[00:24:11](https://www.youtube.com/watch?v=lAxXPwElugA&t=1451) Az a kérdés, hogy népszerűséget akarunk hozzátenni, vagy hozzáértést és nemzetegyesítést.
+[00:20:54](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1254) Tehát kezdjük azzal, hogy itt a stúdióban négyünk közül szerintem a Zsolt az, aki a legtöbb politikai tárgyalásan részt vett életében.
 
-[00:24:16](https://www.youtube.com/watch?v=lAxXPwElugA&t=1456) Ennyi erővel legyen egy építész, legyen egy festő, legyen egy egy komoly zenész, nem tudom, tehát hogy hogyha innen nézem, hogyha ez valóban egy olyan felkent méltóság, ahol az ország meg a társadalom egyesít, és a legfontosabb helyzet.
+[00:21:02](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1262) És mivel politikus, ezért neki van a legjobban fogalm és látom már bólogat is, hogy a politika az ugyanolyan mesterség, mint amik az ember karosszéri lakatos vagy orosz tanár.
 
-[00:24:29](https://www.youtube.com/watch?v=lAxXPwElugA&t=1469) Itt a törvények köréről beszélünk.
+[00:21:13](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1273) Kezdjük ezzel.
 
-[00:24:31](https://www.youtube.com/watch?v=lAxXPwElugA&t=1471) Itt jogszabályokat kell aláírni.
+[00:21:13](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1273) Na most, hogyha a négy fekete póló srác egy diákköri foglalkozáson elkezd [torokköszörülés] ironizálni az ironokkal, meg a hírtvnek üzengetni és ilyen farcal, ilyen értelmiségi locsifecsiben megpróbálják kifejezni a saját valójukat, meg a gyerekkori traumáikat.
 
-[00:24:33](https://www.youtube.com/watch?v=lAxXPwElugA&t=1473) Itt embernek értenie kellene ahhoz, hogy főleg egy kétharmaddal meglévő parlament esetében tessék.
+[00:21:31](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1291) Ez ugye nem politika.
 
-[00:24:39](https://www.youtube.com/watch?v=lAxXPwElugA&t=1479) Stá arra ott van a stáb.
+[00:21:31](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1291) Tehát a politika az egy más bolygón van.
 
-[00:24:39](https://www.youtube.com/watch?v=lAxXPwElugA&t=1479) Göncpát sem hiszem, hogy mag még egyszer mondom más idők voltak.
+[00:21:33](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1293) Tehát ez pontosan olyan, mint amikor amikor tudod, mit tudom én fölveszed a Real Madrid mezét és akkor kifutsz.
 
-[00:24:44](https://www.youtube.com/watch?v=lAxXPwElugA&t=1484) Zoli, még egyszer mondom más idők voltak.
+[00:21:40](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1300) De nem a Barcelona az ellenfél, hanem a kis kundorozsma.
 
-[00:24:46](https://www.youtube.com/watch?v=lAxXPwElugA&t=1486) Ezt azért engedjétek meg, hogy ezt azért nagyon-nagyon sok minden változott azóta.
+[00:21:44](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1304) Tehát, hogy eljátszhatod azt, hogy te a Realmadi csatára vagy, de hogyha te nem vagy azon a szinten, és nem a Bernebauban lélegzett visszafolytva 90000 ember előtt játszol, akkor nevetségessé teszed magad.
 
-[00:24:49](https://www.youtube.com/watch?v=lAxXPwElugA&t=1489) Én nem azt gondolom, hogy jelen pillanatban, ha közvetlen köztaság elnök választás kéne, hogy legyen, akkor az úgy fog kinézni, hogy elindul rajta négy-öt olyan ember, akiknek a fele nem komolyan vehető, a másik fele talán komolyan vehető, de nem tudod politikától függetlenné tenni őket.
+[00:21:55](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1315) Szóval én azt kívánom az országnak, hogy ne jussunk el se tisztások, se MSZP-sek, se fideszesek, se érdektelenek addig.
 
-[00:25:05](https://www.youtube.com/watch?v=lAxXPwElugA&t=1505) Másrészt meg mondod, hogy jöjjön volt tiszás a 28 Tisza pártakból.
+[00:22:02](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1322) És ezt ezt őszintén mondom, hogy egy tudományos politikai, szakpolitikai kérdésből diákköri viccet csináljuk.
 
-[00:25:07](https://www.youtube.com/watch?v=lAxXPwElugA&t=1507) elég hamar meg lehet találni azt a néhányat, aki egy de erről nem engem kell meggyőznöd, mert én ugyanígy részben ezen okoknál fogva, rész részben egyébként a rendszerelméleti okoknál fogva én sem támogatom ezt.
+[00:22:11](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1331) Nem azért, mert nincs humorunk, hanem azért, mert ez ostobaság.
 
-[00:25:21](https://www.youtube.com/watch?v=lAxXPwElugA&t=1521) Meg kell találni azokat a személyeket.
+[00:22:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1334) Nekem erről ez a vélemén.
 
-[00:25:23](https://www.youtube.com/watch?v=lAxXPwElugA&t=1523) És itt itt a te szkepszised az jogos a tekintetben, hogy lehet-e találni olyan embert, ami a mind a két tábornak hoztat.
+[00:22:16](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1336) Na és szerintem egyébként tényleg a tények fognak számítani itt a miniszterelnöknek a nagy interjújában is.
 
-[00:25:31](https://www.youtube.com/watch?v=lAxXPwElugA&t=1531) Én azt mondanám, hogy olyan embert kell találni, aki egyaránt osztja meg mind a két oldalt.
+[00:22:21](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1341) És hogyha valaki utánaszámol az ígéreteknek itt 5-6000 milliárd Ft-nyi ígérgetés van, ami ami ekkora lyuk lenne a költségvetésen.
 
-[00:25:37](https://www.youtube.com/watch?v=lAxXPwElugA&t=1537) Tehát nagyjából úgy vágja ketté.
+[00:22:30](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1350) Ez lehetetlen.
 
-[00:25:40](https://www.youtube.com/watch?v=lAxXPwElugA&t=1540) Szóval még mielőtt itt nagyon keresgelnénk, azt azért rögzítsük, hogy van köztársasági elnökünk Sullyok Tamás személyében.
+[00:22:30](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1350) Tehát itt nem lehet megúszni, hogy szeptembertől kormányzati valódi kormányzati lépések jöjjenek el, ami amivel szembe fog találkozni egyébként az a 3,3 millió szavazó.
 
-[00:25:45](https://www.youtube.com/watch?v=lAxXPwElugA&t=1545) És hát hiába szólítja fel Magyar Péter, hogy napi kétszer, hogy mondjam ennek ugye alkotmányos relevanciája jelenleg nincsen.
+[00:22:42](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1362) Mi meg egyébként 2,4 millióan vagy három 2,3 millióan pontosan tudjuk, hogy ez lesz.
 
-[00:25:55](https://www.youtube.com/watch?v=lAxXPwElugA&t=1555) És igen, folytatjuk is pig kérdésére egy gondolat elejéig.
+[00:22:52](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1372) Szerintem az fontos ebből, hogy iróniának, cinikus fekete humornak a 21.
 
-[00:26:01](https://www.youtube.com/watch?v=lAxXPwElugA&t=1561) Tehát csak annyit, hogy hogy az egy dolog, hogy kit választunk, és ez a a nullponton a a kinevezéskor mennyire osztja meg a két tábort.
+[00:22:58](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1378) században helye van akkor is, ha ez nem mindenkinek tetszik.
 
-[00:26:07](https://www.youtube.com/watch?v=lAxXPwElugA&t=1567) De azt gondolom egyébként és Áder tipikusan ilyen szereplő, mert te fölsoroltad, ő föl tudott szerintem nőni a feladathoz, tehát ő tudott a leginkább az elmúlt időszakban, az elmúlt 16 évben felnőni ehhez a feladathoz.
+[00:23:00](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1380) A politikáról igen, valaha az egy szakma volt, most egy kicsit vegyítődik az influencer és egyéb ilyen típusú képességekkel.
 
-[00:26:20](https://www.youtube.com/watch?v=lAxXPwElugA&t=1580) Tehát két dolog van.
+[00:23:08](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1388) Tehát azt hiszem, hogy ez most már nem egészen van úgy, ahogy egyébként 6 101 év.
 
-[00:26:22](https://www.youtube.com/watch?v=lAxXPwElugA&t=1582) van maga a tisség, és ez fontos, és ö ahhoz jön egy személyiség, és hogy a személyiség tud-e úgy viselkedni, tud-e olyan ö olyan zsánerben megjelenni, tud-e olyan hangon megszólalni, hogy valóban mindenki a sajátjának érzi, az már a személyiségtől függ.
+[00:23:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1392) Viszont szerintem az nagyon fontos, nézzétek, ahogy a világ változik, a politikának is alkalmazkodnia kell hozzá.
 
-[00:26:38](https://www.youtube.com/watch?v=lAxXPwElugA&t=1598) Szerintem ez fontos, hogy nullponton van egy kiindulópont.
+[00:23:19](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1399) Nem biztos, hogy ez a jó irány, de most ez van.
 
-[00:26:42](https://www.youtube.com/watch?v=lAxXPwElugA&t=1602) Igen, ott jó lenne, ha egyformán lenne megosztva mind a két tábor, és utána föl kell nőni ehhez a feladathoz.
+[00:23:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1402) Nem biztos, hogy szeretni kell, de ettől még ez van.
 
-[00:26:49](https://www.youtube.com/watch?v=lAxXPwElugA&t=1609) Ceú?
+[00:23:25](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1405) Mondom ezt én is, hogy akármondhatnám, hogy nek közösségem is jó magam szenvedő arany aranyai voltunk, de van egy nagyon fontos határ.
 
-[00:26:49](https://www.youtube.com/watch?v=lAxXPwElugA&t=1609) Na de nézzük meg, hogy például Ukrajna az Európai Unióhoz való csatlakozási kérdésével mennyire osztja meg alapvetően a magyarokat, valamint a Tisza szavazótáborát.
+[00:23:32](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1412) Szerintem ez a humor, feketehumor szatíra, ez beleférne.
 
-[00:26:57](https://www.youtube.com/watch?v=lAxXPwElugA&t=1617) Ugye ez kérdés volt már a kampányban is a nemzet hangja elnevezésű szavazáson.
+[00:23:35](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1415) Ha az egész műsort nézzük, akkor szerintem Ricinek van igaza, hogy azért ez más megvilágításba tenné, miközben ugye mindannyian tudjuk, hogy kivágnak egy beszélgetésből.
 
-[00:27:02](https://www.youtube.com/watch?v=lAxXPwElugA&t=1622) Ugye megkérdezték a szimpatizánsaikat Magyar Péterék azzal kapcsolatban, hogy támogatják-e Ukrajna Európai Uniós csatlakozását.
+[00:23:43](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1423) Hozzáteszem, ebbe azért a jelen stúdió munkatársa is azért ugye Tar Zoltán beszédét ugye hallottuk sokszor, mindig néhány mondatot belőle, de ami ennél fontosabb, hogy hogy amiről az előbb beszéltetek, hogy hogy valahol a gyűlöletnek határt kell szabni.
 
-[00:27:10](https://www.youtube.com/watch?v=lAxXPwElugA&t=1630) Akkor ugye a legtöbb kérdésre valamivel 90% környékén érkezett egy igen válasz.
+[00:23:57](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1437) Tehát tehát nem juthatunk el oda, hogy egy általános iskolás azért legyen bármilyen irányból kiközösítve, azért barátságok, családok züljenek szét, mert más politikai meggyőződés alapján gondolkodnak.
 
-[00:27:19](https://www.youtube.com/watch?v=lAxXPwElugA&t=1639) Viszont erre a kérdésre alig 60% mondta azt, hogy igen, 58,2% voksolt arra, hogy igen támogatnák Ukrajna Európai Unióhoz való csatlakozását.
+[00:24:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1452) Ugye azért veszélyes, ez nem a jelen miatt veszélyes, hanem a ha ismerjük a történelmet, azért a gyűlölet és az ilyen típusú konfliktusok a 20.
 
-[00:27:30](https://www.youtube.com/watch?v=lAxXPwElugA&t=1650) Na most újra asztalra kerülhet ez a kérdés, és júniusban meg is kezdődhetnek a csatlakozási tárgyalások.
+[00:24:21](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1461) században tragédiákat okoztak, és nem is csak nemzetek között, hanem nemzeteken belül okozták a legnagyobb.
 
-[00:27:35](https://www.youtube.com/watch?v=lAxXPwElugA&t=1655) Magyar Péter ugyan feltételeket szabott ennek, mégpedig 11 feltételt, de azt közölte a miniszterelnök, hogy ha ezeket teljesítik, akkor ők nem zárkóznak el azelől, hogy Ukrajna megkezdje ezeket a tárgyalásokat júniusban.
+[00:24:25](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1465) erről a görögök, spanyolok, szovjetoroszország utódállam tudnának beszélni, hogy milyen volt az, amikor vagy a délszláv országok.
 
-[00:27:49](https://www.youtube.com/watch?v=lAxXPwElugA&t=1669) Fanni, az ellentéte annak, mint amit a kampányban állítottak?
+[00:24:34](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1474) Tehát most nyilván nem ez a helyzet van, hogy polgárháború lenne, de a verbális, emocionális polgárháború is nagyon sokat tud állítani egy országnak, egy nemzetnek.
 
-[00:27:54](https://www.youtube.com/watch?v=lAxXPwElugA&t=1674) Hát ugye, hogyha úgy nézzük, akkor amikor a nemzet hangja konzultáció kiírásra került, akkor ők azt mondták, hogy ami ebben a nemzet hangjában végeredményként kijön, az az ő kormányprogramjuknak a része.
+[00:24:44](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1484) Főleg olyankor, amikor egyébként Magyarország történelm pont azt mutatná, hogy hogy valamilyen összetartozásra szükség lenne, mert akkor folytassuk ezzel az április 12-én meg egyébként nevekkel nem szoktam viccelni, de hogyha Sullyok Tamás nem adja ki a kegyelmi botránynak a részleteit, akkor végre Magyarországon megvalósul majd a fékek és ellensúlyok rendszere.
 
-[00:28:06](https://www.youtube.com/watch?v=lAxXPwElugA&t=1686) Tehát innentől ezzel hitelesítette, hogy Ukrajna uniós csatlakozásának a támogatása, az előremenetának a támogatása az igenis a programjuknak a része.
+[00:25:05](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1505) Folytassuk akkor ezzel, amit már itt egyébként feldobott Zsolt és valóban ugye Sullyok Tamás, hogy április 12-én azért Magyar Péter itt meghirdette az árkok betemetését, a nagy nemzeti népegyesítést.
 
-[00:28:15](https://www.youtube.com/watch?v=lAxXPwElugA&t=1695) De utána ezt rendre tagadta Magyar Péter, és azt mondta, hogy nem tagadják.
+[00:25:16](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1516) Például az, amit most Sullyok Tamással csinál, az ebbe az irányba mutat.
 
-[00:28:18](https://www.youtube.com/watch?v=lAxXPwElugA&t=1698) Tehát, hogy kettős kommunikáció alapvetően, de most ha megnézzük azt, hogy évek kérdése az normál esetben, objektív esetben, hogy Ukrajna csatlakozzon az Európai Unióhoz, annak most egy előszobája az, hogy ez a csatlakozási tárgyalás, vagy ez a csatlakozási fejezet megnyílik.
+[00:25:20](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1520) Ricsi, az egy érdekes dolog egyébként, hogy a különböző tisztségeket betöltött például a a köztársasági elnök hivatalát elhagyásra felszólítása az jogilag mit vett föl?
 
-[00:28:32](https://www.youtube.com/watch?v=lAxXPwElugA&t=1712) És mondhatjuk azt, hogy innentől ez években fog telni.
+[00:25:38](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1538) Egyébként ha belegondolunk, a az egész Tisza kampány arról szólt, ugye, hogy az elmúlt 16 évnek a a csontvázait ki kell venni a szekrényből és a azt kiszolgáló klientúrát pedig le kell váltani.
 
-[00:28:36](https://www.youtube.com/watch?v=lAxXPwElugA&t=1716) És gondolom Magyar Péter is emögé takar, vagy ezzel takarózik, hogy hát ez most nem reális, és ez évek vagy normális esetben évtizedek kérdése, csak hogy nem ez a politikai prioritás jelenleg az Európai Unióban.
+[00:25:51](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1551) És mivel egy Súlyok Tamás nagyon sok törvénynél nem jelentett be kifogást, Magyar Péter nagyon sokszor elmondta, hogy ő is ennek a ner rendszernek a része.
 
-[00:28:44](https://www.youtube.com/watch?v=lAxXPwElugA&t=1724) Tehát amikor azt mondják, hogy ezt ők 2027-ig véghez akarják vinni, valószínűleg nem fogják tudni még a mostani tempóval sem, de politikai prioritások között van, hogy ne a normál ütemben történjen a csatlakozások, mint a nyugat-balkáni országoknál, ha már több mint 10 éve várnak, akkor ott igenis számítanak ezek a szavazások, és számít az, hogy ők ezt megszavazzák-e vagy sem, de alapvetően ezt tudtuk eddig is, hogy egy nyitottságban a Tiszapát részéről, hogy igent mondjanak ezekre a csatlakozásra.
+[00:26:01](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1561) Solyog Tamás.
 
-[00:29:12](https://www.youtube.com/watch?v=lAxXPwElugA&t=1752) Igen, csak ugye ezt itt láttuk az imént magunk mellett, hogy például a kampányban ugye többször kommunikálták és többször állította azt Magyar Péter is határozottan, hogy nem támogatjuk ugye Ukrajna a gyorsított csatlakozását.
+[00:26:01](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1561) Innentől kezdve ez egyértelmű, beszélhetünk újra a Tisza szavazókról, hogy nekik meg lett ígérve, hogy meg lesz tisztítva ez a rendszer úgymond ezektől a fajta fideszes kiszolgálóktól.
 
-[00:29:24](https://www.youtube.com/watch?v=lAxXPwElugA&t=1764) De hát ugye erre Fanni is utalt alapvetően, hogy most akár a csatlakozási biztost vagy Európai Uniós vezetőket, ha idézünk, hogy minden percben azon dolgoznak, hogy Ukrajna minél hamarabb csatlakozhasson, és vannak céldátumok is.
+[00:26:13](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1573) Ez a Tisza szemüvegén át nézve, és hogy ennek része súlyog Tamás.
 
-[00:29:35](https://www.youtube.com/watch?v=lAxXPwElugA&t=1775) Etele, bocsáss meg, az lenne a kérdésem, hogy azt látjuk, hogy ezen a szavazáson, amit ugye most Vanni is említett, ugye 1,1 millióan voksoltak.
+[00:26:18](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1578) Úgyhogy én csodálkoztam volna, hogyha Magyar Péter miután a választás esté elmondta, hogy kiknek kell távoznia, utána egyértelmű, hogy ezt a fajta dolgot nem fogják elengedni.
 
-[00:29:44](https://www.youtube.com/watch?v=lAxXPwElugA&t=1784) A résztvevőknek az 58%-a támogatta a csatlakozást, de most jóval többen szavaztak a Tiszára, ugye 33400en.
+[00:26:28](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1588) azt mondjuk most ez jogilag és az egésznek a a hát a elfogadott politikai stílushoz mennyi köze van, vagy kinek kinek hogyan vág ez bele az ízlisébe, az egy másik kérdés, de ezt biztos nem fogják elengedni, hogy hogy Sullyok Tamás távozzon a hivatalából.
 
-[00:29:54](https://www.youtube.com/watch?v=lAxXPwElugA&t=1794) Mennyire oszthatja meg a Tisza szavazó táborát?
+[00:26:47](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1607) Ha nem távozik, akkor valhetően alaptörvénymódosításra kerül sor.
 
-[00:29:56](https://www.youtube.com/watch?v=lAxXPwElugA&t=1796) Ukrajna kérdése.
+[00:26:53](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1613) Ugye úgy is fogalmazott Magyar Péter, hogy Súlyok Tamás nem testesíti meg a nemzet egységét, valamint előre vetítette azt is, hogy egyébként lennének javaslataik a köztársasági elnök személyét illetően, de hogyha Slyok Tamás fideszes köztársasági elnök, akkor akor itt Magyar Péter javasol, nem lesz Tiszás köztársasági elnök?
 
-[00:29:59](https://www.youtube.com/watch?v=lAxXPwElugA&t=1799) Én nem tudom, én nem vagyok tiszás elemző azzal szemben, amit egyébként a Magyar Nemzet írt rólam egy héttel ezelőtt, mikor ebben a stúdióban Szűcs Gábor képviselő úrral beszélgettünk, aki azt állította, hogy én én azt mondom, hogy ukrán kapcsolatokkal megelőzhető lett volna a kárpátaljai dróntámadás.
+[00:27:10](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1630) Bocsánat, itt teljesen más nézőpontból kell szerintem megnézni ezt a dolgot.
 
-[00:30:19](https://www.youtube.com/watch?v=lAxXPwElugA&t=1819) Én ezt egy szóval nem mondtam.
+[00:27:13](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1633) Az első dolog, hogy Sulyog Tamás hivatalban lévő törvényesen a parlamentá által megválasztott államfő.
 
-[00:30:21](https://www.youtube.com/watch?v=lAxXPwElugA&t=1821) Ezt a magyar nemzet utána lehozta a hasábjain.
+[00:27:20](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1640) Kezdjük ezzel.
 
-[00:30:23](https://www.youtube.com/watch?v=lAxXPwElugA&t=1823) Én erre ráutaló magatartást sem tettem.
+[00:27:23](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1643) hivatalában van az, hogyha valaki őt neres természetű elnöknek nevezi, az már egy politikai minősítés.
 
-[00:30:26](https://www.youtube.com/watch?v=lAxXPwElugA&t=1826) Sőt, köze nem volt a mondandómnak ehhez a témához.
+[00:27:29](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1649) Tehát ahogy Lengyelországban azt látjuk, hogy a lengyel kormány és az ottani köztársasági elnök viaskodásában mindenféle politikai szándékok meghózódnak, itt is teljesen nyilvánvaló, hogy pusztán arról van szó, hogy ellenségképet épít Magyar Péter, hiszen az elnök, bár cseké jogkörű is a magyar elnök sok mindenben érdemileg nem szólhat bele, mégis szüksége van a híveinek és a saját táborának egy olyan ellenségre, akit fel lehet mutatni lengyel példára.
 
-[00:30:31](https://www.youtube.com/watch?v=lAxXPwElugA&t=1831) Milyen megújulás az?
+[00:27:59](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1679) Tehát ez az ügye erről szól.
 
-[00:30:31](https://www.youtube.com/watch?v=lAxXPwElugA&t=1831) Már bocsánat, de tényleg.
+[00:28:01](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1681) Azt pedig nagyon őszintén gondolom, hogy az elnök elmozdítása az olyan belpolitikai vihart eredményez még alkotmány módosítással is, ami nem biztos, hogy hosszú távon kedvez a kormánynak, hiszen [horkantás] a ebben az országban úgy gondolom, hogy az emberek nagyon sok tekintetben konzervatívok.
 
-[00:30:33](https://www.youtube.com/watch?v=lAxXPwElugA&t=1833) Milyen megújulás az?
+[00:28:18](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1698) A jobboldaliak, baloldaliak el nem kötelezettek.
 
-[00:30:35](https://www.youtube.com/watch?v=lAxXPwElugA&t=1835) Milyen sajtótermék az, amikor valakiről állítunk valamit?
+[00:28:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1702) És a konzervatímusunkban egy dolog nagyon fontos, ami történelmi tanulság minden ember fejében, hogy a kiegyezéstől egészen 1948-on keresztül 1990-ig, ha nem a törvényes alapon állt a magyar alkotmányosság, akkor a politikai rendetlenség mindig azzal fenyegette az országot, hogy elmerülünk.
 
-[00:30:38](https://www.youtube.com/watch?v=lAxXPwElugA&t=1838) Arra szeretnélek kérni, hogy mi viszont itt a kommentben rendszeresen hétről hétre szeretettel várunk téged ide, és meghallgatjuk a véleményedet.
+[00:28:42](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1722) Jelenleg 2026-ban azt kell közösen eldöntenünk, hogy el akarunk merülni és engedünk a politikai manipulációknak Magyar Péterék elterelőadműveletének, vagy ellenkezőleg azért védjük meg az elnököt még azok is, akik nem kedveljük vagy nem kedvelik, mert a törvényesség alapján ezt az egy dolgot tehetjük.
 
-[00:30:47](https://www.youtube.com/watch?v=lAxXPwElugA&t=1847) És mi nem a Magyar Nemzet, hanem a Hírtv, most pedig ugye a komment vita műsora vagyunk.
+[00:28:57](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1737) Ezt világosan kell látni, és ez nagyjából alkotmányos és jogi szempontból ténykérdés.
 
-[00:30:53](https://www.youtube.com/watch?v=lAxXPwElugA&t=1853) Úgyhogy arra ez is jövök el tisztelettel minden egyes alkalommal, amikor meghívtok.
+[00:29:04](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1744) Tehát a többi az mind elterelés, amiről így szó volt.
 
-[00:30:56](https://www.youtube.com/watch?v=lAxXPwElugA&t=1856) És ezért szeretnék ezért szeretnék csak egyetlen kérdést föltenni, noha sejtem a válaszokat, és utána folytathatjuk, megígérem a témával.
+[00:29:06](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1746) Semmi másról nem szól, csak Magyar Péter saját brendjének a megerősítéséről.
 
-[00:31:04](https://www.youtube.com/watch?v=lAxXPwElugA&t=1864) Szerintetek elfogadható-e az, hogy egy magyar országgyűlési képviselő, vagy egy magyar sajtógánum olyat ad egy civil ember szájába, amit ő nem mondott?
+[00:29:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1752) Egyébként azt meg kell vizsgálni.
 
-[00:31:15](https://www.youtube.com/watch?v=lAxXPwElugA&t=1875) Ez is biztosan nagyon érdekes kérdés, de etele ar egyet egyet szeretnék kérni tőled.
+[00:29:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1754) Biztos, hogy hogy Pokol Béla alkotmányjogásznak vajon abban igaza van-e.
 
-[00:31:20](https://www.youtube.com/watch?v=lAxXPwElugA&t=1880) A műsort egyelőre még én vezetem, úgyhogy arra szeretnélek megkértel fogad erre a kérdés szeretnék választ kapni.
+[00:29:18](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1758) Én sejtem, minthogyha igaza lenne.
 
-[00:31:26](https://www.youtube.com/watch?v=lAxXPwElugA&t=1886) A kérdéseket pedig igyekszem én feltenni.
+[00:29:20](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1760) Hogyha abból indulunk ki, hogy a köztársasági elnök személye sérthetetlen, akkor az erre való sértésre való felhívás vagy lépés az alkotmányellenes.
 
-[00:31:28](https://www.youtube.com/watch?v=lAxXPwElugA&t=1888) Igyekszek releváns kérdéseket feltenni, úgyhogy arra kérlek, hogy az imént feltett kérdésre válaszolj, mennyire osztja meg Ukrajna kérdése ezt a majdnem 3árom és fél millió embert?
+[00:29:34](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1774) Tehát itt az alkotmányellenes lépést egyébként pont a miniszterelnök követi el.
 
-[00:31:37](https://www.youtube.com/watch?v=lAxXPwElugA&t=1897) Hát ha szerinted ez nem releváns kérdés, akkor én nagyon-nagyon szomorú vagyok.
+[00:29:39](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1779) Bocsánat.
 
-[00:31:41](https://www.youtube.com/watch?v=lAxXPwElugA&t=1901) Én bíztam benne, hogy számodra ez tele arra kérlek, hogy ezt a konfliktust a magyar nemzettel igyekezz elrendezni.
+[00:29:39](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1779) Tehát nyilvánvalóan ez egy politikai kategória.
 
-[00:31:45](https://www.youtube.com/watch?v=lAxXPwElugA&t=1905) Én nem a Magyar Nemzet szerkesztőségében dolgozok, futó Boglárka vagyok és a komment műsorvezetője.
+[00:29:41](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1781) Jogiérrtelemben az a helyzet, hogyha amennyiben az országgyűlés kétharmaddal új alkotmányt, alaptörvényt alkot, vagy módosít, akkor ez a helyzet, amit mondasz, jogilag megváltozik, hiszen onnan az lesz a törvény, ezt meg lehet tenni, de politikai értelemben érthető ez, amit fölvetettetek.
 
-[00:31:54](https://www.youtube.com/watch?v=lAxXPwElugA&t=1914) Nem velem van konfliktusod.
+[00:29:57](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1797) De van ennél ez egy sokkal egyszerűbb kérdés.
 
-[00:31:56](https://www.youtube.com/watch?v=lAxXPwElugA&t=1916) De azért gondolom neked is van azzal némi kifogásod, hogyha valamilyen sajtótermék így él, mint sajtómunkás.
+[00:29:59](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1799) Ugye a Tisza kampányának szerves része volt ez az ígéret, amiről Ricsi is az előbb beszélt, hogy a NER vezetőit, ebbe a köztársaság elnököt mindig elsőként sorolta föl, hónapokon talán bő egy éven keresztül megnevesítette.
 
-[00:32:03](https://www.youtube.com/watch?v=lAxXPwElugA&t=1923) Van-e valaki, aki esetleg szívesen válaszol az imént feltett kérdésemre?
+[00:30:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1814) Most felteszem a kérdést, ha ő ezt most nem venné elő, hanem úgy csinál, mintha az nem történt volna, akkor Magyar Péter teljesen logikusan már most egy súlyos hitelvesztést szenvedne el.
 
-[00:32:07](https://www.youtube.com/watch?v=lAxXPwElugA&t=1927) Bogi, én azt gondolom, hogy és én ezzel lezárnám.
+[00:30:25](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1825) Tehát én szerintem számára is egyirányú az utca, hiszen ezt gyakorlatilag a ahogy elindult a Tiszapárt, egészen a választások napjáig ezt a követelését elmondta.
 
-[00:32:09](https://www.youtube.com/watch?v=lAxXPwElugA&t=1929) Az, hogy Etelének van ezzel kapcsolatban véleménye, szerintem az teljesen releváns.
+[00:30:36](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1836) Szerintem itt valójában neki sincsen mérlegelési lehető.
 
-[00:32:12](https://www.youtube.com/watch?v=lAxXPwElugA&t=1932) Nem a legjobb helyen vagyunk most olyan tekintetben, hogy azért a nézők nagy része arra lenne kíváncsi, amit egyébként itt a szerkesztésben magatok a kollégák.
+[00:30:39](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1839) Zsolt annyi mindent mondott már.
 
-[00:32:21](https://www.youtube.com/watch?v=lAxXPwElugA&t=1941) Nagyot hadd mondjak erre, hogy megint átkeretezésnek érzem ezt az egész történetet.
+[00:30:39](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1839) Ő azt is mondta egyébként, hogy börtön börtön bilincs vagy én nem tudom már mi volt bilsc [torokköszörülés] bilincs rácsrács.
 
-[00:32:24](https://www.youtube.com/watch?v=lAxXPwElugA&t=1944) Ha Orbán, tehát a kampányba visszamegyek, ha Orbán azt mondta, hogy Ukrajnát nem szeretjük, akkor a tiszások azt mondják, hogy Ukrajnát szeretjük.
+[00:30:47](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1847) Bilincs bilincs rácsrács, hogy gyakorlatilag 2000 ilyen blöfföt hallottunk már, ami mind arra volt alkalmas, hogy odahergelje a népet.
 
-[00:32:33](https://www.youtube.com/watch?v=lAxXPwElugA&t=1953) Megérkezik a választás, nyer a Tisza.
+[00:30:54](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1854) hogy le lehessen váltani Orbán Viktort.
 
-[00:32:36](https://www.youtube.com/watch?v=lAxXPwElugA&t=1956) Most már nem annyira fontos Ukrajna egyébként a tisztás oldalnak.
+[00:30:57](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1857) az megtörtént, hogyha ezt mind be akarná váltani itt mindenki, az összes 2,3 millió Fidesz szavazó börtönbe menne, az kétségtelen egyébként, hogy és az nem igazolja h a az ő helyes mondását vagy lépését, hogy 100 vagy 200 az00 ember tényleg bevehető ebbe a körbe, akik úgy követik fanok, hogy tényleg te menjél börtönbe.
 
-[00:32:38](https://www.youtube.com/watch?v=lAxXPwElugA&t=1958) Ez a 3,3 millió ember magasról nem érdekli, hogy egyébként mi történik Ukrajnával.
+[00:31:25](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1885) Ismerek a ahol én egy zalai polgármestert többet is, akinek azt mondták, hogy mondjon le addig, nincs is ok egyébként a lemondatásra, mondjon le addig, amíg teheti.
 
-[00:32:43](https://www.youtube.com/watch?v=lAxXPwElugA&t=1963) Ez az én meggyőződésem.
+[00:31:37](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1897) Mi az?
 
-[00:32:45](https://www.youtube.com/watch?v=lAxXPwElugA&t=1965) És ezt nagy valószínűséggel egyébként Magyar Péter is a legteljesebb mértékig érzi.
+[00:31:37](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1897) Ez ez ezt behozzuk a divatba ezt az állandó fenyegetést, az állandó lincshangulat gyártását.
 
-[00:32:49](https://www.youtube.com/watch?v=lAxXPwElugA&t=1969) Tehát én ezt továbbra is mondom, ugyanúgy át van keretezve a dolog.
+[00:31:48](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1908) Szóval ennél ennél egy kicsit 2026-ban szerintem már picit gyakor bolgármester úr ebben igazod van, de a köztársasági elnök dolga egy picit azért más, miközben igazad van.
 
-[00:32:53](https://www.youtube.com/watch?v=lAxXPwElugA&t=1973) A kampányban ez el volt döntve feketére és fehérre.
+[00:31:57](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1917) Tehát ha egy önkormányzati választót vezető esetében ennek nem szabad előfordulnia.
 
-[00:32:55](https://www.youtube.com/watch?v=lAxXPwElugA&t=1975) Ha Orbán nem szereti Ukrajnát, ha a Fidesz oldal nem szereti Ukrajnát, akkor a Tisza oldalnak úgy kell csinálnia, mintogyha egyébként ők egy kicsit szeretnék, vagy ők nem bánnák, vagy ők akár esetleg támogatják is a csatlakozást.
+[00:32:01](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1921) A köztársasági elnök esetében, miután a megválasztását nagyon sok bírálat érte, és igen, nem ő az egyetlen olyan köztársasági elnök az elmúlt évtizedekből, aki mondjuk udvariasan fogalmazva nem testesíti meg a nemzet egységét.
 
-[00:33:09](https://www.youtube.com/watch?v=lAxXPwElugA&t=1989) Túl vagyunk a választáson.
+[00:32:14](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1934) És valóban amit műsorvezető asszony föltett kérdésként, hogy ha Magyar Péter javasolna egy köztársasági elnököt, akkor ez a Tisen önmagában nem.
 
-[00:33:11](https://www.youtube.com/watch?v=lAxXPwElugA&t=1991) Innentől fogva ez nem lesz annyira fontos kérdés egyébként a Tiszatáborban sem, sőt bőven el tudom képzelni, hogy lesz ilyen finom visszakozás, hogy hát ezt ők sem nagyon szeretnék.
+[00:32:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1942) Ez a névtől függ.
 
-[00:33:19](https://www.youtube.com/watch?v=lAxXPwElugA&t=1999) Nem csak 27-ig, Zoli, hanem 30-ig sem, csak hogy a mi fogadásunkról is itt így tudjak el.
+[00:32:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1942) De de én még egyszer ismétlem, annyira erős, hangsúlyos, talán a leghangsúlyosabb része volt a Tiszakampá.
 
-[00:33:26](https://www.youtube.com/watch?v=lAxXPwElugA&t=2006) Igen, egy másik műsorban fogadtunk ezzel kapcsolatban.
+[00:32:30](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1950) Zsolt, de ennek hol van a vége?
 
-[00:33:29](https://www.youtube.com/watch?v=lAxXPwElugA&t=2009) Én megígértem nekik, hogy nem lesz 27 végéig csatlakozás, mert ti nagyon aggódtatok, hogy hát ez ez ez egy reális veszély.
+[00:32:30](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1950) Mert ugye azt is mondta Magyar Péter pont a győzelmi beszédében, hogy mindenkinek felelnie kell és távoznia kell a közéletből, aki az elmúlt 16 évben ennek a rendszernek tartó oszlopa vagy kiszolgálója volt.
 
-[00:33:36](https://www.youtube.com/watch?v=lAxXPwElugA&t=2016) És azt gondolom, hogy itt a lényeg, hogy Magyar Péter a gyorsított eljárás, ami egyébként nem is létezik, de jóre, a gyorsított eljárást utasította el.
+[00:32:42](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1962) De ez mit jelent?
 
-[00:33:50](https://www.youtube.com/watch?v=lAxXPwElugA&t=2030) És most pedig egyértelmű feltételeket szabad azért, hogy el lehessen indítani.
+[00:32:44](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1964) Ugye nem határozta meg a Zsoltnak a a kijelentéshez térünk vissza, tehát hogy ugye nem testesíti meg a nép a magyar nemzet egységét egészen pontosan, de megtestesíti, mert mert kéthmaddal lett megválasztva, tehát az az két különböző intézményről beszélünk.
 
-[00:33:55](https://www.youtube.com/watch?v=lAxXPwElugA&t=2035) Ezt azt hiszem ti is látjátok, vagy érzékelitek, hogy nincs az a gyorsított eljárás, nincs az a felgyorsított tárgyalási menetrend, amivel föl lehetne 27 végéig venni, akár 28 végéig venni, akár 29 végéig venni.
+[00:33:03](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1983) Tehát maradjunk a köztársasági elnök, elnök jogkörének leírásánál.
 
-[00:34:10](https://www.youtube.com/watch?v=lAxXPwElugA&t=2050) Akkor mi azok ezeknek a politikai nyilatkozatoknak?
+[00:33:05](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1985) A magyar nemzet egységét testesíti meg a megválasztott elnök.
 
-[00:34:13](https://www.youtube.com/watch?v=lAxXPwElugA&t=2053) Mely nyilatkozatnak?
+[00:33:10](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1990) Dr.
 
-[00:34:14](https://www.youtube.com/watch?v=lAxXPwElugA&t=2054) Hogy 2027-ig Ukrajnának csatlakozni kell az Európa.
+[00:33:10](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1990) Súlyok Tamás ennek az országnak a megválasztott elnöke.
 
-[00:34:17](https://www.youtube.com/watch?v=lAxXPwElugA&t=2057) Vagy hogy mondjuk Mártakosz arról beszélt, hogy én a nap 24 órájában minden erőmmel azon dolgozok, hogy Ukrajna mihamarabb csatlakozzat nem jelent semmit.
+[00:33:15](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=1995) Az, hogy minősíted te egyébként jogod van hozzá, hogy hogy minősíti a miniszterelnök, hogy hogy minősíti a miniszterelnök.
 
-[00:34:26](https://www.youtube.com/watch?v=lAxXPwElugA&t=2066) Tehát ez olyan, mintogyha te kérsz tőlem valamit és én azt mondom neked, nem azt mondom, hogy jó, meglesz, hanem azt mondom, hogy mindent meg fogok tenni annak érdekében, hogy meg tudjam tenni.
+[00:33:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2002) Ezek már politikai értékelések, tehát térjünk vissza Gönc Árpádon keresztül, Sólyom Lászlón keresztül a mostani elnökig.
 
-[00:34:36](https://www.youtube.com/watch?v=lAxXPwElugA&t=2076) Ha szabad megszó az ügyben, egyébkén, hogy mondjam, ez nem hazugság és nem megvezetés, azt gondolom.
+[00:33:29](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2009) Aki hivatalában lévő elnöke volt Magyarországnak, az a magyar nemzet egységét testesíti meg, amíg új alkotmányt nem hoznak.
 
-[00:34:40](https://www.youtube.com/watch?v=lAxXPwElugA&t=2080) Tehát ez az uniós vezetők részéről a remény ajtajának nyitvahagyása.
+[00:33:37](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2017) és le nem váltják, addig nincs miről beszélni.
 
-[00:34:45](https://www.youtube.com/watch?v=lAxXPwElugA&t=2085) Itt van egy nemzet, amelyik honvédőháborút vív.
+[00:33:40](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2020) Addig ez egy önkényes egyoldalú politikai ítélet, és amíg nincs új alkotmány, és törvényes le nemenem váltják, addig ő lesz az ország elnöke.
 
-[00:34:49](https://www.youtube.com/watch?v=lAxXPwElugA&t=2089) számukra az uniós csatlakozás egy távlati cél, de nagyon fontos, hogy ez a távati cél ez ott pislákoljon előttük, mert mert a remény nélkül nem lehet végigcsinálni ezt a jus előlti státuszt is megkapták sokkal korábban, mint akár a nyugat-balkáni országok vagy akár Magyarország is, illetve a csatlakozási tárgyalás megkezdését is igazából két év alatt már elkezdték velük, ami megint csak sokkal gyorsabb idő, mint ami a többi ország esetében Az azért neudjatok, ennyi időnk volt mára.
+[00:33:48](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2028) Pont azoknak az elnöke is, akik szeretik, meg azoknak az elnöke is, akik nem szeretik.
 
-[00:35:16](https://www.youtube.com/watch?v=lAxXPwElugA&t=2116) Én nagyon szépen köszönöm, nagyon szépen köszönöm, hogy itt voltatok velünk és elfogadtátok a meghívásunkat és kérdezem a híradós kollégától.
+[00:33:53](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2033) Laci, nekem van van egy van egy olyan érzésem egyébként, hogy azért forszírozza most már negyedszerre azt, hogy mondjon le magától, mert mintogyha én én látnék mögötte olyat, hogy fél meglépni, hogy kétharmaddal mondjuk megváltoztatni a az alkotmányt és eltakarítani.
 
-[00:35:24](https://www.youtube.com/watch?v=lAxXPwElugA&t=2124) Szervuszsi, nálatok este 8-kor a híradóban miről lesz szó?
+[00:34:10](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2050) Fél, nem egyszerű helyzet, nem egyszerű helyzet lesz.
 
-[00:35:29](https://www.youtube.com/watch?v=lAxXPwElugA&t=2129) Szia Bogi, köszöntöm a nézőket is.
+[00:34:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2052) Figyelemb tegyünk bocsánt helyre, hogy a a megválasztás körülményei voltak azok, amelyek a nemzetegységét nem engedik megtestesíteni.
 
-[00:35:31](https://www.youtube.com/watch?v=lAxXPwElugA&t=2131) Foglalkozni fogunk a kegyelmi üggyel, ugyanis iratokat hozott nyilvánosságra Magyar Péter, de nem tudtunk meg többet belőlük.
+[00:34:20](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2060) Én nem ismerem köztársaságöt.
 
-[00:35:37](https://www.youtube.com/watch?v=lAxXPwElugA&t=2137) Aztán szó lesz a költségvetési lyukakról, mert ígéretei nagy részét nem lesz képes megvalósítani a Tiszapárt.
+[00:34:22](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2062) Hát az amire, hogy Zsolt mire gondol, azt egy következő adásban várjuk szeretettel.
 
-[00:35:43](https://www.youtube.com/watch?v=lAxXPwElugA&t=2143) Ezt mondta Panyi Miklós országgyűlési képviselő.
+[00:34:27](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2067) Mindannyiotokat várjuk vissza, hogy Laci erre a kérdésre választ kaphasson Zsolttól.
 
-[00:35:45](https://www.youtube.com/watch?v=lAxXPwElugA&t=2145) És végül nem lesz 480 Ft-os benzinár, ha magas olajára hivatkozóan nem teljesíti kampány követelését Magyar Péter.
+[00:34:31](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2071) Köszönöm szépen, hogy itt voltatok ma velünk.
 
-[00:35:53](https://www.youtube.com/watch?v=lAxXPwElugA&t=2153) Ezekkel a témákkal foglalkozunk 8 órakor.
+[00:34:35](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2075) Önöknek pedig köszönjük a megtisztelő figyelmet.
 
-[00:35:57](https://www.youtube.com/watch?v=lAxXPwElugA&t=2157) Bíró Zsuzsinak nagyon szépen köszönjük a részleteket.
+[00:34:37](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2077) És azonnal következik a monitor, aminek vendége lesz Kacsó, Dániel, [zene] Pindrok, Tamás, valamint Hankó, Balázs is, úgyhogy tartsanak velünk a folytatásban is.
 
-[00:35:58](https://www.youtube.com/watch?v=lAxXPwElugA&t=2158) Érdemes lesz tehát követni a híradót.
+[00:34:43](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2083) Én köszönöm szépen még egyszer a megtisztelő figyelmüket.
 
-[00:36:00](https://www.youtube.com/watch?v=lAxXPwElugA&t=2160) Én vendégeimnek köszönöm szépen még egyszer, hogy itt voltak velünk.
+[00:34:47](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2087) [zene] Viszontlátásra és további szép estét!
 
-[00:36:04](https://www.youtube.com/watch?v=lAxXPwElugA&t=2164) Önöknek pedig köszönjük a megtisztelő figyelmet.
+[00:34:56](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2096) [zene] [zene] Ahogy ígértem, visszajöttünk.
 
-[00:36:05](https://www.youtube.com/watch?v=lAxXPwElugA&t=2165) Tartsanak velünk holnap is, ugyanis ahogy azt már megszokhatták, este 7:00-től várjuk önöket kommenttel.
+[00:35:12](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2112) Egy csep irónia és semmi álsz.
 
-[00:36:10](https://www.youtube.com/watch?v=lAxXPwElugA&t=2170) Addig is viszontlátásra és további szép estét.
-
-[00:36:20](https://www.youtube.com/watch?v=lAxXPwElugA&t=2180) เฮ
+[00:35:15](https://www.youtube.com/watch?v=j_J_yqLeS7U&t=2115) Itt találkoznak a legforróbb témák, a
 
 </details>
