@@ -2,813 +2,881 @@
 date: '2026-05-22'
 title: Komment - HírTV
 description: ''
-video_id: LFy8GXxhxoU
-video_url: https://www.youtube.com/watch?v=LFy8GXxhxoU
+video_id: 4UdajmnO_RE
+video_url: https://www.youtube.com/watch?v=4UdajmnO_RE
 channel_slug: hir-tv
 channel_name: Hír TV
 affiliation: fidesz-aligned
 direction: conservative
 notes: Mediaworks/KESMA kormánypárti hírTévé
-published_at: '2026-05-22T18:12:20+00:00'
-duration_sec: 2201
+published_at: '2026-05-22T06:06:23+00:00'
+duration_sec: 2615
 tags:
 - alaptörvény-módosítás
-- tisza párt
-- magyar péter
-- sajtószabadság
-- politikai kommunikáció
+- tisza
+- önkormányzat
+- adópolitika
+- populizmus
 transcript_source: youtube_subtitle
 summary_model: deepseek/deepseek-v4-pro
 ---
 
 <!-- SECTION:TLDR -->
 
-- A TISZA párt alkotmánymódosítást nyújtott be, amely visszamenőlegesen, 1990-től korlátozná a miniszterelnöki ciklusok számát nyolc évben.
-- A javaslat egyértelműen Orbán Viktorra van szabva, mivel rajta kívül senki másra nem vonatkoztatható a gyakorlatban.
-- A jogásztársadalom többsége szakmailag elhibázottnak tartja a javaslatot, mert sérti a visszamenőleges törvényhozás és a személyre szabott jogalkotás tilalmát.
-- Magyar Péter állítása, miszerint a javaslat önmagát korlátozza, ellentmondásos, hiszen kétharmados többséggel később bármikor módosíthatná a szabályt.
-- A Fidesz "Védvonal" néven kezdeményezést indított a jobboldali szavazók védelmére, reagálva a közösségi médiában tapasztalható erőszakos megnyilvánulásokra.
-- A műsorban bemutatott példák között szerepelt Tóta W. Árpád, Pottyondi Edina és Fekete-Győr András megosztó, fenyegető vagy trágár megnyilvánulása.
-- A TISZA-kormány kommunikációja továbbra is "one man show", a miniszterek nem nyilatkoznak, és bizonyos sajtóorgánumok képviselőit nem engedik be a sajtótájékoztatókra.
-- Felmerült, hogy a látványos jogalkotási lépések csupán "gumicsontok", amelyek elfedik a valós gazdasági és kormányzati teljesítményproblémákat.
+- A TISZA-kormány első alaptörvény-módosítása nyolc évben maximálja a miniszterelnöki mandátumot, visszamenőleges hatállyal 1990-től számolva.
+- Márkai Péter szerint a korlátlan miniszterelnöki hatalom abszurd volt, és a módosítás valójában Magyar Pétert korlátozza, Orbán visszatérésének esélye nulla.
+- Kohán Mátyás populizmusnak nevezte a lépést, mert egy parlamentáris rendszerben a valódi hatalom máshol is összpontosulhat, nem csak a miniszterelnöknél.
+- Székely Sándor személyre szabott, visszamenőleges és szimbolikus törvényként bírálta, amelynek nincs valódi értelme, mert egy új kétharmad úgyis eltörölheti.
+- Pityinger László szerint Magyar Péternek szüksége van Orbánra mint nemezisre a figyelem fenntartásához, és a TISZA még mindig tart Orbán politikai képességeitől.
+- Gulyás Gergely bírálta a migrációs szabályok alaptörvényből való kivételét, a visszamenőleges hatályt és a felsőoktatás állami függésbe terelését.
+- A szolidaritási adó kapcsán Márkai Péter jelezte, hogy Hódmezővásárhelytől 691 millió forintot inkasszált az államkincstár, és az önkormányzatok függetlenségének helyreállítását sürgette.
+- Radnai Márk TISZA-alelnök nyilatkozatai kapcsán felmerült, hogy a kormány népszerűtlen döntésekre készül, és a politikai hazudozás legitimálódott.
+- Kohán Mátyás szerint a TISZA jövőjét nem a kommunikáció, hanem a valódi kormányzati teljesítmény és a nagy rendszerek reformja fogja eldönteni.
 
 <!-- SECTION:DETAILS -->
 
-## Lex Orbán – a TISZA alkotmánymódosítási javaslata
+## A TISZA első alaptörvény-módosítása: a miniszterelnöki mandátum korlátozása
 
-### A javaslat tartalma és politikai olvasata
+A műsor elsődleges témája a TISZA-kormány első alaptörvény-módosítása volt, amely többek között rögzíti, hogy nem választható miniszterelnöknek, aki összesen – megszakításokkal együtt – legalább nyolc évig miniszterelnöki megbízatást töltött be. A módosítást számos kritika érte, köztük Latvan Tamás jogász részéről, aki Facebook-posztjában „Lex Jancsi" után „konstutító Orbanisz"-nak nevezte az intézkedést.
 
-A TISZA frakció – pontosabban Melléthei-Barna Márton igazságügyi miniszter – alkotmánymódosítási javaslatot nyújtott be, amely szerint két ciklusig (nyolc évig) lehet valaki miniszterelnök Magyarországon. A javaslatot visszamenőleges hatállyal, 1990-től kezdődően terjesztették elő. A műsorban a vendégek egyetértettek abban, hogy a törvényjavaslatnak egyértelműen „személyre szabott íze van", és politikai értelemben Orbán Viktor ellen irányul.
+### A módosítás értékelése a beszélgetőpartnerek részéről
 
-> „Ez egyértelműen kijelenthető, hogy Orbán Viktorra van szabva. Tehát ahogy Bencének nem sikerült találnia olyat, akire Orbán Viktoron kívül illett volna ez a körülírás, úgy nekünk sem, tehát sem jogalkotásilag, sem politikai értelemben nem nézhetünk más személy után, akire ez vonatkozhatna." – Kertész Dávid [*](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=251)
+Márkai Péter (Mindenki Magyarország Néppárt elnöke, Hódmezővásárhely polgármestere) teljes mértékben egyetértett a módosítással. Abszurdnak nevezte, hogy az elmúlt 36 évben a semmilyen érdemi hatalommal nem rendelkező köztársasági elnököt csak kétszer lehetett megválasztani, míg a minden hatalommal rendelkező miniszterelnöknek korlátlan mandátuma volt. Szerinte ezt az abszurd helyzetet most orvosolták.
 
-A beszélgetés során felmerült, hogy a javaslat elméletileg másra is vonatkozhatna (például Gyurcsány Ferenc vagy Bajnai Gordon neve is szóba került), de egyikük sem töltött ki nyolc évet miniszterelnökként, így a gyakorlatban kizárólag Orbán Viktorra alkalmazható.
+Kohán Mátyás (Mandiner rovatvezető-helyettes) nem teljesen értett egyet ezzel az állásponttal. Kifejtette, hogy egy parlamentáris rendszerben, ahol alapvetően annak van hatalma, aki a parlamenti listát összeállítja és a kormányzópártot vezeti, a miniszterelnök személyének limitálása nyolc évre nem feltétlenül veszi ki a hatalmat egy ember kezéből. Példaként hozta Jarosław Kaczyński lengyelországi modelljét és a szerbiai helyzetet, ahol a miniszterelnök formálisan jelentéktelen, miközben más kezében összpontosul a valódi hatalom.
 
-### A visszamenőlegesség kérdése
+> „Azt gondolom, hogy át lehet szabni a magyar közjogi rendszert olyan módon, hogy értelme legyen egy ilyen módosításnak. Tehát egy olyan hatalommal rendelkező stallumot lehet korlátozni időben, akinek tényleg saját magában beleinvesztált hatalma van." – Kohán Mátyás [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=188)
 
-Görög Márta korábban úgy nyilatkozott, hogy visszamenőleges hatállyal nem fognak törvényt alkotni. A műsorban elhangzott, hogy a jogásztársadalom döntő többsége szerint a javaslat „elhibázott, elfuserált, szakmailag megerőszakolt jogászkodás", amely sérti a római jog alapelveit, köztük a visszamenőleges törvényhozás tilalmát és a személyre szabott jogalkotás tilalmát.
+Kohán populizmusnak és a cirkusz részének nevezte a jelenlegi parlamenti struktúrában a miniszterelnöki pozíció nyolc évre korlátozását, hozzátéve, hogy problémája nincs vele, de sok értelmét sem látja.
 
-> „Sútba dobja a római jog összes alapelvét, hogy nincs visszamenőleges törvényhozás és nem lehet személyre szabni." – Dézsi Zoltán [*](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=489)
+### Vita a miniszterelnök valódi hatalmáról
 
-Árpási Bence ugyanakkor jelezte, hogy a visszamenőlegesség kérdése jogilag bonyolultabb: létezhet olyan olvasat, hogy csak akkor lenne visszamenőleges a jogalkotás, ha az Orbán-kormány intézkedéseit is eltörölnék vagy illegitimnek nyilvánítanák. A műsorvezető utalt rá, hogy Latván Tamás jogász szerint a szöveg nem korlátozza a miniszterelnök-jelölést, ha a köztársasági elnök olyan személyt jelöl, aki már nyolc évig volt miniszterelnök, illetve ha a parlament különleges esetben jelöl miniszterelnököt.
+Pityinger László (Dopman magyar repper, producer) döbbenetének adott hangot, hogy valaki – ráadásul egy fideszes – azt meri állítani, hogy nincs valódi hatalma a miniszterelnöknek. Felidézte, hogy Orbán Viktor 16 évig uralkodott, családját milliárdossá tette, és az Orbán családban „fegyverkereskedő, embercsempész, minden volt", valamint „pedofilokat mentegettek".
 
-### Magyar Péter önkorlátozása?
+Kohán Mátyás pontosított: nem arról beszélt, hogy nincsenek jogosítványai a közjogi miniszterelnöknek, hanem arról, hogy egy ilyen parlamentáris rendszerben az erős ember lehet bárki más.
 
-Márkizaj Péter (a TISZA politikusa) korábban úgy fogalmazott a műsorban, hogy a javaslat nem Lex Orbán, hanem Magyar Pétert korlátozza. Kertész Dávid ezt „meglehetősen furcsa megfejtésnek" nevezte, mondván: ha Magyar Péter a második ciklus végén is folytatni szeretné, a kétharmados többség birtokában egyszerűen módosíthatja a törvényt, például 12, majd 16 évre emelve a korlátot.
+### Személyre szabott és visszamenőleges hatályú törvény?
 
-### A javaslat mint gumicsont
+Székely Sándor (Szolidaritás Pártjának elnöke) három problémát emelt ki a törvénnyel kapcsolatban:
 
-Sarkadíj Csaba felvetette, hogy az ilyen látványos jogalkotási lépések – hasonlóan a korábbi Fidesz-kormányzat gyakorlatához – „gumicsontok" lehetnek, amelyek elfedik a gazdasági nehézségeket vagy a kormányzati teljesítmény elmaradását. Dézsi Zoltán szerint ez a tematizálás „maximum fél év, egy évig" működhet, utána már nem lesz elegendő.
+1. A törvény személyre szabott – kifejezetten Orbán Viktorra lett szabva.
+2. Visszamenőleges hatályú törvényt hoztak, amit korábban a Fidesz-kormányokkal szemben joggal kritizáltak.
+3. A kormány nem a minimálbér emelésével, a nyugdíjak rendbehozatalával vagy az úthálózat karbantartásával kezd, hanem egy „nagyon bugyuta" törvénnyel.
 
-> „Hiába is szeretné Magyar Péter meghosszabbítani a kampányt, vagy pedig ezeket a tematizálásokat." – Dézsi Zoltán [*](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=469)
+> „Az új kormány ezzel kezd, az első törvény, hogy egy személyre szabott és visszamenőleges hatályú törvényt hoz. Az ellenzék, aki eddig ennek az ellenzéke volt és jogi értelemben támadta ezeket a Fidesz által hozott – és egyébként szerintem is helytelen – döntéseket, most meg se szólal." – Székely Sándor [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=299)
 
-Dézsi azt is megjegyezte, hogy egy jól teljesítő miniszterelnök esetében nincs értelme mesterségesen korlátozni a ciklusok számát, és a nyugati országok is látják, hogy „dilettáns jogalkotás" folyik a magyar parlamentben.
+Székely szerint a törvénynek nincs valódi értelme, mert ha majd valamikor újra kétharmaddal hatalomra jut valaki, akkor ők is meghozzák a törvényt, ami ezt annulálja. Szimbolikus törvénynek nevezte.
 
-### Görög Márta hallgatása
+### Miért volt szükség személyre szabott törvényre?
 
-A műsorban bejátszottak egy jelenetet, amelyben az újságírók hiába próbálták kérdezni Görög Mártát az alkotmánymódosításról – nem kaptak választ. Árpási Bence szerint a TISZA Párt folytatja azt a gyakorlatot, hogy a miniszterek nem nyilatkoznak, és a kommunikáció továbbra is „one man show", amelyet kizárólag Magyar Péter visz a hátán.
+Pityinger László szerint a TISZA berkein belül még mindig tartanak Orbán Viktortól. Kifejtette, hogy bár a Fideszt sikerült amortizálni, Orbánban még mindig megvan a potenciál és az erő az újrakezdésre, hiszen olyan politikai skillekkel rendelkezik, amilyenekkel a magyar politikai térfélen senki. Ráadásul Magyar Péternek Orbán a nemezise.
 
-> „Továbbra is a kormányzati kommunikáció így fejnehéz, egyetlen egy emberen múlik, az influencer miniszterelnök, Magyar Péter csinálja és a beosztottak pedig nem nagyon szólalhatnak meg." – Árpási Bence [*](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=663)
+Pityinger úgy véli, hogy Magyar Péter „szerelmes is az Orbánba", szellemi vezetőként és példaképként tekint rá, akit egyfajta apafiguraként meg akar haladni és le akar győzni. Orbán viszont kivette magát ebből a dologból, nem képes vele kommunikációba kerülni – ezt a bunyóban úgy hívják, hogy „fölösleges ütést nem kell kapni".
 
-## A Fidesz „Védvonal" kezdeményezése
+Pityinger szerint Magyar Péternek azért is szüksége van Orbánra és az összes problematikájára, mert ezzel tudja fenntartani a figyelmet, és el tudja terelni arról, hogy „valamiféle józan értelembe vett kormányzás semmilyen szinten nem folyik", valamint személyzeti problémák vannak.
 
-### A bejelentés háttere
+### Visszamenőleges hatály – vita
 
-Orbán Viktor és Kocsis Máté közösen jelentették be a „Védvonal" megalapítását, arra hivatkozva, hogy „tarthatatlan a jobboldali szavazók elleni gyűlöletszunami". A kezdeményezés célja, hogy dokumentálják a támadásokat, és szükség esetén jogi segítséget nyújtsanak az érintetteknek. Orbán Viktor úgy fogalmazott: „ha szükséges, akkor utcára is megyünk az embereink védelmében".
+Márkai Péter vitatta, hogy a törvény visszamenőleges hatályú lenne, és azt sem fogadta el, hogy „Lex Orbánnak" nevezzék. Szerinte ez a törvény Magyar Pétert fogja korlátozni egyedül, Orbánnak pedig semmi esélye nincs a visszatérésre. Ugyanakkor elismerte, hogy felesleges volt 1990-től számítani a nyolc évet, és nulla kockázat lett volna benne, ha 2026-tól számolják.
 
-### Mit véd a Védvonal?
+> „Én teljesen azt mondom, nyugodtan lehetett volna nagyvonalú, és 26-tól kezdhette volna. A lényeget tekintve ez Magyar Pétert korlátozza. Ezt várja el a tábor egyébként. A jelenlegi kormánypártnak a közepe, a Facebook-fanok, azok bosszút várnak el." – Márkai Péter [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=603)
 
-Sarkadíj Csaba kérdésként vetette fel, hogy pontosan mit tud még megvédeni a Fidesz, hiszen a korábbi NER-struktúra gyorsan omlik szét – utalva Balásy Gyula nyilvános „sirdogálására" egy másik tévécsatornában. Felvetette, hogy a pénzemberek (Balásy Gyula, Matolcsy Ádám és mások) már átálltak, és kérdéses, hogy a Fidesznek pontosan kik maradtak.
+Márkai szerint Magyar Péternek ki kell elégítenie a táborát, és fel kell mutatnia a skalpokat, hogy „látjátok, nem fog visszajönni az Orbán Viktor". Hozzátette: Orbán Viktor most Magyar Péter Gyurcsánya.
 
-Kertész Dávid erre reagálva kifejtette, hogy a nemzeti tábor nem omlott össze, sőt erősödést is lát: olyan írók, költők, filmes szakemberek is nyíltan felvállalják fideszes identitásukat, akik korábban hallgattak erről. Szerinte a pénzemberek távozása inkább „megtisztulás" a tábor számára.
+## Gulyás Gergely kritikája és a migrációs paktum kérdése
 
-> „Ez a tábor viszont nem amiatt fog működni, és nem amiatt működött eddig sem, mert vannak mögötte pénzemberek. [...] Ez a tábor a közösség egységessége, az emberek közötti kapcsolat miatt működik." – Kertész Dávid [*](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1352)
+A műsorban lejátszották Gulyás Gergely Fidesz-frakcióvezető nyilatkozatát, aki három pontban kritizálta az alaptörvény-módosítást:
 
-Kertész Dávid hangsúlyozta: a Védvonal nem kifejezetten a Fidesz, hanem a „jobboldali, nemzeti érzelmű, keresztény magyar emberek" védelmét szolgálja, és a Fidesz csupán a védelmet nyújtó struktúra. Hozzátette, hogy Orbán Viktor szerint „alulról szerveződő mozgalmakat kell indítani", és ez a magyar jobboldal jövője.
+1. **Migráció**: Szerinte a TISZA azért veszi ki a migrációra vonatkozó rendelkezést az alaptörvényből, hogy elfogadhassa a migrációs paktumot, és ennek ne legyen jogi-alkotmányos akadálya Magyarországon. Ez ellentétes a TISZA választási kampányban tett ígéretével, miszerint a migrációs politikában nem lesz változás.
 
-### A gyűlöletbeszéd példái
+2. **Lex Orbán**: A visszamenőleges hatály azt üzeni, hogy senki nincs biztonságban, ha alkotmányozni lehet visszamenőleges hatállyal, akkor bármit meg lehet tenni, bárkitől bármit el lehet venni.
 
-A műsorban több példát is bemutattak a közösségi médiában tapasztalható erőszakos megnyilvánulásokra:
+3. **Egyetemek**: A felsőoktatási rendszer teljes felszámolása és az állami függésbe való visszakerülés ellentétes az egyetemisták és az egyetemek érdekével, valamint a TISZA kampányígéreteivel.
 
-- **Tóta W. Árpád** egy videóban arról beszélt, hogy „a választók azt mondták, hogy leszák a keresztény Magyarországot", és hogy a fideszeseket „ketté lehet hozni és kész".
-- **Pottyondi Edina** „szatyorfingnak" nevezte Sulyok Tamás köztársasági elnököt, és kigúnyolta a miniszteri megbízólevelek átadásának protokolláris jeleneteit.
-- **Fekete-Győr András** azt írta Novák Katalinnak, hogy ha nem akarja „saját bőrén megtapasztalni, hogy milyen is egy valójában pokoli másfél év", akkor ne várja meg, amíg a parlamenti vizsgálóbizottság „rendőri kísérettel a nyilvánosság elé citálja".
+### Vita a migrációs politikáról
 
-### Pottyondi Edina és a köztársasági elnök gyalázása
+Kohán Mátyás szerint az az állítás, hogy kompromisszumra kell jutni Brüsszellel a migrációs paktum ügyében, önmagában nem lenne lehetetlen. A probléma az, hogy Magyarország szerinte nagyon helyesen csinálta az elmúlt 16 évben, hogy nem fogadta el azt a fundamentálisan hibás európai migrációs politikai logikát, amely szerint nem győződnek meg egy menedékkérő jogosultságáról, mielőtt beengednék.
 
-A Pottyondi Edináról szóló vita éles hangnemben zajlott. Dézsi Zoltán felháborodásának adott hangot:
+> „Amíg az Európai Unió közös migrációs politikája ezt a fundamentális ügyet nem rendezi, tehát nem tiltja meg azt, hogy egy menedékkérő azelőtt betehesse a lábát az Európai Unió területére, hogy elbírálták volna a menekültstátuszát, addig ez nem elfogadható." – Kohán Mátyás [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=482)
 
-> „Pottyondi Edinát soha többet ne mutassuk a Hírtévé nézőinek. Ez egy undormány az egész, amit most mondott. Kikérem magamnak az állampolgárok nevében a köztársasági elnök, mindannyiunk köztársasági elnöke nevében." – Dézsi Zoltán [*](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1639)
+Kohán szerint ha elfogadják a jelenlegi státuszt, az kinyitja Magyarország számára a lehetőséget arra, hogy kénytelenek legyenek vagy betelepíteni, vagy fizetni azért, hogy mások betelepítsenek olyan embereket, akiknek a zöme nagy eséllyel nem is lenne jogalap betelepíteni.
 
-A műsorvezető, Futó Boglárka ugyanakkor jelezte, hogy Pottyondi Edina több százezres eléréssel rendelkező tartalomgyártó, így a hatása jelentős, függetlenül attól, hogy valaki egyetért-e a stílusával. Árpási Bence elismerte, hogy a „szatyorfing" jelzővel neki is problémái vannak, de a videó tartalmának 80%-a szerinte „belefér". Hozzátette: a hergelés alapja nem a trágár kifejezések használata, hanem az olyan érvelés, amely a kommunista „kuláküldözésre" emlékeztet – „nézd meg, neki miért van, amikor neked nincs".
+A kihagyott bekezdésről Kohán elmondta, hogy az úgy szól: „az állam minden szervének kötelessége megvédeni az ország alkotmányos önazonosságát és keresztény kultúráját".
 
-Kertész Dávid párhuzamot vont az afrikai polgárháborús uszítás és a magyarországi gyűlöletbeszéd között, utalva arra az esetre, amikor egy rádiós műsorvezető „kiirtandó rovaroknak" nevezte honfitársait – hasonlóan ahhoz, ahogy Orbán Viktor a „poloskázást" használta. Megjegyezte ugyanakkor, hogy Orbán Viktor később tisztázta: a „poloskázás" a lehallgatási botrány kapcsán hangzott el, és nem általában az ellenfeleire vonatkozott.
+### Éles vita a migrációs számokról
 
-### Fekete-Győr András és a „Facebook Tanácsköztársaság"
+Pityinger László élesen bírálta a Fidesz migrációs politikáját, felróva, hogy a Fidesz körözött terroristának adott letelepedési engedélyt, és körözött bűnözőnek adott menedéket Magyarországon. Azt állította, hogy Orbán testvére az emberkereskedelemből profitált, és Debrecenbe 50 000 migránst telepített be a Fidesz.
 
-Fekete-Győr András bejegyzését a vendégek elítélték. Dézsi Zoltán „Facebook Tanácsköztársaságnak" nevezte a jelenséget, és abszurdnak tartotta, hogy rendőri elővezetéssel fenyegessenek egy parlamenti vizsgálóbizottság kapcsán. Sarkadíj Csaba szerint Fekete-Győr Andrást „komolyan venni luxus lenne", de elismerte, hogy a kampányban jelentős szerepet játszott a fiatalok mozgósításában. Árpási Bence emlékeztetett rá, hogy Fekete-Győr András volt az egyetlen politikus a rendszerváltás óta, aki „bement egy szerkesztőségbe ordibálni és agresszívan számon kérni az ott dolgozókat".
+Kohán Mátyás közbevetette, hogy itt az idegenrendészeti törvény alapján ellenőrzött körülmények között munkavállalóként jelen lévő emberekről van szó, nem illegális migránsokról.
 
-## Sajtószabadság és kormányzati kommunikáció
+Pityinger erre úgy reagált, hogy „ide semmilyen ellenőrzött körülmények között ne telepítsenek be terroristákat és ne telepítsenek be körözött bűnözőket meg orosz kémeket". Hozzátette, hogy Orbán 20 000 illegális migránst terelt Szlovákiába egy szlovák választásra, ami azt jelenti, hogy jóval több van Magyarországon. A határ mentén élve azt tapasztalta, hogy a kerítés senkit nem állított meg, naponta 1000 ember mászott át rajta, és ebből 100-at toloncoltak vissza.
 
-### Magyar Péter sajtókapcsolatai
+Amikor Kohán Mátyás konkrét számokat és statisztikákat kért, Pityinger azt válaszolta: „Nézze meg ott a statisztikát." Kohán erre úgy reagált: „Ha fogalma nincs a számokról, amikről beszél, akkor miért beszél számokról? Mert a Gyurcsány is azt csinálta."
 
-A beszélgetés során vita alakult ki arról, hogy mennyire elégedett lehet a sajtó a TISZA-kormány kommunikációjával. Árpási Bence pozitívumként említette, hogy Magyar Péter „hatalmas sajtótájékoztatókat tart" és „kimerítően válaszol a kérdésekre". Kertész Dávid ugyanakkor rámutatott, hogy a Hír TV és a Pesti Srácok újságíróit általában be sem engedik a sajtótájékoztatókra, és ha mégis bejutnak, Magyar Péter annyit válaszol: „propagandistáknak nem nyilatkozom".
+Pityinger László később kifejtette, hogy a TISZA-kormány be fogja hozni a migránsokat, első körben valószínűleg 8000-et. Szerinte olyan emberek fognak jönni, akiknek a kérelmét el kell bírálni, és a minőséginek ítélt migránst azonnal beolvasztják a társadalomba, míg a többiek táborokba kerülnek, ahol drogkereskedelemmel és agresszióval fognak problémát okozni.
 
-> „Tehát ezek tökéletes válaszok szerintem. Hát most ha nekem érkeznek ilyen válaszok, én tökéletesen elégedett vagyok vele." – Kertész Dávid (ironikusan) [*](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=796)
+> „Amennyiben ez megtörténik, Magyarországra bejön egy problémás embertömeg, akikkel majd kontaktusba kerülhet a magyarság, és akkor megtapasztalja az együttélésnek az örömeit, hogy ez jó lesz-e vagy nem. Majd eldöntik." – Pityinger László [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1062)
 
-A műsorvezető felvetette, hogy a Telex elkísérhette Magyar Pétert az első hivatalos külföldi útjára, miközben korábban, amikor Orbán Viktort kísérték el újságírók Washingtonba, azt „kegyencjáratnak" nevezték. Árpási Bence megerősítette, hogy a Népszava nem kapott meghívót sem a korábbi, sem a mostani útra.
+Pityinger „idézőjelbe vett atlantista kormánynak", illetve „a multinacionális vállalatok kormányának" nevezte a TISZA-kormányt, amely szerinte teljes mértékben ki fogja szolgálni a nemzetközi multik érdekeit és az EU birodalomépítési törekvéseit.
 
-### A miniszterek hallgatása
+## A szolidaritási adó kérdése
 
-Árpási Bence szerint a TISZA-kormány miniszterei továbbra sem nyilatkoznak, és a kommunikáció „one man show" maradt. Példaként említette, hogy a külügyminiszter (Orbán Anita) a saját „baráti sajtójuknak" is azt válaszolta egy kérdésre: „elnézést, én nem tudom, hogy ebben nyilatkozhatok-e". Dézsi Zoltán szerint a parlamentnek ki kellene mondania, hogy „egyszemélyes diktatúra van", utalva a 9/26-os rendeletre, amely szerint „a miniszterelnök dönt mindenben".
+A műsor második nagy témája a szolidaritási adó volt, amelyet az önkormányzatoknak kell befizetniük. Márkai Péter korábban úgy nyilatkozott, hogy nem utalnak Orbánnak szolidaritási adót, de elismerte, hogy az Államkincstár inkasszálta a hódmezővásárhelyi számláról.
 
-## Sulyok Tamás helyzete és a lemondás lehetősége
+Márkai elmondta, hogy az átmeneti kormányzás alatt arra kérte a kormányt, hogy ne költse el ezt a pénzt, hiszen a rekordmagasra tervezett költségvetési hiányt a Fidesz 90% fölötti százalékban elköltötte az első három-négy hónapban. Hódmezővásárhelyen a szolidaritási adó az elmúlt öt évben 120 millióról 691 millióra emelkedett, amit Márkai „irdatlan pénznek" nevezett egy harmadik legszegényebb megyei jogú város esetében.
 
-Sarkadíj Csaba felvetette: mi lenne, ha Sulyok Tamás köztársasági elnök lemondana, mert nem akarja nevét adni a történtekhez? Szerinte ebben az esetben a TISZA-kormánynak és Magyar Péternek nem lenne lehetősége a köztársasági elnök személyén keresztül tematizálni a közbeszédet, és „tényleg olyan témákról lehetne beszélni, akár a gazdaságról, akár az egyéb kilátásokról". A felvetésre érdemi válasz nem érkezett a többi vendégtől.
+### A kék szalag levétele
+
+A műsorvezető észrevette, hogy Márkai Péter már nem viseli a korrupció elleni harc jelképének számító kék szalagot. Márkai elmondta, hogy április 13-án vette le, mert abban bízik, hogy mostantól kezdve olyan, következmények nélkül bűnöző kormány soha többé nem lesz Magyarországnak, mint az elmúlt 16 évben.
+
+> „Magyarország 1000 éves történelmének legkorruptabb rendszerét váltottuk április 12-én." – Márkai Péter [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1818)
+
+Arra a kérdésre, hogy mi a garancia arra, hogy a pénzek jól lesznek elköltve és az új kormányzatban nem lesz korrupció, Márkai az Európai Ügyészséghez való csatlakozást jelölte meg garancialként, valamint egy tisztességes legfőbb ügyészt.
+
+### Kohán Mátyás kritikája
+
+Kohán Mátyás szerint konszenzus lehet abban, hogy a Fidesz önkormányzati politikája rossz minőségű volt. A szolidaritási adó jelenlegi mértéke ellehetetleníti nemcsak a fejlesztést, hanem sok megyei jogú városban a működést is. Kohán szerint ez az első esete annak, amikor a TISZA egy rossz fideszes politikát visz tovább, ahelyett hogy jó fideszes politikát vinne tovább.
+
+> „Ha valami, akkor az önkormányzati politika az, amiről tudni lehetett, hogy ez így nem jó. Igazából még a Fidesz is tudta, hogy ez így nem jó, csak ilyen későn jött rá és kezdett el ezen dolgozni. Ez egy komoly hibájuk." – Kohán Mátyás [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1876)
+
+Kohán szerint az önkormányzati politika olyan terület, ahol kész tervvel kellett volna érkezni és gyors beavatkozásokat kellett volna tenni.
+
+Márkai Péter válaszában elmondta, hogy még nem volt egyeztetés az új miniszterrel, hiszen körülbelül egy-két hete van új miniszter. A Magyar Önkormányzatok Szövetségének elnökségi tagjaként keresték a miniszterasszonyt és Magyar Péter miniszterelnököt is. Hangsúlyozta, hogy az önkormányzatok szabadságát és függetlenségét kell helyreállítani, amit a Fidesz 16 év alatt szisztematikusan leépített – ezt egy fideszes polgármester is elismerte a Megyei Jogú Városok Szövetségében.
+
+> „Amit 16 év alatt elloptak, az két hét alatt még nem sikerült pótolni a TISZA-kormánynak. Én még türelmes vagyok." – Márkai Péter [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1972)
+
+## Radnai Márk nyilatkozatai és a várható népszerűtlen döntések
+
+A műsorban ismertették Radnai Márk TISZA-alelnök Facebook-bejegyzését és a Népszavának adott interjúját, amelyben úgy fogalmazott, hogy „nem lehet mindig igazat mondani a politikában", és lesznek népszerűtlen döntéseik.
+
+### Székely Sándor véleménye
+
+Székely Sándor szerint a kampányban gyakorlatilag semmiben sem történt egyértelmű állásfoglalás a TISZA részéről. Példaként említette az önkormányzatiság átalakítását, amit szerinte valakinek fel kell vállalnia. Úgy véli, az egész önkormányzatiság borzasztóan rossz és elképesztően költséges – Budapesten teljesen felesleges a 23 kerület plusz a fővárosi önkormányzat, vidéken pedig felesleges 80-120-500-1000 fős falvaknak egész önkormányzatokat fenntartani, miközben még a járda sincs lebetonozva.
+
+> „Az önkormányzatiságot úgy, ahogy van, át kell alakítani, hogyha azt akarjuk, hogy működjön, és ne 1000 milliárdokat dobjunk ki rá évente. És ezt valakinek végre el kell mondania." – Székely Sándor [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=674)
+
+Márkai Péter határozottan visszautasította ezt a felvetést, kijelentve, hogy ha valami működött ebben az országban az elmúlt években, azok az önkormányzatok voltak. Még a fideszes önkormányzatokra is rá lehetett bízni olyat, amit a fideszes kormány nem tudott működtetni (egészségügy, oktatás, közlekedés).
+
+### Pityinger László véleménye
+
+Pityinger László szerint Gyurcsány Ferencnek „hála" legitimizálódott a politikai hazudozás, és azóta készpénznek veszik a politikában. A TISZA-pártra ez halmozottan igaz – tudják, hogy a választást meg kell nyerni, és utána bármit lehet csinálni.
+
+Pityinger felsorolta a TISZA általa be nem tartott ígéreteit: 480 forintos benzinár, azonnali ingyenes egészségügy. Ehelyett levették az állampapírok kamatját, és feltornázták a forint árfolyamát, ami az átlagpolgárnak ugyan örömteli, de az exportalapú magyar gazdaságnak iszonyú károkat okoz.
+
+> „A magyarok arra vágytak, hogy úgy éljenek, mint Németországban, Hollandiában, Belgiumban, Franciaországban. Most majd megtapasztalják, hogy milyen az, amikor föltolom a fűtést 25 fokra, és egy óra múlva visszarakom 19-re, mert drága lesz a rezsi." – Pityinger László [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2326)
+
+## Magyar Péter külföldi útjai és az EU-val kapcsolatos álláspont
+
+A műsorvezető felidézte, hogy Magyar Péter első hivatalos külföldi útjain (Lengyelország, Bécs) úgy fogalmazott, hogy erős Európára van szükség, de egy erős Európához szerény tagállamok kellenek. Arra a kérdésre, hogy ez mit jelenthet, Márkai Péter úgy reagált, hogy olyan tagállamokra van szükség, amelyek nem lopnak és nem hazudoznak.
+
+Márkai felháborítónak nevezte, hogy hazudozással vádolják azt a kormányt, amelyik még nem hazudott. Ezzel szemben felsorolta Orbán Viktor szerinte be nem tartott ígéreteit: hogy ha Trump elnök lesz, 24 órán belül béke lesz; hogy a magyar gazdaság elindult; hogy 80 körzetben nyerni fog a Fidesz; valamint a „szőlő utcai" ügyet, ahol szerinte gusztustalan hazudozás folyt éveken keresztül.
+
+## A régi ellenzék helyzete és a politikai jövő
+
+Radnai Márk azon kijelentésére reagálva, hogy a jövőben csak olyan politikusok emelkedhetnek fel igazán, akiket még nem ismerünk, Márkai Péter kifejtette, hogy sem Orbán Viktor, sem Radnai Márk nem dönti el, hogy kinek milyen szerepe lesz a politikában – ezt a magyar emberek bölcsessége dönti el.
+
+Kohán Mátyás aggasztónak nevezte, hogy egyelőre az új kormányból csak a miniszterelnök és a kommunikációval foglalkozó tisztségviselők nyilatkoznak meg, a szakminiszterek megszólalásait nem hallani. Szerinte az fogja eldönteni a TISZA politikai jövőjét és más politikai erők felemelkedésének lehetőségét, hogy hogyan fognak kormányozni.
+
+> „Én azt tartom, hogy a Fidesz sem vesztett volna így, hogyha jobb lett volna a kormányzás az elmúlt négy évben, és akárhogyan kommunikálnak, nincs az a lekszám, ami a rossz kormányzást megváltja a rossz kormányzás politikai ódiuma alól." – Kohán Mátyás [*](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2498)
+
+Kohán szerint nem Radnai Márk kommunikációs képességei fogják eldönteni a TISZA sorsát, hanem az, hogy a valódi problémákra és a reformálatlan nagy rendszerek reformjára sikerül-e megoldást találniuk.
 
 <!-- SECTION:UNCERTAIN -->
 
-- **„Márkizaj Péter"**: Az átiratban többször szerepel ez a név, amely nagy valószínűséggel Radnai Márk torzított alakja. A kontextus alapján a TISZA Párt operatív vezetőjéről van szó, aki korábban a műsor vendége volt. A név pontos alakja nem rekonstruálható teljes bizonyossággal, ezért az összefoglalóban „Márkizaj Péter" formában szerepel.
-- **„Tóta vészaladjon"**: Kertész Dávid válaszában szerepel ez a kifejezés, amely valószínűleg Tóta W. Árpádra utal, de a pontos szövegkörnyezet és a „vészaladjon" kifejezés jelentése bizonytalan.
-- **„Sarkadíj és Csaba"**: A műsorvezető bemutatásakor elhangzó név, amely valószínűleg „Sarkadi Zsolt és Csaba" vagy hasonló lehet, de a pontos alak nem rekonstruálható. Az átirat későbbi részében „Sarkadíj Csaba" és „Csabi" formában is szerepel.
-- **„9/26-os rendelet"**: Dézsi Zoltán hivatkozik erre, de a pontos jogszabályszám és tartalom nem ellenőrizhető az átiratból.
-- **„NV 16 éve"**: Árpási Bence mondatában szerepel, valószínűleg a Népszavánál eltöltött 16 évre utal, de a rövidítés pontatlan.
+- „konstutító Orbanisz" – Latvan Tamás Facebook-posztjából idézett kifejezés, valószínűleg szándékosan torzított alak, pontos jelentése a kontextusból sem rekonstruálható teljes bizonyossággal.
+- „Atia kuri nevű körözött terroristának" – a név ASR-hiba lehet, a kontextus alapján egy körözött terroristáról van szó, akinek a Fidesz-kormány letelepedési engedélyt adott, de a pontos név nem azonosítható.
+- „Gruaski nevű körözött bűnöző" – valószínűleg ASR-hiba, a kontextus alapján Nikola Gruevski volt macedón miniszterelnökről lehet szó, aki Magyarországon kapott menedéket.
+- „Vargai Bajának" – a műsorvezető által megszólított híradós kolléga neve, ASR-hiba lehet, a pontos név nem azonosítható.
 
 ## Átirat
 
 <details>
 <summary>Teljes átirat megjelenítése</summary>
 
-[00:00:01](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1) Védvonal.
+[00:00:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=0) nak a szolidaritási adót és érzékenyítés indul.
 
-[00:00:01](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1) Véget vetne a Fidesz a liberális terrornak.
+[00:00:03](https://www.youtube.com/watch?v=4UdajmnO_RE&t=3) Radnai Márk szerint fel kell készíteni az embereket a népszerűtlen döntésekre.
 
-[00:00:03](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=3) Aztán vissza a jövőbe.
+[00:00:07](https://www.youtube.com/watch?v=4UdajmnO_RE&t=7) Témánk mára is van bőven.
 
-[00:00:05](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=5) A korábbi ígéretek ellenére mégis visszamenőleges hatállyal módosítaná az alkotmányt a Tisza többség, valamint ez fájni fog.
+[00:00:09](https://www.youtube.com/watch?v=4UdajmnO_RE&t=9) Vendégeink már a stúdióban.
 
-[00:00:10](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=10) Közeleg a paktum, 100zres migránstábor épülhet Magyarországon.
+[00:00:09](https://www.youtube.com/watch?v=4UdajmnO_RE&t=9) Azonnal kezdünk.
 
-[00:00:16](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=16) Témánk mára is van bőven.
+[00:00:22](https://www.youtube.com/watch?v=4UdajmnO_RE&t=22) Jó estét kívánok.
 
-[00:00:18](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=18) Vendégeim már a stúdióban.
+[00:00:22](https://www.youtube.com/watch?v=4UdajmnO_RE&t=22) Köszöntöm önöket.
 
-[00:00:20](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=20) Azonnal kezdünk.
+[00:00:22](https://www.youtube.com/watch?v=4UdajmnO_RE&t=22) Ez itt a komment csütörtökön a Hír TV-n.
 
-[00:00:31](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=31) Jó estét kívánok!
+[00:00:23](https://www.youtube.com/watch?v=4UdajmnO_RE&t=23) Én futó Boglárka vagyok.
 
-[00:00:31](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=31) Köszöntöm önöket!
+[00:00:26](https://www.youtube.com/watch?v=4UdajmnO_RE&t=26) A stúdióban pedig vendégeim Székely Sándor a szolidaritás pártjának elnöke.
 
-[00:00:31](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=31) Ez itt a kommentteken a Hír TV-n én Futó Boglárka vagyok.
+[00:00:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=31) Jó napot kívánok.
 
-[00:00:35](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=35) A stúdióban pedig vendégeim Árpási Bence a Népszava újságírója.
+[00:00:32](https://www.youtube.com/watch?v=4UdajmnO_RE&t=32) Pityinger László, Dopman magyar repper, producer.
 
-[00:00:40](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=40) Jó estét kívánok mindenkinek!
+[00:00:35](https://www.youtube.com/watch?v=4UdajmnO_RE&t=35) Üdvözlök mindenkit.
 
-[00:00:42](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=42) Dézsi Zoltán újságíró producer, filmrendező.
+[00:00:36](https://www.youtube.com/watch?v=4UdajmnO_RE&t=36) Márkai Péter, a Mindenki Magyarország Néppárt elnöke, Hódmező Vásárhely polgármestere.
 
-[00:00:45](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=45) Sarkadíj és Csaba az Economics újságírója, valamint az 5.hu állandó szerzője.
+[00:00:41](https://www.youtube.com/watch?v=4UdajmnO_RE&t=41) Szép estét mindenkinek.
 
-[00:00:50](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=50) Jó estét és jó szórakozást kívánok!
+[00:00:42](https://www.youtube.com/watch?v=4UdajmnO_RE&t=42) És Kohán Mátyás, a Mandiner rovat vezetőhelyettese.
 
-[00:00:52](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=52) És Kertész Dávid, a Pesti srácok újságírója.
+[00:00:45](https://www.youtube.com/watch?v=4UdajmnO_RE&t=45) Jó estét kívánok.
 
-[00:00:54](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=54) Jó estét kívánok!
+[00:00:46](https://www.youtube.com/watch?v=4UdajmnO_RE&t=46) Szervusztok.
 
-[00:00:56](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=56) Szervusztok!
+[00:00:46](https://www.youtube.com/watch?v=4UdajmnO_RE&t=46) Jó estét kívánok nektek én is.
 
-[00:00:56](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=56) Jó estét kívánok nektek én is.
+[00:00:48](https://www.youtube.com/watch?v=4UdajmnO_RE&t=48) És ezúton is köszönöm szépen, hogy itt vagytok ma velünk, elfogadtátok a meghívásunkat.
 
-[00:00:58](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=58) És ezúton is köszönöm szépen, hogy elfogadtátok a meghívásunkat és itt vagytok velünk.
+[00:00:52](https://www.youtube.com/watch?v=4UdajmnO_RE&t=52) Első témánk pedig nem más, mintogy megszületett a Tisza első alaptörvény módosítása, amelyben a többi között az alábbit rögzítették.
 
-[00:01:01](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=61) Első témánk pedig nem más, mint ugye a Lex Orbán.
+[00:00:59](https://www.youtube.com/watch?v=4UdajmnO_RE&t=59) Nem választható meg miniszterelnöknek, aki összesen megszakításokkal együtt már legalább nyolc évig miniszterelnöki megbizatást töltött be.
 
-[00:01:03](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=63) Így fogalmaztak többen, hiszen ez a törvény, ez az alkotmánymódosítás, amelyet most benyújtott ugye a Tisza frakció, vagyis hát pontosabban ugye Melléhelyi Barna, aki nem más, mint Magyar Péter Sógora, hát szabályozza azt, hogy két ciklusig lehet valaki Magyarországon miniszterelnök.
+[00:01:08](https://www.youtube.com/watch?v=4UdajmnO_RE&t=68) És hát érte kritika bőven ezt az első alaptörvény módosítást.
 
-[00:01:23](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=83) Ráadásul ezt visszamenőlegesen tették meg 1990-től kezdve.
+[00:01:14](https://www.youtube.com/watch?v=4UdajmnO_RE&t=74) A többi között Latvan Tamás jogász kritizálta, aki hát meglepő Facebook posztot tett közzé ezzel kapcsolatban a közösségi felületén, a többi között úgy fogalmazott, hogy a maffia által gyártott marhasok, Lex Jancsi után van nekünk egy konstutító Orbanisz.
 
-[00:01:28](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=88) Ugye Márkizaj Péter tegnap itt a kommentége volt, aki úgy fogalmazott, hogy ez nem egy Lex Orbán, és ez nem kifejezetten Orbán Viktorra lett szabva.
+[00:01:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=91) Gondolom ez már a jogállam.
 
-[00:01:37](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=97) Szerinte ez Magyar Pétert korlátozza egyébként, de a kérdés továbbra is adott, hogy akkor miért 1990 ugye a kezdődátum, valamint hogy miért hozták mégiscsak meg ezt a döntést, amikor ugye Görög Márta korábban úgy fogalmazott, hogy hát visszamelőleges hatállyal nem fognak törvényt alkotni?
+[00:01:35](https://www.youtube.com/watch?v=4UdajmnO_RE&t=95) Számítottunk erre a kritikára, polgármester úr, én azt gondolom, hogy az a jó a rendszerváltás, április 12-én rendszerváltás ott, hogy nyugodtan lehet kritizálni ezt a kormányt.
 
-[00:01:53](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=113) Bence, itt most úgy ahogy ahogy érzékelem, tehát ahány jogász van, annyi vélemény van ezzel kapcsolatban.
+[00:01:43](https://www.youtube.com/watch?v=4UdajmnO_RE&t=103) Én biztos, hogy fogok is élni ezzel a jogommal, és mindenki mást is erre bíztatok.
 
-[00:02:01](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=121) Én nem akarom magamat felkent szakértőnek beállítani a kérdésben, mert ez mégnek nekem is bevallom, hogy a megfeksi a gyomromat ennek az eldöntése, hogy ez visszamenőleges-e vagy sem.
+[00:01:48](https://www.youtube.com/watch?v=4UdajmnO_RE&t=108) Orbán az Orbán kormányt nem lehetett?
 
-[00:02:13](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=133) Ha így nézem, 1990 a kezdődátum, most 2026-ot írunk.
+[00:01:50](https://www.youtube.com/watch?v=4UdajmnO_RE&t=110) Hát én a fideszesektől nem láttam, hogy merték volna kritizálni.
 
-[00:02:19](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=139) Jó, de azért a visszamenőleges jogalkotás azért ennél egy bonyolultabb, tehát ez mondjuk feltét lehet, hogy létezik egy olyan olvasat, hogy ez akkor lenne csak visszamenőleges jogalkotás, hogyha az Orbán kormány intézkedéseit is eltörölnék, vagy illegitimnek nyilvánítanák.
+[00:01:52](https://www.youtube.com/watch?v=4UdajmnO_RE&t=112) Egyszer a mi közgyűlésünkben egy fideszes képviselőnőt szólítottam föl, hogy mondjuk ha a trágánságot elítéli, Lázár János trágárkodását miért nem meri?
 
-[00:02:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=152) De szóval azért mondom, hogy ha így nézem, akkor az, ha nem, akkor pedig a ter azt viszont ki lehet jelenteni szerinted, hogy személyre szabott?
+[00:02:01](https://www.youtube.com/watch?v=4UdajmnO_RE&t=121) Próbálja ki, de nem merte.
 
-[00:02:42](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=162) Személyre szabott íze van a dolognak.
+[00:02:03](https://www.youtube.com/watch?v=4UdajmnO_RE&t=123) Ő mit gondol erről a módosításról?
 
-[00:02:42](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=162) Én inkább így mondanám, és itt minden szónak jelentősége van, mert bár most a törvényszöveg, törvényjavaslat szövegét nézem kimondottan, akkor abba beleeshetnek még páran a jogi jogi oldaláról nézve.
+[00:02:05](https://www.youtube.com/watch?v=4UdajmnO_RE&t=125) Én teljes mértékben egyetértek vele.
 
-[00:02:56](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=176) De hogyha politikai oldalról nézem a dolgot, akkor ez bocsás meg, pontosan kik?
+[00:02:07](https://www.youtube.com/watch?v=4UdajmnO_RE&t=127) Nagyon helyesnek tartom azt, hogy azt az abszurd helyzetet, hogy az elmúlt 36 évben a semmilyen érdemi hatalommal nem rendelkező köztársas elnököt csak kétszer lehetett megválasztani.
 
-[00:03:02](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=182) Igen.
+[00:02:15](https://www.youtube.com/watch?v=4UdajmnO_RE&t=135) A minden hatalommal rendelkező miniszterelnöknek meg korlátlan mandátuma volt.
 
-[00:03:04](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=184) Hát ugye ugye tehát hogyha most kizárólag elméletileg mondom, tehát tehát tehát elméletileg mondom, és nem politikailag mondom.
+[00:02:19](https://www.youtube.com/watch?v=4UdajmnO_RE&t=139) Szóval én azt gondolom, hogy ez egy abszurd helyzet volt.
 
-[00:03:11](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=191) Ott van például ugyebár Gyurcsány Ferencnek is nyolc év, bocsás meg, ő nem töltötte ki a nyolc évet.
+[00:02:21](https://www.youtube.com/watch?v=4UdajmnO_RE&t=141) Ezt most orvosolták.
 
-[00:03:18](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=198) Tehát ki az, aki két ciklusnál hosszabb volt miniszter Orbán Viktoron kívül mondjuk mondjuk Bajnai Gordon például ő sem töltötte ki a nyolc évet.
+[00:02:24](https://www.youtube.com/watch?v=4UdajmnO_RE&t=144) Te is így látod, MYI?
 
-[00:03:30](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=210) Na akkor tehát Bencének adunk egy kis gondolkodási időt.
+[00:02:24](https://www.youtube.com/watch?v=4UdajmnO_RE&t=144) Nem teljesen így látom, mert azt gondolom, hogy egy parlamentáris rendszerben, ahol alapvetően annak van hatalma a parlamentetétele fölött, meg annak van informálisan hatalma kormányműködése fölött, az ország fölött végtére is, aki a parlamenti listát összeállítja, aki a pártot vezeti, a kormányzópártot, ott az, hogy a miniszterelnök személyét kifejezetten egy személyt a miniszterelnökségből limitálunk nyolc évre, ezzel akár még csak ki sem vesszük egy embernek a kezéből a hatalmat.
 
-[00:03:34](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=214) Tehát ez azért na mindegy.
+[00:02:47](https://www.youtube.com/watch?v=4UdajmnO_RE&t=167) Tehát a Jaroszlak Kacinski modellből teljesen jól látszik Lengyelországban, hogy semmi jelentősége nincs annak, hogy formálisan a miniszterelnök így hívják-e, vagy úgy hívják, hogyha a pártban az erős ember valaki más, nem pedig a miniszterelnök, Szerbia miniszterelnöke is teljesen jelentéktelennek és valahogy van Alexander Bucsitnak a az akarata érvényesül.
 
-[00:03:36](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=216) Szóval néki én úgy tudtam, hogy úgy tudtam, hogy lehetne.
+[00:03:03](https://www.youtube.com/watch?v=4UdajmnO_RE&t=183) Hát én azt gondolom, hogy át lehet szabni a magyar közjogi rendszert olyan módon, hogy értelme legyen egy ilyen módosításnak.
 
-[00:03:37](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=217) Lényeg a lényeg az, hogy egyébként jogilag lehetne még.
+[00:03:08](https://www.youtube.com/watch?v=4UdajmnO_RE&t=188) Tehát egy egy olyan egy olyan hatalommal rendelkező stallomot lehet korlátozni időben, a akinek tényleg saját magában beleinvesztelt hatalma van.
 
-[00:03:41](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=221) Tehát az, hogy jogilag ez nem személyre szabott.
+[00:03:16](https://www.youtube.com/watch?v=4UdajmnO_RE&t=196) Viszont azt nem gondolom, hogy a mostani rendszerben, tehát a mostani parlamenti struktúrában megválasztott miniszterelnök, akinek mint mondom, nincsen önmagában egy hatalmas felhatalmazása, hiszen ez ez tud módosulni annak függvényében, hogy ki az erős ember a pártjában.
 
-[00:03:43](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=223) A politikai olvasata viszont eléggé az, mert hogy ugye Magyar Péter megígérte, Magyar Péter megígérte a kampányban, jó, maradjunk ennél, bocsáss meg, maradjunk ennél a kérdésnél.
+[00:03:29](https://www.youtube.com/watch?v=4UdajmnO_RE&t=209) Tehát itt ezt a pozíciót bekorlátozni nyolc évre, ezt én populizmusnak meg a cirkusz részének látom.
 
-[00:03:54](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=234) Ugyanis Dávid már leütötte, szerinte jogilag is személyre szabott.
+[00:03:34](https://www.youtube.com/watch?v=4UdajmnO_RE&t=214) Problémám nincsen bele, de sok értelmét se lá.
 
-[00:03:58](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=238) Addig Bencének hagyunk egy kis gondolkodási időt, hátha eszébe jut valaki még Orbán Viktoron kívül, akire illik ez a leírás.
+[00:03:38](https://www.youtube.com/watch?v=4UdajmnO_RE&t=218) 16 év Orbán után ilyet mondani döbbenet.
 
-[00:04:03](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=243) Szóval Dávid, szerinted ki lehet jelenteni, hogy ez egy legszorbán?
+[00:03:42](https://www.youtube.com/watch?v=4UdajmnO_RE&t=222) Melyik része a döbbenet?
 
-[00:04:09](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=249) Ez egyértelműen kijelenthető, hogy Orbán Viktorra van szabva.
+[00:03:42](https://www.youtube.com/watch?v=4UdajmnO_RE&t=222) Hát valaki azt meri mondani, ráadásul egy fideszes, hogy nincsen valódi hatalma a miniszterelnöknek.
 
-[00:04:11](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=251) Tehát ahogy Bencének nem sikerült találnia olyat, akire Orbán Viktoron kívül illett volna ez a körülírás, úgy nekünk sem, tehát sem jogalkotásilag, sem politikai értelemben nem nézhetünk más személy után, akire ez vonatkozhatna.
+[00:03:47](https://www.youtube.com/watch?v=4UdajmnO_RE&t=227) 16 évig uralkodott Orbán a teljes családját milliárdossá tette, fegyverkereskedő embercsempiszt, minden volt az Orbán családban és ezek után azt állítani meg pedofilokat mentegettek, ezek után azt mondani, hogy nincs hatalma.
 
-[00:04:26](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=266) egyetlen egy ember volt, aki több mint nyolc évet volt miniszterelnök Magyarországon, aki egyáltalán a nyolc évet betöltötte, az Orbán Viktor.
+[00:03:59](https://www.youtube.com/watch?v=4UdajmnO_RE&t=239) Hát nincs hogyha 16 évből mondjuk kettő éven keresztül Orbán Viktor pártelnöksége mellett például a Juhász Hajnalka lett volna a miniszterelnök, azt gondolta volna-e polgármester úr, hogy Juhász Hajnalka a főnök Fidesz KDNP perc?
 
-[00:04:36](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=276) Most viszont, hogy ne csak az itt ülőkkel vitatkozak, hanem a tegnap itt ülő Márkizaj Péterrel is.
+[00:04:09](https://www.youtube.com/watch?v=4UdajmnO_RE&t=249) Az ön logikájával nem, de közjogilag mindenképpen a miniszter senki nem arról beszélt, hogy nincsenek jogosítvány a közjogi miniszternek.
 
-[00:04:38](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=278) Tehát ez, hogy Magyar Péter ezzel önmagát korlátozná, hát meglehetősen furcsa megfejtés tekintve azt, hogy szerintem egyébként Magyar Pétert egészen más dolgok korlátozzák, de ez egy másik dolog.
+[00:04:16](https://www.youtube.com/watch?v=4UdajmnO_RE&t=256) Azt mondtam, hogy egy ilyen parlamentális rendszerben az erős ember lehet bárki más.
 
-[00:04:55](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=295) önmagát már csak azért sem korlátozhatja ezzel, mert hogyha úgy gondolja, hogy a második ciklus végén is szeretné folytatni a politikai pályafutását és esetleg egy harmadik ciklust kitölteni, akkor esetleg addig, ameddig még megvan a kétharmada, mondjuk ennek a ciklusnak a vége felé, amikor megtetszik neki a dolog politikai íze, akkor bejelenti azt, hogy visszavonja ezt a törvénytervezetet, és átírják Alex Orbánt úgy, hogy teszem azt, 12 évet tölthet be maximum valaki miniszterelnök.
+[00:04:21](https://www.youtube.com/watch?v=4UdajmnO_RE&t=261) Minden hatalmas Sándor azzal azzal egyetértel, hogy ez kifejezetten Orbán Viktorra lett szabva.
 
-[00:05:23](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=323) ként, utána megint csak módosíthatnak rajta annyit, hogy legyen 16 év.
+[00:04:26](https://www.youtube.com/watch?v=4UdajmnO_RE&t=266) Hát abszolút és nekem három problémánk, vagy propszörésen három problémám van ezzel a törvénnyel.
 
-[00:05:27](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=327) Tehát ebben a tekintetben nem hinném azt, hogy Magyar Péter bármilyen szinten önkorlátozó szeretett volna lenni.
+[00:04:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=271) Egyik se jogászkodás, mert én nem ehhez nem teljesen értek.
 
-[00:05:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=332) Az viszont egyértelmű, hogy jogi, politikai és tulajdonképpen erkölcsi értelemben van.
+[00:04:34](https://www.youtube.com/watch?v=4UdajmnO_RE&t=274) Tehát, hogy itt ugye szimbolikus dolgok vannak.
 
-[00:05:36](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=336) Ez egy Orbán Viktor elleni támadás.
+[00:04:36](https://www.youtube.com/watch?v=4UdajmnO_RE&t=276) Egyrész én végigtüntettem a Fidesz rendszerét jó sokszor bérekért, nyugdíjakért, visszamenőleges kormány döntéshozatal ellen, de nekünk általában tényleg ez ilyen munkás dolgok voltak a központunkban, de volt nagyon sok csoport, aki alkotmányvédelmi szempontokból tüntetett, és leginkább az volt a probléma, hogy ne legyen személyre szabott törvénykezés legyen visszamenőleges törvénykezés.
 
-[00:05:40](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=340) Csabi, kicsit megpromózva majd a kommentstrát, ugye ott lesz majd Latván Tamás is vendégként, és így beszélgettünk vele, és tartott egy ilyen kis gyors ilyen kis utánképzést vagy előképzést, és ugye például ő arról beszélt hogy például, hogyha nincs benne olyan szövegben, hogyha például a köztársasági elnök jelöli jelöl egy olyan személyt, aki ugye ő nem Orbán Viktor, de már nyolc évig volt miniszterelnök, és hogy őt jelölni ki, mint miniszterelnökt, akkor a szöveg ez nem korlátozza, illetve ill arról is beszéltek, hogyha a parlament különleges esetben jelöl miniszterelnököt, akkor sem korlátozza ez a szöveg.
+[00:04:59](https://www.youtube.com/watch?v=4UdajmnO_RE&t=299) Hát most ez az új kormány, ez ugye ezzel kezd az első törvény, hogy egy személyre szabott és de egy személyre szabott és egy visszamendőleges hatályú törvényt hoz.
 
-[00:06:16](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=376) Tehát érdekes jogászkodás lesz még itt.
+[00:05:10](https://www.youtube.com/watch?v=4UdajmnO_RE&t=310) Ez ez egy ezzel kezd a egy a ellenzék, aki eddig ennek az ellenzéke volt és jogi értelemben támadta ezeket a Fidesz által és egyébként szerintem is helytelen döntéseket, mert tényleg nem jó visszafelé törvénykezés, tényleg nem jó személyre szabott törvényeket hozni.
 
-[00:06:18](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=378) Az nyilvánvaló, hogy egy ilyen nagy elvárás volt.
+[00:05:24](https://www.youtube.com/watch?v=4UdajmnO_RE&t=324) Az most meg se szólal.
 
-[00:06:21](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=381) Tehát ezt beszélgettük a választások előtt is, hogy ő Magyar Péternek minél látványosabban és minél tovább meg hosszabb tartó módon kellett számolnia NERnek, hiszen ez egy elerrel szemben, és annak a legfontosabb vezetője Orbán Viktorral szemben, ez egy nagyon fontos elvárás volt vele szemben.
+[00:05:24](https://www.youtube.com/watch?v=4UdajmnO_RE&t=324) És a három, hogy sajnos a kormányunk az nem a minimálbér emeléssel, nem a nyugdíjak rendbehozatalával, nem a a az úthálózat karbantartásával, és most nagyon sok dolgot mondhatnék, hogy mivel kezd, hanem egy ilyen nagyon bugyut törvénnyel, mert már bocsánat, elnézést, hogyha majd valaki majd valamikor, én nem tudom mikor, négy év múlva, nyc év múlva, 20 év, 100 év múlva majd megint hatalomra jut kétharmaddal, akkor az akkor majd ők is meghozzák a azt a törvényt, ami ami ezt anulálja.
 
-[00:06:36](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=396) És nyilván amíg nem tudja elindítani azt a fajta elszámoltatást, meg azt a fajta gazdasági meg ilyen vagyoni elszámoltatás, ami lehet, hogy el se tud indulni, de hát ugye az jóval nehezebb lesz, mint mondjuk így kitúrni úgymond a politikából.
+[00:05:53](https://www.youtube.com/watch?v=4UdajmnO_RE&t=353) Tehát ez egy ilyen, ez egy ilyen ne most akkor vitatkozzatok rajta, de értelemben tényleg semmi.
 
-[00:06:53](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=413) Addig ezek a játékok lesznek.
+[00:05:57](https://www.youtube.com/watch?v=4UdajmnO_RE&t=357) Saj simbolikus törvény.
 
-[00:06:53](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=413) Az lesz az érdekes, hogy mondjuk ez meddig tudja elfedni akár a gazdasági, akár a többi döntést, mert erről is beszélgettünk kint a a itt a vendégeinkkel, hogy gyakorlatilag most ugyanazt játsztuk csak Pepitában, amikor mondjuk a a Fidesz kormányzat alatt is voltak elvileg bedobvaó olyan témák, amik ugye úgymond gomicsontok voltak, elfedve esetleg azokat a gazdasági helyzeteket, amik mondjuk most visszajutöttek a választások idején, most megint lehetnek olyan témák, amik amik jól hangzanak, amikkel lehet vitatkozni, amit meg lehet beszélni.
+[00:06:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=360) Saj amit kiemelt az az, hogy személyre szabott.
 
-[00:07:24](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=444) miközben mondjuk a azok a számok, azok a gazdasági számok, azok a teljesítmények elmaradnak, vagy pedig még még nem alakultak ki.
+[00:06:02](https://www.youtube.com/watch?v=4UdajmnO_RE&t=362) De miért lehetett szükség egy ennyire személyre szabott törvényre?
 
-[00:07:30](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=450) Szóval érdekesen várom én is, hogy melyik lesz a fontosabb, mondjuk a magyar társam számára ez, vagy pedig mondjuk az a valóság, ami ami miatt mondjuk esetleg leváltották a Fideszt.
+[00:06:07](https://www.youtube.com/watch?v=4UdajmnO_RE&t=367) Laci tartanak még a Tiszás berkeken belül Orbán Viktortól?
 
-[00:07:40](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=460) Zoli, szerinted meddig lesznek elegendőek ezek a gumicsontok, amikre most Csabi utalt?
+[00:06:09](https://www.youtube.com/watch?v=4UdajmnO_RE&t=369) Hát egyrészt kakis a bugyi, ez nem kérdés, mert az az igazság, hogy bár a Fideszt a saját maga által megtartott kétharmados választási rendszernek, hála sikerült eléggé amortizálni, de az Orbánban még mindig megvan a potenciál meg az erő arra, hogy újra kezdjen.
 
-[00:07:45](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=465) Hát maximum egy fél év, egy évig de utána ez már nem fog működni.
+[00:06:32](https://www.youtube.com/watch?v=4UdajmnO_RE&t=392) tehát, hogy ő már ismeri a bukást, ismeri a felállást, és olyan politikai skillekel rendelkezik, amilyenekkel a magyar politikai térfélen senki.
 
-[00:07:49](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=469) Hiába is szeretné Magyar Péter meghosszabbítani a kampányt, vagy pedig ezeket a tematizálásokat.
+[00:06:42](https://www.youtube.com/watch?v=4UdajmnO_RE&t=402) Tehát ez nem kérdés, hogyha megfelelő csapatépítésbe kezd, akkor bármire képes lehet.
 
-[00:07:54](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=474) Az előbb a másik oldalon nagyon eufémisztikus kifejezéseket hallottunk.
+[00:06:48](https://www.youtube.com/watch?v=4UdajmnO_RE&t=408) Ráadásul Magyar Péternek ő a nemezise.
 
-[00:07:58](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=478) Ki lehetne mondani, hogy ez Lex Orbán.
+[00:06:51](https://www.youtube.com/watch?v=4UdajmnO_RE&t=411) Tehát egyrészt Magyar Péter szerelmes is az Orbánba véleményem szerint, másrészt egy egy szellemi vezetőként meg egy példaképként tekint rá, akit egyfajta apa figuraként meg akar haladni és le akar győzni.
 
-[00:08:00](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=480) Egyébként a jogásztársadalom döntő többsége ugyanezt mondja, hogy ez egy ez egy elhibázott, elfuserált, szakmailag megerőszakolt jogászkodás.
+[00:07:08](https://www.youtube.com/watch?v=4UdajmnO_RE&t=428) tulajdonképpen ezért akar folyamatosan az Orbánnal szembe kerülni valamiféle mindenki számára látható környezetbe vagy helyzetbe, mert ott valamiféle már azzal, ha csak ráolvas valami bűnt, akkor egyfajta elismerést esetleg ki tud sikarni az Orbánból.
 
-[00:08:09](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=489) Sútba dobja a római jog összes alapelvét, hogy nincs vissza menőleges törvényhozás és nem lehet szebbé személyre szabni.
+[00:07:24](https://www.youtube.com/watch?v=4UdajmnO_RE&t=444) Az Orbán egész egyszerűen kivette magát ebből a dologból, nem képes vele kommunikációba kerülni.
 
-[00:08:18](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=498) Tehát ez annyira abszurd.
+[00:07:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=451) Ezt a bunyóba úgy hívják, hogy fölösleges ütést nem kell kapni.
 
-[00:08:20](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=500) Látszik, hogy Magyar Péternek Orbán mániája, illetve Orbán fóbiája van, és ez leképeződik a Magyarországűlésen.
+[00:07:33](https://www.youtube.com/watch?v=4UdajmnO_RE&t=453) Na most ezt az Orbán nagyon ügyesen csinálta.
 
-[00:08:26](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=506) A legnagyobb probléma viszont az, hogy országvilág előtt a magyar parlament lejáratta magát, mert ezt nyugatlon is látják, nyugaton is olvassák még akkor is, hogyha nagyon elfogultak az új kormánnyal szemben.
+[00:07:36](https://www.youtube.com/watch?v=4UdajmnO_RE&t=456) Ő foglalkozik a saját dolgával, a Magyar Péter pedig foglalkozik az Orbánnal, és ezáltal, hogy egy ilyen törvénnyel kezd, meg is mutatja saját maga sebezhetőséget.
 
-[00:08:38](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=518) Látják, hogy ez egy dilettáns jogalkotás.
+[00:07:47](https://www.youtube.com/watch?v=4UdajmnO_RE&t=467) Ráadásul kéthmados marad a törvénykezés, hogy a Sanyi mondta, jön a következő, csinál meg egy kétharmadoshados törvényt, és akkor vissza lehet hozni.
 
-[00:08:40](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=520) De egyébként csak egy pillanat csak egy fél mondat az, hogy de hogyha majd nem is néznék azt, hogy most mi legszorbánnak lenne ez a törvény, amúgy meg ez olyan szerintem olyan butaság.
+[00:07:55](https://www.youtube.com/watch?v=4UdajmnO_RE&t=475) Ugye megint csak visszamenőleges törvénykezés van.
 
-[00:08:50](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=530) Hát hogyha egy jól végzi egy miniszterelnök a dolgát, és és tényleg jól megy az országnak, akkor miért ne lehetne négy cikluson keresztül?
+[00:08:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=480) Állítólag ez jogállami probléma, hogyha visszamenőleges törvénykezés van.
 
-[00:08:56](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=536) Tehát, hogyha Magyar Péter tényleg jó miniszterelnök lehet, akkor miért kéne csak azért leváltani, mert hozunk egy ilyen szabályt.
+[00:08:02](https://www.youtube.com/watch?v=4UdajmnO_RE&t=482) Bár tudom az Európai Unióban számtalan szó megcsinálják, hogy éppen úgy tartja kedvük, valamilyen érdekbő kifolyak, de nem látom a tiltakozást a jogállamnak a híveitől, hogy ilyet ne csináljanak.
 
-[00:09:03](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=543) Tehát ez olyan szerintem ez a fajta nem tudom miért elvárás, vagy miért azt gondoljuk, hogy a parlamenti demokráciában nem alakulhatnak ilyen hosszabb ö ciklusok.
+[00:08:16](https://www.youtube.com/watch?v=4UdajmnO_RE&t=496) Tehát itt próbálnak egy precedens teremteni.
 
-[00:09:12](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=552) De csak azért meg megszakítani egy egy gondolat, tehát egy politikát, ami ugye és hogyha így ki lehetne alakítani hosszútávú terveket is, csak azért mer lejárt az ideje.
+[00:08:18](https://www.youtube.com/watch?v=4UdajmnO_RE&t=498) Azt hozzáteszem, hogy pluszban Magyar Péternek még egy szempontból szüksége van az Orbánra, az Orbán nevére és az összes problematikára.
 
-[00:09:22](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=562) Ez is szerintem butaság.
+[00:08:30](https://www.youtube.com/watch?v=4UdajmnO_RE&t=510) Mégpedig azért, mert a figyelmet ezzel tudja fenntartani az abszolút filmszínház iránt.
 
-[00:09:24](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=564) Tehát ez ebben ez nem tudom mitől lenne jogállamibb egy ország attól, hogy csak nyolc évig lehet egy miniszterelnöke, de ezt majd az idő eldönti.
+[00:08:34](https://www.youtube.com/watch?v=4UdajmnO_RE&t=514) Továbbá el tudja terelni arról, hogy valamiféle józan értelembe vett kormányzás semmilyen szinten nem folyik.
 
-[00:09:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=572) Nem.
+[00:08:45](https://www.youtube.com/watch?v=4UdajmnO_RE&t=525) Személyzeti problémák vannak.
 
-[00:09:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=572) Visszatérve egy kicsit itt a visszamenőlegességre, amire ugye Zoli is utalt, nézzük meg, hogy mit mondott erről korábban Görög Márta, és hogyan fogalmazott most, amikor ezzel kapcsolatban szerettük volna kérdezni.
+[00:08:48](https://www.youtube.com/watch?v=4UdajmnO_RE&t=528) Valószínűleg maradjunk maradjunk a programál, hogy valóban ez lehet azok.
 
-[00:09:46](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=586) Miniszter úr feltette azt a kérdést is, hogy a visszamenőleges hatálytilalma alkotmányos értéke, alkotmányos alapelv.
+[00:08:54](https://www.youtube.com/watch?v=4UdajmnO_RE&t=534) Én elnézést annyit szeretnék leszögezni, hogy véleményem szerint sem visszajelle hatály nem jellemző erre a törvényre, sem Lex Orbánnak nem hívnám.
 
-[00:09:55](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=595) Jó reggelt, miniszter asszony, egy gyors kérdést.
+[00:09:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=540) Szerintem ez Magyar Péter fogja korlátozni egyedül.
 
-[00:09:57](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=597) Mit szól az alaptörvénymódosításhoz?
+[00:09:04](https://www.youtube.com/watch?v=4UdajmnO_RE&t=544) Orbánnak semmi esélyét nem látom, hogy valam polgármester úr, de hogyha hogyha azt állítja, hogy nem visszamenőleges, és ez Magyar Pétert korlátozza, akkor miért 1990 tölt?
 
-[00:10:00](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=600) Mit szól mellé Barna Márton által benyújtott alaptörvénymódosításhoz?
+[00:09:14](https://www.youtube.com/watch?v=4UdajmnO_RE&t=554) Ebben önnek teljesen igaza van.
 
-[00:10:04](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=604) Ön ezt rendben tartja?
+[00:09:15](https://www.youtube.com/watch?v=4UdajmnO_RE&t=555) Szerintem ez teljesen felesleges benne.
 
-[00:10:09](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=609) Hiába kérdeztük, most nem kaptunk válaszokat.
+[00:09:17](https://www.youtube.com/watch?v=4UdajmnO_RE&t=557) Orbánnak egyébként sincs esélye arra, hogy visszajön lesz visszamenőleges hatályú polgét ez ért.
 
-[00:10:10](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=610) Mi lehet ennek az oka szerinted, Bence?
+[00:09:20](https://www.youtube.com/watch?v=4UdajmnO_RE&t=560) Nem a realitás az most akkor ne a szövegezésből induljunk ki.
 
-[00:10:15](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=615) Egyelőre még úgy látom, hogy ezt itt a Tiszapárt folytatja ezt a remek gyakorlatát.
+[00:09:24](https://www.youtube.com/watch?v=4UdajmnO_RE&t=564) A realitás az Orbán Viktor, aki maga is elismeri, hogy a Fidesz megújulásnának vele semmi esélye nincs.
 
-[00:10:21](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=621) Bár mondjuk azért Magyar Péter már azért több kérdésre is válaszolt, most már azért szép nagy sajtótájékoztatókat azért tartott, tehát ezt azért a javára írandó, de azért a miniszterei, mondjuk így, hogy beosztottjai azok hát még mindig nem nagyon szeretnek válaszolni.
+[00:09:30](https://www.youtube.com/watch?v=4UdajmnO_RE&t=570) Orbán visszavonul, nincs Orbán.
 
-[00:10:36](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=636) Tehát, hogy most így Magyar Péter kinyitott, vagy legalábbis mondjuk úgy, hogy ő az, aki így a hátán viszi teljes pértékben a kommunikációt.
+[00:09:30](https://www.youtube.com/watch?v=4UdajmnO_RE&t=570) Orbánnak nincs esélye, hogy legyen.
 
-[00:10:44](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=644) Bocsás meg, de ez eddig nem így volt, hiszen pont ez a kritika érte a Tiszapártot az elmúlt két évben, hogy egy one man show, és ugye hallottuk azokat a hangfelvételeket, amikor például az Európai Parlamenti képviselőiről beszélt, valamint arról, hogy megtiltottam nekik, szó szerint elmondtam, hogy ne nyilatkozzanak.
+[00:09:32](https://www.youtube.com/watch?v=4UdajmnO_RE&t=572) Ezt Magyar Péter fogja kormány korlátozni.
 
-[00:10:59](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=659) Hát tudjuk jól, hogy nem nyilatkozhattak.
+[00:09:33](https://www.youtube.com/watch?v=4UdajmnO_RE&t=573) Ő nyolc év múlva nem lehet majd a visszamenőleges hatája nem akkor tiros, hogyha hogyha nincs jelentősége, hanem mindig tiros.
 
-[00:11:03](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=663) Most én nem tudjuk, hogy van-e ez a kormányzatban most ez a új gyakorlat, vagy hogy van, vagy hogy van-e valami módi, de én még egyelőre azt látom, és lehet, hogy ez egy nagyon korai szakasz még, ahol ezt nem lehet megítélni elsősorban, de hogy ez a one man show, ez így tovább folytatódik, tehát továbbra is a kormányzati kommunikáció így fejnehéz, egyetlen egy emberen múlik ide, vagy egyetlen egy embert csinálja, az influencer miniszterelnök, Magyar Péter csinálja és mondjuk úgy, hogy a beosztottak pedig nem nagyon szólalhatnak meg.
+[00:09:41](https://www.youtube.com/watch?v=4UdajmnO_RE&t=581) Miért nem azt én teljesen egyetértek?
 
-[00:11:33](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=693) Majd remélem majd, hogyha Magyar Péter most talán már hazajött és majd fog megint majd tartani valami jó kis Monstrá sajtótájékoztatót, akkor ott majd fel lehet neki tenni a kérdést.
+[00:09:44](https://www.youtube.com/watch?v=4UdajmnO_RE&t=584) Simán lehetett volna.
 
-[00:11:43](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=703) Elnézve egyébként az utóbbi napok gyakorlatát, a kizárólag a sajtó szempontjából elégedett elégedettek lehetünk, azt gondolom tehát, hogy hatalmas sajtótájékoztatókat tart Magyar Péter kimerítően válaszol a kérdésekre.
+[00:09:44](https://www.youtube.com/watch?v=4UdajmnO_RE&t=584) Én szerintem nulla kockázat lett volna benne, hogyha nem 90-től, hanem 2026-tól számolják a nyolc évet.
 
-[00:11:57](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=717) Meg B ne haragudj nem tudok el nem tudok elmenni emellett a kérdés mellett hiszen te is újságíró vagy.
+[00:09:49](https://www.youtube.com/watch?v=4UdajmnO_RE&t=589) Ugyanis én meggyőződésem szerint azok után, amit 16 évig művelt ezzel az országgal Orbán, neki nulla esélye van.
 
-[00:12:02](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=722) Például az első hivatalos külföldi útjára ugye elkísérte őt a Telex.
+[00:09:55](https://www.youtube.com/watch?v=4UdajmnO_RE&t=595) A Fidesz is tehát soha nem fog fölállni a Fidesz ebből a vereségből, ha Orbán marad az élén.
 
-[00:12:08](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=728) Amikor Orbán Viktort kísérték el újságírók Washingtonba, akkor kegyencjárat felirattal jelentek meg képek és fotók.
+[00:09:59](https://www.youtube.com/watch?v=4UdajmnO_RE&t=599) És ezt Orbán is értem az érvelését, de akkor miért kellett ezt rögzíteni?
 
-[00:12:15](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=735) Egyébként a Népszava kapott-e meghívást például erre a külföldi útra?
+[00:10:03](https://www.youtube.com/watch?v=4UdajmnO_RE&t=603) Ennek teljesen igazan, fölöslegesen.
 
-[00:12:20](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=740) Felülhettetek arra a vonatra, amelyre Magyar Péter?
+[00:10:03](https://www.youtube.com/watch?v=4UdajmnO_RE&t=603) Én teljesen azt mondom, nyugodtan lehetett volna nagy vonal és 26-tól kezdhette volna.
 
-[00:12:24](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=744) Nem, én nem láttam a meghívót.
+[00:10:09](https://www.youtube.com/watch?v=4UdajmnO_RE&t=609) A lényeget tekintve ez magyar Pétert korlátozza.
 
-[00:12:27](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=747) Mindenesetre a mint ahogy egyébként erre az úgynevezett sokak által kegyenci áratnak csúfolt valamire sem kaptunk meghívót.
+[00:10:11](https://www.youtube.com/watch?v=4UdajmnO_RE&t=611) E ezt várja el a tábor egyébként.
 
-[00:12:34](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=754) Tehát ebből a Igen, csak most úgy fogalmazta, hogy elégedett lehet a sajtó.
+[00:10:13](https://www.youtube.com/watch?v=4UdajmnO_RE&t=613) Én azt gondolom, hogy a jelenlegi kormánypártnak a a a közepe, a Facebook fanok, azok a bosszút bosszút várnak el, és és egész egyszerűen a Magyar Péternek most én nem vagyok politikailag barátja neki, de őnek van egy ilyen jogos ő ugye, hogy hátha ki kell elégíteni a az ő táborát, és akkor fölmutat fölmutatja ezeket a skalpokat, hogy látjátok azt is, mert nem fog visszajönni az Orbán Viktor meg meg ilyen meg ilyeneket cs csinál, és akkor és akkor mindenki boldog.
 
-[00:12:37](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=757) Mondjuk én mondjuk úgy, hogy a NV 16 éve után látva azt, hogy Magyar Péter milyen sajtótájékoztatókat tart és mennyi kérdést lehet neki feltenni, ebből a szempontból én most így elégedett vagyok egy már elnézést, de ez az elégedett lehet az ember a sajtószabadsággal.
+[00:10:44](https://www.youtube.com/watch?v=4UdajmnO_RE&t=644) Hát aztán majd amikor jönnek a a a komolyabb döntések, akkor majd meglátjuk, hogy mennyire lesz.
 
-[00:12:52](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=772) Tehát igen, Magyar Péter válaszol az őt elkísérő telexes újságíróknak, de teszem azt, tart sajtótájékoztatót, ahová, hogyha a Hír TV egyik újságírója vagy a pesti srácok riportere véletlenül bejut, mert minket általában nem is engednek be, akkor a feltett kérdéseinkre annyi a válasz, hogy propagandistáknak nem nyilatkozom, amit önök írnak propaganda.
+[00:10:49](https://www.youtube.com/watch?v=4UdajmnO_RE&t=649) Orbán Viktor most Magyar Péter Gyurcsánya, tehát mondom ugyanaz most azzal lehet mé nézzük meg, hogy milyen aggályokat vett még fel ez a törvénymódosítás.
 
-[00:13:14](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=794) Ideje lenen leállni ilyen Fidesz propagandával is hasonlók.
+[00:10:57](https://www.youtube.com/watch?v=4UdajmnO_RE&t=657) Ugyanis Gulyás Gergely a Fidesz frakció vezetője szerint van még probléma ezzel a módosítással.
 
-[00:13:15](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=795) Tehát ezek tökéletes válaszok szerintem.
+[00:11:03](https://www.youtube.com/watch?v=4UdajmnO_RE&t=663) Hallgassuk meg, hogy ő mit mondott, és akkor ezzel fogjuk folytatni.
 
-[00:13:16](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=796) Hát most ha nekem ha nekem érkeznek ilyen válaszok, én tökéletesen elégedett vagyok vele.
+[00:11:08](https://www.youtube.com/watch?v=4UdajmnO_RE&t=668) Orbán igen, ezt nyugodtan nevezhetjük annak.
 
-[00:13:23](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=803) Tehát ezt a miniszterelnök ezt válaszolja az adott kérdésekre.
+[00:11:11](https://www.youtube.com/watch?v=4UdajmnO_RE&t=671) Benyújtotta a Tisza az alaptörvény módosítását.
 
-[00:13:28](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=808) Teljesen hogy a a Népszava olvasói is akkor elégedhettek az ilyen semmit mondó válaszokkal.
+[00:11:13](https://www.youtube.com/watch?v=4UdajmnO_RE&t=673) Mit jelent ez?
 
-[00:13:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=812) Nem tudom, hogy elégedettek-e vagy sem.
+[00:11:14](https://www.youtube.com/watch?v=4UdajmnO_RE&t=674) Ez érinti a migrációt, érinti az egyetemek működését és érinti a miniszterelnöki megbízatás időtartalmának a korlátozását.
 
-[00:13:34](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=814) Én én mindeneset azt mondom, hogy Péter, hanem folytatja a saját maga stílusában a kommunikációt.
+[00:11:23](https://www.youtube.com/watch?v=4UdajmnO_RE&t=683) Alaptörvényben hogy jön a migráció?
 
-[00:13:38](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=818) Ezt már kérdezték, múltkor elmondtam.
+[00:11:25](https://www.youtube.com/watch?v=4UdajmnO_RE&t=685) Teljesen érthetetlen, hogy ezt a Tisza miért akarja kivenni.
 
-[00:13:41](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=821) Tehát egyszerűen az ember feje megfájdul.
+[00:11:26](https://www.youtube.com/watch?v=4UdajmnO_RE&t=686) Ha a szuverenitáselmi hivatalt akarják megszüntetni, azt egy mondat törlésével választási életetüknek megfelelően meg tudják tenni, hogy migrációs paktumot akarják elfogadni, és hogy ennek ne lehessen semmilyen jogi alkotmányos adálya Magyarországon.
 
-[00:13:43](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=823) Én azt javasolnám a parlamentnek, hogy mondják ki nyugodtan, hogy egy egyszemélyes diktatúra van, és akkor nincs semmi problémánk ezzel, mint ahogy a 9/26-os rendeletben is benne van, hogy a miniszterelnök dönt mindenben.
+[00:11:39](https://www.youtube.com/watch?v=4UdajmnO_RE&t=699) Ezért iktatják ki ezt a rendelkezést.
 
-[00:13:58](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=838) Tehát ez ez már le is van írva.
+[00:11:41](https://www.youtube.com/watch?v=4UdajmnO_RE&t=701) Ez ellentétes azzal, amit a Tisza a választási kampányban ígér.
 
-[00:14:00](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=840) Ez a legfontosabb.
+[00:11:45](https://www.youtube.com/watch?v=4UdajmnO_RE&t=705) Hát ez úgy hangzott, hogy a migrációs politikában nem lesz változás.
 
-[00:14:01](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=841) Mondjuk diktatúra van, és akkor tudomásul vesszük.
+[00:11:49](https://www.youtube.com/watch?v=4UdajmnO_RE&t=709) Második ez a Lex Orbán.
 
-[00:14:04](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=844) Ehhez még azért hozzátenném azt is, hogy ugye a kampány alatt is látok és most is láthatjuk azt, tehát amikor olyan állapotok merülnek fel egy párton belül, hogy a külpolitikai szakértőjük, aki később külügyminiszter lett, a saját baráti sajtójuknak, aki egyébként most a külföldi útjukra a telexszel kísérte őket, ugyan tehát nekik azt válaszolta egy kérdésre, hogy elnézést, én nem tudom, hogy ebben nyilatkozhatok-e.
+[00:11:51](https://www.youtube.com/watch?v=4UdajmnO_RE&t=711) Igen, ezt nyugodtan nevezhetjük annak, de önmagában a visszameges hatály, amit múlt héten még az igazságügy miniszterasszony is átfogatamnak nevezett, az azt üzeni, hogy senki nincs biztonságban, hogyha alkotmányozni lehet visszanyes hatállyal, akkor bármit meg lehet tenni, akkor bármikitől bármit el lehet venni.
 
-[00:14:31](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=871) Akkor mit várunk el itt a politikai tevékenységtől?
+[00:12:07](https://www.youtube.com/watch?v=4UdajmnO_RE&t=727) És a harmadik az egyetemekkel kapcsolatos.
 
-[00:14:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=872) És most kormányon a minisztereik, akik korábban jelöltek voltak és a kampány alatt nem beszélhettek, most miniszterként, tárcavezetőként nem beszélhetnek, le vannak tilrtva.
+[00:12:09](https://www.youtube.com/watch?v=4UdajmnO_RE&t=729) Itt mi történik pontosan?
 
-[00:14:41](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=881) Igen.
+[00:12:12](https://www.youtube.com/watch?v=4UdajmnO_RE&t=732) Ez káros, helytelen.
 
-[00:14:41](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=881) Tehát one man show.
+[00:12:12](https://www.youtube.com/watch?v=4UdajmnO_RE&t=732) Ismét azt látjuk, hogy a kormány ahelyett, hogy építkezne, rombolni kell.
 
-[00:14:44](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=884) Kérdés, hogy ez meddig tart.
+[00:12:16](https://www.youtube.com/watch?v=4UdajmnO_RE&t=736) Most ezért szólaltak meg többen már a felsőoktatás szereplői közül is, hogy ez a rendszer egy jó rendszer.
 
-[00:14:46](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=886) Kérdés az, hogy Magyar Péter munkabírását, ezt ezt, ha van ilyen egyáltalán ez hogyan befolyásolja, hogy tulajdonképpen miniszterelnök létére kormányszóvivőként funkcionál.
+[00:12:21](https://www.youtube.com/watch?v=4UdajmnO_RE&t=741) A módosítani kell rajta, a többség megvan hozzá, de a teljes felszámolása az állami függésbe való visszakerülés, az ellentét az egyetemisták és az egyetemek érdeke és mi újság a tiszta kampányígéreteivel?
 
-[00:14:57](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=897) Egy házelnök.
+[00:12:32](https://www.youtube.com/watch?v=4UdajmnO_RE&t=752) Azok mikor valósulnák meg?
 
-[00:14:57](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=897) Ugye bocsássátok meg, ahogy arra Zoli is utalt, az a stílus, amit a kampányban tapasztaltunk, az pedig maradt.
+[00:12:34](https://www.youtube.com/watch?v=4UdajmnO_RE&t=754) Hát azokat mi is nagyon várjuk.
 
-[00:15:03](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=903) Ugye Orbán Viktor beszélt arról most a közösségi felületén, hogy árad a gyűlölet és az erőszak.
+[00:12:36](https://www.youtube.com/watch?v=4UdajmnO_RE&t=756) Na, foglalkozzunk egy kicsit a képzelni foglalkozzunk egy kicsit a Gyás által említett második ponttal.
 
-[00:15:08](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=908) És ugye közösen Kocsis Mátéval bejelentették, hogy megalapítják a védvonalat.
+[00:12:44](https://www.youtube.com/watch?v=4UdajmnO_RE&t=764) Ugye úgy fogalmazott Gulyás Gergely, hogy ezzel a kinyitják tulajdonképpen az utat a migrációs paktum elfogadása előtt.
 
-[00:15:13](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=913) Ugyanis ahogy ők fogalmaztak, tarthatatlan a jobboldali szavazók elleni gyűlöletszunami.
+[00:12:50](https://www.youtube.com/watch?v=4UdajmnO_RE&t=770) Ezt te is így látod, Matyi?
 
-[00:15:20](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=920) És hát arra kérik az embereket, hogy mindent rögzítsenek és dokumentáljanak.
+[00:12:53](https://www.youtube.com/watch?v=4UdajmnO_RE&t=773) Hát én úgy gondolom, hogy eleve az állítás, hogy kompromisszumra kell jutni Brüsszellel a Migrációs paktum ügyében, önmagában nem lenne egy teljesen lehetetlen állítás, és ezzel ezzel indult neki a Tisza ennek az egész ügynek.
 
-[00:15:27](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=927) Mi lehet ez a védvonal, és miért van erre szükség szerinted, Csabi?
+[00:13:04](https://www.youtube.com/watch?v=4UdajmnO_RE&t=784) A probléma az, hogy Magyarország szerintem nagyon helyesen csinálta az elmúlt 16 évben, ha már ezt így így így így fogalmazza meg polgármester úr azt a politikát, hogy azt a fundamentálisan hibás európai migrációs politikai logikát, hogy nem győződünk meg egy menedékkérőnek a menedék státuszra való jogosultságáról azelőtt, hogy beengednénk és ezzel magunkra vesszük a lehetetlen eltávolításának troncásnak a problémáját.
 
-[00:15:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=932) Köszönöm a lehetőséget.
+[00:13:26](https://www.youtube.com/watch?v=4UdajmnO_RE&t=806) utána ezt ezt soha ezt soha nem fogadta el a a magyar kormány.
 
-[00:15:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=932) Nem tudom, hogy mi lesz ez a védvonal.
+[00:13:29](https://www.youtube.com/watch?v=4UdajmnO_RE&t=809) Tehát meggyőződött Gruevski esetében is arról, hogy hogy hogy jogosultésra és még addig ameddig az Európai Unió közös migrációs politikája ezt a fundamentális ügyet ezt nem rendezi, tehát nem tiltja meg azt, hogy egy menedékkérő azelőtt betehesse a lábát az Európai Unió területére, hogy elbírálták volna a menekül státuszát, ezzel megbizonyosodhatnák, hogy nem kell utána kitoroncolásávából lehetetlen csatákat vívni, addig ez nem elfogadható.
 
-[00:15:34](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=934) Nyilván ez a védvonalnak is van már amúgy egy ilyen kis történelmi útóhangzása, hiszen azért ez is egy ilyen harcászati kifejezésnek tűnik így elsőre.
+[00:13:52](https://www.youtube.com/watch?v=4UdajmnO_RE&t=832) És ennyire nem kell méletigációs politikájánál.
 
-[00:15:44](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=944) Volleges aki nézett elég sok ilyen történelmi dokumentumfilmet vagy filmet.
+[00:13:55](https://www.youtube.com/watch?v=4UdajmnO_RE&t=835) Márpedig, hogyha elfogadják ezt a státuszt, ahogyan most van, az kinyitja Magyarország számára a lehetőséget arra, hogy kénytelenek legyünk vagy betelepíteni, vagy pedig fizessünk azért, hogy mások betelepítsenek olyan embereket, akiknek a zömét nagy esélye nem is lenne jogalap betelepíteni.
 
-[00:15:51](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=951) Így ennek van egy ilyen kis utóhangzása, de egyébként olyan érdekes, hogy ezzel én is gondolkodtam, hogy mit védenek.
+[00:14:07](https://www.youtube.com/watch?v=4UdajmnO_RE&t=847) A bekezdés ugyanis amit kihagytak, az úgy szól, ez az ez a bekezdés kimondja azt, hogy az állam minden szervének kötelessége megvédeni az ország alkotmányos önazonosságát és keresztény kultúráját.
 
-[00:15:57](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=957) Tehát például a Fidesz vagy Kocsis Márti Orbán Viktor igazából mit tudnak még megvédeni, mert én is meglepődtem rajtam, mert ugye amikor azt mondjuk, hogy megvolt ez a kormányváltás, és hogy milyen gyorsan omlik szét az a fajta építmény, amit mi Nernek vagy akárminek neveztünk.
+[00:14:18](https://www.youtube.com/watch?v=4UdajmnO_RE&t=858) Miért maradhatott ez ki?
 
-[00:16:12](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=972) Hát pont itt voltam egy műsorban, amikor pont egy komment volt, amikor a adászünetébe vettük észre, hogy Balási Gyula ott sirdogál egy másik tévében.
+[00:14:21](https://www.youtube.com/watch?v=4UdajmnO_RE&t=861) Azért furcsa, mert a Fidesz ezt nem tette meg.
 
-[00:16:23](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=983) Mikor el se gondol meg biztos, hogy alapvetően a politikai elitre gondoltak?
+[00:14:22](https://www.youtube.com/watch?v=4UdajmnO_RE&t=862) Tehát egy Fidesz, aki Atia kuri nevű körözött terroristának adott letelepedési engedélyt, meg egy Gruaski nevű körözött bűnözőnek adott let menedéket Magyarországon, aki a Orbánnak a testvére az emberkereskedelemből profitált, profi módon migráns betelepítéssel foglalkozott, csak Debrecenbe 50000 migránst telepített be a Fides úr ne haragudjon most a migránsokról vagy azokról az emberekről beszél, akik az idegenrendi, akik az idegenrendészeti törvény alapján ellenőrzött körülmények között munkavállalóként vannak.
 
-[00:16:29](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=989) Hiszen ugye Gulyás Gergely is, amikor egy pár hete arról beszélt, hogy itt a teljes jobb oldalra szeretnének ráhúzni egyfajta kollektív bűnösséget, és hogy zajlik egy politikai boszorkányüldezés, akkor már ő is arról beszélt, hogy készek jogi segítséget nyújtani mindenkinek, akit valamifajta támadásér.
+[00:14:51](https://www.youtube.com/watch?v=4UdajmnO_RE&t=891) Ide semmilyen ellenőzött körülmények között ne telepítsenek be terroristákat és ne telepítsenek be körözött bűnözőket meg orosz kémeket.
 
-[00:16:46](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1006) És ugye most is úgy fogalmaztak itt az alapítók, hogyha szükséges, akkor utcára is megyünk az embereink védelmében.
+[00:14:59](https://www.youtube.com/watch?v=4UdajmnO_RE&t=899) Ennek véget kellett vetni.
 
-[00:16:51](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1011) Annyi ügyvéd, annyi újságíró, annyi közéleti ember van, amennyi csak kell.
+[00:15:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=900) És én nagyon remélem, hogy ez a kormány nem fogja folytatni.
 
-[00:16:55](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1015) Igen, igen.
+[00:15:02](https://www.youtube.com/watch?v=4UdajmnO_RE&t=902) Az illegális migráció pláne.
 
-[00:16:55](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1015) És ezt erre akartam kíukadni én is, hogy tehát hogy kik maradtak ott, tehát amikor azt mondjuk, hogy meg fogják védeni magukat, megvédennek egy struktúrát, tehát azokat az egyszerű szavazókra gondolnak, akik kommentelnek, vagy ilyesmi, tehát a mindennapi életükbe kerülnek bele, vagy újságírók miatt fognak kimenni, tehát mi maradt, amit meg tudnak védeni?
+[00:15:04](https://www.youtube.com/watch?v=4UdajmnO_RE&t=904) Tehát az, ahogy Orbán 20000 illegális migránst terel Szlovákiába, egy szlovák választásra, az azt jelenti, hogy jóval több van Magyarországon, ha csak Szlovákiába átengedtek 20000 illegális migránst.
 
-[00:17:14](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1034) Szerintem ez ilyen nagyon érdekes kérdés, mert mert hogyha most körbenézünk és ha látjuk a nemzeti tábor Igen.
+[00:15:15](https://www.youtube.com/watch?v=4UdajmnO_RE&t=915) De én pontosan tudom, a határ mentén élve, hogy az a kerítés, az senkit nem állított meg az égvilágon.
 
-[00:17:20](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1040) Igen.
+[00:15:19](https://www.youtube.com/watch?v=4UdajmnO_RE&t=919) A legtöbb a leg nagyobb mennyiségben forgalmazott á orvos akkor itt csak lesz annak hogy mindenki aki nyugatról Magyarország azt veszi előz nincsenek migrákerítés a határítés őrizni kell az amit csináltak itt hogy naponta 1000 ember mászott át azon a kerítésen és ebből 100-at visszatoloncoltak 9 is pontosan jól tudja hogy az első időszakban a honvédség valamint a rendőrség közösen most pedig ugye határvédők vannak határők az ilális migránsoknak szabadon mehetett át ezen A kerítésen ott voltak az elad elhagyott autók.
 
-[00:17:20](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1040) Tehát ez így létezik szerinted azt tudod ezt tök jó az érkez a kérdés, mert mert ezt így nem látom tehát és nem akartam szabadálni, csak tényleg nagyon kíváncsi vagyok a véleményedre csak az, hogy hogy fel tud fűzni a gondolatodat, hogy tehát mi az, ami mondjuk még nem ment át esetleg a Tiszához?
+[00:15:53](https://www.youtube.com/watch?v=4UdajmnO_RE&t=953) Ez milyen statisztika?
 
-[00:17:34](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1054) Tehát azon kívül, hogy maradt egy-két újságíró vagytok ti ö akik még ugye itt vagytok, nyilván akiknek még megmaradt a munkahelye, de azonkívül a főnökeitek, a főnökeiteknek a a üzlettársai, az ott már valószínűleg ott vannak.
+[00:15:53](https://www.youtube.com/watch?v=4UdajmnO_RE&t=953) És mikor m rendőrségi statisztika úr miged nézze meg néz meg vonatkozik az osztrákok kimutatott statisztik szerint 100zrével jöttek át Magyarország folyamatosan 100zével jöttek Magyarország.
 
-[00:17:49](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1069) Maradt néhány szavazó is, akik ugye elvesztették a a kilátásaikat.
+[00:16:10](https://www.youtube.com/watch?v=4UdajmnO_RE&t=970) Melyik évben hány ember?
 
-[00:17:56](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1076) Nézzük azt, hogy mondjuk már a miniszterelnök se már nincs benne a frakcióban.
+[00:16:13](https://www.youtube.com/watch?v=4UdajmnO_RE&t=973) Melyik évben hány ember?
 
-[00:17:59](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1079) Tehát az a lényekes, hogy ez a véd védvonal mögül kik vannak.
+[00:16:14](https://www.youtube.com/watch?v=4UdajmnO_RE&t=974) Nézze meg ott a statisztik.
 
-[00:18:01](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1081) Ne haragudj, de ezt a nem akarom felvenni, csak esküszöm elfelejtem.
+[00:16:14](https://www.youtube.com/watch?v=4UdajmnO_RE&t=974) De akkor, tehát hogyha ő nem tudja, akkor miért állítja, hogy a 90%-ig vagy hogy több 100z, de hogyha fogalma nincs a számokról, amikről beszél, akkor miért beszél számokról?
 
-[00:18:07](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1087) Itt a védvonal ez egy határvonalat jelent eddig és ne tovább.
+[00:16:23](https://www.youtube.com/watch?v=4UdajmnO_RE&t=983) Mert a Gyurcsány is azt csinálta.
 
-[00:18:12](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1092) Tehát a a nemzeti konzervatív oldal választói és szimpatizánsai döbbenten nézték azt, hogy mi folyik, mert gyakorlatilag egy boszorkányüldözést vele tartunk, egy verbális nincs elés.
+[00:16:26](https://www.youtube.com/watch?v=4UdajmnO_RE&t=986) Na parancsolj Ligi, merről az egészről.
 
-[00:18:24](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1104) Nagyon remélem, hogy nem követi ezt fizikai erőszak, de már azon a határon eljutottunk.
+[00:16:28](https://www.youtube.com/watch?v=4UdajmnO_RE&t=988) Jó, következő van.
 
-[00:18:28](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1108) Tehát meg kell meg kell védeni a szavazóinkat, meg kell védeni a szimpatizánsainkat, az állampolgárokat és azokat is meg kell védeni, akiket felhergel ez a jelenlegi hatalom ezekre a cselekedetekre, mert ezek már mindenen túltesznek.
+[00:16:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=991) Tehát mit mondott Magyar Péter?
 
-[00:18:42](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1122) Hiába mondja a Puzsér Róbert, hogy ez tréfa volt meg satöbbi.
+[00:16:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=991) Csak egy kicsi szuverenitásról kell lemondani.
 
-[00:18:46](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1126) Nem, nem jó.
+[00:16:36](https://www.youtube.com/watch?v=4UdajmnO_RE&t=996) Mindent elmondtak.
 
-[00:18:46](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1126) Ez bűncselekmény.
+[00:16:36](https://www.youtube.com/watch?v=4UdajmnO_RE&t=996) Igen, igazából.
 
-[00:18:46](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1126) Föl is jelentették többet.
+[00:16:39](https://www.youtube.com/watch?v=4UdajmnO_RE&t=999) Tehát, hogy teljesen mindegy, be fogják hozni a migránsokat, Néppártnak a tagja, mindent meg fog csinálni, mit kérnek tő első körben 8000 migránst valószínűleg be fognak hozni.
 
-[00:18:47](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1127) Zoli, bocsás meg, ha már Puzsér Róbertnél tartunk, ugye, hogyha a közösségi médiafelületeket nézzük, akkor azt látjuk, hogy ezek az ilyen erőszakos megnyilvánulások, vagy például a arról való kommunikáció, hogy mit kell csinálni a fideszes szavazókkal, ez megsokszoroz megsokszorozódott, valamint hát kezd eldurvulni.
+[00:16:49](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1009) A probléma pedig egészen egyszerű lesz.
 
-[00:19:06](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1146) De hogy pontosan milyen példák vannak erre, na ezt fogjuk megnézni, de már csak a reklám után, ugyanis most el kell mennünk egy rövid szünetre.
+[00:16:51](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1011) Drámaian vázolom.
 
-[00:19:12](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1152) Maradjanak velünk.
+[00:16:54](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1014) Oké.
 
-[00:19:31](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1171) Folytatódik a kommenttír tévén.
+[00:16:54](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1014) Olyan emberek fognak jönni, akiknek a kérelmét el kell bírálni.
 
-[00:19:33](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1173) Köszöntöm önöket.
+[00:16:57](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1017) Na most egyébként én nekem vannak barátaim, akik testközelből tapasztalják a migrációt Németországba, mert ilyen táborokba dolgoznak, mint biztonsági emberek.
 
-[00:19:33](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1173) Én Futó Boglárka vagyok.
+[00:17:10](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1030) Elég sok időt ki kell venni egyébként szabadságra betegszabra, amikor oldalról megdöfködik csavarhúzóval meg ilyenekkel, de ami a lényege, hogy a minőséginek megítélt migránst, azt azonnal beolvasztják a társadalomba, befogadják, lakást kap satöbbi.
 
-[00:19:35](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1175) A stúdióban pedig vendégeim még mindig Árpási Bence Sarkadíj és Csaba Kertész Dávid és Dézsi Zoltán.
+[00:17:27](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1047) A többi megy a táborba, elvizsgál, megvizsgálják, hogy alkalmas arra, hogy maradjon vagy nem.
 
-[00:19:39](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1179) A reklám előtt pedig ott hagytuk abba, hogy létrehozzák a védvonalat.
+[00:17:33](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1053) azalatt az idő alatt, amíg a táborban van, kimennek, droggal kereskednek, agresszívoskodnak egymás között, helyiekkel satöbbi.
 
-[00:19:43](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1183) Ugye ezt jelentette be Orbán Viktor, valamint Kocsis Máté a közösségi felületeken, és úgy is fogalmaztak, hogy tovább árad a gyűlölet és az erőszak.
+[00:17:42](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1062) Tehát az a lényege, hogy amennyiben ez megtörténik, Magyarországra bejön egy problémás embertömeg, akikkel majd most kontaktusba kerülhet a magyarság, és akkor megtapasztalja az együttélésnek az örömeit, hogy ez jó lesz-e vagy nem.
 
-[00:19:52](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1192) Azt gondolom, hogy ezt mindannyian tapasztaljátok ti is, hogyha kinyitjátok a közösségi médiafelületeket.
+[00:18:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1080) Majd eldöntik.
 
-[00:19:58](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1198) De nézzük meg, hogy például legutóbb itt a keresztény Magyarországgal kapcsolatban hogyan fogalmazott tót a VRP.
+[00:18:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1080) Ilyen egyszerű.
 
-[00:20:06](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1206) Tehát ha akarna a Fidesz hápogni amiatt, hogy úristen, ez most ez már nagyon bal oldal, vagy hogy mit tudom én, bevezeti a 10 Tisza, vagy engedélyez a melegek.
+[00:18:03](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1083) egyet ne nagyon várjon senkit.
 
-[00:20:14](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1214) házasságát.
+[00:18:06](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1086) Tehát azt beszéltük itt a el a adás előtt, hogy ez egy idézőjelbe vett atlantista kormány.
 
-[00:20:14](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1214) Jó, biztos el lehet kezdeni itt verni a tamtamot, hogy na úristen, most vége a keresztény Magyarországnak.
+[00:18:11](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1091) Én inkább mondám úgy, hogy ez a multivállalatoknak a kormánya lesz, és teljes mértékben ki fogja szolgálni a nemzetközi multiknak az érdekeit, illetve ezeket az érdeket, amiket az unió a birodalomépítés közben támaszt.
 
-[00:20:22](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1222) De hát a választók azt mondták, hogy leszák a keresztény Magyarországot.
+[00:18:28](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1108) És ennek hála a magyarság szembesülni fog.
 
-[00:20:27](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1227) Már legalábbis ezt a fideszes értelmét, de azt hiszem, hogy amúgy is.
+[00:18:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1111) az összes olyan problémával, amivel nyugati társaik ahova már csatlakozni szeretnének, szembesülnek.
 
-[00:20:33](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1233) Úgyhogy ketté lehet őket hozni és kész.
+[00:18:38](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1118) Tehát maradjunk akkor még egy kicsit itt a problémáknál, ugyanis következő számú probléma lesz majd a szolidaritási adó kérdése.
 
-[00:20:38](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1238) Dávid, mit gondolsz?
+[00:18:46](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1126) Nagyon kíváncsi lennék arra, hogy mondjuk Hódmezővásárhely be fogja-e fizetni a szolidaritási adót.
 
-[00:20:38](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1238) Hát nem idézem most Petrás Jánost, aki erre adott egy nagyon releváns választ, de nagyjából annyit mondott, hogy ő keresztény és magyar, és meg lehet próbálni.
+[00:18:50](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1130) Ezzel fogjuk folytatni.
 
-[00:20:46](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1246) Utána viszont javasolja, hogy Tóta vészaladjon.
+[00:18:52](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1132) Már csak a reklám után ugyanis most el kell mennünk egy nagyon rövid szünetre.
 
-[00:20:50](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1250) Viszont ennek kapcsán épp erről volt szó az imént, és Csabának akartam válaszolni erre, mert nagyjából úgy fogalmazta el, mintogyha ez a tábor már teljes mértékben összeomlott volna.
+[00:18:56](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1136) Maradjanak velünk.
 
-[00:21:02](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1262) Ö ez viszont nincs így.
+[00:19:13](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1153) Babu a szahéri nyelven nagypapát jelent.
 
-[00:21:02](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1262) Tehát sőt én még valamiféle erősödést is látok, mert ismerek olyan írót, költőt, filmes szakembert, aki most lépett ki a fényre, mint fideszes, mert tudta, hogy a saját szakmai körében eddig teljes mértékben inkább hallgatnia kellett volna, hogy ne jusson semmire.
+[00:19:16](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1156) Én Afrikában tudtam meg, hogy nagypapa lettem.
 
-[00:21:22](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1282) Kiderült az, hogy tulajdonképpen semmit nem jelent az, hogy rejtegette a véleményét.
+[00:19:20](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1160) Azt mondták nekem, hogy babu, te újjászülettél.
 
-[00:21:26](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1286) Most előjött.
+[00:19:23](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1163) Ez csoda, ami történt veled, hogy te ráléptél egy zöld mambára, és nem mart meg, de ez egy bamba mamba volt.
 
-[00:21:28](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1288) Ugyanúgy megkapja a támadásokat, ugyanúgy megkapjuk mindannyian.
+[00:19:33](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1173) Ikon budaiettel.
 
-[00:21:31](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1291) Tehát nem csak újságírókat fenyegetnek folyamatosan, a közembert is fenyegetik azért, mert tudják róla, hogy a Fideszre szavazott.
+[00:19:33](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1173) Ma 22: 300 per Hír TV.
 
-[00:21:39](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1299) ezt a struktúrát kell megvédeni, mert megmaradt a nemzeti hálózat, és épp arról van szó, ahogy Orbán Viktor is mondta, most alulról szerveződő mozgalmakat kell indítani.
+[00:27:28](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1648) Az it folytatódik a kommentc csütörtökön itt a hírtvén.
 
-[00:21:48](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1308) Tehát ez nem a Fidesz jövője, ez a magyar jobb oldal, a nemzeti oldal jövője, hogy alulról szerveződő mozgalmakban bízhatunk, megteremtjük az egységet, megvédjük egymást, megvédjük a közösségünket.
+[00:27:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1651) Köszöntöm önöket.
 
-[00:22:00](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1320) Ehhez adja a védőhálót a jelenleg megmaradt Fidesz, ami a strukturális összeomlást illeti.
+[00:27:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1651) Én futó Boglárka vagyok.
 
-[00:22:07](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1327) Te ugye a te azokra céloztál ezalatt, ha jól értettem, akik a pénzemberek, akik átálltak, a Balázsi Gyulák, a Matolcsi Ádámok és hasonlók.
+[00:27:32](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1652) A stúdióban pedig vendégeim még mindig Székely Sándor, Márkiszai, Péter, Kohán Metyes és Pityinger László.
 
-[00:22:18](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1338) Nos, tőlük úgy érzem, meg is kellett tisztulnia ennek a tábornak, és én erre azt mondom, hogy a az ő elvesztésükkel mi inkább nyertünk, mégogyha a választást el is vesztettük.
+[00:27:37](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1657) A reklám előtt pedig ott hagytuk abba, hogy hát kiderült, hogy ki kell fizetniük az önkormányzatoknak a szolidaritási adót.
 
-[00:22:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1352) Ez a tábor viszont nem amiatt fog működni, és nem amiatt működött eddig sem, mert vannak mögötte pénzemberek.
+[00:27:45](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1665) És hát polgármester úr, ön úgy fogalmazott április 17-én, hogy nem utalunk Orbánnak szolidaritási adót.
 
-[00:22:38](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1358) A pénzemberek, ahogy látjuk, valószínűleg eddig sem, mert mögött a tábor mögött voltak.
+[00:27:50](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1670) És utána pedig azt mondta, és arra kérte a Tisza kormányt, hogy szabályszerűen használják fel illetve, hogy nagyon bízik abban, hogy ez majd sikerülni fog a Tisza kormánynak, hogy a magyar emberek érdekeit szem előtt tartják.
 
-[00:22:43](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1363) Ez a tábor a közösség egységessége az emberek közötti kapcsolat miatt működik.
+[00:28:06](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1686) Hát önnek mi vagy ki erre a garancia kormányzatban, hogy ez így fog történni?
 
-[00:22:47](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1367) És ez a továbbiakban is megmarad, és a védővonal ezt fogja megvédeni, ezt tartja fent.
+[00:28:13](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1693) Majdnem itt hagytuk abba, de előtte hadd reagáljak, amire az előbb nem tudtam.
 
-[00:22:54](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1374) Ezeknek az embereknek ad egy menedéket, hogyha támadás éri őket.
+[00:28:16](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1696) Ugye Pittinger László úr elmondta, hogy nyugaton a lágerekbe zárt migránsok azok bűnöznek, erőszakolnak.
 
-[00:22:58](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1378) Egy kérdés csak ide.
+[00:28:21](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1701) Tehát akkor egy igazi gengster rapper álma a láger, ahol kiskörúakat lehet erőszakolni, meg lehet menni a hát ez ilyen fölösleges személyeskedésre tudjuk be a humornak.
 
-[00:22:58](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1378) És szerinted a Fideszt kell, vagy a Fideszt lehet megvédni, hogy a Fidesz megvédése a cél, vagy pedig a közösség tábor, vagy ahogy gondolod, mert te is most mondod az előbb, hogy hogy alulról szerveződve kell akár kialakítani valamit.
+[00:28:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1711) Ennyit ennyit be akartam szúrni humornak.
 
-[00:23:10](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1390) Tehát az a lényeg, hogy a Fidesz az menthető.
+[00:28:32](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1712) Irónia, irónia.
 
-[00:23:12](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1392) A Fideszt meg kell menteni bocsás meg, mert megint itt a politikai részénél tartunk a történetnek, de Tóta V például most nem erről beszélt, hanem a kereszténységről, a keresztény emberekről, a keresztény Magyarországról.
+[00:28:34](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1714) Mindannyak van gyereke.
 
-[00:23:26](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1406) Tehát ez egy kicsit több mint egy politikai tábor.
+[00:28:36](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1716) Beszélgés igen.
 
-[00:23:28](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1408) Igen, igen.
+[00:28:36](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1716) Csak nem szeretnék ma megerőszakolnák.
 
-[00:23:31](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1411) Csak hogy úgy vesszük a Igen, igen.
+[00:28:38](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1718) No, szóval mindenesetre a szolidaritási adót nem utaltuk el, de természetesen a államkincstár az inkasszálta a hódmözővásárhelyi számláról, amit tudtunk előre, hogy így van, mert szabályszerűen működött az állam.
 
-[00:23:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1412) Csak azt mondjuk, de hát hogyha valaki tehát a most volt éppen ugye Magyar Péter Lengyelországban, tehát azért elég sok jelét adta annak, hogy ő a keresztény Magyarország vagy a kereszténység mellett tette levokság.
+[00:28:50](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1730) Én fölhívtam a figyelmet arra, hogy az átmeneti kormányzás alatt a kormány ne költse el ezt a pénzt, hiszen az egyébként rekordmagasra tervezett közösségvetési hiányt az idei évre a Fidesz 90% fölötti százalék-ban elköltötte az első három-négy hónapban.
 
-[00:23:42](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1422) Tehát Tóta V Árpád szerintem ugy jó de mondjuk a Tóta véd Árpád ezekkel a megmozdulás ugyanannyira egyedül van, mint volt a Fidesz korszakban is.
+[00:29:06](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1746) És nyilván nem szerettük volna, hogyha a városoktól beszedett pénzt, amit a Fidesz évekként majdnem duplázott Hórmöző Vásárhelyen az elmúlt öt évben 120 240 480 590 691 millióra emelkedett egy harmadik legszegényebb megjélgó városnak irdatlan pénzeket vette a Fidesz kormány.
 
-[00:23:49](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1429) Tehát nem minném, hogy amúgy ennek azon kívül, hogy most lehet megint bele, ha megengeded, akkor válaszolnék azért a kérdésedre.
+[00:29:22](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1762) Nem örülök neki.
 
-[00:23:57](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1437) Tehát egyrészt nincs egyedül az ilyen megnyilvánulásokal.
+[00:29:22](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1762) De tény, hogy a törvény Básam most örül neki.
 
-[00:23:59](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1439) Másrés, ugyanolyan magános, úgy mondtam, de igen.
+[00:29:26](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1766) Nem most örülök neki, de a törvények alapján eddig is befizettük, tavaly is befizettük, azért is befizettük, most is befizettük.
 
-[00:24:04](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1444) Másrészt itt feltetted a kérdést, hogy ezeket a közösségeket vagy a Fideszt kell megvédeni?
+[00:29:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1771) Beszedték.
 
-[00:24:08](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1448) Nem, itt arról van szó, hogy a jobboldali, nemzeti érzelmű, keresztény magyar embereket kell megvédeni, hogyha nem tetszésüket adják bármiféle hasonló megnyilvánulással satöbbel szemben, hogyha fel akarják vállalni a véleményüket.
+[00:29:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1771) Én nem utaltam, nem utaltattam, de ettől még ők leszedték a számlánkról.
 
-[00:24:20](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1460) És ezt a védőhálót, ezt a védvonalat jelenleg a Fidesz nyújtja.
+[00:29:35](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1775) És természetesen azt kívánom, hogy ha már a mostani tör tát nem befizették, inkasszálták, maradjunk annál a kérdésnél, mi vagy ki a garancia önnek arra, hogy ez jól lesz elköltve, vagy úgy, ahogy legalábbis önkérte?
 
-[00:24:24](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1464) Tehát ne ossuk össze azt, hogy mit védünk meg, és ki az, aki a védelmet adja.
+[00:29:48](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1788) Én nagyon remélem, hogy a korrupció fölszámolásávól, a kék szalag levételével tetszett kérdezni, hogy hova lett a kék szalag.
 
-[00:24:29](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1469) És van még egy fontos dolog.
+[00:29:52](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1792) Április 13-án levettem.
 
-[00:24:29](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1469) A ma Magyarországon a rettegést keltők a a gyűlöletből nagyon jól meg lehet élni.
+[00:29:55](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1795) azért vettem le, mert abban bízok, hogy mostantól kezdve olyan következmények nélkül bűnöző kormány soha többé nem lesz Magyarországnak, mint az elmúlt 16 évben.
 
-[00:24:37](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1477) Várpát példája ezt mutatja.
+[00:30:03](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1803) Igen, csak ugye ezt kérdeztem valóban az adás előtt, hiszen feltűnt, hogy már nem viseli azt a kék szalagot, amely ugye évekig ki volt tűzve az akójára, amelyről ugye tudni lehetett, hogy ez a korrupció elleni harcnak a jelképe, és a kérdésem arra irányult, hogy ez a harc végetért?
 
-[00:24:37](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1477) Ilyen ilyen jól megélt Puzsér is, aki egyébként a filmjeit korábban a Puskás Akadémia stúdiójában vágta, amiket a YouTube-ra föltett.
+[00:30:18](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1818) Magyarország 1000 éves történelmének legorruptabb rendszerét váltottuk április 12-én.
 
-[00:24:46](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1486) A legfontosabb dolog, hogy a közösséget, a nemzeti közösséget kell megvédeni, az embereket, a választókat.
+[00:30:22](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1822) vagy ki a garancia arra, hogy hogy ezek a pénzek jól lesznek elötve és az új kormányzatban nem lesz korrupció?
 
-[00:24:54](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1494) És ez ugyanolyan kötelessége lenne Magyar Péternek is, mert ő ugye minden állampolgárnak a miniszterelnöke.
+[00:30:29](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1829) Csatkozunk lesz egy tisztességes legfőbb rész.
 
-[00:24:58](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1498) És Magyar Péter lenne az az egyetlen ember, akire hallgatnak, hogy most eddig és ne tovább.
+[00:30:32](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1832) Remélem hamarosan majd és csatlakozunk az erőp ügyészséghez, ami minden tolvajt elszámoltat.
 
-[00:25:04](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1504) Előbb-utóbb ez az üzenet eljut oda, és muszáj lesz Magyar Péternek visszavonultót fújni, vagy pedig visszahívni a csahosait.
+[00:30:35](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1835) Ebbe kiemmelten sikeres.
 
-[00:25:10](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1510) Bocsássátok meg, de hogyha már itt Magyar Péter kommunikációjánál tartunk, akkor nyilván az is egy elég erős üzenet, valamint a követőtborra is nagy hatást gyakorol, hogy például hogyan kommunikál Magyar Péter ugye Sullyok Tamással összefüggésben, mit mond a köztársasági elnökről, és azt hogyan mondja, és ennek egyfajta leképeződését már látjuk a közösségi felületeken.
+[00:30:37](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1837) Az hogy mostantól Magyarország mer csatlakozni egy korrupt politikusokat üldöző szervezethez, az garancia, hogy nem fognak továb az európai ügyészség lenne a garancia.
 
-[00:25:31](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1531) És nézzük meg, hogy Pottyondi Edina hogyan fogalmazott a legutóbbi videójában.
+[00:30:47](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1847) Mátyás, ezt te is így látod?
 
-[00:25:38](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1538) És hát tovább alázta a szatyorfingot, aki elsőre még be tudott állni a frissen kinevezett földművelésügyi miniszter mellé egy közös protokollfotóra, de aztán minden miniszterrel megismétlődött a pál utcai fiúk híres jelenete.
+[00:30:47](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1847) Én alapvetően úgy látom, hogy szerintem konszenzust tud lenni ebben a teremben abban, hogy az elmúlt néhány évben a Fidesz önkormányzati politikája az egy rossz minőségi önkormányzati politika volt.
 
-[00:25:57](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1557) kérlek, remélem, nem azonosítjátok magatokat ennek a kölyöknek a Egészen pontosan így gyalázták meg a szatyorgerébet.
+[00:30:56](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1856) Én azt gondolom, hogy az a mértéke a szolidaritás azulásnak, ami mint elf helyes, de tehát ebben a mértékben már ellhetetleníte nem csak a fejlesztést, hanem sok megye jogvárosban, a működésben is komoly bevágásokat okozott.
 
-[00:26:13](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1573) Miután egyenként átvették megbízólevelüket, Magyar Péter mellé állva fordultak a fotósok felé.
+[00:31:07](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1867) Ez az első esete annak, amikor a Tisza egy rossz fideszes politikát visz tovább, és nem pedig egy jó fideszes politikát.
 
-[00:26:19](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1579) És mielőtt bárki megsajnálná a búskutyaszemekkel Mártiromkodó Klúzó felügyelőt, gondoljunk a 6,sés fél milliós fizetésére.
+[00:31:12](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1872) Ha valami, akkor az önkormányzati politika az, amiről tudni lehetett, hogy ez így nem jó.
 
-[00:26:24](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1584) meg a párizsi olimpián hagyott 228 milliós szálloda számlájára, és arra, hogy milyen lelki nyugalommal fordított hátat a jogállamnak, vagy a poloskának nevezett több millió magyarnak.
+[00:31:16](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1876) Igazából még a Fidesz is tudta, hogy ez így nem jó, csak ilyen késen jött rá és kezdett el ezen dolgozni.
 
-[00:26:39](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1599) Bence, hova vezet szerinted ez a kommunikáció?
+[00:31:20](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1880) Ez egy komoly hibájuk.
 
-[00:26:43](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1603) Erről műsorokat lehetne megtölteni, és én azt gondolom, hogy mi tessék annyi időnk nem maradt.
+[00:31:21](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1881) Tehát ha valami akkor az önkormányzat politika olyan, ahol kész tervvel kellett volna érkezni és gyors beavatkozásokat kellett volna tenni annak érdekében, hogy a szítés azérásnak ezt a mostani mértékét, ezt a mostani rendszerét, amely szinte elviselteket jelent meg a jogvárosok számára.
 
-[00:26:50](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1610) Hát az a az a az a helyzet, és itt távolabb lépnék, és így mindenkinek a saját felelősségére hívnám fel a figyelmet.
+[00:31:33](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1893) Én tudom ennél a kritikánál, amit most Mátyás megfogalmazott, nem volt egyébként egyeztetés korábban akár a kampányban vagy akár az elmúlt másfél hónapban?
 
-[00:26:56](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1616) Tehát tehát én értem azt, hogy Solyak Tamás ezzel egy nagyon jó, mondjuk így, vagy hát kommunikációs hibát vétett el, amikor ezt a nevére vett Tamásra.
+[00:31:46](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1906) tisztel tessék elképzelni, hogy nem volt.
 
-[00:27:07](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1627) Itt egy szemétaljas médiamunkát láttunk.
+[00:31:46](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1906) Most gondolom, hogy körülbelül egy hete van egy miniszter, két hete mondjuk van egy új miniszter.
 
-[00:27:09](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1629) Felháborító.
+[00:31:50](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1910) Én azt gondolom, hogy ha még pénzt nem adtak neki, akkor ő neki hiába van miniszteri és tallom.
 
-[00:27:09](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1629) Meg kell, hogy mondjam már meg előbb meg akartam szólalni, potyondi Edinát soha többet ne mutassuk a Hírtévő nézőinek.
+[00:31:54](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1914) Várjuk az egyeztetést a miniszterasszonnyal és természetesen a panaszainkat el fogjuk mondani neki is, ahogy évekig elmondtuk a Fideszes kormányot vagy a minisztérium a magyar önkormányzatok szövetségének elnökségi tagja vagyok és igen, kerestük a miniszterelasszonyt, sőt Magyar Péter miniszterelnök urat is kerestük, és nem is fogjuk abbahagyni ezt a keresést addig, amíg nem fognak az önkormányzatok érdekvédelmi szervezeteivel szóba állni, ahol el fogjuk mondani a panaszainkat.
 
-[00:27:18](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1638) Ez ez egy ez egy undormány az egész, amit most mondott.
+[00:32:19](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1939) Vannak kész javaslataink, kidolgozott javaslataink vannak a MSnek kimondottan, a merigó városok szövetségének is.
 
-[00:27:19](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1639) Kikérem magamnak az állampolgárok nevében a köztársaság elnök mindannyiunk köztárság.
+[00:32:23](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1943) És természetesen egyet, bocsásson meg, ami ön szerint a legfontosabb, egyet említsem.
 
-[00:27:24](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1644) Igen, Zali, bocsáss meg, csak ugye itt Bence azt mondta, hogy felelősség.
+[00:32:29](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1949) Az önkormányzatok önáll, amit itt nagyon helyesen Márton elmondott, ezt egy fideszes kollég Mátyás, azt egy fideszes kolléga elmondta az MJVS-nek, a megyeegó városok szövetségének az egyik legnagyobb magyar város fideszes polgármestere elmondta, hogy az elmúlt 16 évben a Fidesz szisztematikusan építette le az önkormányzatok szabadságát és függetlenségét.
 
-[00:27:27](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1647) Te pedig arra kértél minket, hogy ne mutassuk Potyondi Edinát.
+[00:32:45](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1965) Ezt kellsorban helyreállítani, és természetesen ennek van anyagi vonatkozása is.
 
-[00:27:29](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1649) Azt azért fontosnak tartom leszögezni, hogy Potyondi Edina egy olyan tartalomgyártó, aki több százreket ér el.
+[00:32:50](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1970) Az önállósághoz anyagi forrás is kell.
 
-[00:27:35](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1655) ezekkel a videóival.
+[00:32:52](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1972) Amit 16 év alatt elloptak, az két hét alatt még nem sikerült pótolni a Tisza kormánynak.
 
-[00:27:38](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1658) És bár nem szimpatikus, és nem értesz egyet azzal, amit mond, vagy azzal a stílussal, ahogy ezt mondja, de mégiscsak 100zerekre gyakorol hatást azokkal a gondolatokkal, amiket ő megfogalmaz, és ahogyan ő megfogalmazza.
+[00:32:55](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1975) Én még türelmes vagyok.
 
-[00:27:52](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1672) A kérdésem pedig erre utalt, és egy kicsit visszalökve itt a felelősség kérdését, mert azt mondtad, Bence, hogy mindenki nézze meg a saját felelősségét.
+[00:32:58](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1978) Ha és ha már a türelemnél tartunk, hát a türelemre kérte most Radnai Márka Tiszapárt alelnöke is a Tisza szimpatizánsait, közétett egy Facebook bejegyzést a közösségi felületén, ahol úgy fogalmazott, hogy sokan türelmetlenek.
 
-[00:27:59](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1679) Én azt mondom, nézzük meg Pottyondi Edén a felelősségét.
+[00:33:10](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1990) Ez most nekik szól, és írt egy hosszú posztot, de a mai nap folyamán egyébként interjút is adott.
 
-[00:28:01](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1681) Én is erre gondoltam, tehát hogy mindenki mindenki nézze meg a saját fel mindenki nézze meg a saját felelősségét.
+[00:33:16](https://www.youtube.com/watch?v=4UdajmnO_RE&t=1996) méghozzá a népszavának, amiben a többi között úgy fogalmazott, hogy nem lehet mindig igazat mondani a politikában, és lesznek népszerűtlen döntéseik.
 
-[00:28:07](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1687) Nézze meg a saját felelősségét az a miniszterelnök is, aki poloskának titulált több millió ember.
+[00:33:23](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2003) Sándor, milyen döntések lehetnek ezek?
 
-[00:28:15](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1695) Nem a szava az új titulált a Poloskának.
+[00:33:26](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2006) Azért volt számos olyan kérdés a kampányban, amiben nem történt egyértelmű állásfoglalás.
 
-[00:28:16](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1696) Minden újságírókat újságírókat.
+[00:33:32](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2012) Hát gyakorlatilag semmiben se történt.
 
-[00:28:16](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1696) Ezt már nagyon sokszor elővettük ezt a témát.
+[00:33:33](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2013) És én most mondok egy az előző kérdésre visszatolt, de mondok egy olyan ö nem túl népszerű döntést, ami ami mondjuk egy politikusnak szerintem föl kell vállalnia.
 
-[00:28:21](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1701) Arra kérlek, hogy hogy a jelenlegi feltett a jelenlegi feltett kérdésre válaszolj.
+[00:33:41](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2021) Tehát mi például az önkormányzatiságot ugye persze be kell fizetni ezt a szóási adót, mert ez a törvény pont.
 
-[00:28:26](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1706) Belefér-re az, hogy egy olyan tartalomgyártó, aki több száz ezreket ér el, így minősíti a köztársasági elnököt?
+[00:33:46](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2026) Na de hát az egész önkormányzatiságunk borzasztóan rossz, elképesztően költséges.
 
-[00:28:34](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1714) Ezzel a jelzővel, ezzel az egy jelzővel nekem is problémáim vannak.
+[00:33:51](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2031) Budapesten teljesen felesleges a 23 kerület plusz a fővárosi önkormányzat, de máspondok vidéken is teljesen felesleges párt, tehát 80 fős, 120 fős, 500 fős, 1000 fős ö ö ö falvaknak egész önkormányzatokat fönntartani, miközben még le sincs betonozva a járda.
 
-[00:28:37](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1717) Tehát, hogy értem én, hogy mire akar kilyukadni.
+[00:34:09](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2049) Tehát ez így az egész csak egy egy iszonyatos kölcs és az embereknek valakinek el kéne már ezt végre mondania e önkormányzatiság átalakít hogy azt az önkormányzatiságot úgy ahogy van úgy úgy ahogy van át kell alakítani hogyha azt akarjuk hogy működjön és ne 1000 milliárdokat dobjunk ki rá évent és ezt valakinek végre most már mi ezt mondjuk és de de de valakinek aki épp ott is van remélem majd egyszer mi is odakerülünk mert ez ez így nem megy tehát az embereknek nagyon alacsonyabb bére de egy de 1000 milliárdokat dobunk ki évente olyanra ami nem működik Hát én nem tudom, hogy mik milyen tarsolya van, mik vannak náluk a tarsolyban, mert semmit nem mondtak el a választási kampány alatt.
 
-[00:28:40](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1720) A többivel most így szétszállaszthatjuk mondatonként.
+[00:34:46](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2086) Mindenkinek még csak nem is ígértek meg mindent okos politikusként vagy vagy cinikus politikusként úgy csináltak, mintogyha megírtek volna mindent, úgy beszéltek, hogy azt is megoldjuk, azt is jobbá tesszük, azt is megemeljük és és hogy ezek ugye, hogy mit jelentenek, és hogy ezek mibe kerülnek, és ezt hogyan oldják meg, és ennek mi az ára, azt nem tették hozzá.
 
-[00:28:47](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1727) Kétségtelen tény, hogy mondjuk úgy, hogy a 80% az nekem még, hogyha nem is a stílusom, mert én megkímélem magamat Pottyondi Edinától, de belefér.
+[00:35:07](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2107) tartok tőle, hogy itt itt itt jó pár olyan döntés fog jönni, nem is olyan soká, nem most, de mondjuk majd ősszel, ami bizony fájni fog az embereknek és és csalódást fog kelteni nagyon nagyon sok elnézést, a polgármester kollégák nevében hadd kérjem ki magamnak azt mondané, hogy az önkormányzati sáú is általában egy kalap alá véve 3200 polgármester ez nem működik.
 
-[00:28:53](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1733) De nekem bocsánat egy közjogi méltóságról beszélünk a köztársasági elnökről.
+[00:35:30](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2130) Ha valami működött ebben az országban az elmúlt években, azok az önkormányzatok voltak.
 
-[00:29:00](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1740) De pont azt mondtam, hogy ez a nem akarom ismételten elmondani, ez a szatyor micsoda, az nekem sem fér bele abba a abba a kommunikációba, és tök mindegy, hogy kimondja.
+[00:35:34](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2134) Még a fideszes önkormányzatokra is rá lehetett bízni olyat, amit a fideszes kormány nem tudott működtetni.
 
-[00:29:11](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1751) Én én csak annyit hozzá, hogy Afrikában elmúlt évtizedben aztem volt egy ilyen eset, egy polgárháború és egy rádiós műsorvezető hergelte az embereket.
+[00:35:39](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2139) Egészségügyi oktatás, közlekedés.
 
-[00:29:20](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1760) Tömeggyilkosság lett a következménye.
+[00:35:41](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2141) Perszes minden nem kétszerezve van, hanem 24 szerezve.
 
-[00:29:22](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1762) Később ezt el is ítélték.
+[00:35:44](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2144) De ezek legalább működtek.
 
-[00:29:22](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1762) Igen.
+[00:35:44](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2144) Az önkormányzat az egyetlen olyan dolog, ami működt ebben az országban.
 
-[00:29:22](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1762) Ő is kiírtand rovaroknak nevezte a honfitársait, mint ahogy egy miniszterelnök annál a pontnál, hogy eddig és ne tovább.
+[00:35:47](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2147) Hát az önkormány budú 36ünk, mert látom, hogy itt komoly vita alakult ki, de ugye most úgy fogalmazott Radnai Márka Tisza allelnöke, hogy lesznek népszerűtlen döntések és nem mindig lehet igazat mondani a politikában.
 
-[00:29:28](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1768) És amit most láttunk, az egyszerűen felháborító szerintem ennek mindenképpen lenne sajtóetikai, ha nem is büntetőjogi következménye.
+[00:36:04](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2164) Biztos, hogy az önkormányzati kérdése is egy fontos kérdés, ami asztalra fog kerülni, de mik lehetnek ezek a népszerűtlen döntések, Laci?
 
-[00:29:37](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1777) Hát Pottyandiával szem sajtóetikát nem nagyon lehetne érvényesíteni.
+[00:36:12](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2172) Hát Gyurcsány Ferencnek hála legitimizálódott a politikai hazudozás, tehát azt készpénznek veszik azóta a politikában.
 
-[00:29:39](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1779) Tartalmi tartalom tartalomgyártó.
+[00:36:20](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2180) Tehát teljes mértékű igazságot senki nem tállal.
 
-[00:29:41](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1781) Én én én annyivan tudom mondjuk úgy, hogy Pottyandi Edinával szemben kifejezni az ellenérzésemet, hogy én egy darab videót nem néztem meg tőle, és nem is fogok szerintem.
+[00:36:25](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2185) Általában ez a Tiszapártra halmozottan igaz.
 
-[00:29:53](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1793) Bocsássatok meg, de itt azért néhány dolgot tegyünk helyre.
+[00:36:27](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2187) Tudjuk azt, hogy a választást meg kell nyerni, és utána bármit lehet csinálni.
 
-[00:29:55](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1795) Egyrészt a hergelésnek a legkisebbik része az, amikor trager kifejezéseket használnak.
+[00:36:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2191) Na most mire számítottak az emberek?
 
-[00:30:04](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1804) Nem is használok trágár kifejezéseket.
+[00:36:35](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2195) Tehát még egyszer mondom, az egésznek a fundamentuma rossz.
 
-[00:30:05](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1805) Szerintem a hergelést nem ez indítja el, hanem a videóban további elrejtett mondatok.
+[00:36:41](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2201) egy családáruló alapított pártot egy rakás másikárulóval, akivel egymást is körbe-körbe elárulták, hangfelvételeket készítettek.
 
-[00:30:09](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1809) Az amikor Potyondi Edina tulajdonképpen azt mondja, hogy ne sajnáljuk Súlyak Tamást, mert milyen sokat keres.
+[00:36:51](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2211) Most nem mondom ilyen hangfelvételeik, mert úgy mentek el az emberek, nem mondták rá, hogy tehát nem cáfolták, úgy mentek el az emberek, mintha nem is léteznének azokról a köztörvényes ügyekről, amikbe eljárást lehet innen indítani a miniszterelnök úrral szemben, már rossz szintén senki nem vesz tudomást.
 
-[00:30:16](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1816) Én mondjuk kíváncsi lennék arra, hogy mennyit keres Poyondi Edina, amikor csak a piacról csinálja, azt azért ne felejtsük el.
+[00:37:10](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2230) Tehát egész egyszerűen azért látni kell ennek a brigádnak a mozgását emberi szempontból.
 
-[00:30:21](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1821) De ez ez egyébként ebben látok igazságot abban, amit mondasz.
+[00:37:16](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2236) Egyébként, hogy mire lehet számítani.
 
-[00:30:25](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1825) Tehát hogy ez ez egy tehát hogy ez egy ilyen a hergelés alapja mindig az, tehát ez tulajdonképpen tényleg kommunista tempó.
+[00:37:18](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2238) Nagyon egyszerű.
 
-[00:30:32](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1832) Tehát nézd meg a kulák ott, miért van neki két tehene, amikor neked egy sincs.
+[00:37:20](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2240) Orbán szemben állt az idézőjelbe vett nyugat-római birodalomnak a Kelet-Európa felé való terjeszkedésével.
 
-[00:30:35](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1835) Ez ugyanez, bocs bocsássatok meg, ezt befejezném.
+[00:37:28](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2248) Ezt akasztotta, és ennek gátja volt.
 
-[00:30:37](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1837) Tehát ugyanez a felvezetés az, ami a kampány alatt, az influencer kampányban megjelent.
+[00:37:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2251) Mire lehet számítani?
 
-[00:30:43](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1843) Mindenki folyamatosan ezzel hasonlókkal támadott.
+[00:37:34](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2254) Isten hozott ukrán GMO-s cucc.
 
-[00:30:46](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1846) olyan emberek is egyébként.
+[00:37:34](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2254) Senki nem beszél róla.
 
-[00:30:48](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1848) Tehát most azért tegyük hozzá, hogy mondjuk amikor egy milliárdos rapper azzal uszít politikusok ellen tömegeket, mert azt mondja, hogy ezek a politikusok több 100 millióval rendelkeznek, vagy több milliós a fizetésük.
+[00:37:37](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2257) Miért nem beszél róla a sajtó?
 
-[00:31:03](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1863) Azért gondoljunk már bele, hogy hol kezdődnek itt a dolgok.
+[00:37:40](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2260) A kormányot én nem hallom, hogy idejött egy csomó minden.
 
-[00:31:07](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1867) A poloskáz poloskázás kapcsán pedig ezt később Orbán Viktor is tisztázta, a lehallgatás, az akkor kitört lehallgatási botrány miatt sütötte ezt el.
+[00:37:42](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2262) Gms cuccok nem dolog nem a Hrtvérről beszélek, én a mostani kormánysajtóról beszélek.
 
-[00:31:15](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1875) számban mondta több bírók civilek újságírók mind kanyarodjunk rá egy kicsit arra hogy alapvetően hogyan fogalmaz például az a politikai réteg aki most szintén megbukott a választáson és itt az úgynevezett ó baloldalra gondolok és leányvállalataikra fekete Győr András tett közzé egy bejegyzést a közösségi felületén ahol úgy fogalmazott hogy javasolja Novák Katalinnak hogyha nem akarja saját bőrént megtapasztalni hogy milyen is egy valójában pokoli másfél év év, akkor ne várja meg, amíg a parlamenti vizsgáló bizottság, ha kell, rendőri kísérettel a nyilvánosság elé citálja.
+[00:37:51](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2271) Miért nem beszélnek erről?
 
-[00:31:53](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1913) Csabi, hova vezet az szerinted, amikor a nyilvánosságban ítéletek születnek egy eljárás előtt?
+[00:37:53](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2273) Ígértek itt 480 Ft benzinárat, azonnali ingyenes egészségügyet.
 
-[00:32:01](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1921) Igen, igen.
+[00:37:59](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2279) Még mondhatom tovább, helyett le sikerült venni az állampapíroknak a kamatját.
 
-[00:32:01](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1921) Fekete Győr András komolyan venni azért most már tényleg luxus lenne.
+[00:38:02](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2282) Azt mondanám, föl lett tombolva a forint árfolyam, aminek az átlagpolgár nagyon örül, de a gazdaságot éppens berúgják jókényen, mert az exportalapú magyar gazdaság iszonyú károkat szenved itt Magyarország.
 
-[00:32:05](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1925) Kettő dolgot azért csak hozzátennék, és akkor lehet, hogy akkor megint feldobom a labdát, és akkor majd csapjátok el, vagy mondjátok el.
+[00:38:17](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2297) De hát ez az igazság.
 
-[00:32:10](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1930) Bocsás meg Fekete Győr Andráséról és a jelentőségéről.
+[00:38:17](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2297) És a következő van még, hogy egész egyszerűen kiszolgálja ezeket az érdeket a nyugat-római birodalomnak, Németország alapú EU-nak a birodalmi tevékenykedését.
 
-[00:32:12](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1932) Fekete Györ András volt az, aki ebben a kampányban egyébként megszervezte a fél millió fiatal a rendszerváltásért elnevezésű kampányt, és hát ezzel rengeteg embert értek el, több influencerrel működött együtt.
+[00:38:30](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2310) Mire lehet számítani?
 
-[00:32:25](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1945) fizikai országjárást is indítottak és egyébként a közösségi média felületek azó kapt azt se felejtsük el, hogy a tehát a magyar politika történelemben a rendszerváltás óta Fekete Győr András volt az egyetlen politikus, aki bement egy szerkesztőségbe ordibelni és agresszívan számon kérni az ott dolgot akkor vegyük csak az legyen már vár kicsik Fekete Győr Andrások a jutalma annyi lett, mint a te büntetésed, tehát ő ugyanúgy Facebook kedvére de két dolog egyfelől tényleg azt, hogy Novák Katalinnak el kellett volna mondania, azóta se tudjuk, hogy miért írta ezt alá, miért akarta.
+[00:38:33](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2313) arra, hogy mindent meg fognak csinálni, meg fogják tanulni.
 
-[00:33:01](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1981) Mi is láthatjuk a a papírokban, vagy dokumentumokban, hogy nyilvánosságra hoztak.
+[00:38:35](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2315) A magyarok arra vágytak, hogy úgy éljenek, mint Németországba, Hollandiába, Belgiumba, Franciaországba.
 
-[00:33:06](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1986) Ez az ő projektja volt.
+[00:38:46](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2326) Most majd megk megtapasztalják, hogy milyen az, amikor föltolom a fűtést 25°okra, és egy óra múlva visszarakom 19-re, mert drága lesz a rezsi.
 
-[00:33:06](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1986) Nem tudjuk, hogy miért.
+[00:38:59](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2339) szóba került a az Európai Unióval kapcsolatos álláspont.
 
-[00:33:08](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=1988) És ennek már tehát az a baj, hogy az ő szak igen Cabi, csak ugye itt született már egy ítélet, tehát hogy erősen sugalmaz valamit Fekete Győr András, és sokszor írják ezt, megint csak visszatér ez a bilincsbilincs, rácsrács pokoli másfél évvel való fenyegetés meg rendőri kíséret.
+[00:39:01](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2341) Ugye amit korábban Orbán Viktor rendszeresen hangsúlyozott, hogy nemzetek Európájára van szükség.
 
-[00:33:24](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2004) A rendőri kísélet ez arra vonatkozik ugye, hogy elvileg azokb a vizsgáló bizottságokba, hogyha nem mennek el azok, akiket ugye meghívnak, vagy beidz ne feltételezzük, hogy Fekete Győr Anderás ennyire átgondolta volna.
+[00:39:06](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2346) Ugye Magyar Péter megtette az első hivatalos külföldi útját, ugye járt Lengyelországban, Bécsben, és hát az egyik sajtótájékoztatóm fogalmazott úgy, hogy erős Európára van szükség, de egy erős Európához szerény tagállamok kellenek.
 
-[00:33:34](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2014) Tehát ez erről nem ez nyilván ott van parlamenti vizsgáló bizottságról van szó, tehát azt tegyük hozzá.
+[00:39:21](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2361) Ez mit jelenthet, polgármester úr?
 
-[00:33:38](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2018) A másik pedig és akkor jó, mindegy, de ez is egy magas labda lenne.
+[00:39:24](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2364) Én véleményem szerint olyan, aki nem lop, meg aki nem hazudozik, mert nagyon fölháborító az, hogy itt hazudzásról váolják azt a kormányt, aki még nem hazudott.
 
-[00:33:41](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2021) De gondoljátok el, mi lenne akkor, hogyha Sullyok Tamás azt mondaná, hogy én akkor ehhez nem adom a nevem és lemondana.
+[00:39:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2371) Remélem nem is fog Elnézést.
 
-[00:33:48](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2028) Tehát akkor nem tud várjál csak azért mondom elmondom akkor most mi történik, hogy ő a köztársasági elnök?
+[00:39:33](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2373) Orbán Viktor, aki azt mondta, hogy ha Trump elnök lesz, 24 órán belül béke lesz, aki azt mondta, Orbán mondta, aki azt mondta, aki azt mondta, hogy repülő rajta magyar gazdaság elindult, aki biztosan megígérte, hogy 80 körzetben nyerni fog a Fidesz, meg akik azt mondták, hogy a szőlő utcának nincs politikus és nincs kiskorú érintett az politiká az a politikában gusztustalan hazudzás éveken keresztül az minden normál mondott egyébként mást is.
 
-[00:33:54](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2034) Tehát epé semmi nem csak így mondom, csak azért mondom akkor nem tudnánk ezekről akkor a Tisza párt vagy Tisza kormány és Magyar Péter se, illetve hát az a sajtó se tudna erről beszélni, akkor tényleg olyan témákról lehetne beszélni, akár a gazdaságról, akár az egyéb kilátásokról, akár például arról, hogy mondjuk az Európai Bizottság szerint még bán ezért mondjon le a köztársasági elnök, hogy a Tiszapárt ezekről tudjon beszélni.
+[00:40:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2400) Ugye viszonylag most már kevés szó esik az úgynevezett óellenzék helyzetével, de most úgy fogalmazott Radnai, hogy szerinte a jövőben csak olyan politikusok emelkedhetnek fel igazán, akiket még nem ismerünk.
 
-[00:34:17](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2057) Hát ezt most is megtehetné.
+[00:40:10](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2410) Erről mit gondol?
 
-[00:34:18](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2058) hogy ezekről nem nem azt, hogy ne ezekről beszéljen, tehát ne hagyjuk, tehát találnának egy másik gumicsontot, tehát ne higgyük azt, hogy itt Igen, de azért mondom, tehát azt most olyan harcot vívunk, ami vagy vívnak, ami ami nem látom azt, hogy miért lehetne nyerni, vagy mit lehetne benne nyerni, érted?
+[00:40:13](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2413) Eszerint önnek sincs jövője az országos politikában.
 
-[00:34:34](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2074) Csak nem csak annyi annyi gyors k gyors kiegészítés egyébként ez a pokoli másfél év ez egyébként Fekete Győr András egy ilyen benfentes jelzővel arra kíván utalni, hogy Novák Katalin egyszer nyilatkozott és mondta, hogy hát neki pokoli másfél éve van azóta, amióta a a kegyelmi botrány eltelt.
+[00:40:15](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2415) Nyc évvel ezelőtt engem se ismertek, és biztos van 40 évvel ezelőtt, amikor Orbánt se ismerték, és aztán fölemelkedett Orbán Viktor is valamilyen szinten nyilván még én is ismert lettem, és Magyar Péter is ismert lett, akit két és fél évvel ezelőtt ismert, az pontosan azt erősíti, amit Radnai mond.
 
-[00:34:49](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2089) Bár én sem feltételezek túl sok képességet Fekete Győr Andrásról, de azt azért feltételezem, hogy a rendőri kísérettel való történetet erre a tiszás törvényjavaslatra utal.
+[00:40:30](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2430) Ugye Radnai úgy fogalmaz, hogy olyan, aki ismert, az már nem emelkedhet fel.
 
-[00:35:00](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2100) Viszont szemünk előtt születt meg a Facebook Tanácsköztársaság egy számé Tiborral, Fekete Győr személyében.
+[00:40:35](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2435) Ez ugyan aranyos, mint amikor Tiszában nem lehetett olyan, aki az a régi ellenzék része az nem lehetett jelölt, de aki a régi Fidesznek volt a része, az lehetett jelöl.
 
-[00:35:06](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2106) Hát micsoda dolog, milyen abszurditás, hogy rendőri felvezetéssel, elővezetéssel kell egy parlamenti agyrém, de ez agyrém.
+[00:40:41](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2441) Csak olyan még ezek szerint számít valami pozícióra.
 
-[00:35:13](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2113) Ez hogy hova vezet mindez és alapvetően mire lesz hivatott ez a védvonal.
+[00:40:47](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2447) Nem égvilágon semmire.
 
-[00:35:19](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2119) Erről biztos sokat fogunk még beszélgetni a jövőben, de a mai adásban ennyi időnk volt.
+[00:40:47](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2447) Én polgármester vagyok és legalább három évig szeretnék az maradni és természetesen azt gondolom, hogy nem Orbán Viktor és nem Radnai Mák dönti el, hogy kinek milyen szerepe lesz a politikában, hanem a magyar emberek bölcsessége.
 
-[00:35:25](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2125) Nagyon szépen köszönöm nektek, hogy itt voltatok velünk és kérdezem a híradós kollégától.
+[00:41:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2460) Maradjunk ennél a gondolatnál.
 
-[00:35:29](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2129) Szervusz Zsuzsi!
+[00:41:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2460) Valóban nem ők döntik el.
 
-[00:35:31](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2131) Nálatok este 8-kor a híradóban.
+[00:41:02](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2462) Mátyás, én azt gondolom, hogy ugye egy elég aggasztó folyamat az, hogy egyelőre még az új kormányból nyilvános megnyilatkozásai miniszterelnöknek vannak és olyan minisztereknek, vagy olyan tisztségviselőknek, akik ezzel a kommunikációs habbal foglalkoznak.
 
-[00:35:31](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2131) Miről lesz szó?
+[00:41:17](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2477) A szakminiszerek megatkozásait nem halljuk.
 
-[00:35:34](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2134) Szia Bogi!
+[00:41:21](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2481) Valójában az, hogy lesz-e politikai lehetőség, politikai rés bárkinek a Tisza most átütőnek látszó hatalmas politikai népszerűséget megtörni, akár a Tiszán belül frakciózásnak lesz ere, akár a Tiszán kívül más pártok balról, jobbról, középről, zöldről máshonnan előzni tudják-e a Tiszát, az annak a függvénye, hogy hogyan fognak kormányozni.
 
-[00:35:34](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2134) Köszöntöm a nézőket is.
+[00:41:38](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2498) Én azt tartom, hogy a Fidesz sem vesztett volna így, hogyha jobb lett volna a kormányzás az elmúlt négy évben, és akárhogyan kommunikálnak, nincs az a lek szám, ami a rossz kormányzást megváltja a rossz kormányzás politikai ódiuma alól.
 
-[00:35:36](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2136) Sajnos egy rossz hírrel kezdünk.
+[00:41:50](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2510) Tehát én azt gondolom, hogy nem Radnai Merknek a kommunikációs képességei fogják eldönteni, amelyek kétség kí nem rosszak, hogy hogy a Tiszá mellett ki és hogyan emelkedik föl, hanem az, hogy az ország előtt valóban álló kihívások, valódi problémák, a valódi reformálatlan, részben a Fidesz hibájából reformálatlan nagy rendszereink reformja sikerülni fog-e?
 
-[00:35:36](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2136) Ugyanis halálos robbanás volt a Tiszaúi városi mólüzemben.
+[00:42:09](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2529) És ebben semmiféle hatalma nincsen egy kommunikációs gurunak, hogy hogy ezeket a politikai döntéseket jól hozzá-e meg a Tisza, és hogyha rosszul hozza meg, akkor ebből a hibából kiprofitál.
 
-[00:35:40](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2140) Egy ember meghalt, kilencen pedig megsérültek.
+[00:42:18](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2538) Ez viszont a jövő kérdése.
 
-[00:35:43](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2143) Aztán szó lesz még arról, hogy Lex Orbán néven elhíresült egy törvényjavaslat, amit a Tisza párt első parlamenti javaslata lenne.
+[00:42:18](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2538) Én nagyon szépen köszönöm nektek, hogy itt voltatok velünk és kérdezem a híradós kollégától.
 
-[00:35:49](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2149) És ez nem jólét intézkedésről szól, hanem Orbán Viktor kizárásáról, illetve arról is szó lesz, hogy országos védvonalat hozna létre a Fidesz.
+[00:42:23](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2543) Szervusz Iboliboya, nálatok este 8-kor a híradóban.
 
-[00:35:57](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2157) Szembe fordulunk az áradó gyűlölettel, és meg fogjuk védeni a Fidesz támogatóit az erőszaktól.
+[00:42:25](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2545) Miről lesz szó?
 
-[00:36:03](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2163) Ezt írta Kocsis Máté.
+[00:42:27](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2547) Szervusz Bogi.
 
-[00:36:05](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2165) Ezekkel a témákkal várunk mindenkit 8 órától.
+[00:42:27](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2547) Köszöntöm a kedves nézőket.
 
-[00:36:08](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2168) Bíró Zsuzsinak nagyon szépen köszönjük a részleteket.
+[00:42:29](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2549) Hát mi is Radnai Márkkal is foglalkozunk a híradóban.
 
-[00:36:10](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2170) Érdemes lesz tehát követni a híradót.
+[00:42:31](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2551) ugyanis azt mondta, hogy egy országot nem lehet kapkodva újráépíteni.
 
-[00:36:12](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2172) Én vendégeimnek köszönöm szépen még egyszer, hogy itt voltak velünk.
+[00:42:34](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2554) Ezzel az üzenettel magyarázkodik a változást sürgető tiszásoknak.
 
-[00:36:15](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2175) Önöknek pedig köszönjük a megtisztelő figyelmet és tartsanak velünk holnap is.
+[00:42:38](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2558) Közben a fővárosi nyomozó ügyészség vizsgálja azt a feljelentést, amit Havasi Bertalan tett a miniszterelnök ellen.
 
-[00:36:19](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2179) Ugyanis ahogy azt már megszokhatták, MK Kovács Robi kollégám fogja várni önöket komment extrával.
+[00:42:43](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2563) Erről számolt be a magyar nemzet, és tovább gyűrűzik azbest botrány nyugat-magyarországon.
 
-[00:36:25](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2185) Addig is viszontlátásra és további szép estét.
+[00:42:49](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2569) Szombathely mellett Harka és Sopron is érintett a szennyezett útalapok ügyében.
 
-[00:36:27](https://www.youtube.com/watch?v=LFy8GXxhxoU&t=2187) เฮ
+[00:42:54](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2574) Néhány perc és jövünk a részletekkel.
+
+[00:42:56](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2576) Vargai Bajának nagyon szépen köszönjük az eddigi beszámolót.
+
+[00:42:58](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2578) Érdemes lesz tehát követni a híradót este 8-kor.
+
+[00:43:00](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2580) Én vendégeimnek köszönöm szépen még egyszer, hogy itt voltak velünk.
+
+[00:43:03](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2583) Önöknek pedig köszönjük a megtisztelő figyelmet.
+
+[00:43:07](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2587) Tartsanak velünk holnap is, ugyanis ahogy azt már megszokhatták, akkor is várjuk önöket kommenttel este 7:00-től.
+
+[00:43:12](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2592) Addig is viszontlátásra és további szép estét.
+
+[00:43:32](https://www.youtube.com/watch?v=4UdajmnO_RE&t=2612) A már megszokott műsorvezető páros, prominens vendég B
 
 </details>
