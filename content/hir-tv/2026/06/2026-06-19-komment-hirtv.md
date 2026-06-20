@@ -2,897 +2,1116 @@
 date: '2026-06-19'
 title: Komment - HírTV
 description: ''
-video_id: IGMesVrBqrE
-video_url: https://www.youtube.com/watch?v=IGMesVrBqrE
+video_id: pgDZeiQetCg
+video_url: https://www.youtube.com/watch?v=pgDZeiQetCg
 channel_slug: hir-tv
 channel_name: Hír TV
 affiliation: fidesz-aligned
 direction: conservative
 notes: Mediaworks/KESMA kormánypárti hírTévé
-published_at: '2026-06-19T18:59:42+00:00'
-duration_sec: 3410
+published_at: '2026-06-19T06:04:54+00:00'
+duration_sec: 3295
 tags:
-- botrány
-- politikai lejáratás
-- kampány
-- tisza párt
-- fidesz
+- rendőrség
+- sajtószabadság
+- politikai üldöztetés
+- szőlőutcai botrány
+- magyar péter
 transcript_source: youtube_subtitle
 summary_model: deepseek/deepseek-v4-pro
 ---
 
 <!-- SECTION:TLDR -->
 
-- Pócs János újabb feljelentést helyezett kilátásba, a rendszerváltás óta példátlan politikai botránynak nevezve az ügyet, amely szerinte a miniszterelnököt is érintheti.
-- A Fidesz megtagadta az RTL-nek a nyilatkozatot, amíg a csatorna nem számol be az ügyről, amelyről Panyi Miklós szerint három napja hallgatnak.
-- Az Alkotmánybíróság hét tagja személyes érintettség miatt kizáratta magát, így a testület levette napirendről a Sulyok Tamás által benyújtott indítványt.
-- A panel résztvevői szerint az ügyet a TISZA Párt kampánycélból generálta, hogy a kegyelmi botrányhoz hasonló ügyet kreáljon, de mostanra kezdenek „felvilágosodni pontok” a történetben.
-- Füsi Angéla megerősítette, hogy a Kontroll pénzt ígért Bangó Sándornak, de a résztvevők hangsúlyozták, hogy ő is csak feltételezéseket fogalmazott meg, konkrét bizonyítékok továbbra sincsenek.
-- Bóth Hunor szerint mindkét oldalról hiányoznak a bizonyítékok, és az ügyben „feltételezések, sejtetések, igazolatlan állítások” keringenek.
-- Hegyi Gyula elismerte, hogy az ügy politikai felhasználása „a leggusztustalanabb”, de rámutatott, hogy a Fidesznek sem áll érdekében tovább ütni a vasat a brüsszeli sajtótájékoztató után.
-- A gyermekvédelem valódi problémáit nem szabad összemosni a politikai lejárató kampánnyal, és az ügynek a nyomozóhatóságok előtt kellett volna zajlania, nem a nyilvánosság előtt.
-- Dezselenka Dóra szerint a TISZA Párt népszerűsége addig marad magas, amíg fenn tudják tartani az „O1G ideológiát”, de a nyers politikai döntéseknél zuhanni fog a támogatottságuk.
+- Bede Zsolt lakásán nyolc civil ruhás nyomozó tartott házkutatást, egy héttel azután, hogy az apjánál keresték, "halaszthatatlan nyomozati cselekményre" hivatkozva.
+- A rendőrök nem engedték el 16 éves fiát egy fontos foci kiválasztóra, és lefoglalták a gyermek telefonját és laptopját is.
+- Bede nem hívhatta előre felhatalmazott ügyvédjét, Gaudi Nagy Tamást, aki jogellenes fogvatartás és hivatali visszaélés miatt tett feljelentést.
+- > „Egy ilyen szteroidos rendőr szekrény beállt az ajtóba, és mondta a gyereknek, hogy nem viheti a telefonját sehova, nem mehet sehova." – Bede Zsolt
+- A stúdióvendégek elítélték a rendőri intézkedés módját, amit politikai támadásnak és megfélemlítésnek tartanak, függetlenül a Bede munkásságáról alkotott véleményüktől.
+- Kuruc Dániel szerint ez az új hatalom első lépése a sajtóval szemben, ami üzenet a TISZA-hoz kötődő újságíróknak is.
+- A Szőlő utcai botrány kapcsán felmerült, hogy Magyar Márton cége 4 millió forintot fizethetett a koronatanúnak; Magyar Péter Brüsszelben hazugságnak nevezte a kérdést.
+- Szanyi Tibor szerint a kormány elszámoltatási gyakorlata nem kérdésfeltevés, hanem rendőri attak, ami méltatlan egy demokráciához.
 
 <!-- SECTION:DETAILS -->
 
-## A Szőlő utcai ügy újabb fejleményei és a politikai következmények
+## Bede Zsolt házkutatása és a rendőri intézkedés körülményei
 
-### Pócs János újabb feljelentést helyez kilátásba
-Pócs János, a Fidesz országgyűlési képviselője sajtótájékoztatót tartott, amelyen bejelentette, hogy jövő héten újabb feljelentést tesz az ügyben. A politikus úgy fogalmazott, hogy a rendszerváltás óta ilyen súlyú politikai botrány és bűncselekmény még nem történt. Állítása szerint egyre több leleplező információ lát napvilágot, és a "kontroll nevű hazugsággyárban milliókat adtak hamis vádakért". Mindez a miniszterelnököt is érintheti, mivel Magyar Péter testvére, Magyar Márton követte el a cselekményt a TISZA Párt és Magyar Péter érdekében.
+A műsor első témája a Vadhajtások blog tulajdonosánál, Bede Zsoltnál tartott házkutatás volt. Bede Zsoltot élőben, Zoomon keresztül kapcsolták a stúdióba, ahol részletesen beszámolt a vele és családjával történtekről.
 
-### A Fidesz és az RTL konfliktusa a sajtótájékoztatón
-Panyi Miklós fideszes képviselő a sajtótájékoztatón az RTL riporterének kérdésére reagálva közölte, hogy addig nem nyilatkoznak a csatornának, amíg az nem számol be az ügyről. Az RTL ugyanis az elmúlt három napban hallgatott a Szőlő utcai ügy új fejleményeiről.
+### A házkutatás előzményei és lefolyása
 
-> „Cáfoljon meg, szerkesztő úr, beszámolt az RT klub az elmúlt három napban. [...] Számoljanak be erről az ügyről. Három napja hallgatnak. Teljesen világos a helyzet. Utána lehet kérdezni.” – Panyi Miklós [*](https://www.youtube.com/watch?v=IGMesVrBqrE&t=145)
+Bede Zsolt elmondása szerint az ügy egy Potyondi Edina által tett feljelentéssel indult, aki azt állította, hogy a Vadhajtásokon megjelent egy cikk a gyermeke egészségügyi státuszáról. Ez a cikk azonban Bede szerint nem elérhető, és ők nem tudnak róla. A feljelentés nyomán először egy héttel korábban az édesapjához ment ki tíz rendőr, akik nem hagytak elérhetőséget, így Bede nem is tudta megkérdezni, milyen ügyben keresik. Az édesapja megadta a számát a rendőröknek, akik tudtak volna hívni, de ehelyett egy héttel később "halaszthatatlan nyomozati cselekményre" hivatkozva jelentek meg Bede Zsolt lakásán.
 
-### Az Alkotmánybíróság határozatképtelensége
-A műsor röviden beszámolt arról is, hogy az Alkotmánybíróság határozatképtelenség miatt levette napirendjéről a Sulyok Tamás köztársasági elnök által benyújtott indítványt. Hét alkotmánybíró személyes érintettségre hivatkozva nem vett részt az egyeztetésen. Az indítvány arra irányult, hogy lehet-e személyre szabottan módosítani az alaptörvényt. Magyar Péter nehezményezte az ügy gyors napirendre tűzését.
+> „Egy hét telt el, de már halaszthatatlan volt a nyomozati cselekmény." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=714)
 
-## A média szerepe és a kettős mérce vádja
+A házkutatás során nyolc civil ruhás nyomozó jelent meg. Bede Zsolt éppen a kiskutyájával és 16 éves fiával volt otthon, a fiú egy rangos, külföldi edzők részvételével zajló focis kiválasztóra készült.
 
-### A kormánypárti és ellenzéki sajtó eltérő hozzáállása
-A műsorvezető felvetette, hogy míg korábban a baloldali sajtóorgánumok (pl. 444, RTL) címlapon hozták a Szőlő utcai ügyet, most hallgatnak az új fejleményekről. Dezselenka Dóra újságíró szerint az ügy kampánycélú volt a TISZA Párt számára, és most, hogy kezdenek "felvilágosodni pontok" a történetben, már nem szívesen foglalkoznak vele.
+### A kiskorú gyermek érintettsége
 
-> „Ez egy kampánycélú téma volt, és szerintem ebben ez a leggusztustalanabb. [...] De az, hogy szerintem ebben az egész Zsolti bácsi ügyben a legfélelmetesebb az a fajta társadalmi visszhang, hogy jelenleg Magyarországon egy olyan társadalmunk van, amelynek elég volt azt mondani, hogy valakire rámutattam, hogy ő szerintem bűnös, mert Fideszes, és az rossz.” – Dezselenka Dóra [*](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1257)
+Bede Zsolt beszámolója szerint a rendőrök nem engedték el a 16 éves fiát a foci kiválasztóra. Amikor a fiú elindult volna, egy rendőr beállt az ajtóba és közölte, hogy a gyerek nem viheti a telefonját sehova, és nem mehet sehova. Bede Zsolt ezt "abszolút filmszínháznak" nevezte, utalva Magyar Péter miniszterelnök egy korábbi kifejezésére. A gyermek telefonját és laptopját is lefoglalták, annak ellenére, hogy Bede kérte, hogy a fiának semmi köze a Vadhajtásokhoz, és hadd tartsák meg az eszközöket.
 
-Dóra arra is emlékeztetett, hogy a 444 egyetlen cikket írt az elmúlt napokban, szemben a kampányidőszak október óta írt mintegy 150 cikkével.
+> „Egy ilyen szteroidos rendőr szekrény beállt az ajtóba, és mondta a gyereknek, hogy nem viheti a telefonját sehova, nem mehet sehova." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=877)
 
-### Bóth Hunor álláspontja: bizonyítékok hiánya
-Bóth Hunor politikai elemző hangsúlyozta, hogy mindkét oldalról hiányoznak a konkrét bizonyítékok. Szerinte az ügyben "feltételezések, sejtetések, igazolatlan állítások" keringenek. Javasolta, hogy olyan személyeket (pl. Füsi Angéla újságíró, Juhász Péter aktivista) kellene meghallgatni, akiknek közvetlen rálátásuk van az ügyre, ám megjegyezte, hogy a Hír TV-nek "nincs 120 milliója, hogy egy műsorra fizessen, mondjuk Juhász Péternek".
+Azt sem engedték meg, hogy a kiskorú fiú felvegye a telefont az érte aggódó édesanyjának.
 
-### Füsi Angéla nyilatkozata
-A műsorban lejátszottak egy részletet Füsi Angéla Magyar Jelennek adott interjújából, amelyben az újságíró megerősítette, hogy tudomása szerint a Kontroll (Magyar Márton) pénzt ígért Bangó Sándornak az interjúért. Füsi Angéla elmondása szerint "sok pénzt" ígértek, de végül "sokkal kevesebbet" kapott, ami azonban így is "túl sok volt ahhoz, hogy ne kárt okozzanak vele". Hozzátette: nem tudja, hogy az összeget kifejezetten az interjúért kapta-e, vagy segítségként.
+### Jogsértések és jogi következmények
 
-> „Ígértek neki pénzt, sok pénzt. Aztán nem annyit kapott, hanem sokkal kevesebbet, de sajnos amit kapott, az is túl sok volt ahhoz, hogy ne kárt okozzanak vele.” – Füsi Angéla a Magyar Jelennek [*](https://www.youtube.com/watch?v=IGMesVrBqrE&t=830)
+Bede Zsolt elmondta, hogy nem engedték felhívni ügyvédjét, Gaudi Nagy Tamást, akit már előző este felhatalmazott a védelmére, és aki be is jelentkezett a rendőrségen, hogy elvállalta a védelmet. Bede szerint ez a "legsötétebb kommunista időket" idézi. Összesen 13 elektronikai eszközt foglaltak le, köztük egy powerbankot is, amit adattározónak néztek. Gaudi Nagy Tamás feljelentést tett jogellenes fogvatartás minősített esete miatt, aljas indokból elkövetve, valamint hivatali visszaélés miatt is, mivel Bede nem hívhatta az ügyvédjét.
 
-A panel résztvevői közül többen felhívták a figyelmet arra, hogy Füsi Angéla sem állított konkrétumot, csupán feltételezéseket és sejtéseket fogalmazott meg.
+A kihallgatás 5 és fél órán át tartott a Teve utcában, Gaudi Nagy Tamás jelenlétében. Bede Zsolt szerint az egész ügy mögött megfélemlítési szándék áll, és a kormány mindenkit el akar tiporni a médiában.
 
-### A politikai haszonszerzés vádja
-Dezselenka Dóra szerint a TISZA Párt és a hozzá köthető médiumok célja az volt, hogy a kegyelmi ügyhöz hasonló botrányt generáljanak a jobboldal lejáratására. Bóth Hunor egyetértett ezzel, hangsúlyozva, hogy az ügy célja a Fidesz "sarának" minősíthető kegyelmi ügy lemásolása volt. Dóra hozzátette, hogy a közösségi médiában teleszórták a "pedofidesz" kifejezéssel a platformokat, és ezeket a vádakat tényként kezelték.
+> „Mindenkit el akarnak tiporni médiában, ahogy látjuk mindent a Mandinert át akarja venni. Szeretett miniszterelnökünk. Egy ilyen totális megfélemlítésről van szó itt szerintem." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=946)
 
-> „Teljesen egyértelmű ez a történet. Itt az volt a cél, bármilyen áron, bármilyen áron kellett egy olyan ügyet generálni, ami hajazott a Fidesz kétségtelenül a sarkának minősíthető kegyelmi ügyre.” – Bóth Hunor [*](https://www.youtube.com/watch?v=IGMesVrBqrE&t=898)
+### A stúdióvendégek reakciói
 
-### Hegyi Gyula: a politikai haszonszerzés mindkét oldal jellemzője
-Hegyi Gyula volt EP-képviselő elismerte, hogy a Szőlő utcai ügy politikai felhasználása "a leggusztustalanabb" dolog, és hangsúlyozta, hogy a bűnösöket felelősségre kell vonni. Ugyanakkor rámutatott, hogy a vádaskodások nem újkeletűek a magyar politikában, és példaként említette Vona Gábort, akit 2008-ban hamis vádakkal támadtak. Hozzátette: a DK volt az, amely Semjén Zsoltra próbálta rákenni a "Zsolti bácsi" nevet, nem pedig a TISZA.
+Brenner Koloman elmondta, hogy korábban pereskedett Bede Zsolttal rágalmazásért, és a nyomozást akkor lezárták, mert nem tudták megállapítani, ki a Vadhajtások tulajdonosa és főszerkesztője. Most az élő adásból tudta meg, hogy Bede Zsolt az. Hozzátette, hogy sajnálja a gyermekét és a rokonságát, de őt magát nem tudja sajnálni. Ugyanakkor a rendőri intézkedéssel kapcsolatban neki is vannak kétségei.
 
-Hegyi Gyula szerint a Fidesznek nem áll érdekében tovább ütni ezt a vasat a brüsszeli sajtótájékoztató után, mert az inkább árt, mint használ. Megjegyezte, hogy az ügyet elsősorban Kon Csaba (aki elvesztette állását) és egy DK-s képviselő próbálta felhasználni, de sikertelenül.
+Kuruc Dániel hangsúlyozta, hogy bár neki is volt konfliktusa Bede Zsolttal, a rendőrségnek nem így kell eljárnia. Ha Bede Zsolt beszámolója igaz, akkor ez egy példátlan, kifejezetten szabályellenes eljárás volt, ami nyilvánvalóan politikai támadás. Úgy tűnik, a hatalom a leggyengébb láncszemmel kezdi.
 
-## Gyermekvédelem vs. politikai lejáratás
+> „Tehát az amit ő most elmondott meg azért szerintem mindannyian ismerjük a Gaudi Nagy Tamást, tehát hogy ő tudjuk, hogy amit mond az úgy igaz. [...] akkor ez egy eléggé példátlan, kifejezetten szabályellenes eljárás volt a rendőrség részéről, ami nyilvánvalóan egy politikai támadás volt." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1090)
 
-### A gyermekvédelem valódi kérdései
-Varga Etele szociológus-közgazdász hangsúlyozta, hogy a gyermekvédelem súlyos problémáit nem szabad összemosni a politikai lejárató kampánnyal. Elmondta, hogy a bántalmazott gyermekek megszólalása önmagában is hatalmas lépés, és az ügynek a nyomozóhatóságok előtt kellett volna zajlania, nem a nyilvánosság előtt. Kritizálta, hogy a baloldali sajtó "óriási hisztériát csapott", mielőtt a nyomozás lezárult volna.
+Szanyi Tibor kijelentette, hogy undorodik Bede Zsolt munkásságától, de még jobban undorodik a rendőrség ilyen mutatványaitól. Szerinte politikai ügyeket nem rendőri erővel kell intézni, és egy kultúrországban elég lenne megkérni Bede Zsoltot, hogy fáradjon be a rendőrségre a számítógépével és telefonjával. A hatóságok most kompenzálni akarnak olyan terepeken, amelyek korábban érinthetetlenek voltak. Szanyi szerint ez méltatlan egy demokráciához és EU-tagországhoz.
 
-> „A legnagyobb probléma a magyar gyermekvédelemmel van, ahol 16 éven keresztül a példátlan felhatalmazásnak a birtokában nem lehetett [megoldani].” – Varga Etele [*](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1360)
+Lipták Tamás felhívta a figyelmet arra, hogy a rendőrségnek vannak súlyosabb ügyei is, ahol nem lép fel ilyen határozottan. Példaként említette Lakatos Márk pedofil ügyét, ahol a kihallgatásig sem jutottak el, valamint egy 2023-as esetet, amikor egy antifa aktivistánál 70 000 pedofil pornográf képet találtak, de csak egy idézést kapott, hogy fáradjon be kihallgatásra.
 
-### Dezselenka Dóra a gyermekvédelem politikai felhasználásáról
-Dóra határozottan kijelentette, hogy az ügyben "szó se volt a gyerekek jogainak védelméről", hanem kizárólag arról, hogy "politikai hasznot hajtsanak egy teljesen kitalált történetből". Hozzátette, hogy az előző kormány is tett lépéseket (pl. átvilágítás a kegyelmi ügy után), de most az új kormány felelőssége, hogy továbblépjen.
+### A sajtószabadság kérdése
 
-## A kormányülést érintő kérdések és Szondi Vanda átalakulása
+Kuruc Dániel párhuzamot vont a Népszabadság 2016-os megszűnésével és a Pesti Srácok közelmúltbeli helyzetével. Szerinte ha valaki most örül Bede Zsolt helyzetének, az nem veszi észre, hogy ez az új hatalom első lépése. Ez egy üzenet nem csak a jobboldali, hanem a TISZA-hoz kötődő újságíróknak is: ha nem értesz velünk egyet, könnyen így járhatsz. Hozzátette, hogy várja az ellenzéki újságoktól, hogy elmondják, ez túlzás volt.
 
-### A kormányszóvivő válasza
-A műsorban lejátszottak egy részletet, amelyben Szondi Vanda (aki korábban az RTL újságírójaként foglalkozott az üggyel, most pedig kormányszóvivő) azt nyilatkozta, hogy a kormányülésen "egyáltalán nem került szóba" a Szőlő utcai ügy, és semmi köze a kormánynak a nyomozáshoz, mert azt "független testületek végzik". A műsorvezető megjegyezte, hogy korábban Szondi Vanda még sürgette a kormányt az ügy kivizsgálására.
+> „Ha valaki most örül Bede Zsoltnak, akkor nem azt kell nézni, hogy ő egy milyen ember, meg hogy milyen cikkeket ír, meg hogy egyáltalán újság-e a vadhajtások, hanem azt kell nézni, hogy ez az első lépése az új hatalomnak." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1458)
 
-### Hegyi Gyula a kormány és a nyomozás viszonyáról
-Hegyi Gyula szerint a kormánynak valóban nincs dolga a nyomozással, és az a független hatóságok feladata. Ugyanakkor elismerte, hogy a helyzet ironikus, mert korábban a Fidesz-kormány alatt Tuzson Bence igazságügyi miniszter nyilvánosságra hozott részleteket, amiért súlyos kritikát kapott.
+### A rendőrség irányításának kérdése
 
-### A kettős mérce és az újságírói szerep átalakulása
-Dezselenka Dóra felhívta a figyelmet arra, hogy Szondi Vanda most kormányalkalmazottként nyilatkozik, míg korábban újságíróként a nyilvánosságot szolgálta. Hangsúlyozta, hogy míg korábban a Fidesz-kormányt azért támadták, mert nem hozott nyilvánosságra részleteket, most a TISZA-kormány esetében ugyanez elfogadott.
+Brenner Koloman szerint az államigazgatás leállt egy hónapja, különösen a belügyi dolgozók és a rendőrök körében, és ezért fordulhatnak elő túlkapások. Az új belügyminiszter leváltotta az országos rendőrfőkapitányt és tartott egy állománygyűlést, de a hírek szerint nem túl sok jó hírrel szolgált az egyenruhásoknak. Brenner szerint ha nincs világos irányvezetésű belügyminiszter, aki megmondja a rendőröknek, hogy be kell tartani a törvényt és nincs politikai célzatú letartóztatás, akkor ilyen esetek történnek.
 
-> „Most nyilván itt vagyunk egy stúdióban, mindenkinek megvan a funkciója a maga keretezésében. Én ezt nem is fogom tőle elvenni, de azt a kedves nézőknek azért itt szeretném elmondani, hogy egy újságíró, egy valódi újságíró az a nyilvánosságot szolgálja. Egy kormányember, akit a kormány fizet, nevezetesen most egy kormányszóvivő, ő meg a magyar kormány alkalmazásában áll.” – Dezselenka Dóra [*](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2333)
+Szanyi Tibor hozzátette, hogy egy házkutatás nem találomra megy, tehát ha a rendőrség kezében van valami, akkor nincs szükség ilyen cirkuszra. Több példát is említett politikai okokból meghurcolt emberekről, akiket végül mind felmentettek, köztük Hunvald György esetét, akit évekre letartóztattak, de semmit nem tudtak rábizonyítani.
 
-## A politikai boszorkányüldözés és a nemzeti megbékélés
+> „Politikai ügyekben semmilyen erőszaknak nincs helye." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1831)
 
-### Krekó Péter nyilatkozata a gyors megbocsátásról
-A műsorban hivatkoztak Krekó Péterre, aki szerint a "gyors megbocsátás nem indokolt". A műsorvezető ezt a felvetést összekapcsolta a TISZA Párt választási ígéretével, miszerint "emberséges, működő Magyarországot" hoznak létre és betemetik az árkokat.
+## A Szőlő utcai botrány és Magyar Márton érintettsége
 
-### Hegyi Gyula a 100 napos türelmi időről
-Hegyi Gyula egyetértett Krekó Péterrel abban, hogy a nemzeti megbékélés fontos, de hangsúlyozta, hogy a 100 napos türelmi időt az ellenzéknek is tiszteletben kellene tartania. Ugyanakkor a kormányfőnek is vissza kellene fognia magát, és nem a parlamentet kellene "viselkedésügyek" megtárgyalására használni.
+A műsor második nagy témája a Szőlő utcai botrány legújabb fejleménye volt, amely szerint Magyar Péter testvére, Magyar Márton által vezetett Kontroll 4 millió forintot fizethetett Bangó Sándornak, a "Zsolti bácsizós" interjú alanyának.
 
-> „Nem kell 100 napig ilyen hévvel támadni a kormányt, a kormánynak pedig azt kellene mondani, hogy aki bűnt követett el, azt nyilván az új ügyészség meg fogja találni. Attól pedig, hogy valaki a Fideszben van, attól egyáltalán nem bűnös.” – Hegyi Gyula [*](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2651)
+### A kormányülésen történtek
 
-### Varga Etele a békéről és a társadalom felelősségéről
-Varga Etele (aki rendszeresen "béke" köszöntéssel nyit) hangsúlyozta, hogy a "politikának egy méltóságteljesebb folyamba kell terelődnie", de ezt a választóknak kell kikényszeríteniük. Szerinte a mindenkori politikára ebben "kevéssé számíthatunk". Három kategóriát különböztetett meg: a Fidesz-szavazókat, a rendszer kiszolgálóit és a bűnösöket. A bűnösöket az igazságszolgáltatásnak kell felelősségre vonnia, míg a szavazókkal szemben a megbékélés fontos.
+Bohár Dániel újságíró Facebook-bejegyzése szerint Görög Márta igazságügyi miniszter kérdést tett fel a kormányülésen Magyar Péternek a Szőlő utcai botránnyal kapcsolatban, de a miniszterelnök nem válaszolt. A stúdióvendégek megosztottak voltak a hír hitelességét illetően.
 
-### Dezselenka Dóra az "abszolút filmszínházról"
-Dóra úgy vélte, hogy a TISZA Párt addig tudja magasan tartani népszerűségét, amíg az "O1G ideológia" és az "abszolút filmszínház" fennmarad. Amint azonban "nyers és sokszor népszerűtlen politikai döntésekről" lesz szó, a kormánypárt népszerűsége zuhanni fog.
+Szanyi Tibor, aki korábban maga is részt vett kormányüléseken, kizártnak tartja, hogy egy ilyen információ kijusson egy zárt kormányülésről. Szerinte egy kormányülésen napirendek vannak, egy miniszter csak napirendi ponthoz szólhat hozzá, és nem lehetséges, hogy az igazságügyi miniszter csak úgy feltesz egy kérdést, a miniszterelnök pedig nem válaszol. Az egészet rosszindulatú pletykának nevezte.
 
-> „Magyar Péteréknek az a célja, egészen addig lesznek 60-70-80%-on a médián mérései szerint, amíg az O1G ideológia és az abszolút filmszínházat fenn tudják tartani, amint ez a köd elvész, és amint politikai döntésekről lesz szó nyers és sokszor népszerűtlen politikai döntésekről, abban a pillanatban le fog zuhanni a népszerűségük.” – Dezselenka Dóra [*](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2933)
+> „Egy kormányülésen, ami zárt a maga módján, ilyen nem tud kimenni, csak rossz indulatú pletykaként." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2430)
 
-### Bóth Hunor a miniszteri meghallgatások tapasztalatairól
-Bóth Hunor hozzátette, hogy a parlamenti miniszteri meghallgatások során is csak az elmúlt 16 év pocskondiázása folyt, és a kormánypárti képviselők arról beszéltek, hogyan fognak "mindenkivel egyenként leszámolni". Szerinte ez nem a nemzeti megbékélés, hanem a "feszültség fenntartásának" a jele.
+Kuruc Dániel viszont felvetette, hogy az elmúlt másfél hónapban sok rendhagyó dolgot láttak az Országgyűlésben, és ha a plenáris ülésen ilyen stílust enged meg magának a miniszterelnök, akkor a kormányülésen is történhetnek hasonlók. Szerinte itt most nincsenek szabályok, a szabály az, hogy nincsen szabály.
 
-## Egyéb hírek röviden
+### Kapitány István gazdasági miniszter nyilatkozata
 
-### Időjárás: hőségriadó és kánikula
-Az első hőségfront 2026-ban: éjszaka 15-20 fok, nappal akár 37 fok is lehet. Hőségriadó lép életbe szombat reggeltől, és a jövő hét elejéig 30-35 fokos meleg várható.
+A HírTV megpróbálta megkérdezni Kapitány István gazdasági minisztert is a témában. A miniszter elmondta, hogy amikor ő jelen volt a kormányülésen, akkor nem került szóba a Szőlő utcai botrány, és Görög Márta nem kérdezte fel a miniszterelnököt. Ugyanakkor hozzátette, hogy nem volt végig ott az ülésen, mert az elég hosszú volt, így nem tud teljes egészében válaszolni. A Szőlő utcai botránnyal kapcsolatban azt tanácsolta, hogy kérdezzék a Fideszt és a múltkori kormányt.
 
-### Alkotmánymódosítás és a védett ár kivezetése
-A híradó-előzetesből kiderült, hogy Sulyok Tamás köztársasági elnök aláírta az alaptörvény 16. módosítását, amely szerint a miniszterelnök csak két ciklust (nyolc évet) tölthet hivatalban. Emellett a kormány kivezeti a védett árat, amit a KDNP súlyos hibának tart. Szó lesz továbbá az amerikai-iráni béketárgyalások elhalasztásáról is.
+> „Nem került szóba. [...] Nem, nem kérdezte föl, de nem voltam végig ott az ülésen, úgyhogy nem tudok teljes egészében válaszolni rá, mert ez egy elég hosszú kormányülés volt." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2668)
 
-### A vezércikk és egyéb műsorok ajánlója
-A műsor utalt a "Vezércikk" című műsorra, valamint a "Célpont" és a "Paláver" adásaira, amelyek szintén foglalkoznak a Szőlő utcai üggyel és más politikai témákkal. A "Vezércikk" előzetesében elhangzott: a Polgári Törvénykönyv szerint a felbujtó ugyanolyan büntetés alá esik, mint az elkövető; ha bebizonyosodik, hogy Magyar Márton 4 millió forintot adott át hamis vádakért, akkor súlyos bűncselekményt követett el.
+### Bohár Dániel telefonos interjúkísérlete Gergely Évával
+
+Bohár Dániel felhívta Gergely Évát, a Kontroll műsorvezetőjét, aki a Bangó Sándorral készült interjút készítette. Gergely Éva nem kívánt nyilatkozni, és többször kérte, hogy hagyják békén. Arra a kérdésre, hogy tudott-e a 4 milliós összegről, és hogy szakmailag mennyire tartja elfogadhatónak az interjút, szintén nem válaszolt.
+
+> „Szépen kérlek, hogy hagyj engem békén." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2922)
+
+Lipták Tamás szerint ez a fajta újságírás nem célravezető, és nem ebben az irányban kellene elvinni az ügyet. Hozzátette, hogy lassan egy éve nem tudni, ki az a Zsolti bácsi, és a téma két havonta előkerül. Szerinte Magyar Márton és Magyar Péter is tudja, ki az a Zsolti bácsi, és a miniszterelnöknek tiszta vizet kellene önteni a pohárba. Ha ezt nem teszi meg, akkor fejezzék be a "demagóg populizmust", és koncentráljanak a gyermekvédelem rendbetételére.
+
+### Brenner Koloman személyes érintettsége a gyermekvédelemben
+
+Brenner Koloman elmondta, hogy Jungos Rajmondot, egy újbudai önkormányzati képviselőt szeretné a nézők figyelmébe ajánlani, aki gyermekotthonban nevelkedett, és maga is elszenvedője volt gyermekkori abúzusnak. Jungos Rajmond a mai napon lépett ki a Fidesz frakcióból. Brenner hangsúlyozta, hogy ebben a kérdésben a több mint 20 000 érintett gyermeknek kell az előtérben lennie, és nagyon nehéz kideríteni az igazságot, mert ezek a gyermekek néha szándékosan mondanak ilyet is, olyat is. Elképesztő sorsokról számolt be, és arra kért mindenkit, hogy ne ítélkezzenek, és ne csináljanak politikát ezekből az emberi sorsokból.
+
+> „Én csak azt szeretném így egy kicsit a nézők számára is érzékeltetni, hogy mielőtt ítélkezünk, és mielőtt ezekkel az emberi sorsokkal politikát csinálunk..." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2837)
+
+### Magyar Péter brüsszeli reakciója
+
+A műsor végén elhangzott, hogy Magyar Péter Brüsszelben idegesen reagált, amikor a HírTV a testvérének érintettségéről kérdezte. A miniszterelnök nem cáfolta az öccsére vonatkozó híreket, hanem hazugsággal vádolta a tudósítót.
+
+> „Azt kérem, hogy legalább Brüsszelbe ne hazudozzon. Én tudom, hogy nagyon idegesek a propagandánál, mert a 90% négy héttel a választás után a közpénzszivattyúzás összeomlott. Azt kérem, hogy ne hazudjon a kérdéseiben." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=179)
+
+Magyar Péter szerint a másik úriember (feltehetően Bangó Sándor) elmondta, hogy "szemenszedett hazugság" az egész, és ő soha nem mondott ilyet. A miniszterelnök Pócs Jánost is említette, aki szerinte Tarnazsadányban már megtette ezt, és nemsokára a bíróság előtt fog felelni.
+
+A Fidesz közleményben szólította fel Magyar Pétert és testvérét, hogy haladéktalanul tisztázzák, mit kértek és mennyi pénzt adtak Bangó Sándornak. Balla György fideszes országgyűlési képviselő a Vezércikk Café című műsorban úgy fogalmazott, hogy ha igaz, hogy fizettek a Szőlő utcai "álhírbotrány" koronatanújának, akkor ez a legnagyobb politikai botrány a rendszerváltás óta.
+
+> „Végtelenül becstelen dolog alaptalanul pedofíliával vádolni valakit." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=257)
+
+## Gazdasági döntések: benzinárstop kivezetése és Széchenyi kártya kamatemelés
+
+A műsor felvezetőjében és a bejátszásokban többször elhangzott, hogy a TISZA-kormány több gazdasági döntést is hozott: kivezetik a benzinárstopot, és a kormány duplájára emeli a Széchenyi kártya kamatát. A műsorvezető megjegyezte, hogy állítólag nem lesz drágább az üzemanyag, de a számok egyelőre mást mutatnak. A stúdióbeszélgetésben ezek a témák érdemben nem kerültek kifejtésre.
+
+## Az elszámoltatás kérdése
+
+Szanyi Tibor élesen bírálta a kormány elszámoltatási gyakorlatát. Szerinte amit a polgármesterekkel és másokkal szemben művelnek, annak semmi köze az elszámoltatáshoz, ez rendőri attak. Az elszámoltatás úgy működne, hogy feltesznek kérdéseket, és megkérdezik az érintettet, hogy mit csinált. Példaként említette, hogy Batócsy úrnak (feltehetően Tiborcz Istvánra vagy más NER-közeli szereplőre utalva) senki semmilyen kérdést nem tett fel, miközben "meglovasított Isten tudja hány száz milliárd forintot".
+
+> „Az elszámoltatás az akkor is úriemberi műfaj, amikor azt mondom, hogy uram én azt gondolom, hogy ön ezt és ezt csinálta. Volna szíves elmondani, hogy mit csinált. Ez az elszámoltatás. Rendőrrel kipofozni emberekből [...] vallomást vagy valami, szóval ez nonszensz." [*](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1578)
+
+Szanyi szerint ha Magyar Péter így gondolja, hogy Bede Zsoltot tíz rendőrnek kell lerohannia, akkor legalább legyen egyenes és mondja meg nyíltan. Ugyanezt a kettősséget látta Sulyok Tamás köztársasági elnök esetében is, amikor Magyar Péter a lemondását követelte, de közben a miniszteri kinevezések aláírását is várta tőle.
 
 <!-- SECTION:UNCERTAIN -->
 
-- Nincs ilyen szakasz.
+- Az átiratban több helyen előforduló „Batócsi" név valószínűleg egy NER-közeli szereplőre utal, de a kontextusból nem azonosítható egyértelműen, hogy pontosan kiről van szó. A „meglovasított Isten tudja hány száz milliárd Ftot" kifejezés alapján feltehetően Tiborcz Istvánról vagy Mészáros Lőrincről lehet szó, de ez nem erősíthető meg egyértelműen.
+- „Hunvad György" – az átiratban így szerepel, feltehetően Hunvald György volt erzsébetvárosi polgármesterről van szó, akit valóban letartóztattak, de később felmentettek.
+- „Jungos Rajmond" – az átiratban így szerepel, valószínűleg egy újbudai képviselőről van szó, de a pontos név nem azonosítható teljes bizonyossággal.
+- „Gödi Akyár" – az átiratban így szerepel, a kontextus alapján valószínűleg egy korábbi hasonló esetre utal, de a pontos név és ügy nem rekonstruálható.
 
 ## Átirat
 
 <details>
 <summary>Teljes átirat megjelenítése</summary>
 
-[00:01:10](https://www.youtube.com/watch?v=IGMesVrBqrE&t=70) Jó estét kívánunk!
+[00:00:06](https://www.youtube.com/watch?v=pgDZeiQetCg&t=6) Házkutatást [zene] tartottak a vadhajtások tulajdonosánál, Bede Zsoltnál, amely során a rendőrök lefoglalták még a gyermeke elektronikai eszközeit is, beleértve egy laptopot és egy telefont.
 
-[00:01:10](https://www.youtube.com/watch?v=IGMesVrBqrE&t=70) Rövid híreinket látják.
+[00:00:17](https://www.youtube.com/watch?v=pgDZeiQetCg&t=17) Bede Zsolt azt állítja, hogy a rendőrök nem engedték meg, hogy felhívja az ügyvédjét.
 
-[00:01:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=72) 19 órakor Hillés Péter vagyok.
+[00:00:21](https://www.youtube.com/watch?v=pgDZeiQetCg&t=21) [zene] Hogy mi történhetett pontosan, arról biztosan vitáznak vendégeim.
 
-[00:01:14](https://www.youtube.com/watch?v=IGMesVrBqrE&t=74) Köszöntjük önöket.
+[00:00:24](https://www.youtube.com/watch?v=pgDZeiQetCg&t=24) Komment ma [zene] 19 óra.
 
-[00:01:16](https://www.youtube.com/watch?v=IGMesVrBqrE&t=76) A rendszerváltás óta ilyen politikai botrány, ilyen politikai bűncselekmény még nem fordult elő.
+[00:00:27](https://www.youtube.com/watch?v=pgDZeiQetCg&t=27) Hírv.
 
-[00:01:21](https://www.youtube.com/watch?v=IGMesVrBqrE&t=81) Erről Pócs János fideszes országgyűlési képviselő beszélt.
+[00:00:32](https://www.youtube.com/watch?v=pgDZeiQetCg&t=32) Bekös a drágaság.
 
-[00:01:24](https://www.youtube.com/watch?v=IGMesVrBqrE&t=84) A politikus a kontroll szerkesztősége előtt tartott sajtótájékoztatón azt mondta, hogy egyre több leleplező információ lát napvilágot a szőlőutcai ügyről.
+[00:00:32](https://www.youtube.com/watch?v=pgDZeiQetCg&t=32) Duplájára emeli a kormány a Széchenyi kártya kamatát, megszűnik a védett benzinárt [zene] és módosítják az alaptörvényt is.
 
-[00:01:32](https://www.youtube.com/watch?v=IGMesVrBqrE&t=92) Mint mondta, jövő héten újabb feljelentést tesz.
+[00:00:39](https://www.youtube.com/watch?v=pgDZeiQetCg&t=39) Na megkezdődik az EU csúcs.
 
-[00:01:37](https://www.youtube.com/watch?v=IGMesVrBqrE&t=97) Szeretnénk felhívni a figyelmet ezúton is minden médiának, akár a kontroll esetleg jelenlévő újságíróinak is, hogy itt a kontroll nevű hazugsággyárban milliókat adtak hamis vádakért.
+[00:00:42](https://www.youtube.com/watch?v=pgDZeiQetCg&t=42) Ma nekimennek Kínának, holnap meg egymásnak, hogy kifizeti a cehket.
 
-[00:01:48](https://www.youtube.com/watch?v=IGMesVrBqrE&t=108) Ez bűncselekményre való felbújtás.
+[00:00:48](https://www.youtube.com/watch?v=pgDZeiQetCg&t=48) Vezérci ma 21 óra Hírtv.
 
-[00:01:51](https://www.youtube.com/watch?v=IGMesVrBqrE&t=111) Mindez köthető a miniszterelnökhöz, mert a testvére a testvére Magyar Márton követte el a Tiszapárt és Magyar Péter érdekében.
+[00:00:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=53) Egy asztal, négy vélemény.
 
-[00:02:06](https://www.youtube.com/watch?v=IGMesVrBqrE&t=126) Helyreette az RTL riporterét a Fidesz országgyűlési képviselője.
+[00:00:55](https://www.youtube.com/watch?v=pgDZeiQetCg&t=55) Ha egy ország gazdag akar lenni, akkor nem tartja show módon a vezetői.
 
-[00:02:08](https://www.youtube.com/watch?v=IGMesVrBqrE&t=128) A csatorna riportere más témában akart kérdezni a kontroll szerkesztősége előtt tartott sajtótájékoztatón, amire reagálva Pani Miklós emlékeztette az újságírót, hogy az RTL az elmúlt napokban egyáltalán nem foglalkozott a szőlőutcai ügy új fejleményeivel.
+[00:01:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=60) Összefüggések.
 
-[00:02:24](https://www.youtube.com/watch?v=IGMesVrBqrE&t=144) Ha jól tudom, az RTL klub eddig még nem számolt be erről az ügyről.
+[00:01:01](https://www.youtube.com/watch?v=pgDZeiQetCg&t=61) Pont az a célja, hogy lemondjon [zene] nagyon sok polgármester.
 
-[00:02:25](https://www.youtube.com/watch?v=IGMesVrBqrE&t=145) Cáfoljon meg, szerkesztő úr, beszámolt az RT klub az elmúlt három napban.
+[00:01:04](https://www.youtube.com/watch?v=pgDZeiQetCg&t=64) Következmények.
 
-[00:02:30](https://www.youtube.com/watch?v=IGMesVrBqrE&t=150) Most engedjel, mert mert a mert a válaszára fogod reagálva tagja.
+[00:01:05](https://www.youtube.com/watch?v=pgDZeiQetCg&t=65) Minden cirkuszi játéknak egyszer vége lesz.
 
-[00:02:37](https://www.youtube.com/watch?v=IGMesVrBqrE&t=157) Igen, igen, értem.
+[00:01:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=68) Világos állítások.
 
-[00:02:37](https://www.youtube.com/watch?v=IGMesVrBqrE&t=157) Csak ezt fogom meg mindaddig, amíg az RTL klub nem számol be erről az ügyről, addig nem nyilatkozunk az RTL klubnak.
+[00:01:09](https://www.youtube.com/watch?v=pgDZeiQetCg&t=69) Nem sokáig tetszeleghetsz már önmagadnak.
 
-[00:02:43](https://www.youtube.com/watch?v=IGMesVrBqrE&t=163) Számoljanak be erről az ügyről.
+[00:01:13](https://www.youtube.com/watch?v=pgDZeiQetCg&t=73) Elsék.
 
-[00:02:45](https://www.youtube.com/watch?v=IGMesVrBqrE&t=165) Három napja hallgatnak.
+[00:01:14](https://www.youtube.com/watch?v=pgDZeiQetCg&t=74) Sajtóklub.
 
-[00:02:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=167) Teljesen világos a helyzet.
+[00:01:14](https://www.youtube.com/watch?v=pgDZeiQetCg&t=74) Vasárnap 19 per Hír TV.
 
-[00:02:49](https://www.youtube.com/watch?v=IGMesVrBqrE&t=169) Utána lehet kérdezni.
+[00:02:32](https://www.youtube.com/watch?v=pgDZeiQetCg&t=152) Híre következnek 19 órakor.
 
-[00:02:49](https://www.youtube.com/watch?v=IGMesVrBqrE&t=169) Köszönöm szépen.
+[00:02:32](https://www.youtube.com/watch?v=pgDZeiQetCg&t=152) Jó estét kívánok.
 
-[00:02:53](https://www.youtube.com/watch?v=IGMesVrBqrE&t=173) Az Alkotmánybíróság határozott képtelenség miatt levette napirendjéről a súlyok ügyet.
+[00:02:34](https://www.youtube.com/watch?v=pgDZeiQetCg&t=154) Varga Ibolja vagyok.
 
-[00:02:57](https://www.youtube.com/watch?v=IGMesVrBqrE&t=177) Hét alkotmánybíró azt közölte, hogy személyes érintettsége miatt nem vesz részt a hétfői egyeztetésen.
+[00:02:39](https://www.youtube.com/watch?v=pgDZeiQetCg&t=159) Idegesen reagált a miniszterelnök Brüsszelben, amikor a Hírtv a szőlőutcai botrányról kérdezte.
 
-[00:03:02](https://www.youtube.com/watch?v=IGMesVrBqrE&t=182) Az ügy előzménye, hogy a köztársasági elnök indítványban kért egy előzetes jogértelmezést azzal kapcsolatban, hogy lehet-e személyre szabottan módosítani az alaptörvényt, illetve ha ilyen történik, abban lenne-e egyáltalán beleszólása az alkotmánybíróságnak.
+[00:02:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=163) Magyar Péter az öccsére vonatkozó híreket, amely szerint az ügy koronatanújának 4 millió Ftot adhatott a vallomásáért cserébe, nem cáfolta.
 
-[00:03:18](https://www.youtube.com/watch?v=IGMesVrBqrE&t=198) Magyar Péter Sógora nehezményezte, hogy túl hamar napirendre tűzték Sullyok Tamás indítványát, és abban reménykedett, hogy összeül ugyan a testület, de elutasítják az indítványt.
+[00:02:51](https://www.youtube.com/watch?v=pgDZeiQetCg&t=171) Egyenes válasz helyett hazugsággal vádolta a tudósítónkat.
 
-[00:03:28](https://www.youtube.com/watch?v=IGMesVrBqrE&t=208) Ezt követően lett határozatképtelen a testület.
+[00:02:57](https://www.youtube.com/watch?v=pgDZeiQetCg&t=177) Azt kérem, hogy legalább Brüsszelbe ne hazudozzon.
 
-[00:03:32](https://www.youtube.com/watch?v=IGMesVrBqrE&t=212) Rövid híreinket látták.
+[00:02:59](https://www.youtube.com/watch?v=pgDZeiQetCg&t=179) Én tudom, hogy nagyon idegesek a propagandánál, mert a 90% négy héttel a választás után a közpénszivattyúzás össze összeomlott.
 
-[00:03:32](https://www.youtube.com/watch?v=IGMesVrBqrE&t=212) Összes kollégám nevében köszönöm a figyelmüket, jó tévézést, viszontlátásra.
+[00:03:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=188) Azt kérem, hogy ne hazudjon a kérdéseibet.
 
-[00:03:55](https://www.youtube.com/watch?v=IGMesVrBqrE&t=235) 2026 első hőségfrontja érkezik hozzánk, és úgy tűnik, hogy a folytatásban is kitart a tikkasztó meleg.
+[00:03:10](https://www.youtube.com/watch?v=pgDZeiQetCg&t=190) Ez megtörtént.
 
-[00:04:00](https://www.youtube.com/watch?v=IGMesVrBqrE&t=240) Köszöntöm önöket, szép estét kívánok.
+[00:03:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=191) Nem, én úgy találtam.
 
-[00:04:02](https://www.youtube.com/watch?v=IGMesVrBqrE&t=242) Petőors vagyok, és már az éjszakai hajnali órákban sem hülle a levegő.
+[00:03:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=191) elmondta, elmondta a másik úriember, hogy szemszedett hazugság.
 
-[00:04:07](https://www.youtube.com/watch?v=IGMesVrBqrE&t=247) A csúcsértékek 15 és 20 fok között alakulnak.
+[00:03:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=195) Ő soha nem mondott ilyet.
 
-[00:04:11](https://www.youtube.com/watch?v=IGMesVrBqrE&t=251) Napközben tovább melegszik az időjárásunk.
+[00:03:17](https://www.youtube.com/watch?v=pgDZeiQetCg&t=197) Úgyhogy azt kérem, hogy ne használjanak pénzért más embereket.
 
-[00:04:13](https://www.youtube.com/watch?v=IGMesVrBqrE&t=253) Szombaton 35-36 fokos hőségre is számíthatunk.
+[00:03:19](https://www.youtube.com/watch?v=pgDZeiQetCg&t=199) Pócs Jánostól is ezt kérem.
 
-[00:04:16](https://www.youtube.com/watch?v=IGMesVrBqrE&t=256) Északon északkeleten lehet napközben futó frissítő zápor kialakulásától tartani, és zivatarok környezetében a szél is megélénkülhet.
+[00:03:22](https://www.youtube.com/watch?v=pgDZeiQetCg&t=202) Ő már megtette ezt Tarnazsadányban.
 
-[00:04:25](https://www.youtube.com/watch?v=IGMesVrBqrE&t=265) Hőségriadó van szombat reggeltől érvényben, és vasárnap is kitart még a hőség, bár itt több felé kell már számítani csapadék megjelenésére.
+[00:03:24](https://www.youtube.com/watch?v=pgDZeiQetCg&t=204) Szerintem nemsokára a bíróság előtt fog felelni.
 
-[00:04:33](https://www.youtube.com/watch?v=IGMesVrBqrE&t=273) Itt tetőzik a kánikula.
+[00:03:26](https://www.youtube.com/watch?v=pgDZeiQetCg&t=206) Lehet, hogy halmazatban annyit hazudott.
 
-[00:04:36](https://www.youtube.com/watch?v=IGMesVrBqrE&t=276) 35-37 fokos hőségre kell számítani.
+[00:03:27](https://www.youtube.com/watch?v=pgDZeiQetCg&t=207) Köszönöm, jó munkát.
 
-[00:04:36](https://www.youtube.com/watch?v=IGMesVrBqrE&t=276) És a mostani előrejelzések szerint a jövő héten is kitart a kánikula.
+[00:03:31](https://www.youtube.com/watch?v=pgDZeiQetCg&t=211) Magyar Márton hazudott az egész magyar közvéleménynek azzal, hogy letagadta a Zsolti bácsi üggyel való kapcsolatát, írta közleményében a Fidesz.
 
-[00:04:41](https://www.youtube.com/watch?v=IGMesVrBqrE&t=281) Hétfőtől szerdáig biztosan 30-35 fokos meleg időre kell készülni.
+[00:03:37](https://www.youtube.com/watch?v=pgDZeiQetCg&t=217) A párt úgy fogalmazott nyilatkozatában, hogy két nap alatt megdőlt Magyar Péter testvérének meséje.
 
-[00:04:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=287) Köszönöm szépen a figyelmüket.
+[00:03:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=223) Magyar Márton kedden tagadta, hogy pénzt adott volna Bangó Sándornak a jobboldal lejáratásáért cserébe.
 
-[00:04:49](https://www.youtube.com/watch?v=IGMesVrBqrE&t=289) Legyen mosolygós az estéjük.
+[00:03:49](https://www.youtube.com/watch?v=pgDZeiQetCg&t=229) Füsi Angéla, az érintett mentora azonban megerősítette, hogy a kontroll interjút követően igen nagy összegben részesült.
 
-[00:04:51](https://www.youtube.com/watch?v=IGMesVrBqrE&t=291) Bármilyen is az időjárás.
+[00:03:56](https://www.youtube.com/watch?v=pgDZeiQetCg&t=236) A közleményben felszólították Magyar Pétert és testvérét, hogy haladéktalanul tisztázzák, mit kértek és mennyi pénzt adtak Bangó Sándornak.
 
-[00:05:06](https://www.youtube.com/watch?v=IGMesVrBqrE&t=306) PTK azt is kimondja, hogy a felbújtó ugyanolyan büntetést terheli, mint magát a cselekmény elkövetőjét.
+[00:04:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=248) Ha igaz, hogy fizettek a szőlőutcai Álhírbotrány koronatanújának, akkor ez a legnagyobb politikai botrány a rendszerváltás óta, jelentette ki a Fidesz országgyűlési képviselője vezérci Kafé című műsorunkban.
 
-[00:05:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=312) Na most ha és amennyiben Magyarton 4 millió Ftot, ahogy itt az elbeszélésekből hallhattuk az elmúlt napokban, átadott ennek a fiatal embernek azért, hogy terhelő nyilatkozatot tegyen egy jobboldali politikusral szemben, ráadásul aljas indokból, csak azért, hogy ebből politikai hasznunk származzon, akkor ő is ugyanúgy súlyos bűncselekményt követett el.
+[00:04:17](https://www.youtube.com/watch?v=pgDZeiQetCg&t=257) Balla György leszögezte, végtelenül becstelen dolog alaptalanul pedofíliával vádolni valakit.
 
-[00:05:34](https://www.youtube.com/watch?v=IGMesVrBqrE&t=334) Vezércikk, ma 21 óra.
+[00:04:26](https://www.youtube.com/watch?v=pgDZeiQetCg&t=266) Annyit látunk, hogy van egy hangfelvétel, ami alapján az látszik, hogy Magyar Péter ötcse, vagy az ő sajtója, az megpróbált rávenni egy kvázi áldozatot, hogy tegyen terhelő vallomást, vagy nyilatkozzon terhelően valakiről.
 
-[00:05:34](https://www.youtube.com/watch?v=IGMesVrBqrE&t=334) Hírv.
+[00:04:48](https://www.youtube.com/watch?v=pgDZeiQetCg&t=288) Most ha ezt valaki tényleg megtette, az nem nem szeretnék most erős szavakat használni, de az egy végtelenül becstelen ember.
 
-[00:05:39](https://www.youtube.com/watch?v=IGMesVrBqrE&t=339) Kérdések, hogy működik ez a Tiszapártnál?
+[00:04:59](https://www.youtube.com/watch?v=pgDZeiQetCg&t=299) Végtelenül becstelen.
 
-[00:05:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=340) fog interjút adni.
+[00:05:03](https://www.youtube.com/watch?v=pgDZeiQetCg&t=303) Vezércik ka Café című műsorunkat szombaton este 8 órakor láthatják itt a Hírtvén.
 
-[00:05:43](https://www.youtube.com/watch?v=IGMesVrBqrE&t=343) Mikor lesz 480 Ft-os özüzem anyagát?
+[00:05:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=308) Ezek voltak legfontosabb híreink.
 
-[00:05:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=346) Válaszolni kell kérdésekre és nem elrohanni.
+[00:05:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=308) Most következik [zene] a komment.
 
-[00:05:48](https://www.youtube.com/watch?v=IGMesVrBqrE&t=348) Elhallgatott válaszok.
+[00:05:10](https://www.youtube.com/watch?v=pgDZeiQetCg&t=310) Köszönöm a figyelmüket, viszontlátásra.
 
-[00:05:50](https://www.youtube.com/watch?v=IGMesVrBqrE&t=350) Megmutatjuk, ami a felszín alatt van.
+[00:05:25](https://www.youtube.com/watch?v=pgDZeiQetCg&t=325) [zene] Kezdetét [zene] vette az igazi nyár.
 
-[00:05:53](https://www.youtube.com/watch?v=IGMesVrBqrE&t=353) Szeretnénk mindenkihez partnerként fordulni.
+[00:05:31](https://www.youtube.com/watch?v=pgDZeiQetCg&t=331) Kánik Kula és kevés enyhülést hozó csapadék vár ránk a következő [zene] napokban.
 
-[00:05:56](https://www.youtube.com/watch?v=IGMesVrBqrE&t=356) Aljjas, moskos, senkik vagytok.
+[00:05:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=335) Köszöntöm önöket.
 
-[00:05:58](https://www.youtube.com/watch?v=IGMesVrBqrE&t=358) Hazárulók.
+[00:05:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=335) Lengyel Erika vagyok.
 
-[00:05:59](https://www.youtube.com/watch?v=IGMesVrBqrE&t=359) Péter, mikor mész börtönbe?
+[00:05:39](https://www.youtube.com/watch?v=pgDZeiQetCg&t=339) Csütörtök estére a záporok és zivatarok már elvonulnak az ország fölül, és derült időre számíthatunk 1218 fok közötti [zene] csúcsértékkel.
 
-[00:06:00](https://www.youtube.com/watch?v=IGMesVrBqrE&t=360) Nem nyilatkozom.
+[00:05:49](https://www.youtube.com/watch?v=pgDZeiQetCg&t=349) Ébredhetünk hajnalban is, majd pénteken szikrázó napsütésre számíthatunk 29 és 34 fok [zene] közötti hőmérséklettel.
 
-[00:06:00](https://www.youtube.com/watch?v=IGMesVrBqrE&t=360) Köszönöm szépen.
+[00:05:59](https://www.youtube.com/watch?v=pgDZeiQetCg&t=359) És ez a meleg marad a következő napokban is, hiszen a kánikulá lesz a főszerep a hétvégén, a szűnidő első [zene] napjaiban.
 
-[00:06:02](https://www.youtube.com/watch?v=IGMesVrBqrE&t=362) Na most mi van?
+[00:06:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=368) 29 és 36 fok közötti hőmérsékletre [zene] számíthatunk.
 
-[00:06:03](https://www.youtube.com/watch?v=IGMesVrBqrE&t=363) Célpont.
+[00:06:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=371) Hogyha elindulnak, ne felejtsék otthon a naptejet és a szalmakalapot.
 
-[00:06:03](https://www.youtube.com/watch?v=IGMesVrBqrE&t=363) Péntek 22:30 per Hír TV.
+[00:06:16](https://www.youtube.com/watch?v=pgDZeiQetCg&t=376) Köszönöm [zene] a figyelmüket, viszontlátásra.
 
-[00:06:10](https://www.youtube.com/watch?v=IGMesVrBqrE&t=370) A Paláverben a néző, a főszereplő.
+[00:06:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=395) Beköszönt a drágaság.
 
-[00:06:13](https://www.youtube.com/watch?v=IGMesVrBqrE&t=373) Üdvözlöm, jó napot kívánok.
+[00:06:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=395) Duplájára emeli a kormány a Széchenyi kártya kamatát, megszűnik a védett benzinár és módosítják az alaptörvényt is.
 
-[00:06:15](https://www.youtube.com/watch?v=IGMesVrBqrE&t=375) Mi hozzuk a témákat.
+[00:06:42](https://www.youtube.com/watch?v=pgDZeiQetCg&t=402) Na megkezdődik az EU csúcs.
 
-[00:06:16](https://www.youtube.com/watch?v=IGMesVrBqrE&t=376) Várom az önök hívásait, önök pedig a véleményeket.
+[00:06:44](https://www.youtube.com/watch?v=pgDZeiQetCg&t=404) Ma nekimennek Kínának, holnap meg egymásnak, hogy kifizeti a cechet.
 
-[00:06:19](https://www.youtube.com/watch?v=IGMesVrBqrE&t=379) Miért történt ez a nagy pálfordulás?
+[00:06:51](https://www.youtube.com/watch?v=pgDZeiQetCg&t=411) Vezérci, [zene] ma 21 óra Hírt TV.
 
-[00:06:22](https://www.youtube.com/watch?v=IGMesVrBqrE&t=382) Beszéljük meg együtt a hét legfontosabb történéseit.
+[00:06:55](https://www.youtube.com/watch?v=pgDZeiQetCg&t=415) Donald Trump alírta a 14 pontos békeszerződést [zene] Iránnal.
 
-[00:06:25](https://www.youtube.com/watch?v=IGMesVrBqrE&t=385) Én azt mondom, hogy ez az egész szín játék.
+[00:06:58](https://www.youtube.com/watch?v=pgDZeiQetCg&t=418) Ezzel kapcsolatban kapcsolunk Jeruzsálemben, Robert Castelhez, az alapjólkért Központ biztonságpolitikai [zene] tanácsadójához.
 
-[00:06:27](https://www.youtube.com/watch?v=IGMesVrBqrE&t=387) Mondja el mindenkinek, mit gondol a világról.
+[00:07:04](https://www.youtube.com/watch?v=pgDZeiQetCg&t=424) Érkezik hozzánk Hárfár Zsolt atomszakértő is, valamint apák napja érkezik szintén [zene] a napindítóba Bedő Imre a férfiak klubjának alapítója.
 
-[00:06:30](https://www.youtube.com/watch?v=IGMesVrBqrE&t=390) Ha nem lesz széthúzás, vissza fogunk jönni.
+[00:07:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=435) Napindító [zene] holnap 7: 30 per Hír TV.
 
-[00:06:32](https://www.youtube.com/watch?v=IGMesVrBqrE&t=392) Palável.
+[00:07:20](https://www.youtube.com/watch?v=pgDZeiQetCg&t=440) Laus József [zene] a Dobos és Presser Gábor bent voltak a stúdióban, és mondták, hogy a rock and roller az úgy, ahogy elénekeltem, az tökéletes.
 
-[00:06:32](https://www.youtube.com/watch?v=IGMesVrBqrE&t=392) Minden nap 15:30 per Hír TV.
+[00:07:27](https://www.youtube.com/watch?v=pgDZeiQetCg&t=447) [zene] És mondtam, hogy nekem sokkal érdekesebb lenne, hogyha rekedtebben énekelném.
 
-[00:06:41](https://www.youtube.com/watch?v=IGMesVrBqrE&t=401) Most következő műsorunkat Sikert és nagyot halló nézőink a Teletext 88.
+[00:07:31](https://www.youtube.com/watch?v=pgDZeiQetCg&t=451) A presszer mondta, hogy nem, nem, ezt a négy sávot, ezt meg kell tartanunk.
 
-[00:06:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=407) oldalán feliratozva is láthatják.
+[00:07:34](https://www.youtube.com/watch?v=pgDZeiQetCg&t=454) De azt mondta a Laux József, hál istennek, hogy [zene] ha ennyire szeretné, akkor akkor hadd hadd próbálja meg.
 
-[00:06:50](https://www.youtube.com/watch?v=IGMesVrBqrE&t=410) Ingerküszöb mélyen hallgat a kormánypárti sajtó a szőlő utcai ügy újabb fejleményeiről.
+[00:07:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=463) Ikon budaiettel.
 
-[00:06:54](https://www.youtube.com/watch?v=IGMesVrBqrE&t=414) Pócsi János jövő héten újabb feljelentést tesz.
+[00:07:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=463) Ma 22: 30 per Hírtv.
 
-[00:06:56](https://www.youtube.com/watch?v=IGMesVrBqrE&t=416) Aztán nincs vége a boszorkányüldözésnek.
+[00:07:50](https://www.youtube.com/watch?v=pgDZeiQetCg&t=470) A már megszokott műsorvezető páros, prominens vendégek, fajsúlyos témák.
 
-[00:06:58](https://www.youtube.com/watch?v=IGMesVrBqrE&t=418) A baloldali megmondó ember szerint nem indokolta a gyors megbocsátása.
+[00:07:55](https://www.youtube.com/watch?v=pgDZeiQetCg&t=475) Számíthatnak majd izgalmas interjúkra.
 
-[00:07:02](https://www.youtube.com/watch?v=IGMesVrBqrE&t=422) A jobboldal szerinte vétkes szereplőivel szemben, és küldik a fekete autót.
+[00:07:57](https://www.youtube.com/watch?v=pgDZeiQetCg&t=477) Péntek 18.
 
-[00:07:09](https://www.youtube.com/watch?v=IGMesVrBqrE&t=429) Pottyondi Edina jelentette fel Bede Zsoltot.
+[00:07:57](https://www.youtube.com/watch?v=pgDZeiQetCg&t=477) Péntek 18 óra Hírt TV.
 
-[00:07:11](https://www.youtube.com/watch?v=IGMesVrBqrE&t=431) Témánk mára is van bőven.
+[00:08:04](https://www.youtube.com/watch?v=pgDZeiQetCg&t=484) [zene] Most következő műsorunkat Sikert és nagyot halló nézőink a Teletext 88.
 
-[00:07:13](https://www.youtube.com/watch?v=IGMesVrBqrE&t=433) Vendégeim már a stúdióban.
+[00:08:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=492) oldalán feliratozva is láthatják.
 
-[00:07:13](https://www.youtube.com/watch?v=IGMesVrBqrE&t=433) Azonnal kezdünk.
+[00:08:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=495) Szerdán rendőrök jelentek meg a vadhajtások alapítójának az otthonánál.
 
-[00:07:27](https://www.youtube.com/watch?v=IGMesVrBqrE&t=447) Jó estét kívánok.
+[00:08:20](https://www.youtube.com/watch?v=pgDZeiQetCg&t=500) Hamarosan kiderül, hogy mit kerestek.
 
-[00:07:27](https://www.youtube.com/watch?v=IGMesVrBqrE&t=447) Köszöntöm önöket.
+[00:08:22](https://www.youtube.com/watch?v=pgDZeiQetCg&t=502) Közben feszült hangulatban telt a kormányülés is, miután kedd este kijött az a hangfelvétel, [zene] amely szerint Magyar Péter testvére által vezetett kontroll 4 milliót fizethetett a Zsolti bácsizós interjúért.
 
-[00:07:27](https://www.youtube.com/watch?v=IGMesVrBqrE&t=447) Ez itt a kommentteken a Hírtv én Futó Boglárka vagyok.
+[00:08:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=515) Ezzel párhuzamosan pedig több gazdasági döntés is született.
 
-[00:07:31](https://www.youtube.com/watch?v=IGMesVrBqrE&t=451) A stúdióban pedig vendégeim Dezselenka Dóra újságíró.
+[00:08:40](https://www.youtube.com/watch?v=pgDZeiQetCg&t=520) Például az, hogy a Tiszakormány kivezeti a benzinárstopot.
 
-[00:07:36](https://www.youtube.com/watch?v=IGMesVrBqrE&t=456) Hegyi Gyula volt európai parlamenti képviselő.
+[00:08:42](https://www.youtube.com/watch?v=pgDZeiQetCg&t=522) [zene] Állítólag nem lesz drágább az üzemanyag, de a számok egyelőre mást mutatnak.
 
-[00:07:38](https://www.youtube.com/watch?v=IGMesVrBqrE&t=458) Jó estét kívánok.
+[00:08:45](https://www.youtube.com/watch?v=pgDZeiQetCg&t=525) Na, ezekről a témákról biztosan vitáznak vendégeim, akik már [zene] itt vannak a stúdióban.
 
-[00:07:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=460) Bód Hunor politikai elemző.
+[00:08:52](https://www.youtube.com/watch?v=pgDZeiQetCg&t=532) Vitára készen.
 
-[00:07:41](https://www.youtube.com/watch?v=IGMesVrBqrE&t=461) Jó estét kívánok.
+[00:08:52](https://www.youtube.com/watch?v=pgDZeiQetCg&t=532) Kezdődjön is a komment.
 
-[00:07:42](https://www.youtube.com/watch?v=IGMesVrBqrE&t=462) És Varga Etelzociológus közgazdász.
+[00:09:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=547) Jó estét [zene] kívánok.
 
-[00:07:44](https://www.youtube.com/watch?v=IGMesVrBqrE&t=464) Békei szeretet.
+[00:09:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=547) Ez a komment.
 
-[00:07:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=466) Jó estét kívánok.
+[00:09:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=548) Én Dér Stefi vagyok és köszöntöm vendégeimet a stúdióban.
 
-[00:07:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=466) És ezúton is köszönöm szépen, hogy elfogadtátok a meghívásunkat és itt vagytok ma este velünk.
+[00:09:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=551) Itt van velünk Brenner Koloman, egyetemi docens, [zene] volt országgyűlési képviselő.
 
-[00:07:51](https://www.youtube.com/watch?v=IGMesVrBqrE&t=471) Első témánk pedig nem más mint hogy újabb feljelentés, újabb bizonyítékok.
+[00:09:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=555) Jó estét kívánok.
 
-[00:07:54](https://www.youtube.com/watch?v=IGMesVrBqrE&t=474) Ugye napokkal ezelőtt állt elő Pócs János egy videóval, amiben ugye megszólalt a Szőlő utcai korábbi nevelője, akinek információja volt arról, hogy Magyar Péter testvére által vezetett kontroll, vagyis Magyar Márton 4 millió Ftot fizethetett azért az interjúért Bangó Sándornak, aki ugye a szőlőutcai ügy korona tanúja, amiben hát végül nem nevezte meg ugye Zsolti bácsit, de valóban adott már a választások után ugye egy interjút a kontrollnak.
+[00:09:18](https://www.youtube.com/watch?v=pgDZeiQetCg&t=558) Szeretettel köszöntöm Kuruc Dánielt, a köztér főszerkesztőjét.
 
-[00:08:26](https://www.youtube.com/watch?v=IGMesVrBqrE&t=506) Na hát most újabb bizonyítékok látnak napvilágot.
+[00:09:22](https://www.youtube.com/watch?v=pgDZeiQetCg&t=562) Jó estét [zene] kívánok.
 
-[00:08:28](https://www.youtube.com/watch?v=IGMesVrBqrE&t=508) Napról napra valami fejlemény.
+[00:09:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=563) Most először nálunk bizony.
 
-[00:08:30](https://www.youtube.com/watch?v=IGMesVrBqrE&t=510) Azonban, hogyha a baloldali sajtógánumok felületeire tekintünk a kormánypárti sajtót bújjuk, akkor ezzel kapcsolatban néma csend van egyelőre, és nem nagyon látjuk azt, hogy ezt az ügyet mondjuk címlapon hoznák.
+[00:09:25](https://www.youtube.com/watch?v=pgDZeiQetCg&t=565) Itt van velünk Szanyi Tibor, az Igen, szolidaritás Magyarország mozgalom alapítója.
 
-[00:08:44](https://www.youtube.com/watch?v=IGMesVrBqrE&t=524) Mi lehet ennek az oka?
+[00:09:30](https://www.youtube.com/watch?v=pgDZeiQetCg&t=570) Jó estét kívánok és nagy szeretettel köszöntöm Lipták Tamást, [zene] a magyar jelenújságíróját.
 
-[00:08:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=527) Dóri, egy picit helyre igazítanék, bocsánat, de a 444 igen is foglalkozott vele tegnapi napon, és leírta, hogy a nem létező Zsolti bácsi ügy kapcsán, hiszen ők is egy cikkben foglalkoztak vele, október óta körülbelül 150 cikket írtak ezzel.
+[00:09:36](https://www.youtube.com/watch?v=pgDZeiQetCg&t=576) Köszöntök én is mindenkit, aki nem először, de régi járt [zene] már itt a kommentben.
 
-[00:09:07](https://www.youtube.com/watch?v=IGMesVrBqrE&t=547) Igen, hát amikor ugye kampánytéma volt, amikor ezt politikailag föl kellett használni ezt az egészet, akkor nyilván vitték nagy címlapokon és foglalkoztak ezzel folyamatosan is teletették az egész social médiát, a Redittől, a Tradzenát mindenhol ez ömlött.
+[00:09:39](https://www.youtube.com/watch?v=pgDZeiQetCg&t=579) Köszönöm, hogy eljöttek, eljöttetek és megbeszélhetjük [torokköszörülés] nap legfontosabb eseményeit, és indulhat a vita hamarosan.
 
-[00:09:21](https://www.youtube.com/watch?v=IGMesVrBqrE&t=561) Most, hogy kezdenének, vagy úgy tűnik, hogy kezdenek hát, hogy mondjam, így felvilágosodni pontok a történettel kapcsolatban, hogy hát nem is annyira egyszerű a történet, mint ahogy azt még a kampányban a Tisza párt és a Tisza párt sajtója, most már kormánypárti sajtó előszeretettel hangoztatta.
+[00:09:47](https://www.youtube.com/watch?v=pgDZeiQetCg&t=587) Hát első témánk, hogy házkutatást tartottak Bede Zsoltnál, ugye a felvezetőben is említettem, a vadhajtások blog tulajdonosánál.
 
-[00:09:43](https://www.youtube.com/watch?v=IGMesVrBqrE&t=583) Most már ezeket így nem nagyon szeretik megírni.
+[00:09:57](https://www.youtube.com/watch?v=pgDZeiQetCg&t=597) És ha minden igaz, akkor Zsoltot most élőben kapcsoljuk Zoomon itt a kommentben.
 
-[00:09:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=587) Nyilvánvalóan ez egy kampánycélú téma volt, és szerintem ezebben a leggusztustalanabb.
+[00:10:01](https://www.youtube.com/watch?v=pgDZeiQetCg&t=601) Szervusz Zsolt, nem tudom, hogy hallassz-e engem.
 
-[00:09:54](https://www.youtube.com/watch?v=IGMesVrBqrE&t=594) Nyilvánvalóan, hogyha voltak visszaélések a meg azokat, amiket a bíróságon be is bizonyítottak, és ezeket a történeteknek utána kell járni, és azokat, akik bűnösök, le kell tartóztatni.
+[00:10:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=607) Sziasztok!
 
-[00:10:05](https://www.youtube.com/watch?v=IGMesVrBqrE&t=605) De az, hogy szerintem ebben az egész Zsolti Zsolti bácsi ügyben a legfélelmetesebb az a fajta társadalmi visszhang, hogy jelenleg Magyarországon egy olyan társadalmunk van, amelynek elég volt azt mondani, hogy valakire rámutattam, hogy ő szerintem bűnös, mert Fideszes, és az rossz.
+[00:10:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=607) Köszönöm szépen a megkeresést.
 
-[00:10:26](https://www.youtube.com/watch?v=IGMesVrBqrE&t=626) Semmiféle bizonyítékom nem volt, csak rámutattam.
+[00:10:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=608) Minden tökéletes.
 
-[00:10:29](https://www.youtube.com/watch?v=IGMesVrBqrE&t=629) Ugye tudjuk, hogy kiről van szó, és azóta mást sem hallasz vissza a kommentekben, tiszás kommentekben.
+[00:10:10](https://www.youtube.com/watch?v=pgDZeiQetCg&t=610) Na, akkor hallani hallunk, de látni na már most látunk is.
 
-[00:10:36](https://www.youtube.com/watch?v=IGMesVrBqrE&t=636) Még mielőtt ennyire előre szaladnánk, maradjunk egyelőre a sajtóvíszhangnál.
+[00:10:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=612) Legalábbis én is látlak.
 
-[00:10:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=640) Közben itt láthattuk magunk mellett azt, hogy október óta hány cikket írt a Szőlőutcai botránnyal kapcsolatban a 44, és valóban, ahogy Dória azt említette, az elmúlt napokban egy ilyen cikk született.
+[00:10:14](https://www.youtube.com/watch?v=pgDZeiQetCg&t=614) No hát Zsolt, nehéz napon vagy túl.
 
-[00:10:52](https://www.youtube.com/watch?v=IGMesVrBqrE&t=652) Tele ennek mi lehet az oka?
+[00:10:18](https://www.youtube.com/watch?v=pgDZeiQetCg&t=618) A Facebookról tudom, hogy 5 és fél órát töltöttél ma a rendőrségen Gaudi Nagy Tamással együtt.
 
-[00:10:55](https://www.youtube.com/watch?v=IGMesVrBqrE&t=655) Tehát jelentős a különbség a számok között.
+[00:10:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=623) Kiderült már Zsolt, hogy miért vittek be a rendőrségre?
 
-[00:10:57](https://www.youtube.com/watch?v=IGMesVrBqrE&t=657) Én nagyon szomorú vagyok amiatt, hogy ez az ügy így épült be a magyar közéletbe és a magyar közbeszédbe, és ebben ki kell mondani, ki kell jelenteni, hogy van felelőssége az akkor ellenzéki sajtónak is, és van felelőssége az akkori kormánypártnak is, de hogy egy kicsit azért reagáljak.
+[00:10:28](https://www.youtube.com/watch?v=pgDZeiQetCg&t=628) Egyáltalán, hogy zajlott a kihallgatás, mit akartak?
 
-[00:11:23](https://www.youtube.com/watch?v=IGMesVrBqrE&t=683) Tehát sajnos ez a bemondásra alapuló, elhiszünk minden című lejárató kampány.
+[00:10:34](https://www.youtube.com/watch?v=pgDZeiQetCg&t=634) Igen, Gaudi Nagy Tamással voltunk bent a Teve utcában.
 
-[00:11:28](https://www.youtube.com/watch?v=IGMesVrBqrE&t=688) Ez azt hiszem, hogy egy idős a történelemmel egyfelől, másfelől nem kell annyira visszamennünk.
+[00:10:38](https://www.youtube.com/watch?v=pgDZeiQetCg&t=638) 5 és fél órát tartott a kihallgatásunk.
 
-[00:11:33](https://www.youtube.com/watch?v=IGMesVrBqrE&t=693) 2008-ban Vona Gábor milyen vádokkal nézett szemben az akkori kormánypárt részéről?
+[00:10:40](https://www.youtube.com/watch?v=pgDZeiQetCg&t=640) Hát egy kemény visszatámadás lett a vége, mert ez a tegnapi őrület, ez ez nagyon sok jogsértésbe torollott.
 
-[00:11:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=700) Egyetlen egy közvetett tanúval, bizonyos Terry Blackkel, aki azóta már meghalt szegény.
+[00:10:45](https://www.youtube.com/watch?v=pgDZeiQetCg&t=645) Itt most följegyzeteltem a Tamásnak a a szavait, ezeket fogom idézni, puskázni fogok.
 
-[00:11:44](https://www.youtube.com/watch?v=IGMesVrBqrE&t=704) Mindenesetre térjünk vissza a témához.
+[00:10:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=653) Ez egy személyes adattal való visszaélés, amit Potyondi nevű bal liberális agitátor indított meg ellenem.
 
-[00:11:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=707) Mert hogy mert hogy az is bizonyára egy fontos ügy, hogy ott 2008 környékén mi történt.
+[00:11:03](https://www.youtube.com/watch?v=pgDZeiQetCg&t=663) Állítólagosan megjelent egy cikk a vadhajtásokon, amiben a az ő gyerekének az egészségügyi státuszáról státuszáról volt szó, amit ez a ez a cikk nem érhető el.
 
-[00:11:51](https://www.youtube.com/watch?v=IGMesVrBqrE&t=711) De de ugye abban azt gondolom mindannyian egyetértünk, hogy a pedofil vád, amellyel ugye most itt megtámadták a KDNP képviselőjét, valamint kollektíven a teljes jobboldalt, az az egyik legdurvább vád, amivel valakit be lehet sározni.
+[00:11:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=675) Ez erről mi nem tudunk.
 
-[00:12:05](https://www.youtube.com/watch?v=IGMesVrBqrE&t=725) Tehát maradjunk a jelenlegi ügynél, és akkor arra kérlek, hogy erre reagálj.
+[00:11:20](https://www.youtube.com/watch?v=pgDZeiQetCg&t=680) Egy ilyen feljelentés érkezett.
 
-[00:12:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=732) Okés?
+[00:11:20](https://www.youtube.com/watch?v=pgDZeiQetCg&t=680) Emiatt rohantak ki hozzám nyolcan.
 
-[00:12:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=732) És itt vádaskodás zajlik.
+[00:11:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=683) Édesapámhoz meg egy hete 10en.
 
-[00:12:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=732) Itt elhangzott a bizonyítékszó az ügyben, mind a felvezetőben, mind az előttem szóló szájából nincsenek bizonyítékok sem egyik oldalról, sem másik oldalról.
+[00:11:28](https://www.youtube.com/watch?v=pgDZeiQetCg&t=688) Ezért volt házkutatás.
 
-[00:12:27](https://www.youtube.com/watch?v=IGMesVrBqrE&t=747) Feltételezések vannak, sejtetések vannak, igazolatlan állítások vannak bedobva a köztudatba sajnos mindkét oldalról.
+[00:11:31](https://www.youtube.com/watch?v=pgDZeiQetCg&t=691) Mint említettem édesapámhoz egy hete 10 rendőr érkezett ki.
 
-[00:12:35](https://www.youtube.com/watch?v=IGMesVrBqrE&t=755) Én nagyon örülnék neki, hogyha ebben az ügyben adott esetben egy vitaműsor keretében egyszer a közeljövőben mondjuk olyan emberek, akik kicsit nagyobb rálátással bírnak erre a helyzetre, például Füsi Angéla újságíró, akit egyébként majd biztos, hogy ki fogunk vesézni, vagy pedig Juhász Péter aktivista szavait figyelhetnénk, mert ők mondjuk azok az emberek, akiknek van valamiféle közvetlen rálátásuk is az ügyre még itt.
+[00:11:34](https://www.youtube.com/watch?v=pgDZeiQetCg&t=694) Ott ők nem hagytak el érhetőséget, tehát én meg se tudtam volna kérdezni, hogy mi történt, vagy milyen dologban keresnek.
 
-[00:13:05](https://www.youtube.com/watch?v=IGMesVrBqrE&t=785) Szerintem bocsánat.
+[00:11:45](https://www.youtube.com/watch?v=pgDZeiQetCg&t=705) Ezért apám megadta a számomat nekik.
 
-[00:13:05](https://www.youtube.com/watch?v=IGMesVrBqrE&t=785) A Hrtvének nincsen 120 milliója, hogy egy műsorra fizessen, mondjuk Juhász Péternek, hogy elmondja a véleményét.
+[00:11:45](https://www.youtube.com/watch?v=pgDZeiQetCg&t=705) Ők tudtak volna hívni.
 
-[00:13:11](https://www.youtube.com/watch?v=IGMesVrBqrE&t=791) De most gondod annyit kéne ezt Füsi Angéla véleményét, ha már szóba került Füsi Angéla, az ő véleményét meg tudjuk mutatni és még pénzbe sem kerül.
+[00:11:49](https://www.youtube.com/watch?v=pgDZeiQetCg&t=709) ehelyett halaszthatatlan nyomozati cselekményre hivatkoztak tegnap.
 
-[00:13:20](https://www.youtube.com/watch?v=IGMesVrBqrE&t=800) Úgyhogy hallgassuk meg, hogy mit mondott ő a magyar jelennek adott interjújában.
+[00:11:54](https://www.youtube.com/watch?v=pgDZeiQetCg&t=714) Egy hét telt el, de már halaszthatatlan volt a nyomozati cselekmény.
 
-[00:13:25](https://www.youtube.com/watch?v=IGMesVrBqrE&t=805) Rollin interjú kapcsán két kérdés ki kívánkozik belőlem.
+[00:12:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=720) Egy hét telt el.
 
-[00:13:27](https://www.youtube.com/watch?v=IGMesVrBqrE&t=807) Az egyik az, hogy tehát akkor, hogyha jól értettem a szavaidat, neked tudomásod van arról, vagy legalábbis sejted, hogy a kontroll azért adott pénzt Sanyinak, hogy nyilatkozzon ebben az ügyben.
+[00:12:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=720) Tegnap a lakásomon érkezett nyolc nyomozó.
 
-[00:13:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=820) Nézd, hogy ezt konkrétan szó szerint mit mondtak neki, hogy ezt azért kapod, mert az interjút adod, vagy segítségként kapod, azt nem tudom, de ígértek neki pénzt, sok pénzt.
+[00:12:05](https://www.youtube.com/watch?v=pgDZeiQetCg&t=725) Pont én a kiskutyámmal voltam meg a kisfiammal.
 
-[00:13:50](https://www.youtube.com/watch?v=IGMesVrBqrE&t=830) Aztán nem annyit kapott, hanem sokkal kevesebbet, de sajnos amit kapott, az is túl sok volt ahhoz, hogy ne kárt okozzanak vele.
+[00:12:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=727) És a 16 éves fiamnak lett volna egy focis kiválasztós edzős eseménye, ami eléggé rangos külföldi edzők ért érkeztek kiszazánkban.
 
-[00:13:57](https://www.youtube.com/watch?v=IGMesVrBqrE&t=837) Én ezt itt ebbe a székbe ülve kierem jelenteni, hogy kárt okoztak.
+[00:12:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=743) Ők ő ott jelent volna meg, tette volna a tiszteletét.
 
-[00:14:01](https://www.youtube.com/watch?v=IGMesVrBqrE&t=841) Súlyos károkat okoztak.
+[00:12:25](https://www.youtube.com/watch?v=pgDZeiQetCg&t=745) Igen ám, csak egyszer értünk a ház kapujába a nyolc előbb említett nyomozóval.
 
-[00:14:08](https://www.youtube.com/watch?v=IGMesVrBqrE&t=848) Úgy fogalmaztál, hogy nincsenek bizonyítékok.
+[00:12:33](https://www.youtube.com/watch?v=pgDZeiQetCg&t=753) Civil ruhás nyomozók mondták, hogy szürük.
 
-[00:14:11](https://www.youtube.com/watch?v=IGMesVrBqrE&t=851) ezt a most meghallgatott videórészletet, valamint Füsi Angéla nyilatkozás, Füsi Angéla is azt mondja, hogy nem tud konkrétumot mondani.
+[00:12:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=755) Zsoltika mindenben együttműködő volt.
 
-[00:14:20](https://www.youtube.com/watch?v=IGMesVrBqrE&t=860) Tehát ezt így azért jegyezzük föl, hogy nem hangzik el az ő szájából sem konkrétum.
+[00:12:39](https://www.youtube.com/watch?v=pgDZeiQetCg&t=759) Ehelyett azt kaptam a jegyzőkönyvbe, hogy én nem tettem eleget semminek.
 
-[00:14:26](https://www.youtube.com/watch?v=IGMesVrBqrE&t=866) Ő azt mondta, hogy kapott pénzt.
+[00:12:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=763) pedig ott már amikor fölösen mértem a lakásba, már a fahoz nyomtak a zsebeimet kutatták át.
 
-[00:14:28](https://www.youtube.com/watch?v=IGMesVrBqrE&t=868) Ezt konkrétan kijelentette.
+[00:12:47](https://www.youtube.com/watch?v=pgDZeiQetCg&t=767) Nem engedték hívni Gaudi Nagy Tamást ügyvédemet, holott őt már előző este felhatalmaztam a védelmemre, és ő be is jelentkezett a rendőrségen, hogy elvállalta a védelmemet, és kérdezte a kihallgatásomnak az okát, mert időközben engem berendeltek a Teve utcába, tehát nem kértek semmit, hogy adjak elő.
 
-[00:14:29](https://www.youtube.com/watch?v=IGMesVrBqrE&t=869) Ő is fölételez és ő is sejtett.
+[00:13:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=788) Nem engedték hívni az ügyvédemet.
 
-[00:14:32](https://www.youtube.com/watch?v=IGMesVrBqrE&t=872) Neki mondta, hogy kapott pénzt.
+[00:13:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=791) Most én ezt erre azt szoktam mondani, hogy ilyen 70 évet ugrottunk vissza az időbe.
 
-[00:14:34](https://www.youtube.com/watch?v=IGMesVrBqrE&t=874) De milyen nagyvonalak vagytok.
+[00:13:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=795) Ez már a legsötétebb kommunista időket idézi.
 
-[00:14:34](https://www.youtube.com/watch?v=IGMesVrBqrE&t=874) Ne haragudjatok meg most ezzel az egésszel, hogy hát ezek csak feltételezések, de amikor a kampány vagy vásztes előtt voltunk, akkor véletően mind a ketten erősebbeket mondtatok volna a Szőlő utcából kiszivárgott vagy állít vagy ezekről az állításokról, mint például Juhász Péter a műsorában jelek szerint teljesen alap nélkül kijelentett jobboldali politikusokra.
+[00:13:19](https://www.youtube.com/watch?v=pgDZeiQetCg&t=799) És akkor itt még Dió Héban itt elmondanám, hogy 13 elektronaikai eszközt foglaltak le.
 
-[00:14:56](https://www.youtube.com/watch?v=IGMesVrBqrE&t=896) Itt teljesen egyértelmű ez a történet.
+[00:13:26](https://www.youtube.com/watch?v=pgDZeiQetCg&t=806) Ebben majdnem elveszettem egy powerbankot is.
 
-[00:14:58](https://www.youtube.com/watch?v=IGMesVrBqrE&t=898) Itt az volt a cél, bármilyen áron, bármilyen áron kellett egy olyan ügyet generálni, ami hajazott a Fidesz kétségtelenül, aki lesz sarkának minősíthető kegyelmi ügyre.
+[00:13:29](https://www.youtube.com/watch?v=pgDZeiQetCg&t=809) Azt is adattárónak nézték a rendőrurak.
 
-[00:15:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=912) Erről szólt a történet.
+[00:13:36](https://www.youtube.com/watch?v=pgDZeiQetCg&t=816) Azt mondtam, hogy azon nincsen kép meg videó, azt hagyd tartsam már meg.
 
-[00:15:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=912) Ez bármennyi pénzt megért, bármilyen áldozatot megért, azt is azt is megérte ezek a jelek szerint.
+[00:13:40](https://www.youtube.com/watch?v=pgDZeiQetCg&t=820) Ehelyett a 16 éves kisfiamnak a telefonját és a laptopját is magukkal vitték, holott kértem tőlük, hogy neki aztán semmi köze nincs a vadhajtások nevű portához, azt hagy tarthassuk itt meg magunknál.
 
-[00:15:18](https://www.youtube.com/watch?v=IGMesVrBqrE&t=918) Tehát ha bebizonyosodik ez, tehát feltételezésekbe beszélünk, mert igen, valóban folyak le a a vizsgálatok, és a mondja ki a bíróság azt, hogyha ha valaki bűnt követett el, vagy bűncselekményt követett el ebbe az ügybe, de azért itt a jelek szerint felhasználtak egy szerencsétlen gyereket arra arra, hogy a jobb oldalnak egy óriási nagy kárt okozzanak, és egy politikust a végtelenségig lejárhassanak.
+[00:13:59](https://www.youtube.com/watch?v=pgDZeiQetCg&t=839) Nem engedték meg, mindent a hónaljuk alá csaptak.
 
-[00:15:45](https://www.youtube.com/watch?v=IGMesVrBqrE&t=945) És teljesen mindegy, hogy itt most milyen nagyvonalú mondatokat mondtok, mert egyébként ahogy te is mondtad, hogy Tiktokon a az összes többi social média platformon teleszórták már a pedofidesszel meg a különböző koncerteken, teleszórták a pedofidesszel már a kampányb és ezek ezek ezeket ezeket tényként közölték és ezek szavazzatokra voltak váltva.
+[00:14:04](https://www.youtube.com/watch?v=pgDZeiQetCg&t=844) Nekem két telefonom, egy laptopom, nem használt több éves telefonokat, mindent összegyűjtöttek, összesen 13 dolgot vittek el magukkal.
 
-[00:16:07](https://www.youtube.com/watch?v=IGMesVrBqrE&t=967) És ez az, ami szerintem nagyon nagyon elgondolkodtató, hogy k hogy lehetséges volt az, hogy nem egy a valóság elferdítésére épített lejárató kampányról volt szó, mint amiket te emlegettél, vagy túlzásokról, hanem arról volt szó, hogy egy teljesen kitalált történetet akartak erőszakosan keresztülverni a közéleten, és ezt eljuttatni minél több emberhez, hogy végtelenség lejárhassák a jobb oldal.
+[00:14:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=855) Ami a leggyalázatosabb volt, és ez egy megfélelmítés fellépés volt.
 
-[00:16:37](https://www.youtube.com/watch?v=IGMesVrBqrE&t=997) Bocsánat, bocsánat.
+[00:14:19](https://www.youtube.com/watch?v=pgDZeiQetCg&t=859) Én szerintem ez teljesen jól körvonalozódott.
 
-[00:16:37](https://www.youtube.com/watch?v=IGMesVrBqrE&t=997) Szabad, bocsás meg, szabad nekem is szabad szabad nekem is beszélni.
+[00:14:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=863) Jogellenesen fogva tartották az én 16 éves fiask iskori gyermekemet, mivel előbb említettem, indult volna erre a foci kiválasztóra.
 
-[00:16:42](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1002) Úgy tényleg csak azt szeretném, először is azt szeretném mondani, hogy valószínűleg egyetértünk abban, hogy minden demokráciában szükség van egy erős ellenzékre.
+[00:14:31](https://www.youtube.com/watch?v=pgDZeiQetCg&t=871) Én némi kézpénzzel útjára indőtt mondom: "Kisfiam, akkor indulj el, apukád majd jön érted."
 
-[00:16:50](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1010) Szerintem én az ellenzék a Fidesz helyébe, különösen a Brüsszeli sajtótájékozatón már nem ütném ezt a vasat, mert inkább használni biztos nem használ a Fidesznek.
+[00:14:37](https://www.youtube.com/watch?v=pgDZeiQetCg&t=877) Egy ilyen szteroidos rendőr szekrény beállt az ajtóba, és mondta a gyereknek, hogy nem viheti a telefonját sehova, nem mehet sehova.
 
-[00:17:01](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1021) Nem állt szerintem a Tiszának se.
+[00:14:50](https://www.youtube.com/watch?v=pgDZeiQetCg&t=890) Igen, ám, ezzel fölkaptam én is a fejemet.
 
-[00:17:04](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1024) A Tiszának meg nem állt.
+[00:14:51](https://www.youtube.com/watch?v=pgDZeiQetCg&t=891) Mondtam, most miért csesztek ki a gyerekkel?
 
-[00:17:06](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1026) Ennek a gyerekeknek állt, és még valamit mindenom, hogy befejezd a gondolatot, és tőled szeretnék kérdezni, de pont azzal kapcsolatban, amit most említesz, azt mondtad, hogy szerinted ez nem árt a Tiszának.
+[00:14:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=893) Hadd menj a dolgára.
 
-[00:17:16](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1036) Hogyha kiderül az, hogy Magyar Péternek érintettsége van ebben, és Magyar Márton mondjuk a Tiszapárt érdekében fizette- le Pangó Sándort, akkor ez nem árt a Tiszának.
+[00:14:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=893) Most miért kell ez a abszolút filmszínház, ahogy szokta említeni a miniszterelnökünk?
 
-[00:17:28](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1048) Szerinted ez nem kell, hogy következmények?
+[00:15:01](https://www.youtube.com/watch?v=pgDZeiQetCg&t=901) És emiatt Gaudi Nagy Tamás feljelentést tett jogellenes fogatás minősített esete miatt, ami aljas indokból történt, és emellé hivatali visszaélés miatt is, mert a védőmet én nem tudtam hívni.
 
-[00:17:29](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1049) Ezt nem lehet bebizonyítani, hogy egyrészt, másrészt valószínűleg nem is így történt.
+[00:15:18](https://www.youtube.com/watch?v=pgDZeiQetCg&t=918) Tehát akkor még pár sorban elmondanám, összefoglalnám.
 
-[00:17:32](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1052) Nem tudom.
+[00:15:19](https://www.youtube.com/watch?v=pgDZeiQetCg&t=919) Nem elengedték, hogy a kiskorú fiam az őérte aggódó édesanyjának fölveye a telefont.
 
-[00:17:34](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1054) A két ember volt a magyar közéletben, akik egy bizonyos keresztény demokrata politikus, nem Fideszrest egyébként, hanem keresztény demokrata politikust próbáltak összehozni.
+[00:15:29](https://www.youtube.com/watch?v=pgDZeiQetCg&t=929) Mondtam nekik, hogy anyja hívja, hagyd vegye föl.
 
-[00:17:43](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1063) Egyik a Kan Csaba volt, aki másnap elvesztette az állását egy amúgy ellenzéki portálnál.
+[00:15:31](https://www.youtube.com/watch?v=pgDZeiQetCg&t=931) Erre azt a választ kaptam.
 
-[00:17:51](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1071) A másik volt egy DK-s képviselő, tudjuk, hol a DK 1%-on végzett.
+[00:15:33](https://www.youtube.com/watch?v=pgDZeiQetCg&t=933) Szörnyű.
 
-[00:17:56](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1076) Tehát azok, akik leginkább ütötték ezt a vasat, hál istennek nem tudtak ebből karriert csinálni, nem tudtak tovább menni.
+[00:15:33](https://www.youtube.com/watch?v=pgDZeiQetCg&t=933) Ez borzasztó lehetett.
 
-[00:18:02](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1082) Az, hogy a Szőlőutcát ezek lebontják, de és azért az emberekben mindig benne fog maradni az, hogy 14 évig vagy 16 évig kik felügyelték a szőlőutcát.
+[00:15:33](https://www.youtube.com/watch?v=pgDZeiQetCg&t=933) Zsolt, most kétszer próbáltam megkérdezni, de szerintem nem hallottad a kérdésemet.
 
-[00:18:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1092) Mindenképpen nem a Tiszapált.
+[00:15:39](https://www.youtube.com/watch?v=pgDZeiQetCg&t=939) Most megpróbálom harmadszor is.
 
-[00:18:15](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1095) Abban gondolom egyetértünk.
+[00:15:39](https://www.youtube.com/watch?v=pgDZeiQetCg&t=939) Hogy mit gondolsz, mi lehet emögött az ügy mögött?
 
-[00:18:18](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1098) A 2010 előtt nem voltak ilyen ügyek, vagy hát, hogy 2010 voltak, vagy nem, azon már történelembe vissza lehetne menni.
+[00:15:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=943) Valójában megfélemítés.
 
-[00:18:25](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1105) nyilván már nem érdemes, akik akkor kisgyerekek voltak, most elő tudnának állni, és el tudnák mondani egyébként a nyilvánosság előtt.
+[00:15:46](https://www.youtube.com/watch?v=pgDZeiQetCg&t=946) Mindenkit el akarnak tiporni médiában, ahogy látjuk mindent a Mandinert át akarja venni.
 
-[00:18:32](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1112) Az a baj, hogy ez nem történt meg.
+[00:15:50](https://www.youtube.com/watch?v=pgDZeiQetCg&t=950) Szeretett miniszterelnökünk.
 
-[00:18:34](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1114) Tehát ha lenne egy vizsgálóbizottság, remélem lesz, akkor meg fogják kérdezni azokat, akik már felnőttek, és esetleg nem szólnak rá, hogy ilyen pénzeket nem kapnak vagy kapnak, hanem normális egzisztenciába rendelkezők.
+[00:15:52](https://www.youtube.com/watch?v=pgDZeiQetCg&t=952) egy ilyen totális megfélemlítésről vol van szó itt szerintem.
 
-[00:18:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1126) Bár persze föl lehet tenni azt a kérdést, és akkor már nagyon messze megyek, elnézést.
+[00:16:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=960) Zsolt sok erőt és kitartást kívánunk neked.
 
-[00:18:50](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1130) De hogy ebből a javítóintézetből kijavít kijavítva tekeek-e ki a gyerekek vagy felnőtté váltak, ez egy külön kérdés lenne.
+[00:16:03](https://www.youtube.com/watch?v=pgDZeiQetCg&t=963) Nagyon szépen köszönjük, hogy rendelkezésre [torokköszörülés] álltál és mi folytatjuk itt a stúdióban ezt a vitát a a vendégeimmel.
 
-[00:19:00](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1140) Nem egyáltalán egyáltalán nem mész messzire, amikor erről beszélsz, mert valójában szerintem itt erről van szó, és akkor csak még két dolog, és utána tényleg ehhez az ügyhöz assasszem befejezhetem.
+[00:16:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=971) Remélem, hogy hamarosan ismét hallunk felőled.
 
-[00:19:09](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1149) Tehát azért azért az egyik az az, hogyha a 16 évig hatalomban lévő korlátlan pénzügyi és politikai eszközökkel és lejárató gépezettel rendelkező kormánypárt, és annak a sajtója Hadházi Ákosokat, Vona Gáborokat, Juhászpéterket mocskolt, és minden egyes pert, minden egyes helyreigazítási pert elveszített velük szemben.
+[00:16:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=972) Szép estét.
 
-[00:19:35](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1175) A szerintem az serem van a Gábor van a Gábor és a homoszexualitás arra szeretnélek megkérni, ha már itt a médiagépezet, azt hiszem ezt a jelzőt használtad.
+[00:16:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=972) Szia neked.
 
-[00:19:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1186) A baloldali médiagépezetnek milyen felelőssége van abban, hogy Semyen Zsoltot, a családját és a jobboldali politikai tábort vagy szimpatizánsokat ezzel a ezzel rágalmazták, és így el legjobb tudomásom szerint Semin Zsolt ezt az ügyet önmagára kapta a parlamentben egyébként teljesen érthetetlen módon.
+[00:16:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=972) No hát akkor vendégeimtől kérdezem, hogy ti hogyan értékelitek az elhangzottakat és a ma látottakat, történteket.
 
-[00:20:05](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1205) Hát miután rámutat teljesen érthetetlen módon maradjunk annyiban, hogy maximum Arató Gergely mutatott rá, és tudomásom szerint nem az úgynevezett egyébként a közösségi médiát, vagy láttál már kommenteket, vagy láttál már a Tiktokon nagyon népszerű matricákat, ahol Zsolti bácsit ott van, hogy ki a Zsolti bácsi és ott van semmilyen Zsolt, tehát hogy itt itt ez a legnagyobb probléma nem sok nagyon sok probléma van ezzel az ügyel.
+[00:16:21](https://www.youtube.com/watch?v=pgDZeiQetCg&t=981) Hát azért ez egy nagyon furcsa dolog.
 
-[00:20:31](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1231) egyik az, hogy egy ilyen ügyet politikai haszonszerzésre akar valaki felhasználni.
+[00:16:24](https://www.youtube.com/watch?v=pgDZeiQetCg&t=984) Valakit bevisznek a rendőrségre komolyan amiatt, mert nem tudom, valahol valamikor firtatta az interneten valakinek a gyerekének az egészségügyi státuszát.
 
-[00:20:35](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1235) Egy ilyen ügy, hogyha ha már már az egy nagy szó, hogyha egy ilyen helyzetben, egy ilyen javító javító intézetben sikerül azt megfejlődni, vagy vagy fellépni, vagy vagy elérni, hogy az ott lévő bán bántalmazott gyerekek egyáltalán megszólaljanak és elkezdjenek beszélni arról, hogy őt bántalmazzá.
+[00:16:36](https://www.youtube.com/watch?v=pgDZeiQetCg&t=996) Nem [torokköszörülés] tudom, ki ezt hogyan értékelitek.
 
-[00:20:57](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1257) Ugye a bántalmazásnak pont az a lényege, hogy a gyerek nem is fogja fel, hogy őt bántalmazzák, vagy azt hiszi, hogy valami tehát ennek iszonyatos pszichológiája van.
+[00:16:37](https://www.youtube.com/watch?v=pgDZeiQetCg&t=997) Koloman a rendőri intézkedéssel kapcsolatban nekem is vannak kétségeim.
 
-[00:21:06](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1266) Tehát már az egy egy, hogy mondjam, dicséretes dolog, hogy eljutottunk odáig Magyarországon, hogy egy ilyen ügyáltalán elindulhatott.
+[00:16:41](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1001) ö hogyha ez az egyedüli olyan pont volt, ami miatt kihallgatták Bede urat, akiről ezek szerint én most megtudtam ebben a műsorban élő adásban, hogy ő a vadhajtásoknak a főszerkesztője és tulajdonosa, merthogy én pereskedtem Bedeurral rágalmazásért, és engem ugyan kihallgatott a rendőrség, de Bedeurat nem, és az lett a vége, hogy lezárták a nyomozást, mert nem tudják, hogy ki a vadhajtásoknak a tulajdonos főszerkesztője.
 
-[00:21:16](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1276) Egyébként ebben tény, hogy füs Angéliáéknak nagyon nagy szerepük van, mert ugye ő volt az, aki segítőként is, meg újságíróként is segített ennek az ügynek az elindításában.
+[00:17:10](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1030) Örülök, hogy ezt most itt élő műsorban tisztáztuk.
 
-[00:21:24](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1284) De az, hogy az, hogy a magyar politikai közélet nem volt hajlandó elfogadni azt, hogy ennek az ügynek úgy kell végigmennie, hogy nem a nyilvánosság előtt, hanem induljon el a nyomozás, nyomozzanak, tartóztassák le a bűnösöket, bizonyítsák be a bűnösökről, hogy bűnösök, és adjanak valamiféle elégtételt az áldozatoknak.
+[00:17:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1032) És egyébként az a Bede Zsolt, aki műpén szógálva ment a főpolgármesterhez, engem pedig egy tüntetésen csak bránerezett.
 
-[00:21:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1306) De ez nem úgy néz ki, mint a CSI sorozatokban, hogy akkor két nap alatt megvan, mert a szuper laboratóriumokban mindent ki találnak, és akkor azonnal megvan a tettás, hanem ezek idők, és az, hogy ez a nyilvánosság előtt kellett zajlania a nyomozásnak és ebből a baloldali sajtó óriási hisztít csapott, hogyha még nem tudott minden egyes információt, amit egyébként még a nyomozók sem feltétlenül tudtak, mert zajlott a nyomozás, és az, hogy erre pártok ráültek, pártpolitikai propagandát csináltak és elterjesztették az országban egy nagyon nagy részében azt, hogy márpedig aki Fideszes, az az erőszaktevőket támogatja.
+[00:17:20](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1040) Szerintem sajnálom a gyermekét, sajnálom minden rokonságát, aki ilyen helyzetbe került, de őt magát nem tudom sajnálni, és szerintem nagyon sok van a rovásán.
 
-[00:22:27](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1347) És ez elterjedt igen, mert nem egy ilyen kommentet kapok én is.
+[00:17:31](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1051) Nyilván, hogyha elvonatkoztatunk egyébként az ő személyétől, vagy a személyes ügyetektől, akkor azért magát az ügyet, a szituációt azt azt lehet értékelni, [torokköszörülés] nem Dani?
 
-[00:22:30](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1350) És egy nem csak én, hanem azok az emberek, akik megosztják az én tartalmamat esetleg probléma.
+[00:17:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1063) Hát ez egyszerűen ez egy politikai meg ez egy jogi kérdés.
 
-[00:22:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1360) A legnagyobb probléma a magyar gyermekvédelemmel van, ahol 16 éven keresztül a példátlan felhatalmazásnak a birtokában nem lehetett.
+[00:17:48](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1068) Tehát amit a Koloman feszeget, hát nekem is most nemrég volt ugye egy csörtéma a Bedezsolt, amikor a szimpátia tüntetést szerveztük, akkor hát megkértem, hogy ne üvöltözzön a egy másik újságíróval hát akit ő nem kedvel, de de a rendőrségnek nem így kell eljárni.
 
-[00:22:51](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1371) 30 év sikerül kiszülni minden ilenes és annyit azért mondjuk ki hogy a bűnöst azt mondod hát a bűnöst letartóztatták bírósági tárgyalásik ellenek az előző kormány alatt tartóztatták le és az új kormány is fönt az új ügyészség is föntartja tehát nem ne mond azt hogy nem történt itt semm az itt letartóztatnak egy szőlőut utcai igazgatót azt nem lehet sunyiba csinálni az nyilvánosan kell hogy történ de ahhoz hogy hogy elinduljon egy nyomozás ahhoz először valakinek az áldozatnak meg kell szólalni márpedig nem egy olyan történetet hallunk, hogy az áldozatok nem tudnak vagy nem akarnak megszólalni, mert ez egy isont a gyermekvédelem kérdése bizonyára egy nagyon-nagyon fontos kérdés.
+[00:18:04](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1084) Egyetértel.
 
-[00:23:29](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1409) Láttunk ezzel kapcsolatban kritikákat minden oldalról megfogalmazódni, viszont most már egy új kormány van hatalmon, a Tiszakormány, tehát vélhetően majd ezeket az ügyeket felgöngyölítik a hatóságok, a kormány pedig benyújtja ezzel kapcsolatban a törvénytervezeteket.
+[00:18:04](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1084) Tehát az amit ő most elmondott meg azért szerintem mindan mindannyian ismerjük a Gaudi Nagy Tamást, tehát hogy ő tudjuk, hogy amit mond az úgy igaz.
 
-[00:23:43](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1423) Igaz, ez még gyermekvédelem témában eddig nem történt meg.
+[00:18:10](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1090) Ö már Beda Zsoltnak ezt elhisszük, akkor ez egy eléggé példátlan, kifejezetten szabályellenes eljárás volt a rendőrség részéről, ami nyilvánvalóan egy politikai támadás volt.
 
-[00:23:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1427) viszont arra kérnélek benneteket, hogy maradjunk a jelenlegi ügynél, és ha már itt a gyermekvédelmet említettétek, akkor ez az ügy, amit most látunk, a szőlőutcai botrány, álhírbotrány, ez egyébként a gyermekvédelem ügyét szolgálja?
+[00:18:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1103) Úgy tűnik, hogy a leggyengébb lánczemmel kezdi ezt a hatalom.
 
-[00:24:02](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1442) És visszatérve eggyel korábbi kérdésemre, Hunor, szerinted van-e felelőssége?
+[00:18:28](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1108) Nem teljesen értem, hogy mire fel és miért.
 
-[00:24:06](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1446) Ki lehet-e azt jelenteni, hogy felelőssége van a baloldali médiumoknak ebben az ügyben?
+[00:18:31](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1111) Miközben amit most ő így pedzegetett a potyondi dinával kapcsolatos, én nem olvasok vadhajtásokat, de el tudom képzelni, hogy ez milyen stílusú lehetett.
 
-[00:24:11](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1451) Hát ahogy az előbb is mondtam, itt itt szó se volt arról.
+[00:18:37](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1117) Tehát azt el tudom képzelni, hogy az egy hát nem tudom minek nevezzem, de mondjuk gyűlöletbeszéd felfedezhető volt abban a posztban, de ezt akkor sem 10 rendőrel kell a gyermek előtt lebonyolítani.
 
-[00:24:13](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1453) Értem.
+[00:18:51](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1131) Tehát egy Európai Uniós demokráciában ez nem így néz ki.
 
-[00:24:13](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1453) A, és igazatok van abban, hogy mindig lehetne jobb a gyermekvédelem.
+[00:18:54](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1134) Túlkapás vagy jogszerű nyomozás zajlik?
 
-[00:24:17](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1457) Egyébként tett az előző kormánylépéseket, tehát pont a kegyelmi úgy után kivizsgált, megvizsgálták ugye az összes igazgatót, a tisztségviselőt.
+[00:18:57](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1137) Szanyi Tibor?
 
-[00:24:26](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1466) Átvilágítás volt mindannyiukkal szemben.
+[00:19:01](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1141) Remélem nem ár nem árulok el titkot, hogy én konkrétan undorodom Bedes Zsolt munkásságától és konkrétan undorodom a rendőrségnek az ilyen mutatványaitól.
 
-[00:24:30](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1470) Tehát t teh lépéseket, de itt érte értsétek meg, vagy nyilván értitek, hogy itt szó se volt a gyerekek jogainak védelméről.
+[00:19:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1151) Undorodom akkor amikor ezt őrsi Gergelyel csinálják a kisgyerek jelenlétében, aki sokkot kap.
 
-[00:24:37](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1477) Tehát itt nem arról szólt a történet, hogy ilyen, hogy a sanyikák és hasonló személyeknek az életét megjavítsák.
+[00:19:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1155) És úgyodom azt, amikor politikai ügyeket rendőri erővel ad politika az közügy és a közügy az nem rendőrségi ügy a szónak abban az értelmében, hogy ezt meg kell vitatni, igaza vagy nincs igaza.
 
-[00:24:44](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1484) Itt arról szólt a történet, hogy politikai hasznót hajtsanak egy teljesen kitalált történetből.
+[00:19:32](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1172) Az nyilvánvaló szélsőségesek szégyeljék magukat.
 
-[00:24:50](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1490) És azt mondod, hogy hogy ugye, hogy e nem azt hiszások nem azt nem arról beszéltem.
+[00:19:34](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1174) Tehát ezzel így teljesen most nem akarok fölmondani itt a erkölcsi leckéket, de lényeg az, hogy megengedhetetlenek tartom, hogy a rendőrség így megzáljon embereket véleményük miatt, még akkor is, hogyha én attól mondom, undorodom, de ennek ellenére ennél már csak a rendőri intézkedéstől undorodom jobban.
 
-[00:24:55](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1495) A Zsolti bácsi egy kiszalá történet, ne forgasd ki a szavaimat.
+[00:19:55](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1195) Nem lehet kitenni, nem tudom hány éves a gyereke, de akárhány éves, egy szülő gyerekviszony, hogy földúrják, széttúrják a lakást nyolcan rángassanak privát dolgokat fiókokból ki be már bocsánat.
 
-[00:24:58](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1498) Arról beszélek én, hogy próbálod úgy elhatárolni, minthogyha a Tiszának el semmi köze nem lett volna.
+[00:20:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1207) Hát kultúrhelyeken ezt úgy intézik, [torokköszörülés] Bedor volna kedves a számítógépével és a telefonjával együtt befáradni a rendőrségre.
 
-[00:25:05](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1505) Az összes médium, baloldali médium reggeltől estig ezt szajkózta, úgy minden alap nélkül ezek szerint.
+[00:20:16](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1216) Amennyiben nem hozza magával, akkor természetesen megkeressük.
 
-[00:25:10](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1510) És nem csak ők, hanem a Tiszához közelálló influencerek reggeltől estig meg nézd meg, hogy hány hány influencer fel lehet, hogy érhetnek akkor ennek a botránynak a szálai egészen a Tiszapártig.
+[00:20:19](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1219) Tehát lehet ilyen fenyegetést adni a dologra, de az, hogy de nem is tudom, hogy le le se tartóztatták, hogy ez gyakorlatilag valamilyen ok bevitték.
 
-[00:25:21](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1521) Na, erre a kérdésre is keressük a választ, de már csak a reklám után, ugyanis most el kell mennünk egy rövid szünetre.
+[00:20:28](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1228) Na most ez milyen eljárás meg, hogy meg se mondják, hogy miért megölt valakit.
 
-[00:25:27](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1527) Maradjanak velünk.
+[00:20:34](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1234) De elvileg elmondták.
 
-[00:25:44](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1544) Nagyon nagy munkában van most a kormány, mert tegnap éjfélkor még újabb feltételeket kaptunk Brüsszelből, hogy minek kell benne lenni abban a törvényjavaslatban, amely törvényjavaslatot a kormány benyújtott.
+[00:20:36](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1236) Hát most elvileg vagy nem elvileg?
 
-[00:25:57](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1557) Hogy tetszett mondani?
+[00:20:36](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1236) Hát itt nem derült ki.
 
-[00:25:57](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1557) Tisztelt vitézi miniszter úr, szerda éjfélkor még Brüsszelből tolba mondtak jogi paragrafusokat, hogy mit kell belefoglalni a kormány által előkészített törvénybe.
+[00:20:37](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1237) Hát még a műsorvezető kolléganő is egyfolytában kérdezte, hogy na de miért?
 
-[00:26:08](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1568) Hát ezt mondtuk, hogy ez lesz.
+[00:20:41](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1241) Hát ha ő se tudja senkit.
 
-[00:26:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1572) Vezérciikk Café.
+[00:20:44](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1244) Hát ugye ezt állítja, hogy a Potyondi Elinának a kisfiáról ő állított valamit.
 
-[00:26:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=1572) Holnap 19:50 per Hír TV.
+[00:20:48](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1248) A jól jól tudom, ezt nem mondták így meg neki, hanem hanem csak úgy kisakkozza magában.
 
-[00:34:04](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2044) Folytatódik a kommenttír tévén.
+[00:20:52](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1252) Tehát vagy van egy világos vád, hogy Uram maga ezt és ezt követte el volna szíves ezért és ezért ilyen és ilyen jogszabály velünk jönni, de az, hogy itt ködölnek, ötölnek, hatolnak, turkálnak, családot vegzálnak, én ezt végtelenül elítélem.
 
-[00:34:04](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2044) A stúdióban pedig vendégeim még mindig Dezelenka, Dóra, Varga, Etele, Hegyi Gyula és Bóthunor.
+[00:21:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1267) És az az igazság, [torokköszörülés] hogy a hatóságok most legyen az rendőrség, vagy akár ügyészség egy kicsit úgy érzem, hogy most kompenzálni akar olyan terepeken, ami korábban érinthetetlen volt.
 
-[00:34:10](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2050) A reklám előtt pedig ugye ott hagytuk abban, hogy újabb fejlemények vannak a szőlőutcai ügyben.
+[00:21:20](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1280) Hozzáteszem még azt is nagyon nagyon, hogy én nem akarok az ügyekben állást foglalni, de maximálisan szimpatizálok azokkal a polgármesterkollégákkal, akiket egyébként napokon belül szabadon fogjak engedni, csak arvitabra vitték be őket.
 
-[00:34:16](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2056) Ugye Pócs János ismét tartott egy sajtótájékoztatót a mai nap folyamán, ahol ott volt Panyi Miklós is, aki ugye úgy fogalmazott, hogy szerinte ezt az ügyet nem csak egy politikus, hanem a teljes jobboldal lejáratására hozták létre.
+[00:21:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1295) Meggyőző szabadon fogják engedni őket.
 
-[00:34:31](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2071) Tehát ez egy létrehozott ügy.
+[00:21:37](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1297) Gergely és társaira gondolok.
 
-[00:34:31](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2071) És hát szóba került az is, hogy miért nem foglalkozik vele a kormánypártivá lett sajtó.
+[00:21:40](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1300) Szó szerint méltatlan egy kormányhoz, egy demokráciához, Európai Unió tagországhoz maximálisan méltatlan az ilyen eljárás egyébként.
 
-[00:34:39](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2079) Szondianda ugyanis foglalkozott ezzel az üggyel, méghozzá akkor, amikor RTL-es volt.
+[00:21:49](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1309) Bocs, mondjad csak.
 
-[00:34:45](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2085) Nézzük meg, hogy akkor hogyan kérte számon a kormányt, és milyen válasza volt most a kérdésekre.
+[00:21:49](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1309) Nem, hogy egyrészről nyilván nem lehet teljesen tudni, ha jól értettem, akkor valóban ez a pottyondi edina féle dolog volt.
 
-[00:34:53](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2093) Condianda RT.
+[00:21:57](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1317) Én inkább azzal jönnék, vagy azt hántorgatnám fel a hatóságoknak, ugye itt említetted, hogy kultúrországban ezt nem így csinálják.
 
-[00:34:53](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2093) A házon kívül a szőlőutcai javítóintézet ügyéről hozott nyilvánosságra egy dokumentumfilmet a héten.
+[00:22:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1328) Én azt mondom, hogy de kultúrországokban is megvan a helye annak, amikor 10 rendőr mondjuk lerohan egy egy elkövetőt, vagy egy gyanúsítottat, és úgy tart a házkutatás.
 
-[00:35:01](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2101) A nemzeti Nyomozóiroda nem adta át ezeket az ügyészségnek.
+[00:22:16](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1336) Ilyen eset lett volna például szerintem Lakatos Márknak a pedofil ügye, ahol valahogy még a kihallgatásig sem sikerült ugyanennek a rendőrségnek eljutni.
 
-[00:35:04](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2104) Ez hogyan fordulhatott elő?
+[00:22:27](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1347) Akkor megkérdezte egy kommentelőnk, hogy és mi van a lakatos már?
 
-[00:35:07](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2107) Ugye tavaly november 25-én Orbán Viktor azt mondta, hogy vizsgálatot rendel amiatt, hogy a rendőrségnek nem sikerült előrelépni ebben az ügyben sokáig.
+[00:22:29](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1349) Ugyanez, bocsánat, ugyanez a ugyanez a történet lenne az az eset 2023-ban, amikor ugye a szikrához köthető antifa aktivistánál 70000 pornográf képet találtak a számítógépén.
 
-[00:35:13](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2113) És Pintér Sándor múlt héten azt mondta az RT híradónak, hogy minden rendben találták.
+[00:22:42](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1362) Ugye a az antifa támadásokhoz kapcsolódó házkutatás során.
 
-[00:35:19](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2119) A rendőrség semmiben nem hibázott.
+[00:22:46](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1366) véletlenül került elő ez a hát nem kis mennyiségű pedofil pornográf felvétel.
 
-[00:35:20](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2120) Továbbra is fenntartják ezt az állítást.
+[00:22:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1373) A [horkantás] férfi kapott egy idézést, hogy ugyan fáradjon már be kihallgatásra.
 
-[00:35:23](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2123) annak fényében, hogy a rendőrség ilyen felvételeket nem adott át az ügyészségnek.
+[00:23:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1380) Amennyiben úgy ráér, valamelyik nap, nem zavarjuk, fáradjon már be.
 
-[00:35:29](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2129) Sajtó információk szerint az is szóba került a tegnapi kormányülésen, hogy a szőlőutcai ügy koronatan koronatanúja 4 millió Ftot kaphatott Magyar Péter testvérétől, Magyar Mártontól.
+[00:23:02](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1382) Aztán ugye szerencsére úgy találták meg, ahogy az ilyen embereket illik kötéllel a nyakában.
 
-[00:35:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2140) A kérdésem az lenne, hogy valóban így van-e ez, és hogyan fogják kivizsgálni az ügyet?
+[00:23:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1391) Tehát azért mondom, hogy itt azért a rendőrség tényleg ennyi volt a történet.
 
-[00:35:48](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2148) Egyáltalán nem került.
+[00:23:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1395) Ezt ezt azért szeretnénk visszautasítani.
 
-[00:35:48](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2148) Került, bocsánat.
+[00:23:16](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1396) Jó, tehát itt a ez a te személyes vélemény í ez az én személyes véleményem.
 
-[00:35:50](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2150) Egyáltalán nem került szóba.
+[00:23:21](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1401) Mi mind a négyen elzárkózunk.
 
-[00:35:52](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2152) Semmilyen szinten föl sem merült, és nincs is hozzá köze a kormánynak, hiszen itt van egy vizsgálat.
+[00:23:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1403) A lényeg az, hogy hogy ha tényleg ennyi volt az ügy és nincs mögötte semmi, akkor én is azt gondolom, hogy ez egy igen erős túlkapás volt, figyelmeztetés volt, és azért a rendőrségnek itt az elmúlt években sokkal, sokkal sokkal súlyosabb ügyekben kellett volna akárcsak fele ennyire fellépni és határozottnak lenni.
 
-[00:35:56](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2156) Független testületek végzik ezt.
+[00:23:47](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1427) Ühüm.
 
-[00:35:59](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2159) Semmi köze a nyomozáshoz a kormánynak nem merült fel.
+[00:23:47](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1427) Dani, te még valamit az előtt?
 
-[00:36:03](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2163) Csak, hogy a miniszterelnöknek lehet személyes érintettsége akár.
+[00:23:49](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1429) Igen, én csak annyit szerettem volna mondani, hogy írtam egy cikket kábé két napja, amikor egy 2016-os cikkemet összevetettem a pesti srácoknak a a nagyjáboli megszűnésével, ugye ez egy sajtóhír volt Hood Gergely részéről.
 
-[00:36:07](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2167) Nem merült fel.
+[00:24:04](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1444) Akkor [horkantás] azt írtam le, hogy ugyan ne örüljenek már annyira, hogy a népszabadság megszűnik, hiszen mégis csak egy nagyon kevés tehát nagyon kevesen vagyunk már magyarok.
 
-[00:36:07](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2167) Ez egy kormányülés volt.
+[00:24:13](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1453) Hogyha egy magyar nyelvű lap megszűnik, teljesen mindegy, hogy az milyen.
 
-[00:36:11](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2171) Gyula, nagyon nevettél.
+[00:24:16](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1456) Szerintem az egy rossz hír.
 
-[00:36:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2172) Igen, megmondom őszintén, az egész tényleg tényleg nagyon nem tartom az egészet nagyon jó ügnek, hogy ez így folytató.
+[00:24:16](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1456) Én ezt akkor leírtam, most is leírom.
 
-[00:36:19](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2179) Először is mondjuk, hogy gyerekvédelem.
+[00:24:18](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1458) Ha valaki most örül be Zsoltnak, akkor nem azt kell nézni, hogy ő egy milyen ember, meg hogy milyen cikkeket ír, meg hogy egyáltalán újság-e a vadhajtások, hanem azt kell nézni, hogy ez az első lépése az új hatalomnak.
 
-[00:36:20](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2180) Emlékszem, amikor fideszesek nagyon harciosan mondták, ez nem gyerekvédelem, ez javítóintézet.
+[00:24:30](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1470) szemmel láthatólag ez egy nagyon más tempó, mint amit 16 évig a Fidesz csinált.
 
-[00:36:25](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2185) Itt tulajdonképpen bűnözők voltak.
+[00:24:34](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1474) Az átláthatósági törvény volt szerintem a a a csúcs abban a tekintetben, hogy mármint a negatív csúcs, amit ugye a Fidesz megpróbált, de végül nem csinálta meg.
 
-[00:36:27](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2187) El is mondták, hogy milyen bűnöket követtek el a Fidesz képviselő.
+[00:24:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1483) Ezzel szemben két hónap kormányzás után egy számukra nem szimpatikus, tényleg szerintem nem túl sok mindenki által kedvelt újságírót.
 
-[00:36:31](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2191) Biztosunk, bocsáss meg.
+[00:24:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1493) Így módon vegzálnak anélkül, hogy rámutatnának, hogy milyen bűncselekmény volt.
 
-[00:36:33](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2193) Mi változhatott szerinted?
+[00:24:57](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1497) Bár szerintem valami kellett, tehát valami ügy kellett, amivel ugye elvihették.
 
-[00:36:33](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2193) Tehát pár hónappal ezelőtt még úgy gondolta, hogy a kormányra tartozik ez az ügy.
+[00:25:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1500) Tehát ez nem jelent jót.
 
-[00:36:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2200) Most kormányszóvivő most nem érti, hogy miért kerül egyáltalán szóba ez az ügy.
+[00:25:02](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1502) Ez egy üzenet, nem csak a jobboldali, hanem a jelenleg Tiszához kötődő újságíróknak is, hiszen ez az üzenet, hogy ha nem értesz velünk egyet, akkor könnyen így járhatsz.
 
-[00:36:44](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2204) Hát nyilvánvalóan a a kérdés az volt, hogy tárgyalta-e erről a kormány.
+[00:25:10](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1510) És szerintem ez nagyon-nagyon nem jó irány.
 
-[00:36:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2207) Biztos vagyok, hogy nem tárgyalt a kormány.
+[00:25:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1512) Tehát értem, hogy Bede Zsoltba könnyű belerúgni, de várom az ellenzéki újságoktól azt, hogy elmondják, hogy oké, ez egy kicsit talán túlzás, mint ahogy mondjuk a Zsolti bácsizó cikkeknél sem vitte el, mondjuk egy vagy két éve ugye még a Fidesz kormány alatti a rendőrség az adott újságírót valamilyen mondva csináltokkal a gyerekek.
 
-[00:36:49](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2209) Ő azt mondta, hogy a kor ő azt mondta, hogy a kormány erről nem tárgyalt.
+[00:25:34](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1534) Hát azért ott Juhász Péterről tartottak [torokköszörülés] házkutatást, ami szintén egy méltatlan tetűség volt.
 
-[00:36:52](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2212) Ő nem azt fejtette ki, hogy helyesen jár az ügyészség vagy nem, hanem azt, hogy a kormány nem tárgyalta ezt.
+[00:25:38](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1538) Igazad van ebben.
 
-[00:36:59](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2219) A másik pedig, ami tulajdonképpen kijavítanának titeket, de ennek az az oka, hogy nem ti tévedtek, hanem nem követit.
+[00:25:38](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1538) Igazad van.
 
-[00:37:05](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2225) Nagyon nehéz követni ezt az ügyet.
+[00:25:38](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1538) Bocs.
 
-[00:37:07](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2227) Amennyire tudom, ezt a Zsolti bácsi nevet egy ózdi nevelőintézetbe mondta be valaki először.
+[00:25:40](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1540) Szóval a még egyszer hadd hangsúlyzom ki, hogy politikai ügyeket nem rendőrkomandóval kell intézni.
 
-[00:37:13](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2233) Onnan jött ez most, hogy lehet, hogy ugyanolyan helytelen, hogy bemondták, de tulajdonképpen a Szőlő utcához nem is kapcsolódott.
+[00:25:45](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1545) Ez van.
 
-[00:37:19](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2239) Lehet, hogy a DK kapcsolta oda.
+[00:25:48](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1548) Na de Szanyi úr, hát pont Magyar Péter beszélt a választások előtt arról, hogy meglesz az elszámoltatás.
 
-[00:37:21](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2241) És még annyit mindenképpen, hogy hogy a ennek a gyerekeknek, vagy tulajdonképpen igazából azért fiatalkorú megtévedt embereknek a kihallgatása valóban, ahogy a Dobreev Clá és a többiek folytatták, az nem felelt meg annak pszichológusok, ellenzéki pszichológusok elmondták, nem volt helyes, ahogy meghallgatták ezeket a gyerekeket.
+[00:25:52](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1552) Mindenkit felelősségre vannak.
 
-[00:37:45](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2265) öszá ez a rendszerátásán mind a két oldalon nem úgy történt ez a dolog gyerekek ügyét helytelen fölhasználni ilyen politikai célokra itten persze nem annyi gyerekekről van szó eleve az egész pedofília ügyben az a 14-18 év közti korosztály rendkívül nehéz nehéz megítélni hiszen hát egy 17 éves gyilkosra azt mondjuk hogy gyilkos egy 17 éves áldozat meg áldozat, tehát nagyon nehéz itten be.
+[00:25:54](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1554) Nem ezt látjuk most, nem ez történik.
 
-[00:38:14](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2294) Maradjunk itt azon, hogy vajon mit, hogy vajon kell szóba kerülhetett-e a kormányülésen ez az méghozzá azért, mert egyébként tehát bizonyos sajtóhírek szerint Görög Márta igazságügyi miniszter kérdezhette ezzel kapcsolatban Magyar Pétert, aki ugye erre nem válaszolt és akkor egy kicsit visszakapcsolva arra, amit az imént láttunk, tehát mi történt Szondi Vandával időközben?
+[00:25:56](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1556) Akár a polgármesterekel kapsá semmi köze nincs, semmilyen elszámoltatáshoz.
 
-[00:38:39](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2319) aán és kérdéseketán kapsolatban.
+[00:26:01](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1561) Ne, ez rendőri atak.
 
-[00:38:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2326) Ezt a keretezést akkor szeretném egy nagyon picit elmagyarázni.
+[00:26:04](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1564) Ez nem elszámoltatás.
 
-[00:38:48](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2328) Most nyilván itt vagyunk egy stúdióban, mindenkinek megvan a funkciója a maga keretezésében.
+[00:26:04](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1564) Az elszámoltatás az úgy megy, hogy fölteszek kérdéseket.
 
-[00:38:53](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2333) Én ezt nem is fogom tőle elvenni, de azt a kedves nézőknek azért itt szeretném elmondani, hogy egy újságíró, egy valódi újságíró az a nyilvánosságot szolgálja.
+[00:26:09](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1569) Batócsi úrnak senki semmilyen kérdést nem tett föl mindez idáig, miközben meglovasított Isten tudja hány száz milliárd Ftot.
 
-[00:39:03](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2343) egy kormányember, aki a akit a kormány fizet, nevezetesen most egy kormányszóvivő, ő meg a magyar kormány alkalmazásában áll.
+[00:26:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1575) Ne, tehát ne kezdjük el itt ezt az izé.
 
-[00:39:10](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2350) És ez egy nyomozati dolog, amiről nem kell feltétlenül a ez 2026.
+[00:26:18](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1578) Az elszámoltatás az akkor is úriemberi műfaj, amikor azt mondom, hogy uram én azt gondolom, hogy ő ezt és ezt csinálta.
 
-[00:39:18](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2358) április 12 előtt nem így voltát amikor a tord amikor a Tuzson Bence ugye ami az ő tudomása volt és amit ő megkapott mint igazságügyi miniszter ugye nyilvánosságra hozta azért mert már tényleg folytogatta a mainstream azt hogy hogy hozzák nyilvánosságra és ő ig minden részletett mert nem minden részlet volt meg neki hiszen ahogy a Szondi Wanda is elmondta nem a kormány dolga ezt kivizsgálni hanem a nyomozóhatóságok dolga és szétszedték Tuzson Bencét és a mai napig szétszedik, és amikor kint voltak a plakátai, akkor pedofideszezték a Tuzson Bencét is.
+[00:26:25](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1585) Volna szíves elmondani, hogy mit csinált.
 
-[00:39:54](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2394) Rajta voltak a plakátjain.
+[00:26:27](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1587) Ez az elszámoltatás.
 
-[00:39:56](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2396) Ezek a Ki az a Zsolti bácsi?
+[00:26:29](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1589) Rendőrrel kipofozni emberekből mit tudom én, mint vallomást vagy valami.
 
-[00:39:59](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2399) Miért nem mondta el?
+[00:26:33](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1593) Szóval ez nonszens.
 
-[00:39:59](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2399) Na most érdekes, hogy most már ti is bevalljátok azt, amit mi akkor ugyanúgy elmondtunk, hogy szeretnénk, hogy a nyomozóhatóságok minél jobban, minél alaposabban kivizsgálják és minden érintettet börtönbe vigyenek és megkapják a maguk büntetését ezek a a férak, akik elkövették bizonyítottan a bűncselékményeket.
+[00:26:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1595) tempó.
 
-[00:40:18](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2418) Nem könnyű egy ilyen bűncselekményt bizonyítani.
+[00:26:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1595) Na de mégis csak Magyar Péterék kormánya alatt történik mindez, nem?
 
-[00:40:20](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2420) Biztos te is láttál már sok ilyen dokumentumfilmet, filmet arról, hogy mennyire nehéz egy ilyen vádat bizonyítani.
+[00:26:40](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1600) De akkor viszont a másik, hogy akkor akkor Magyar Péter mondja meg konkrétan, hogy igen, ez ezért történik.
 
-[00:40:26](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2426) Ezért tart sok ideig, hogy ezeket bizonyítsák és rendesen le tudják ültetni ezeket az embereket.
+[00:26:44](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1604) Ő így gondolja, szerinte mondjuk Bede Zsoltot 10 embernek kell vagy 10 rendőrnek kell lerohanni, mert azt csinálta szerinte az elmúlt négy évben, amit csinált.
 
-[00:40:32](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2432) És mi már akkor mondtuk, hogy nem a nyilvánosság dolga, és úgy tűnik, hogy hogy ez akkor így nem ment át, hiszen nektek is az volt a dolgotok, hogy toljátok a propagandát.
+[00:26:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1613) Akkor legalább legyen egyenes.
 
-[00:40:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2440) De mi az, hogy nektek?
+[00:26:54](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1614) Mondja meg nyíltan.
 
-[00:40:42](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2442) De mi az, hogy nektek?
+[00:26:56](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1616) Ugyanezt gondoltam akkor, amikor itt a Sujok Tamással kapcsolatos hercehurcát is elkezdte Magyar Péter, hogy Sujlyok Tamás azonnal mondjon le, ebben a szent pillanatban adja be a lemondását, de azért két hét múlva a miniszteri kinevezéseket írja már, legyen már szíves aláírni még.
 
-[00:40:42](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2442) Most te kiről beszélsz és mi alap?
+[00:27:10](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1630) Tehát ez a de mégis csak ugye az új belügyminiszter mentette fel nem olyan régen az országos rendőrfőkapitány.
 
-[00:40:44](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2444) Én soha életemen nem foglalkoztamá soha életen nem foglalkozt az, hogy én egy én egy én egy kormánnyal szimpatizáló személy vagyok, az eg az egy az egy dolog, de én nem képviselek semmilyen párt nem képviselek semmilyen médium semeleként magánszemélyként vagyok itt, úgyhogy szeretnélek benni volt is mindig úgy volt arra kérlek benneteket csak, hogy előrébb jussunk a vitából beszél arról a kettős mércől beszél egyébként amit alkalmaztok amióta Most már a általatok szimpatizált kormány hatalomra jutott, hogy úgy csináltok, mintogyha hát ez semmi közöt nem lenne, holott mindenki a teljes mondom baloldali média, a teljes influencerhálózat, akik vállaltan a kormányváltás mellett álltak, reggeltől estig ezt szajkózták.
+[00:27:18](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1638) Én pont erre akartam reagálni.
 
-[00:41:34](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2494) Erről van szó és ez a probléma.
+[00:27:18](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1638) Nagyon jó, hogy ezt mondod, merthogy a a belügyminiszter személyeit szerintem kulcsfontosságú, hiszen ő az, aki jelenleg a rendőrséget irányítja politikai szinten, amire utaltatok.
 
-[00:41:37](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2497) És nem csak e és nem csak ez az egy ügy van, bocsánat, bocsánat.
+[00:27:32](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1652) És mondjuk minden hír, ami hozzám eljutott, az azt mondja, hogy az államigazgatás leállt egy hónapja és különös tekintettel a belügyi dolgozókra, a rendőrökre, és ezért lehet az, hogy egyesek túlkompenzálnak, ahogy ahogy mondtátok.
 
-[00:41:41](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2501) Nem, ne, nem csak ez az egy egy ügy van, mert ugyanez vonatkozik egyébként a gödi ügyre is.
+[00:27:54](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1674) És akkor jön egy ilyen, amit még egyszer mondom, a rendőri túlkapást én is elutasítottam.
 
-[00:41:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2507) Akkor voltak ilyen orosz beavatkozásról szóló hírek is.
+[00:27:58](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1678) Én csak jeleztem, hogy mondjuk korábban ugyanez a rendőrség mondjuk egy nyomozati dologban még arra sem volt hajlandó, hogy elismerje, hogy bele Zsolta vadhajtásokkal van összefüggve.
 
-[00:41:50](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2510) Reggeltől estig ezeket kellett olvasni, és ki tudja azt, hogy hány embernek a szavazatát befolyásolták ezek az árhírek.
+[00:28:09](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1689) Ezt egyébként tudod, hogy miért van?
 
-[00:41:59](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2519) Rengeteg lehet, hogy annyit, mint az én a két arcú plakátok, mondjuk.
+[00:28:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1691) Mert hogy ő nem Magyarországra van beérkezve, hanem azt hiszem, mint ahogy a kuruc infó volt régebben, az USÁban.
 
-[00:42:04](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2524) Hát de és mi nem igaz egyébként azokból a történetekből?
+[00:28:17](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1697) Igen.
 
-[00:42:06](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2526) Magyar Péter a mai napig kéarcú, mert azt mutogatja, hogy ő szívecskét mutatott a tüntetőknek, miközben azután mutatott szívecskét a tüntetőknek, hogy a tüntetők elmentek.
+[00:28:17](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1697) Jó, jó.
 
-[00:42:15](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2535) Ott voltam egyébként az elsősorban.
+[00:28:17](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1697) Most a technikai részlet az oké, csak most ugye pont arról beszéltünk, hogy itt már a Felkomban is ez kiderült.
 
-[00:42:18](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2538) Azután mutatott szívecskét, és vették föl azt a nagyon szép videót, meg gyönyörű esztétikus videót a a ott a sajtósaival, miután a tömegébként tovább ment, ugye, tehát azért a kétcóság szerintem a mai napig él.
+[00:28:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1703) Tehát én csak jelezném, én csak jelezném, hogy tehát nincs nincs, aki felügyel a mondjuk a rendőrség felett éppen, és tulajdonképpen az a rendőrök is úgy végzik a munkájukat, ahogy éppen ér.
 
-[00:42:31](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2551) igazatok legyen jobb a gyermekvédelem, de most már van egy új kormány, rajta kell.
+[00:28:32](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1712) Én nekem ez a gyanúm, tehát én én én a a hozzám eljutott információim szerint az új belügyminiszter azon kívül, hogy leváltották és izé és tartott egy állományűlést, ahol hát ahogy hallottam nem túl sok jó hírrel szolgált a az egyenruhás állományok állománynak, amely mellett én mindig kiálltam és most is kiállok és szolidáris vagyok, mert rosszul fizettek a magyar rendőrök és nagyon kevesen vannak sajnos.
 
-[00:42:38](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2558) Ebbe egyetértük.
+[00:28:58](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1738) Ö és ugye ez ennek a ennek köszönhető, ha nincs egy világos irányvezetésű belügyminiszter, aki megmondja a rendőri vezetésnek és az egyes rendőröknek, hogy így kell csinálni, be kell tartani a törvényt, nincs ilyen politikai célzatú letartóztatás, hanem tisztességgel végezzük a munkánkat a törvényes rend talaján, akkor ilyen van.
 
-[00:42:38](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2558) Ebbe egyéltük.
+[00:29:19](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1759) Azért bocsánat még annyit hadd tegyek hozzá, hogy egy ilyen házkutatás az nem találomra megy.
 
-[00:42:38](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2558) Én mond és legalább legalább az új parlament fölállít egy vizsgáló bizottságot.
+[00:29:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1763) Így van.
 
-[00:42:42](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2562) Az ahogy most mondták.
+[00:29:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1763) Ö, tehát ott valamilyen van a rendőrségnek a kezébe.
 
-[00:42:44](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2564) Hát Orbán Viktor is felett e orosz barátságot mond engem inkább orosz barátnak szoktak nevezni, úgyhogy már csak ezért is mullá, hogy ez a szőlőutcai ügy bár semmilyen Zsoltot célozta, de a teljes jobboldali közösséget találta el.
+[00:29:28](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1768) Magyarul, hogyha van a rendőrségnek a kezében, akkor ne játssz el a Sherlock Holmes nevűet, hogy hogy majd majd ő itt mit fog a lakáson találni?
 
-[00:42:58](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2578) És akkor beszéljünk egy kicsit arról, hogy ugye már hetekkel ezelőtt fogalmazott úgy Gulyás Gergely, hogy zajlik egyfajta politikai boszorkányüldözés, és ugye DR is meg Hunor is említette itt, hogy ők például a komment szekciókban milyen reakciókkal találkoznak.
+[00:29:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1775) Semmi olyat nem fog a lakáson találni, ami ne lenne már a kezébe.
 
-[00:43:14](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2594) És hát most Krek Péter fogalmazott úgy, hogy szerinte a gyors megbocsátás az nem indokolt.
+[00:29:39](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1779) Tök indokolatlan ez az egész cirkusz.
 
-[00:43:22](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2602) Mit jelent ez pontosan?
+[00:29:41](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1781) Én erre gondolok.
 
-[00:43:22](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2602) És mikorra sikerülhet akkor beásni ezeket az árkokat?
+[00:29:41](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1781) És nagyon sok ilyen van egyébként, meg kell mondjam őszintén, ami eljut a sajtójuk, az eljut a sajtójuk, de egy csomó minden nem szeretném elmondani, hogy én nekem volt néhány ismerősöm, aki merő politikai oknál fogva korábbi harcostársaim hadd fogalmazzak így Kis László környékén, akiket úgy meghurcoltak, hogy az valami elképesztő, miközben semmit nem toltak rájuk, aztán a végén mindegyiket fölmentették.
 
-[00:43:28](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2608) hiszen ugye a Tiszapártnak választási ígérete volt, hogy létrehoznak egy emberséges működő Magyarországot, és be fogják temetni ezeket az árkokat.
+[00:30:06](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1806) De elmondanám Hunvad György esetét is, akit nem tudom mi, az úgy úgy kezdődött, hogy az ember bement a rendőrségre, hogy mondjanák meg, hogy ne csak utalgassanak, célzassanak, erre mondták, hogy jó, akkor maradjon itt.
 
-[00:43:37](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2617) De hát hogyha valóban a balliberális véleményformálói réteg megszólalását nézzük, akkor hát nem pont ebbe az irányba.
+[00:30:19](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1819) Így tartóztatták le Hum György és nem tudom hány év után semmit nem tudtak rá bizonyítani, de nulla semmit, semmi semmit.
 
-[00:43:45](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2625) Ez egy nagyon jó kérdés, amit fölvetettél.
+[00:30:26](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1826) És ehhez képest letartóztatás, cella, kínzás mit bánom, ami.
 
-[00:43:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2626) Magam is nagyon fontosnak tartom, hogy egy nemzeti megbékélés fele irányába menjünk.
+[00:30:28](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1828) Szóval nonszens, nonszens, nonsensz.
 
-[00:43:51](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2631) Ennek, de ez segíti ezt a nemzeti meg Nem, ezt nem akor Péter mond, ez abszolút nem segíti.
+[00:30:31](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1831) politikai ügyekben semmilyen erőszaknak nincs helye és mindenesetre ez a rend és fegyelem, amit Koloman hiányol, ez szerintem Pinter Sándor belügyminiszter alatt viszont maximál volt.
 
-[00:43:56](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2636) mélyen egyetértek vele, ritkán éltek egyet KKO Péterrel, úgyhogy nem hiszem, hogy bármilyen módon mellé föl kellene solyakoznom.
+[00:30:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1843) Folytatjuk hamarosan a második résszel a kommentát.
 
-[00:44:03](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2643) De akkor ez persze arra is vonatkozik, hogy a 100 napot, ami egy ilyen nemzetközi szokás illik tiszteletben tartani az ellenzéknek is.
+[00:30:45](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1845) Jövünk vissza a szőlő utcai üggyel.
 
-[00:44:11](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2651) Tehát nem kell 100 napig ilyen hével támadni a kormányt, a kormánynak pedig azt kellene mondani, hogy aki bűnt követett el, azt nyilván az új ügyészség az meg fogja találni.
+[00:30:47](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1847) [zene] Azt is tovább fejtegetjük.
 
-[00:44:21](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2661) Attól pedig, hogy valaki a Fideszben van, attól egyáltalán nem bűnös.
+[00:30:48](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1848) Ne menjenek messzire, maradjanak velünk.
 
-[00:44:26](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2666) Egyébként nagyon érdemes látni a Magyar Péter, ahogy mondjuk a Gulyás Gergellyel beszél, hogy nem azt mondja, hogy a gulyás gelg lopott, sőt azt mondja, hogy tudja, hogy nem lopott, tudja, hogy becsületesen dolokat mondot, említett említetted, bocsáss meg ezt a 100 napot, és úgy fogalmaztál, hogy az ellenzéknek türelmesnek kellene lennie, hogy akkor 100 napig ne támadja ennyire a kormányt.
+[00:30:51](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1851) Hamarosan jövünk vissza.
 
-[00:44:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2687) Viszont, hogyha bocsás meg, viszont hogyha a parlamenti felszólalásokat nézzük, akkor ugyanezt a magatartást elvárod egyébként a kormány a kormányfő is visszafoghatná így icipici magát ké nagyon szívesen kijelentem, hogyha ez valakinek örömet akarsz, persze nem arra kellene a parlamentet használni, hogy egymást ilyen szinten olyan ügyekbe, amely nem ügyek.
+[00:30:59](https://www.youtube.com/watch?v=pgDZeiQetCg&t=1859) [zene] [zene] És már folytatjuk is a kommentet.
 
-[00:45:08](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2708) Tehát ezek visszamenni ügyekben vagy viselkedésügyben támadják egymást.
+[00:38:47](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2327) [zene] Itt van velünk Brenner Koloman, Szanyi Tibor, Lipták, Tamás és Kuruc Dániel.
 
-[00:45:12](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2712) Nyilvánval majd ha jönnek a törvények, valódi törvényjavaslatok, bár csak minél előbb jönnének, akkor szerintem konstruktív kritika lesz azt mondani, hogy jó, rossz a menedékjog szabályozása, vagy jó, jó a kivezetése a benzin ákiegészek vagy nem jó lesz az új oktatási már valóban konkrét politikai kérdéseknek is lehet az út formában én nem is látom ezt a szándékot.
+[00:38:50](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2330) És következő témánk [zene] pedig, hogy ismét volt kormányinfó ma, amelyet egyébként élőben közvetítettünk itt a hírtévén, tehát visszanézhető az oldalainkon.
 
-[00:45:37](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2737) Tehát a amikor már a miniszteri meghallgatások voltak, hát semmi máshol nem szóltak szint, csak arról, hogy hogy pocskondiázták az elmúlt 16 évet, és arról beszéltek, hogy hogyan fognak majd aztán mindenkivel egyenképp leszámolni.
+[00:39:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2340) Kolléganőm Szabó Réka is jelen volt egyébként, kérdezett is.
 
-[00:45:51](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2751) Szerintem ez nem a nemzeti megbékelés, meg nem a az egészséges Magyarország felé vezető út, hanem nyilvánvalónak ugyanannak a izgalmi állapotnak vagy feszültségnek a fenntartása a cél, ami egyébként a kampányban jellemezte.
+[00:39:05](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2345) Érdemivel ezt ugye ismét hát sajnos sokadik alkalommal se kapott igazából a a kérdéseire.
 
-[00:46:06](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2766) Bocsös meg Etele.
+[00:39:09](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2349) Ö, na de a Szőlő utcával kapcsolatos volt ugye ma a téma, legalábbis a kérdése.
 
-[00:46:08](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2768) Ugye te szoktál mindig úgy köszönni, amikor itt vendégünk vagy a stúdióban, hogy béke.
+[00:39:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2355) Viszont ezzel kapcsolatban Bohár Dániel kitett, közzétett egy bejegyzést a Facebookján, és azt mondja, hogy az informátorai szerint Görög Márta igazságügyi miniszter kérdést tett fel ezzel kapcsolatban Magyar Péternek, de a miniszterelnök nem válaszolt.
 
-[00:46:13](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2773) Na most mit gondolsz akkor arról, akár arról, amit Gyula mondott, hogy a miniszterelnök egy kicsit visszafoghatná magát, valamint Krekó Péter most kijelentés?
+[00:39:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2375) Itt van tehát a poszt, és az a kérdésem, hogy ti mit gondoltok erről az ügyről?
 
-[00:46:21](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2781) Én már egyébként a saját közösségi média platformjaimon nagyon hasonlókat is megírtam ahhoz képest, amit a Gyula mondott.
+[00:39:40](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2380) Mit jelenthet Magyar Péternek a hallgatása?
 
-[00:46:28](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2788) Én is azt gondolom, hogy a politikának egy méltóságteljesebb folyamba kell, hogy terelődjék.
+[00:39:42](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2382) Jelent-e egyáltalán ez bármit is?
 
-[00:46:33](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2793) Ezt viszont nekünk választóknak kell kikényszerítenünk, mert sajnos a mindenkori politikára úgy gondolom, hogy ebben az esetben kevéssé számíthatunk.
+[00:39:44](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2384) Hogyha tényleg igaz a hír, hogy az igazságügyi miniszter feltett neki azért ezzel kapcsolatban egy kérdést.
 
-[00:46:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2806) Ez a korszellem jelenleg.
+[00:39:50](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2390) Szanyi Tibor nem tudom, hogy a többiek hogy vannak vele, de az én életemben adódott már olyan, hogy voltam kormányülésem, és ennél fog, hogy én még nem valószínűleg látom a vagy vagy láttam már ilyet, hogy nem mindegyik kormány ugyanolyan persze, de azért többé-kevésbé kultúremberek ülnek az asztal körül, hogyha valaki kérdez valamit, arra szoktak válaszolni.
 
-[00:46:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2806) Ezt láthattuk sajnos az elmúlt 10 évben, és ezt láthatjuk sajnos nemzetközi szinten is.
+[00:40:13](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2413) Tehát én azt erős túlzásnak tartom, hogy ő egy újságíró olyan információkat tud, kap egy kormányülésre, ami ami ilyen nonszens meszerű elemekkel tarkított.
 
-[00:46:52](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2812) Nekünk választóknak, egyszerű hétköznapi embereknek van abban felelősségünk egymás irányába, hogy igenis beszéljünk egymással, hogy ne azon, ne azon vesszenek össze azt a társaságok, hogy ki hova szavazott, hanem igenis tudjunk együtt összeülni és adott esetben nyitottak mutatni valóbi példát alapvetően a az, amit látunk a parlament, én nagyon szeretném, hogyha a jelenlegi kormánypárt ebben egy erősebb példá át mutatna föl a jövőben.
+[00:40:28](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2428) Szóval én ezt ugyan nem hiszem el.
 
-[00:47:22](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2842) Sajnos nagyon mélyről indulunk, ez kétségtelen.
+[00:40:30](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2430) Hát a Gödi Akyárnál ugyanez volt, nem?
 
-[00:47:25](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2845) És azt azért még szeretném hozzátenni, hogy nem érdemes összemosnunk a Fides Fidesz szavazókat, a Fidesz kiszolgáló személyzetét és azokat az embereket, akik a Fidesz rendszerben bűnöket követtek el.
+[00:40:30](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2430) Ö figyelj, én azt mondom, hogy egy kormányülésen, ami zárt a maga módján, ilyen nem tud kimenni, csak rossz indulatú pletykaként.
 
-[00:47:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2860) Ez három teljesen külön kategória.
+[00:40:42](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2442) Én el tudom képzelni, hogy nem egészen azt kérdezte, nem úgy kérdezte, de valahogy kérdezett és a miniszterelnök, mit tudom én, aztán hagyjuk ezt majd elmondom máskor, vagy mit, bármi lehet, nem tudom mi, de az, hogy egy igazságügyminiszter fölszólal egy kormányülésen, ez önmagában már egy problémás dolog nekem, mert napirendek vannak meg innen.
 
-[00:47:42](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2862) A bűnösöket vizsgálja meg az igazságszolgáltatás és járjon el megfelelően.
+[00:41:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2460) Úgy van, hogy csak úgy fölszólalok, ugye nap ahhoz napirend kell, hogy fölszólaljon egy miniszter.
 
-[00:47:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2867) Azok, akik kiszolgálták ezt a rendszert, akár meggyőződésből, akár anyagi érdekből, én azt gondolom, hogy mit jelent az, hogy kiszolgálta a rendszert?
+[00:41:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2467) És akkor a miniszterelnök meg így magával ő aztán nem válaszol erre.
 
-[00:47:58](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2878) Politikai aktivistaként működött.
+[00:41:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2468) És akkor ezt meg még elmondják egy újságírónak.
 
-[00:47:58](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2878) Azt szerintem lehet mondani, és én megértem azokat az embereket, akiknek a megbékélés nehezebben, nehezebben megy mondjuk nehezebben megy mondjuk Györfi Pál kiszolgálta ezt a rendszert.
+[00:41:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2472) Ezt bocsánat, Bohár Dánielt is ismerem személy szerint, nem csak a kormányülések világát ismerem.
 
-[00:48:15](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2895) Ez egy olyan kérdés, amit szerintem nem nekem kell föltenni.
+[00:41:17](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2477) Hát ez úgy hülyeség, ahogy van.
 
-[00:48:16](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2896) Györfi pár c te tetted azt a kijelentést, hogy aki mondjuk aktivista volt, tehát te legalább mondtál egy példát, de Magyar Péter a győzelmi beszédében ugye nem mondott példát, hanem ugyanígy tartó oszlopokról meg kisz.
+[00:41:19](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2479) Szóval Dani, ne beszélj hülyeségeket.
 
-[00:48:28](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2908) Én azt gondolom, hogy a Györfi Pál semmiképpen nem egy olyan ember volt, aki aki másokat a taknyukon meg a vérükön rángatott volna ki a parlamentből.
+[00:41:22](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2482) Ez a véleményem a dologról.
 
-[00:48:34](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2914) Tehát nekem Györfi Pál nem jutott eszembe történetesen azoknak az embereknek a sorában, akikkel nehezebb megbékélni.
+[00:41:24](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2484) De köszi, hogy megosztottad velünk ezt a gondolatmenet.
 
-[00:48:40](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2920) De az, hogy valaki a Fideszre szavazott, azért és tényleg sok bántást kapnak ők is a kommentfolyamban, mint ahogy a tiszások is a fideszesek részéről sajnos.
+[00:41:28](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2488) És mi van, ha igaz?
 
-[00:48:48](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2928) És ez elszomorító és ez gá na egyetlen egy mondatban, mert láttam, hogy van reakciód.
+[00:41:29](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2489) Figyelj, kizártnak tartom.
 
-[00:48:53](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2933) Hát abban teljesen egyetértek, hogy a magyar társadalomnak egy megújulásra van szüksége, de szerintem pont, hogy nem a Magyar Péter és a Tiszapárt meg ez az egész abszolút filmszínház fogja ezt megcsinálni, mert hogy pont, hogy Magyar Péteréknek az a célja, egészen addig lesznek 607080%-on a médián mérései szerint, amíg az O1G ideológia és a az az abszolút filmszínházat fenn tudják tartani, amint ez a köd elvész, és amint politikai döntésekről lesz szó nyers és sokszor népszerűtlen politikai döntésekről abban a pillanatban le fog zuhanni a népszerűségük és ez így biztos és hogy mik ezek a döntések ne haragudjatok de ennyi időnk volt mára hogy mik ezek a döntések amiket ugye Dóri említett na hát ezzel fog foglalkozni de már csak a híradóját tényleg nagyon nagyon szépen köszönöm nektek hogy itt voltatok velünk és kérdezem a híradós kollégától szervusz Pet nálunk vannak témák amik kimaradtak és éppen itt a kormány népszerűtlen döntés iről volt szó.
+[00:41:29](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2489) Ha igaz, akkor akkor térjünk vissza a dologra, de egyelőre nincs semmi bizonyíték egy egy kitalált sztoriról beszélünk.
 
-[00:49:53](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2993) Nálatok miről lesz szó a híradóban este 8-kor?
+[00:41:39](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2499) Jó, de azért itt az elmúlt két hónapban vagy másfél hónapban, amióta az új kormány megalakult, azért elég sok rendhagyó dolgot láttunk az országgyűlésben, amire eddig f az országgyűlés, de én egy kormányülésről beszél.
 
-[00:49:56](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2996) Szervusz, jó estét kívánok.
+[00:41:49](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2509) Na ez az, hogyha valaki az országgyűlésben, a plenáris ülés termében úgy viselkedik, ahogy és olyan stílust enged meg egyébként a saját házelnökével, a saját minisztereivel, a saját képviselőivel szemben, mint amit egyébként itt látunk az elmúlt hetekben, mi történet a kormányül.
 
-[00:49:58](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2998) Szia Bogi!
+[00:42:04](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2524) Ugye most arról lesz szó, hogy én szidalmazzam magyar Pétert órákon át képes lennék.
 
-[00:49:58](https://www.youtube.com/watch?v=IGMesVrBqrE&t=2998) Köszöntöm a kedves nézőket.
+[00:42:10](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2530) Ezt nem azért mondom, csak azért mondom, hogy nem lehet a normalitásból ki ezt meg azt itt most egy konkrét híről van szó.
 
-[00:50:00](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3000) Foglalkozunk azzal, ami nálatok is téma volt.
+[00:42:16](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2536) egy zárt kormányülésen ilyen nem tud kijönni.
 
-[00:50:02](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3002) A méltány elhíresült Zsolti bácsi ügye újabb bizonyítékok kerültek elő a szőlőutcai botrányban.
+[00:42:20](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2540) De azt hagyjál, nem csak a nem csak a zárt kormányülésen maradt csendben a hírek szerint, ha igaz, hanem nem csak ott maradt csendben Magyar Péter, tehát azért a hasonló híreknél azt megszokhattuk, hogy nagyjából öt percen belül három bohócfej, négy nevetségesek vagytok komment.
 
-[00:50:08](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3008) Pócsános fideszes politikus szerint a rendszerváltás óta ilyen politikai botrány még nem fordult elő.
+[00:42:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2555) Aztán jön a a [torokköszörülés] bejegyzés a Facebookon.
 
-[00:50:15](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3015) Ezt hamarosan kifejtjük bővebben, ahogyan azt is, hogy aláírta az alaptörvény 16.
+[00:42:41](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2561) a ez a konkrét szerint most ez nincs, de ez nincs semmi null zó reakció eddig Magyar Péter részéről, ami azért szerintem szintén beszédes.
 
-[00:50:18](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3018) módosítását Sullyok Tamás köztársasági elnök.
+[00:42:49](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2569) Figyelj én most arról a pletyka nem erről szól, hogy mit csinál az ország, a Pletka arról szól, hogy mit csinált a kormányos.
 
-[00:50:21](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3021) Ennek értelmében a miniszterelnök csak két ciklust vihet, tehát nyolc évet.
+[00:42:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2573) Valaki rákérdezett egy kínos dologra az ingsági ügyminiszterre, ő meg ott kusolt.
 
-[00:50:25](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3025) Aztán a kormány kivezeti a védett árat.
+[00:42:58](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2578) Ilyen nincs.
 
-[00:50:27](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3027) A KDNP azt mondja, hogy ez súlyos hiba, de szó lesz arról is, hogy elhalasztják a péntekre tervezett amerikai iráni béketárgyalások újjabb fordulóját.
+[00:42:58](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2578) És ez nem tud kijönni egy kormány Tibor csak egy valami a mondod, hogy ugye te voltál nyilván csomó kormányülésen, de azért az jó pár évvel ezelőtt volt.
 
-[00:50:36](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3036) Hogy mivel indokolja ezt az amerikai alelnök, nemsokára kiderül.
+[00:43:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2588) Tehát akkor az még egy másik világ volt.
 
-[00:50:42](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3042) Híradó 20 órakor várjuk önöket.
+[00:43:10](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2590) Ott tudod voltak szabályok.
 
-[00:50:45](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3045) Érdemes lesz tehát követni a híradó és Péternek.
+[00:43:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2591) Itt most nincsenek szabályok.
 
-[00:50:47](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3047) Nagyon szépen köszönjük a részleteket.
+[00:43:13](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2593) Tehát, hogy itt most a szabály az, hogy nincsen szabály.
 
-[00:50:49](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3049) Én vendégeimnek köszönöm szépen még egyszer, hogy itt voltak velünk.
+[00:43:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2595) Tehát hogyha odamegyek miniszterelnökként a amúgy a régi legjobb haveromhoz és így megszegek ilyen házi rendelket tudod ilyen magyar parlament meg hasonló és elkezdek vele beszélgetni face to face az ne haragudj az sem szabály tehát hogy simán el tudom képzelni hogy nem tartják be azt amit 20 évet ti még betartottatok és azt kérdezi igazságügyminiszterként hogy figyelj Péter ez amúgy ez mi ez ez ez nem kormányülésre tartozik hogy az igazságügy miniszter ilyet megal akar kérni fölhívja a telefonon egy kormányülésen szigor napirend van, menetrend van, van rá egy fél óra, 17 téma, ott nem lehet, nem lehet informális beszélgetés, de lehet, hogy ezek szünetben volt egy egy jó egyébként a hétvé megpróbáltam kérdezni Kapitán Istvánt is ebben a témában.
 
-[00:50:52](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3052) Önöknek pedig köszönjük a megtisztelő figyelmet és tartsanak velünk holnap is, ugyanis ahogy azt már megszokhatták, ám Kovács Robi kollégám fogja várni önöket komment extrával.
+[00:44:01](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2641) Nehéz így megszólalni, hogy a vendégek ilyen hevesen vitáznak, de hogy a Hírtv Kapitány Istvánt is megpróbálta megkérdezni a témában.
 
-[00:51:01](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3061) Addig is viszontlátásra.
+[00:44:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2647) Nézzük meg, hogy ez hogy zajlott.
 
-[00:51:01](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3061) Szép hétvégét!
+[00:44:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2651) Üdvözlöm miniszter úr!
 
-[00:51:21](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3081) Nagyon nagy munkában van most a kormány, mert tegnap éjfélkor még újabb feltételeket kaptunk Brüsszelből, hogy minek kell benne lenni abban a törvényjavaslatban, amely törvényjavaslatot a kormány benyújtott.
+[00:44:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2651) Megenged néhány kérdést?
 
-[00:51:35](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3095) Hogy tetszett mondani?
+[00:44:13](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2653) A kormányülésen valóban szóba került a szőlő utcai botrány, amiben már Magyarton neve is felmerült.
 
-[00:51:35](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3095) Tisztelet vitézi miniszter úr, szerda éjfélkor még Brüsszelből tolba mondtak.
+[00:44:20](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2660) Szóba került ez a kormányülésen?
 
-[00:51:42](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3102) jogi paragrafusokat, hogy mit kell belefoglalni a kormány által előkészített törvénybe.
+[00:44:23](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2663) Nem került szóba.
 
-[00:51:46](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3106) Hát ezt mondtuk, hogy ez lesz.
+[00:44:24](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2664) Nem került szóba.
 
-[00:51:49](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3109) Vezérci café.
+[00:44:24](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2664) Görög Márta nem kérdezte föl erről a miniszterelnök urat?
 
-[00:51:49](https://www.youtube.com/watch?v=IGMesVrBqrE&t=3109) Holnap 19:50 per Hírt TV.
+[00:44:28](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2668) Nem, nem kérdezte föl, de nem voltam végig ott az ülésen, úgyhogy [horkantás] nem tudok teljes egészében válaszolni rá, mert ez egy elég hosszú kormányülés volt.
+
+[00:44:36](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2676) Amikor én ott voltam, akkor erről nem volt szó.
+
+[00:44:38](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2678) Lehet, hogy később volt erről szó.
+
+[00:44:41](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2681) Nem tudom, mit szól egyébként ehhez a botrányhoz.
+
+[00:44:44](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2684) Magyar Szlőutcai botán a szőlő utcai botrányban felmerült Magyarton neve.
+
+[00:44:47](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2687) A magyar család mennyire lehet érintett ebben a botrányban?
+
+[00:44:51](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2691) A szőrőc botrány az nem ehhez kapcsolódik.
+
+[00:44:56](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2696) Hogy ezt a botrányt nem vizsgálták ki normálisan hosszú időn át.
+
+[00:44:59](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2699) Úgyhogy Magyar Márton neve ugye felvetődött.
+
+[00:45:01](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2701) Azt m azt mondja egy férfi, hogy hogy n millió egy jó tanácsom, akkor kérdezze meg a Fideszt meg a múltkori kormányt.
+
+[00:45:10](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2710) Köszönöm szépen.
+
+[00:45:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2711) A magyar csád mennyire letérintett ebben?
+
+[00:45:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2715) Na tessék.
+
+[00:45:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2715) Hát elég szűk szabú volt azért kapitány István, de picit beavatott minket a kormányülésre.
+
+[00:45:22](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2722) viszont ő ott volt a kormányülésen ellentétben az ulkal, tehát ezt így a jegyzők számára, de nem mondom, hogy ő mondott igazat, de ő ott volt.
+
+[00:45:30](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2730) Ez viszont biztos részben ott volt, mert hozzátette, hogy nem és akkor izé, tehát hogy szerintem egy kicsit bocsánat, ha egy kicsit a témát én én nagyon nagyon ezt ezt az egész témát, ez egy elképesztően érzékeny és nagyon komoly téma.
+
+[00:45:42](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2742) Én Jungos Rajmondot szeretném ide hozni a kedves nézők figyelmébe ajánlani.
+
+[00:45:48](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2748) Ő ha ennyi reklám belefér, az én podcast műsoromnak volt vendége.
+
+[00:45:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2753) Ő újbudai képviselő, önkormányzati képviselő és maga és gyermekottonban nevelkedett.
+
+[00:46:01](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2761) És a mai napon lépett ki a Fidesz frakcióból egyébként, hogy aktualitást is adjak a a a történetnek.
+
+[00:46:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2768) nem volt a Fidesznek a tagja, de a Fidesz frakciónak volt a tagja, és egy végtelen, tisztességes és ennek az egész gyermekvédelmi ügynek, még egyszer mondom, elszenvedőjeként is szereplője volt.
+
+[00:46:21](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2781) Őt magá őt magát is ezt az én podcasztoman elmondta, érte gyermekkorábban abúzus és az egész rendszerrel is azóta is foglalkozik politikusként is.
+
+[00:46:31](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2791) Tehát én egyébként tisztelettel a média szereplőitől, és mindig azt szoktam ez ügyben kérni, azóta is, meg előtte is, hogy ebben a kérdésben az a az a az a rettenetes több mint 20000 gyermek legyen az előtérben.
+
+[00:46:48](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2808) Az is igaz, hogy ezek közül a gyermekek közül sokan már kis bűnözők és szándékosan néha mondanak ilyet is, olyat is.
+
+[00:46:57](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2817) Tehát nagyon nehéz kideríteni az igazságot.
+
+[00:46:59](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2819) Arra akartam csak de komolyan akkor az rendben van, hogy 4 millió Ft-ért belerángatnak ilyen szerencsétlen én általában beszélek az ügyről, hogy ez egy sokkal fontosabb ügy, minthogy mondjam a konkrét ügyről nem kívának nyilatkozni, mert semmit nem tudok róla.
+
+[00:47:17](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2837) Én csak azt szeretném tényleg minden érintettől kérni, elképesztő sorsok vannak.
+
+[00:47:22](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2842) Én magam személyes környezetemben átéltem olyat, hogy egy magyar anya Angliában született gyermeke nem tudott magyarul, és úgy került be egy érdi átmenetek gyermekek otthonába.
+
+[00:47:37](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2857) És és csak úgy lehetett néha megszólítani, hogyha valaki tudott angolul.
+
+[00:47:41](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2861) Tehát elképesztő sorsok vannak és nagyon nagyon kemény ö ö történetek oda is és vissza is.
+
+[00:47:48](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2868) Én csak azt szeretném így egy kicsit a nézők számára is érzékeltetni, hogy mielőtt ítélkezünk, és mielőtt ezekkel az emberi sorsokkal politikát csinálunk, én én én én én tudom, én én pont én már korábban is így csináltam, és ez folyamatosan van, és én ezért inkább ezt szerettem volna erre reagálni, hogy é nem kifejezetten a gyerekekről megy ez a vita, hanem tényleg az újságírókról, en ez ennek az interjúnak a körülményeiről és még tudjuk is egyébként fotózni, fokozni é Mindjárt akkor Dani Mind Tamás elmondhatjátok a véleményeteket.
+
+[00:48:22](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2902) Nézzük meg azt, mert Bohár Dániel Szanyi úr kedvére mondom vagy örömére, hogy nyomozásba is kezdett Bohár Dániel, merthogy felhívta Gergely Évát, aki a kontroll csatornájára készítette az interjút Bangó Sándorral.
+
+[00:48:36](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2916) Nézzük meg, hogy hogy zajlott ez a beszélgetés.
+
+[00:48:42](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2922) Szépen kérlek, hogy hagyj engem békén.
+
+[00:48:44](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2924) Felhívtam Gergely Évát, a kontroll műsorvezetőjét, aki készítette a beszélgetést Bangó Sándorral, akiről a nevelője azt állítja, hogy az interjúért 4 milliót kapott.
+
+[00:48:57](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2937) Gergé Éva, tessék.
+
+[00:48:58](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2938) Üdvözlöm, én Bohár Dániel vagyok.
+
+[00:49:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2940) Zavarhatom egy rövid telefonos interjú keretein belül az interjújával kapcsolatban Bangó Sándorral.
+
+[00:49:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2947) Köszönöm szépen.
+
+[00:49:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2947) Nem kívánok nyilatkozni.
+
+[00:49:09](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2949) Szakmailag ezt mennyire tartja elfogadhatóan.
+
+[00:49:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2952) Mondom, nem kívánok nyilatkozni.
+
+[00:49:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2952) És erről a 4 milliós összegről ön mit gondol?
+
+[00:49:16](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2956) Tudta, hogy így készíti el ezt az interjút?
+
+[00:49:22](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2962) Szépen kérlek, hogy hagyj engem békén.
+
+[00:49:25](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2965) Kjük egymást.
+
+[00:49:26](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2966) Egy fontos kérdés szerintem.
+
+[00:49:26](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2966) Tehát az embereket ez érdekli, hogy tudta-e, hogy ön mennyiért készítél el ezt az interjút, mármint, hogy az interjú alanya?
+
+[00:49:40](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2980) Tehát akkor nem válaszol ezekre a kérdésekre.
+
+[00:49:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2983) Hát ez is beszédes.
+
+[00:49:45](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2985) Viszont hallásra ne zaklassunk.
+
+[00:49:47](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2987) Gergely ön Gergely Éva.
+
+[00:49:51](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2991) Véletlenül sem szeretnék zaklatni senkit.
+
+[00:49:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=2993) Engem csak az érdekelt volna, hogy Gergely Éva tudott-e arról, hogy milyen alkuk előzték meg az interjút.
+
+[00:50:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3000) Ennyi volt a kérdés.
+
+[00:50:00](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3000) Erre kellett volna csak válaszolni.
+
+[00:50:02](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3002) Nem érkezett válasz, ami talán még beszédesebb.
+
+[00:50:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3008) Na, mit üzen nektek ez a felvétel?
+
+[00:50:08](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3008) Hát akkor gyorsan csak elmondanám.
+
+[00:50:11](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3011) Én hirtelen február környékén éreztem magam, vagy márciusban.
+
+[00:50:18](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3018) [torokköszörülés] Szerintem ez akkor se nagyon jött be az embereknek.
+
+[00:50:19](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3019) Tehát én nem gondolnám, hogy így ebben a formában, ebbe az irányba kellene egyébként ezt az egészet elvinni.
+
+[00:50:26](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3026) Nem tudjuk, hogy a a kolléga tudott-e arról, hogy kapott pénzt ezért, vagy mérül be.
+
+[00:50:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3035) Lehet minősíteni azt az interjút?
+
+[00:50:35](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3035) Ezt ezt egyébként én is megtettem egy másik felületen.
+
+[00:50:42](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3042) Inkább egy kicsit visszacsatlakoznék az előző gondolatokhoz.
+
+[00:50:44](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3044) Igen, hogy lassan egy éve nem tudjuk, hogy ki az a Zsolti bácsi, lassan egy éve két havonta megpörgetik a témát.
+
+[00:50:53](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3053) Úgy egyébként papíron a kontrollnál leírták, hogy mi tudjuk ki Zsolti bácsi, személyiségi jogok miatt nem hozhatjuk nyilvánosságra.
+
+[00:51:02](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3062) Tehát Magyar Márton fixen tudja, ki az a Zsolti bácsi.
+
+[00:51:07](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3067) Nyilván ő beszélgetett Magyar Péterrel erről.
+
+[00:51:09](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3069) Tehát Magyar Péter nagyon jól tudja, ki az a Zsolti bácsi.
+
+[00:51:12](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3072) Magyar Péter mondja meg, tegyünk, öntsön tiszta vizet a pohárba, ki az a Zsolti bácsi?
+
+[00:51:19](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3079) Amennyiben viszont ezt nem teszi meg, akkor fejezzék be ezt a ezt a demagóg populizmust, akkor mondják azt, hogy jó, sajnáljuk, ez így alakult, dolgozunk a gyermekvédelem rendbetételén, és akkor felejtsük el ezt az egészet, mert ennek a hergelésnek viszont tényleg semmi értelme, és ez nem ér 4 millió Ftot meg semennyit, amennyit itt ráköltöttek a hírek.
+
+[00:51:40](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3100) Úgy látszik, jó ideig napirenden marad még ez a téma.
+
+[00:51:42](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3102) Sajnos lejárt a műsoridőnk, de várunk vissza titeket legközelebb.
+
+[00:51:45](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3105) Most kezdődik a híradó itt a Hírtvén és a stúdióban, mert ott van Varga Ibolya.
+
+[00:51:49](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3109) Szia Iboya!
+
+[00:51:49](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3109) Milyen témákkal várod ma este a nézőket?
+
+[00:51:52](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3112) Szőlő utca gondolom akkor nálatok is hír lesz.
+
+[00:51:58](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3118) Így van természetesen.
+
+[00:51:58](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3118) Szia Stefi, jó estét kívánok.
+
+[00:51:59](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3119) A kormányülésen kérte számon az igazságügyi miniszter Magyar Pétert a szőlőutcai botrány ügyében.
+
+[00:52:05](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3125) Erről Bohár Dániel értesült, és közben ma délután nem sokkal ezelőtt a miniszterelnök idegesen reagált Brüsszelben, amikor a Hírtv a testvérének az érintettségéről kérdezte.
+
+[00:52:15](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3135) Válaszok helyett hazugnak nevezte kollégánkat Magyar Péter.
+
+[00:52:16](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3136) Ezt is mutatjuk a híradóban.
+
+[00:52:18](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3138) És azt is, hogy nagyobb európai szerepvállalást és magasabb védelmi kiadásokat sürgetett az Egyesült Államok a NATO védelmi minisztereinek a találkozóján.
+
+[00:52:26](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3146) Érdekes témákkal foglalkozunk ma is, úgyhogy érdemes lesz velünk tartani.
+
+[00:52:32](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3152) Az biztos.
+
+[00:52:32](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3152) Maradunk is Ibaja és nézzük a híradókat is.
+
+[00:52:34](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3154) Köszi.
+
+[00:52:36](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3156) És köszönöm, hogy itt voltatok.
+
+[00:52:36](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3156) Branner Koloman, Szanyi Tibor, Lipták Tamás és Kuruc Dániel.
+
+[00:52:40](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3160) És önöknek pedig a megtisztelő figyelmet köszönjük.
+
+[00:52:45](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3165) Tartsanak velünk legközelebb is, és iratkozzanak fel a Hírtv YouTube csatornájára, ha még nem tették meg, de kövessenek minket a Facebookon [zene] is, mert napi Ria Shorts extra videókat találhatnak, úgyhogy ott is várjuk önöket és számítunk a figyelmükre.
+
+[00:52:59](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3179) Holnap [zene] este is lesz természetesen komment.
+
+[00:53:01](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3181) Viszontlátásra!
+
+[00:53:05](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3185) [zene] [zene] Laux József, a dobos és Presser Gábor bent voltak a stúdióban, és mondták, hogy a rock and roller az úgy, ahogy elénekeltem, az tökéletes.
+
+[00:53:26](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3206) [zene] És mondtam, hogy nekem sokkal érdekesebb lenne, hogyha rekettebben énekelném.
+
+[00:53:30](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3210) A presszer mondta, hogy nem, nem, ezt a négy sávot, ezt meg kell tartanunk.
+
+[00:53:34](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3214) De azt mondta a Laux József, hál istennek, [zene] hogy ha ennyire szeretné, akkor akkor hadd próbálja meg.
+
+[00:53:43](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3223) Ikon budaiettel ma 22:30 per Hírt TV.
+
+[00:53:51](https://www.youtube.com/watch?v=pgDZeiQetCg&t=3231) [zene] Yeah.
 
 </details>
