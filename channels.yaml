@@ -171,14 +171,6 @@ channels:
   notes: merce.hu baloldali-progresszív portál
   donate: https://merce.hu/tamogatas/
   donate_1pct: https://merce.hu/1szazalek/
-- id: UCXxUjsYxbL1llIe9Ra6wcyQ
-  slug: atv
-  display_name: ATV Magyarország
-  affiliation: independent
-  direction: liberal
-  default_tags:
-  - közélet
-  notes: ATV kereskedelmi tévé (Hit Gyülekezet tulajdon), kormánykritikus
 - id: UCQAeX1_gw45xb3Cg-OwEFcw
   slug: friderikusz-podcast
   display_name: Friderikusz Podcast
@@ -189,24 +181,6 @@ channels:
   notes: Friderikusz Sándor interjúsorozata
   donate: https://www.donably.com/friderikusz-podcast
   patreon: https://www.patreon.com/FriderikuszPodcast
-- id: UC6jNYMLmsMRMjRQ5o12nMiw
-  slug: klubradio
-  display_name: Klubrádió
-  affiliation: independent
-  direction: liberal
-  default_tags:
-  - közélet
-  notes: Online független hírrádió
-  donate: https://klubradio.hu/tamogatas
-- id: UCjFwLuNhlww-ScXaEtcEj3Q
-  slug: jelen
-  display_name: Jelen hetilap
-  affiliation: independent
-  direction: liberal
-  default_tags:
-  - közélet
-  notes: jelen.media független hetilap
-  donate: https://jelen.media/elofizetes
 - id: UCnkeJ2NOYRmWQIzfLu-zyDg
   slug: nepszava
   display_name: Népszava
@@ -363,32 +337,6 @@ channels:
   - közélet
   - megafon
   notes: Kurucz Dániel (ex-Fidelitas), kormányközeli YT csatorna
-- id: UChUByu3QDGaVD6iyt0jzngw
-  slug: ultrahang
-  display_name: Ultrahang
-  affiliation: fidesz-aligned
-  direction: conservative
-  default_tags:
-  - külpolitika
-  - biztonságpolitika
-  - megafon
-  notes: Király Tamás - kül-/biztonságpolitika (Nógrádi, Spöttle), kormánypárti
-- id: UC1uyU2pJMWDYAru9h4RlVNg
-  slug: ultrahang-plusz
-  display_name: Ultrahang Plusz
-  affiliation: fidesz-aligned
-  direction: conservative
-  default_tags:
-  - külpolitika
-  notes: Ultrahang másodlagos csatornája
-- id: UCAvx9uxtvhnxNpnjutUei5A
-  slug: hir-tv
-  display_name: Hír TV
-  affiliation: fidesz-aligned
-  direction: conservative
-  default_tags:
-  - közélet
-  notes: Mediaworks/KESMA kormánypárti hírTévé
 - id: UCIv5RQGZomRsayFJngRlk2g
   slug: bayer-show
   display_name: Bayer Show HírTV
@@ -421,14 +369,6 @@ channels:
   default_tags:
   - közélet
   notes: origo.hu - Mediaworks, 2016 óta kormánypárti
-- id: UCYQZ6JElMNwQrkiwm__jx_g
-  slug: hir-fm
-  display_name: Hír FM
-  affiliation: fidesz-aligned
-  direction: conservative
-  default_tags:
-  - közélet
-  notes: Jobboldali közéleti rádió
 - id: UCgpqnOK4fvNRevAPjBFHhFw
   slug: ripost
   display_name: Ripost Online
@@ -470,22 +410,6 @@ channels:
   default_tags:
   - közélet
   - életmód
-- id: UCwRgC4e0TcESJKeYt7bZVFw
-  slug: hit-radio
-  display_name: Hit Rádió
-  affiliation: fidesz-aligned
-  direction: conservative
-  default_tags:
-  - közélet
-  notes: Keresztény rádió, szorosan kötődik a kormány egyházpolitikájához
-- id: UCvVAGgfZ6uGAcVl6p74NNAQ
-  slug: fekete-rita
-  display_name: Fekete Rita
-  affiliation: fidesz-aligned
-  direction: conservative
-  default_tags:
-  - közélet
-  notes: Közéleti influencer, nyíltan kormánypárti pozícióban
 - id: UC6V-s3CdZMGv9UJw1woqwgw
   slug: sajtoklub-hirtv
   display_name: SajtóKlub HírTV
