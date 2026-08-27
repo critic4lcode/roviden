@@ -28,152 +28,159 @@ notes: ''
 published_at: '2026-08-27T09:00:11+00:00'
 duration_sec: 2104
 tags:
-- gyermekvédelem
 - szexuális bántalmazás
-- alapítvány
+- trauma
+- szőlőutcai botrány
 - juhász péter
-- politikai finanszírozás
 transcript_source: youtube_subtitle
 summary_model: deepseek/deepseek-v4-pro
 ---
 
 <!-- SECTION:TLDR -->
 
-- A közel 92 millió forintból álló gyűjtés teljes összege az Elmondhatom Alapítvány számlájára került, gyermekvédelmi célokra.
-- Ivák Bence megerősíti: a 256 101 euró megérkezett; az alapítvány traumaközpontot tervez felnőtt szexuálisbántalmazás-áldozatok segítésére.
-- A tervezett központhoz már szakértőkkel konzultáltak, kérdőívet indítottak és keresik a kb. 100 négyzetméteres, utcafronti helyiséget.
-- A támogatás három év működési költséget fedez, és alkalmas pályázatok önrészének biztosítására is.
-- Bangó Sándor egy fillért sem kapott a gyűjtésből; Juhász Péter saját pénzéből biztosított neki ügyvédet a rendőrségi meghallgatásokhoz.
-- Hont András YouTube-csatornájába 500 millió forintot fektettek, ami a havi 398 dollár bevétel mellett politikai célú finanszírozásra utal.
-- Juhász Pétert is meghallgatta az ügyészség; két másik sértett is ugyanazt a személyt nevezte meg, de egyikük elérhetetlen, másik nem jelent meg.
-- Pócs János több embert fizetett le a zavarkeltésért; Horvát Leon és mások fenntartják, hogy Zsolt bácsi létezik.
-- A Semjén Zsolt elleni rágalmazási perekben a vádlottak a valóság bizonyítására készülnek, ami új fejleményeket hozhat.
+- A gyűjtésből befolyt ~92,6 millió forint (256 101 euró) teljes egészében megérkezett az Elmondhatom Alapítvány számlájára.
+- Az alapítvány a pénzből egy traumaközpontot indítana gyermekkori szexuális abúzus felnőtt áldozatainak, ahol csoportos és egyéni terápiát biztosítanának.
+- Az összeg körülbelül három évnyi működési költséget fedez, ami azért kulcsfontosságú, mert általános fenntartásra szinte lehetetlen pályázati forrást szerezni.
+- Juhász Péter új gyűjtést indított „Lili” számára, aki a Szőlő utcai ügyet nyilvánosságra hozó felvételeket biztosította, de továbbra is anonimitásban marad.
+- Bangó Sándor a gyűjtésből soha egy fillért sem kapott és nem is kért; Juhász Péter csak ügyvédi segítséget nyújtott neki az ügyészségi vallomásaihoz.
+- Juhász Péter élesen bírálta Hont Andrást, aki szerinte egy félmilliárd forintos, politikailag motivált befektetésből működtet alacsony bevételű YouTube-csatornát.
+- Az ügyészségi eljárás lassan halad: Bangó Sándoron kívül két másik sértett is ugyanazt a személyt nevezte meg, de egyikük sem elérhető vagy együttműködő.
+- Juhász Péter szerint a Fideszhez köthető szereplők, például Pócs János, pénzzel próbálnak embereket rávenni a Zsolt bácsi-ügy hitelességének aláásására.
+- A Semjén Zsolt által indított rágalmazási perekben kilenc vádlott a valóság bizonyítására játszik rá, ami Juhász Péter reményei szerint új bizonyítékokat hozhat felszínre.
 > „A pénz nem tűnt el, hanem ott van, amire eredetileg is szántuk. Bangó Sándornak soha semmi köze nem volt ehhez a pénzhez. Zsolt bácsi, ügy van, és még kiderülhet, hogy ki az.” – Juhász Péter
 
 <!-- SECTION:DETAILS -->
 
-Juhász Péter ebben a videóban a nagy nyilvánosságot kapott, „100 milliós” gyűjtés lezárását járja körül. Elmondja, hová került pontosan a pénz, tételesen bemutatja az Elmondhatom Alapítvány terveit, válaszol a vádakra, amelyek szerint „lelépett volna” az összeggel vagy Bangó Sándort használta volna ki, és kitér a Zsolt bácsival kapcsolatos ügy jogi, politikai hátterére is. A videóban Ivák Bence, az Elmondhatom Alapítvány vezetője is megszólal.
+## A gyűjtés lezárul: hová került a pénz?
 
-## A gyűjtés lezárása: hová került a pénz?
+Juhász Péter a videó elején azt ígéri, hogy lezárja a „hol van a 100 millió?” kérdést. Állítása szerint sem ő, sem a pénz nem tűnt el: aki követi a csatornáját, naponta találkozik vele, a gyűjtésben összegyűlt összeg pedig megérkezett a megjelölt célszervezethez.
 
-Juhász Péter rögtön az elején leszögezi: sem ő, sem a pénz nem tűnt el. A gyűjtés sikeres volt, bár nem pontosan 100 millió, hanem nagyjából 92 millió forint jött össze. Saját bevallása szerint már annak is nagyon örült volna, ha az összeg negyede összejön.
+A gyűjtés eredeti célja kettős volt. Az egyik: álljon elő valaki, aki bizonyítékot szolgáltat arra, ki az a „Zsolt bácsi”, akinek a létezésében Juhász Péter továbbra is hisz. A másik, a leírásban is rögzített cél az volt, hogy ha 90 napon belül senki nem jelentkezik bizonyítékkal, az összeg gyermekvédelemmel – elsősorban szexuális abúzust elszenvedett áldozatokkal – foglalkozó szervezethez kerüljön. Juhász Péter szerint ez történt: a kiválasztott szervezet az Elmondhatom Alapítvány lett.
 
-A gyűjtésnek kettős célja volt. Az egyik, hogy valaki jelentkezzen bizonyítékkal arról, ki az a „Zsolt bácsi”, akiről Juhász Péter továbbra is meg van győződve, hogy létezik. Mint mondja, túl sok, egymástól független forrásból induló információ mutat egy irányba, egy személyre, ezért a bizonyíték hiánya nem jelenti azt, hogy az ügy ne lenne valós. A második, a gyűjtés leírásában is rögzített cél az volt, hogy ha 90 napon belül senki nem jelentkezik bizonyítékkal, az összeg gyermekvédelemmel foglalkozó szervezethez kerüljön, elsősorban olyanhoz, amelyik szexuális abúzust elszenvedett áldozatokkal foglalkozik.
+> „Nem tűntem el, ahogy a 100 millió forint sem tűnt el, ami egyébként nagyjából 92 millió, merthogy ez a gyűjtés sikeres volt.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=25)
 
-Ez a szervezet az Elmondhatom Alapítvány lett, és Juhász Péter közli: a pénz már az ő számlájukon van, ahogyan ígérte.
+A videóban elhangzik, hogy a gyűjtés 1180 támogató jóvoltából sikeres volt. Juhász Péter azt mondta, már annak is örült volna, ha a tervezett összeg negyede összegyűlik.
+
+## Beszélgetés Ivák Bencével az Elmondhatom Alapítvány terveiről
+
+Juhász Péter az Elmondhatom Alapítvány vezetőjével, Ivák Bencével készült beszélgetést is beillesztette a videóba. A beszélgetés elején Ivák Bence megerősítette, hogy a teljes összeg megérkezett az alapítvány számlájára.
+
+> „Igen, megérkezett, és ez szám szerint 256 101 euró, ami mai árfolyamon (...) 92 638 390 forint, és megérkezett az Elmondhatom Alapítvány számlájára.” – Ivák Bence [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=181)
+
+Juhász Péter hangsúlyozta, hogy sok egyeztetés után sikerült elérni, hogy a 4fund gyűjtőplatform közvetlenül az alapítványnak utalja a pénzt, így abból egy fillér sem hiányozhatott, és korábban sem vontak le belőle semmit. Ivák Bence kiemelte, hogy az alapítvány átláthatóan működik: beszámolóik nyilvánosak, és minden, aminek transzparensnek kell lennie, az is. Elmondta, hogy az adomány különös felelősséget jelent, mert 1180 ember a saját jövedelméből adott pénzt.
+
+### A pénz felhasználása: traumaközpont
+
+Ivák Bence beszámolója szerint a leghatékonyabb segítség a felnőtt érintetteknek, akik gyermekként szexuális bántalmazást szenvedtek el, ha olyan terápiás segítséghez jutnak, amihez maguktól esetleg anyagi vagy bizalmi okokból nem férnének hozzá. Ezért az alapítvány egy traumaközpontot szeretne indítani, ahol a témára specializált szakemberek dolgoznak.
+
+Három előkészítő lépést tettek meg:
+
+- felvették a kapcsolatot olyan szakemberekkel, akik már vezettek hasonló intézményt;
+- anonim kérdőívet indítottak az érintetteknek, amelyet már 40-en töltöttek ki, hogy elmondják, milyen segítségre lenne szükségük;
+- elkezdték felmérni a helyszínlehetőségeket, önkormányzati helyiségeket és pályázatokat.
+
+### Helyszínigény és működési finanszírozás
+
+Ivák Bence a videóban nyilvánosan is kérte az önkormányzatok és más segítők jelentkezését. Az elképzelések szerint olyan helyiségre lenne szükség, ahol egyszerre legalább 13-14 ember – egy csoportterápia ideális létszáma – elfér, emellett két-három kisebb helyiség álljon rendelkezésre egyéni terápiákhoz, legyen konyha, vizesblokk és fogadótér. Összességében nagyjából 100 négyzetméter, lehetőleg utcafronti, külön bejáratú, nem feltétlenül bérházi magasabb emeleti helyiség lenne ideális. Elmondta, hogy már feladtak egy hirdetést is.
+
+> „Nagyon szuper lenne, hogyha olyan helyiségben tudnánk lenni, ahol egyszerre elfér legalább 13-14 ember.” – Ivák Bence [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=542)
+
+A pénz felhasználásáról elhangzott, hogy az alapítvány pályázatokból és adományokból működik, a működési költségekre pedig nagyon nehéz forrást szerezni, mert a pályázatok többnyire projektekre szólnak, nem általános fenntartásra. Ezért különösen fontosnak nevezte, hogy ez a támogatás működési tartalékként szolgálhat. Ivák Bence becslése szerint:
+
+> „Körülbelül három évnyi működésünket fedezi ez a pénz, és mellette természetesen folyamatosan pályázunk, és minél több projektre próbálunk minél több forrást teremteni.” – Ivák Bence [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=736)
+
+Juhász Péter kiegészítette azzal, hogy a pályázatokhoz gyakran önrész is kell, így az ilyen tartalék sokat nyomhat a latban, ráadásul a pályáztatók is kedvezőbben ítélik meg, ha a szervezet maga is hozzátesz a forrásokhoz.
+
+### Kormányzati együttműködés, jövőbeli beszámoló
+
+Juhász Péter megkérdezte, elképzelhető-e konstruktív együttműködés a kormányzattal, például Gyurkó Szilvián keresztül, aki korábban szakmai segítséget nyújtott az alapítványnak, azóta pedig bekerült a kormányzatba. Ivák Bence azt mondta, ez nem titkolt céljuk, de lépésenként haladnak, és induló alapítványként nem akarnak túl nagyot vállalni. A központ elindítása, működésének értékelése után viszont abszolút cél lehet a nagyobb együttműködés. Elmondta, hogy készül egy országos lefedettségű plakátkampányuk, és három konkrét projektet is el tudna képzelni állami szinten. Juhász Péter azt kérte, hogy fél év vagy egy év múlva újra beszéljenek, hogy az 1180 támogató visszajelzést kapjon arról, mire használták a pénzt.
+
+## Új gyűjtés Lili számára
+
+A videóban Juhász Péter újabb gyűjtést ajánlott a figyelembe: a Lili néven ismertté vált lánynak indított pénzgyűjtést. A videóban elhangzottak szerint Lili – aki Juhász Péter Pál áldozata volt – bocsátotta rendelkezésre azokat a Szőlő utcai térfigyelő vagy biztonsági kamera felvételeket, amelyek Juhász Péter szerint bebizonyították, hogy a Fidesz által kinevezett új intézményvezető is megengedhetetlenül bánik a gyerekekkel.
+
+Lili azóta sem vállalta a nyilvánosságot, kilétét nem lehet tudni, de az RTL Babák című műsorában és a 444 cikkeiben Lili néven szerepelt. Juhász Péter szerint Lili az ügy hőse, neki köszönhető, hogy a Szőlő utcai történet és Juhász Péter Pál ügye nyilvánosságot kapott, és az ügy folyományaként több embert letartóztattak. Juhász Péter ezért azt szeretné, ha Lili legalább anyagi elismerést kapna a társadalomtól. A gyűjtés linkjét a videó leírásában helyezte el. Hozzátette, hogy Lilinek eddig is segített, például ügyvéddel.
+
+## Hont András és a félmilliárdos befektetés kritikája
+
+A videó második felében Juhász Péter éles, helyenként személyeskedő hangon bírálta Hont Andrást és azokat, akik szerinte zavarkeltéssel próbálják elmosni a Zsolt bácsi-ügyet. Szerinte Hont András „parazitának” nevezte őt, miközben olyan csatornát működtet, amely Juhász Péter állítása szerint a tizedét sem hozza az ő csatornája nézettségének.
+
+Juhász Péter elmondta, hogy Hont András fenntartja az Öt nevű YouTube-csatornát, amelyre valaki – állítólag nem közpénzből, hanem üzleti alapon – félmilliárd forintot adott. Szerinte ez azért is különös, mert a csatorna havi bevétele a videóban mutatott adat szerint mindössze 398 dollár, azaz nagyjából 120 ezer forint. Ebből kellene kifizetni a stúdiót, a közreműködőket – Gavra Gábortól Siffer Andrásig –, valamint Hont András megélhetését és a félmilliárdos befektetés törlesztését.
+
+> „Bizony 4166 hónap, ami nagyjából 347 év tiszta bevétele, hogyha nincsen költség, és nem vett ki semmit Hont András, és nem számoltunk az inflációval sem.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=1239)
+
+Juhász Péter értelmezése szerint ez a befektetés nem piaci logikát, hanem politikai érdeket mutat. Úgy fogalmazott, hogy a Tisza ellenfelének érdeke lehet a hangulatkeltés és a zavarkeltés, ezért kaphatott Hont András félmilliárd forintot. Juhász Péter a Hont András által használt „parazita” kifejezésre így reagált:
+
+> „Parazitának pedig én meghagynám Göbbelsnek ezeket a szavakat, de Hont Andrásnak ez áll a szájára.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=1985)
+
+## Bangó Sándor szerepe és Juhász Péter viszonya hozzá
+
+Juhász Péter szerint a „hol a 100 millió, számoljon el vele” típusú támadások egyetlen valódi kárvallottja Bangó Sándor, aki nem tudja lemosni magáról, hogy a gyűjtés neki szólt volna. Juhász Péter szerint ugyanakkor Bangó Sándor a gyűjtésből soha egy fillért sem kapott, és nem is kért belőle.
 
 > „Bangó Sándor egy fillért nem kapott ebből az összegből, mint ahogy nem is kért soha ebből semmit.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=1307)
 
-## Beszélgetés Ivák Bencével, az Elmondhatom Alapítvány vezetőjével
+Juhász Péter beszámolója szerint Bangó Sándor a Kontroll-interjú után indított magának gyűjtést, amihez neki semmi köze. Kapcsolatukról azt mondta: Bangó Sándor akkor kereste meg, amikor először hallott róla, és azt állította, hogy tudja, ki az a Zsolt bácsi, ezt pedig hajlandó az ügyészségen is elmondani. Juhász Péter ekkor ajánlotta fel, hogy ügyvédet biztosít számára, és kérte, hogy az ügyvéd javasolja az ügyészségnek a hazugságvizsgálatot is. Bangó Sándor azóta közel fél tucatszor volt kihallgatáson, Juhász Péternek pedig ez körülbelül félmillió forintjába került.
 
-A videó második részében Juhász Péter Ivák Bencével beszélget, aki megerősíti, hogy a támogatás megérkezett.
+> „Bangó Sándorhoz nekem az égvilágon semmi közöm nem volt azon kívül, hogy segítsek neki.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=1346)
 
-> „Válaszolva a kérdésedre, igen, megérkezett, és ez szám szerint 256 101 €, ami mai árfolyamon egy sima egyszerű Google-árfolyam-átváltás 92 638 390 Ft, és megérkezett az Elmondhatom Alapítvány számlájára.” – Ivák Bence [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=181)
+Juhász Péter elmondta, hogy összesen háromszor találkozott Bangó Sándorral: egyszer, amikor az ügyet megbeszélték, majd kétszer, amikor bekísérte az ügyészségre. Telefonon is néhányszor beszéltek, és minden alkalommal azt tanácsolta neki, hogy ne kommunikáljon, ne csináljon élő videókat, hanem hagyja, hogy az ügyészségi eljárás menjen tovább.
 
-Ivák Bence szerint a teljes összeg átkerült hozzájuk, abból egy fillér sem hiányzik, és korábban sem vont le belőle senki. Kiemeli, hogy az alapítvány a törvényi kötelezettségeken túl is transzparensen működik, beszámolóik nyilvánosak az elmondhatomalapitvany.hu oldalon. Köszönetet mond annak az 1180 támogatónak, akik a saját jövedelmükből adakoztak.
+## Az ügyészségi eljárás állása
 
-### A traumaközpont terve
+Juhász Péter az ügyészségi helyzetről is beszélt. Elmondta, hogy őt is megkeresték, hogy tanúként mondja el mindazt, amit tud az ügyről. Állítása szerint Bangó Sándoron kívül két olyan sértettről tud, akik ugyanazt a személyt nevezték meg elkövetőként szexuális abúzus ügyében.
 
-Az alapítvány a pénzből egy olyan traumaközpontot vagy ambulanciát szeretne elindítani, amely kifejezetten azoknak a felnőtt érintetteknek segít, akiket gyerekként szexuális bántalmazás ért. A cél, hogy olyan speciális terápiás segítséget kapjanak, amihez anyagi okokból vagy a biztonságérzet hiánya miatt maguktól nem jutnának hozzá.
+Az egyik ilyen érintett súlyosan drogfogyasztó, idézést kapott, Juhász Péter ügyvédet is felajánlott neki, háromszor egyeztettek, de sem az ügyvéddel, sem az ügyészségen nem jelent meg. „Nem tudunk vele mit kezdeni” – fogalmazott Juhász Péter. A másik érintettről közvetett beszámolókból tudja, hogy ugyanerről beszélt egy szakembernek, teljesen más vonalról érkezett, de hajléktalan életmódot él, így Juhász Péter nem tudja elérni. Juhász Péter azt reméli, hogy a hatóság – akár az új Tisza-kormány alatt induló nyomozásban – nagyobb eszköztárral megtalálhatja őt.
 
-Három előkészítő lépést már megtettek:
+Elmondta továbbá, hogy egy rendőr is bejelentkezett hozzá, aki szerinte hitelesen igazolta, hogy valóban rendőr. A rendőr azt közölte, hogy a rendőrségen van felvétel arról, hogy egy bizonyos nevű személy bemegy a Szőlő utcába. Ez a név Juhász Péter szerint egybevág azzal, amit Bangó Sándor és a másik sértett állított. Juhász Péter ezért úgy látja:
 
-1. Felvették a kapcsolatot olyan szakemberekkel, akik vezettek már hasonló intézményt, hogy ne csak jó szándékkal, hanem megalapozottan vágjanak bele.
-2. Kérdőívet indítottak az érintetteknek, amelyet anonim módon lehet kitölteni, és arról szól, hogy az érintettek milyen segítségre vágynak leginkább. Ezt eddig 40-en töltötték ki.
-3. Elkezdték a megfelelő helyszín felkutatását, és már hirdetést is feladtak.
+> „Ezért gondolom én azt, hogy ez az ügy létezik. Szóval innentől az a kérdés, hogy mikor kerül bizonyításra.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=1590)
 
-A helyszínnel kapcsolatban Ivák Bence elmondja: ideális esetben olyan helyiségre lenne szükség, ahol egyszerre 13-14 ember kényelmesen elfér egy csoportterápiához, emellett két-három kisebb helyiség az egyéni terápiákhoz, konyha teafőzéshez, vizes blokk, fogadótér, összesen nagyjából 100 négyzetméter. Fontos, hogy a hely lehetőleg utcafronti, külön megközelíthető legyen, mert a biztonságérzet sokat számít. Juhász Péter arra kéri a nézőket és az önkormányzatokat is, hogy ha tudnak segíteni helyiséggel, jelentkezzenek.
+## Pócs János és a zavarkeltés vádja
 
-### Mire elég a pénz?
+Juhász Péter szerint a Fideszhez köthető propagandisták azért erősítik a Zsolt bácsi-ügyet övező bizonytalanságot, hogy a közvélemény elveszítse a fonalat. Ennek részeként említette Pócs Jánost, aki állítása szerint sorra fizeti le az embereket. Juhász Péter három esetet hozott fel:
 
-Ivák Bence elmondja, hogy az alapítvány pályázatokból és mikroadományokból működik, és a pályázatok nagyon lassú lefolyásúak. A működési költségekre különösen nehéz forrást találni, mert a legtöbb pályázat projektekre szól. Ezért a most kapott összeg hatalmas segítség.
+- egy Mário nevű férfit, aki több szervezetet és személyt megkeresett, és próbált pénzt kicsikarni;
+- Molnár Zsoltot, aki Juhász Péter szerint leírta neki, hogy Pócs János folyamatosan pénzzel keresi meg;
+- Horvát Leont, akit Pócs János megpróbált arra használni, hogy azt állítsa, nincs Zsolt bácsi, ám Horvát Leon másnap azt nyilatkozta, hogy pontosan tudja, van Zsolt bácsi.
 
-> „…körülbelül három évnyi működésünket fedezi ez a pénz, és mellette természetesen folyamatosan pályázunk, és minél több projektre próbálunk minél több forrást teremteni.” – Ivák Bence [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=736)
+Juhász Péter olvasata szerint azok, akik maguk is áldozatok, azt állítják, hogy létezik az ügy, míg a Fidesz politikusai és propagandistái azt a látszatot próbálják kelteni, hogy nincs. Szerinte ehhez „Marci bácsi ügyeként” egy álügyet is kreálnak, hogy mindenki bizonytalanodjon el.
 
-A pénz arra is alkalmas lehet, hogy pályázatokhoz önrészt biztosítsanak, ami hitelesebbé teszi őket a pályázóknál. Juhász Péter arra kéri Ivák Bencét, hogy fél év vagy egy év múlva számoljanak be a támogatóknak arról, mire sikerült költeni, és milyen tevékenységek valósultak meg.
+> „Akik áldozatok, azok azt állítják, hogy van ez az ügy. Akik pedig a Fidesz politikusai és propagandistái, azok azt a látszatot próbálják kelteni, hogy nincs.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=1690)
 
-A beszélgetés végén szóba kerül a kormányzattal való együttműködés is. Juhász Péter megjegyzi, hogy Gyurkó Szilvia, aki korábban szakmailag segítette az alapítványt, azóta bekerült a kormányzatba, és megkérdezi, lehet-e konstruktív együttműködés. Ivák Bence szerint nem rejtett céljuk ez, lépésenként haladnak, nem akarnak túl nagyot harapni, de van három konkrét projekt a fejében, amit állami szinten szuper lenne elindítani. Hozzáteszi: az új kormányzatnak most rengeteg dolga van, de ha az alapítvány jól lerakja az alapokat, később szép házat lehet rá építeni.
+Párhuzamként hozta fel a Portik-ügyet: amikor Portik Tamás elmondta Rogán Antalról, hogy 10 millió forint kenőpénzt vitt neki, Juhász Péter szerint lejáratókampány indult, amelyben őt Portikhoz próbálták kötni. Juhász Péter azt mondta, több pert megnyert ezzel kapcsolatban, és bírósági papír keletkezett arról, hogy Rogánnal kapcsolatban bizonyos állítások megállják a helyüket.
 
-## Új gyűjtés Lilinek
+## Semjén-perek, valóságbizonyítás és a Zsolt bácsi-ügy jövője
 
-Juhász Péter kiemeli Lilit, aki áldozata volt Juhász Péter Pálnak, és aki hónapokkal ezelőtt rendelkezésére bocsátotta azokat a felvételeket, amelyek a Szőlő utcai biztonsági kamera felvételei voltak. Ezek bizonyították, hogy a Fidesz által kinevezett új igazgató is megengedhetetlen módon bánik a gyerekekkel.
+Juhász Péter a jövőbeli fejleményekről szólva elmondta, hogy Semjén Zsolt több mint tucatnyi embert beperelt jó hírnevének megsértése miatt. Az eljárásban azt az ajánlatot tették a vádlottaknak, hogy ha lemondanak a védekezés jogáról és bocsánatot kérnek, akkor a pert ejtik. Juhász Péter szerint ezt az ajánlatot egyetlen ember fogadta el: a III. kerületi polgármester, aki ellen korrupciós ügy miatt eljárások folynak, és előzetesben is volt. Juhász Péter úgy véli, a polgármester nem azért kért bocsánatot, mert meggondolta volna magát, hanem mert nem akart még egy ügyet a nyakába.
 
-Lili kiléte nem ismert, nagyon helyesen nem állt a nyilvánosság elé, de Lili néven találkozhattak vele az RTL „Babák” című műsorában és a 444 cikkeiben. Juhász Péter szerint Lili az egész történet hőse, neki köszönhető, hogy Juhász Péter Pál ügye és a Szőlő utcai ügy kellő nyilvánosságot kapott. Megjegyzi, hogy azóta több embert is letartóztattak valószínűleg ennek folyományaként.
+A többi kilenc ember Juhász Péter szerint fenntartja állítását, és ügyvédeik a valóság bizonyítására játszanak rá: egy rágalmazási ügyben ugyanis az egyik lehetséges védekezés az, hogy az állított dolog valós, ezért nem lehet rágalmazás.
 
-Ezért indított gyűjtést Lili számára, hogy a társadalom anyagilag is kifejezze a háláját, és kompenzálják őt. A gyűjtés linkje a videó leírásában található. Juhász Péter azt kéri, aki teheti, akár 100 vagy 1000 forinttal járuljon hozzá; szerinte itt fontosabb lesz az adakozók száma, mint a végösszeg. Elmondja, hogy korábban is segített Lilinek, például ügyvéddel.
+> „Ha a rendőrség, az ügyészség nem teszi meg azt, hogy nyomoz, de kilenc ügyvéd rámegy erre, akkor azért van esély, hogy még valami kiderüljön.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=1827)
 
-## Hont András és a propagandisták bírálata
+Juhász Péter arra kérte a nézőket, hogy akinek bármilyen információja vagy bizonyítéka van az ügyről, keresse őt vagy az érintett ügyvédeket, akár név nélkül is. Szerinte a Zsolt bácsi személyét már nagyjából tudni lehet, de még be kell bizonyítani. Példaként hozta fel Rogán Antal és Tiborcz István esetét: véleménye szerint mindkettejükről tudható, hogy korruptak, illetve megkárosították a magyarokat, mégsem született róluk büntetőbírósági ítélet. A jogi felelősségre vonás és az erkölcsi igazság nem mindig esik egybe – tette hozzá.
 
-Juhász Péter élesen bírálja Hont Andrást és a hozzá hasonló „fideszes propagandistákat”, akik szerinte zavarkeltéssel próbálják elmosni a Zsolt bácsi ügyet. Szerinte amikor Hont András azt állítja, hogy Zsolt bácsi nem létezik, és Juhász kihasználja Bangó Sándort, akkor hátsó szándék sejlik fel.
+Arról is beszélt, hogy nem hiszi, hogy a Zsolt bácsi-ügy buktatta volna meg a Fideszt. Mint mondta, ha így lenne, büszke lenne rá, de szerinte a Fidesz azért veszítette el a választást, mert a gyermekvédelemtől kezdve a gazdaságon, oktatáson és egészségügyön át minden területen hasonló kudarcokat halmozott fel.
 
-Juhász Péter adatai szerint Hont András YouTube-csatornája tizedakkor nézettséget sem hoz, mint az övé, mégis valaki 500 millió forintot fektetett bele. A csatorna havi bevétele Juhász Péter szerint éppen 398 dollár, ami nagyjából 120 000 forint. Ebből számítása szerint:
+## Záró üzenet
 
-> „Szóval 350 év alatt, bocsánat a kerekítésért, Hont András vissza fogja adni annak a szuper üzleti angyalnak a befektetését, akiről nem tudunk semmit, csak hogy az állítás szerint nem közpénzből van.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=1250)
+Juhász Péter a videó végén röviden összefoglalta a legfontosabb üzeneteket:
 
-A pontos számítása szerint 4166 hónap, azaz nagyjából 347 év tiszta bevétel kellene ahhoz, hogy az 500 millió forint megtérüljön, feltéve, hogy nincs semmilyen költség, nem vesz ki pénzt, és az inflációt sem számolja. Szerinte ezért ez nem üzleti, hanem politikai befektetés lehet, amit egy olyan szereplő adhat, akinek érdeke a zavarkeltés.
-
-Juhász Péter hosszan sorolja azokat a „propagandistákat”, akik szerinte azt szajkózzák, hogy hol van a 100 millió, a Juhász lelépett, vagy hogy Bangó Sándorral kellene elszámolni. Néhány nevet említ: Pócs Jánostól Lentulai Krisztiánon át egy bizonytalanul kivehető névig. Ő maga Hont Andrást „szerencsétlen lúzernek” nevezi, miután Hont őt korábban parazitának hívta.
-
-## Bangó Sándor jogi védelme és Juhász Péter szerepe
-
-Juhász Péter hangsúlyozza, hogy a pénznek soha semmi köze nem volt Bangó Sándorhoz. Bangó Sándor a Kontroll interjúja után saját magának indított gyűjtést, amihez senkinek semmi köze. A nagy gyűjtésből ő egy fillért sem kapott, és nem is kért.
-
-Elmeséli, hogyan került kapcsolatba Bangó Sándorral. Saját állítása szerint életében először akkor hallott róla, amikor Bangó megkereste őt. Még csak nem is találkoztak sem a Kontroll interjú leadása előtt, sem közvetlenül utána. Miután Bangó azt állította, hogy tudja, ki az a Zsolt bácsi, és hajlandó ezt az ügyészségen is elmondani, sőt hazugságvizsgálatnak is alávetné magát, Juhász Péter felajánlotta, hogy ügyvédet biztosít neki, és állja a költségeit.
-
-> „Sándor azóta közel fél tucatszor volt bent kihallgatáson. Nekem ez körülbelül félmillió forintomba került, de fájt rá, mert amíg Hont András félmilliárdot visz haza, nem tudni miért, addig én a tőled kapott támogatást ilyenekre költöm.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=1403)
-
-Hozzáteszi, hogy Bangó Sándorral összesen háromszor találkozott: egyszer, amikor elmondta neki az ügyet és vállalta a vallomást; egyszer, amikor bekísérte az ügyészségre; és egyszer, amikor másodszor is bekísérte. Néhányszor telefonon beszéltek, és Juhász Péter mindig azt tanácsolta neki, hogy ne kommunikáljon nyilvánosan, ne csináljon élő videókat, hanem hagyja az ügyet az ügyészségen. Szerinte ezt Bangó Sándor és minden érintett – ügyész, ügyvéd – alá tudja támasztani.
-
-## Mi történt az ügyészségen?
-
-Juhász Péter elmondja, hogy őt is meghallgatta az ügyészség, és arra kérték, mondjon el mindent, amit az ügyről tud. Bangó Sándoron kívül még két olyan személyről tud, akik sértettként ugyanazt az embert nevezték meg szexuális abúzus elkövetőjeként.
-
-Az egyik érintett, elmondása szerint, rendkívül rossz körülmények között nőtt fel, és szét drogozta magát. Kapott idézést, Juhász Péter felajánlott neki is ügyvédet, háromszor beszéltek meg találkozót, de nem írta alá a meghatalmazást, és az ügyészségen sem jelent meg. A másik férfiról közvetett beszámolókból tudja, hogy szakembernek elmondta, vele is megtörtént az abúzus, de ő hajléktalanként él, így Juhász Péter nem tudja elérni. Jelezte, hogy várja, hogy a hatóság megkeresse, mert szerinte a rendőrségnek megvan az eszköztára ahhoz, hogy akár egy hajléktalan életmódot folytató embert is utolérjen.
-
-Egy rendőr is bejelentkezett nála, aki szerinte bizonyította, hogy valóban rendőr. Azt állította, hogy a rendőrségen van felvétel arról, hogy egy bizonyos nevű személy bemegy a Szőlő utcába – méghozzá ugyanaz a név, amelyet Bangó Sándor és egy másik sértett is említett. Juhász Péter számára ezért ez az ügy létezik; a kérdés csak az, hogy mikor kerül bizonyításra.
-
-## Pócs János, a zavarkeltés és a párhuzam a korábbi lejáratással
-
-Juhász Péter szerint Pócs János sorra fizeti le az embereket a zavarkeltés érdekében. Példaként hozza:
-
-- egy „Mário” nevű, drogos férfit, aki Juhász Péter szerint mindenkit megkeresett, többek között Fősi Angélát, a DK-t és őt is, és pénzt próbált lehúzni;
-- Molnár Zsoltot, aki szintén nyilatkozott nála, és aki Juhász Péter szerint leírta neki, hogy Pócs János folyamatosan ezzel traktálja;
-- Horvát Leont, aki többször elmondta – többek között a Klubrádióban Bolgár Györgynek –, hogy bizonyítéka van Zsolt bácsiról. Horvát Leon szintén bement Pócs Jánoshoz, aki Juhász Péter szerint megpróbálta kifacsarni a szavait, de Horvát Leon másnap kijelentette, hogy pontosan tudja, van Zsolt bácsi.
-
-Juhász Péter szerint a helyzet világos: az áldozatok azt állítják, hogy van ez az ügy, a Fidesz politikusai és propagandistái pedig azt próbálják elhitetni, hogy nincs. Ráadásul kreálnak egy „álügyet”, a Marci bácsi ügyét, hogy mindenki elbizonytalanodjon. A cél szerinte az, hogy a közvéleménynek elege legyen, és senki ne higgyen senkinek.
-
-Párhuzamként felidézi, hogy amikor Portik Tamás elmondta Rogán Antalról, hogy vitt neki 10 millió forint kenőpénzt, akkor Juhász Péter ellen is lejáratókampány indult, hogy neki köze van Portikhoz. Juhász Péter szerint több helyreigazítást és pert is megnyert ezzel kapcsolatban, és bírósági papír keletkezett arról is, hogy Rogán Antalról állítható, hogy bűnözőkkel üzletelt. Szerinte ugyanilyen papír fog keletkezni Pócs Jánosról vagy másokról is, ha ezek az ügyek bíróságra kerülnek.
-
-## Mi várható a jövőben?
-
-Juhász Péter elmondja, hogy Semjén Zsolt több mint tucatnyi embert beperelt jó hírneve megsértése miatt. Azt az ajánlatot kapták a vádlottak, hogy ha lemondanak a védekezés jogáról és bocsánatot kérnek, Semjén Zsolt eláll a pertől. Juhász Péter szerint ezt egy ember tette meg: a harmadik kerületi polgármester, aki ellen korrupciós vádak miatt több eljárás is folyik, és előzetesben is ült. Juhász Péter szerint ez emberileg érthető, de nem azt jelenti, hogy meggondolta volna magát, hanem hogy nem akart még egy ügyet a nyakába venni.
-
-A többi kilenc vádlott viszont tartja az állítását, és ügyvédeik a valóság bizonyítására mennek. Juhász Péter elmagyarázza, hogy rágalmazásnál két védekezési út lehet: az egyik, hogy nem úgy mondták, vagy a szólásszabadság védi; a másik, hogy bebizonyítják, amit állítottak, valóság. Szerinte innen várható, hogy lesz még fejlemény, mert ha a rendőrség és az ügyészség nem is nyomoz, kilenc ügyvéd rámegy az ügyre.
-
-Felszólít mindenkit, akinek információja vagy bizonyítéka van a Zsolt bácsi ügyről, hogy keresse meg őt, vagy valamelyik ügyben érintett ügyvédet, akár név nélkül is. Szerinte nagyjából már tudják, ki az a Zsolt bácsi, de még bizonyítani kell. Párhuzamként említi, hogy Rogán Antalról is tudják, hogy korrupt, és Tiborcz Istvánról is tudják, hogy megkárosította a magyarokat, mégsem született még büntetőbírósági ítélet. Mint mondja, a jogi ügyek kimenetele nem mindig esik egybe az erkölcsi igazsággal.
-
-## Zárszó
-
-Juhász Péter összefoglalja a lényeget:
+- a pénz nem tűnt el, hanem oda került, ahová eredetileg szánták;
+- Bangó Sándornak soha semmi köze nem volt ehhez a pénzhez, és egy fillért sem kapott belőle;
+- a Zsolt bácsi-ügy létezik, és még kiderülhet, hogy ki az.
 
 > „A pénz nem tűnt el, hanem ott van, amire eredetileg is szántuk. Bangó Sándornak soha semmi köze nem volt ehhez a pénzhez. Egy fillért nem kapott belőle. Zsolt bácsi, ügy van, és még kiderülhet, hogy ki az.” – Juhász Péter [*](https://www.youtube.com/watch?v=S_X8phBS8_o&t=2027)
 
-Hozzáteszi, hogy a Fidesz nem kizárólag a Zsolt bácsi ügy miatt bukott el, hanem azért, mert a gazdaságban, oktatásban, egészségügyben és gyermekvédelemben is mást mutattak, mint amit tettek. Azt kéri, hogy aki teheti, támogassa a munkáját, mert mögötte nincsenek félmilliárdos befektetők. Végül arra kéri a nézőket, hogy kommenteljenek, mert ennél a videónál igyekszik minden kérdésre válaszolni.
+Hozzátette, hogy a videó kommentjei alatt igyekszik a felmerülő kérdésekre válaszolni.
 
 <!-- SECTION:UNCERTAIN -->
 
-- „Elmutatom Alapítvány” – a helyes név a szövegkörnyezet alapján Elmondhatom Alapítvány.
-- „forfound” – feltehetően a 4fund.com gyűjtőoldal elírása.
-- „Hontandrás” – a helyes név Hont András.
-- „Tiborci István” – a helyes név valószínűleg Tiborcz István.
-- „Portk Tamás” – a helyes név valószínűleg Portik Tamás.
-- „Volgár Györgynek” – a Klubrádió kontextusában valószínűleg Bolgár Györgyről van szó.
-- „Gulyásvirágig” – a felsorolt propagandisták egyike, a név pontos alakja nem rekonstruálható az átiratból.
-- „Fősi Angéla” / „füsi Angila” – a név pontos alakja bizonytalan, a szövegben többször, többféleképpen szerepel.
-- „Lentulai Krisztián” – a név pontos írásmódja nem rekonstruálható egyértelműen.
-- „11000 támogatónak” – valószínűleg 1180 támogatóról van szó, a beszélgetés más pontjain is ez a szám szerepel.
-- „én is voltam ben valósten” – valószínűleg „én is voltam bent vallomáson” lehet a helyes alak.
-- „árügyet” – a szövegkörnyezet alapján valószínűleg „álügyet”.
+- „Gavra Gábortól, Siffer Andráson keresztül mindenkit” – a felsorolt nevek pontos alakja az ASR-átiratból nem rekonstruálható egyértelműen.
+- „Pócs Jánostól Lentulai Krisztiánon keresztül a ki ez? Gulyásvirágig” – több név torzult, nem azonosítható bizonyosan.
+- „Fősi Angélától” – bizonytalan, hogy a név pontosan kire utal.
+- „Marci bácsi ügyét” – a kifejezés pontos jelentése a szövegkörnyezetből nem derül ki.
+- „a forfound” – feltehetően a 4fund gyűjtőplatformra utal.
+- „ősaruk” – értelmezhetetlen ASR-torzulás a záró szakaszban.
 
 ## Átirat
 
