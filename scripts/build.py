@@ -100,20 +100,21 @@ def _fmt_duration(sec) -> str:
 
 # ── Markdown parsing ──────────────────────────────────────────────────────────
 
+_FM_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.DOTALL)
+
+
 def _parse_file(path: Path) -> tuple[dict, str]:
     """Return (frontmatter_dict, body_text) for a content .md file."""
     text = path.read_text(encoding="utf-8")
-    if not text.startswith("---"):
-        return {}, text
-    parts = text.split("---", 2)
-    if len(parts) < 3:
+    m = _FM_RE.match(text)
+    if not m:
         return {}, text
     try:
-        fm = yaml.safe_load(parts[1]) or {}
+        fm = yaml.safe_load(m.group(1)) or {}
     except yaml.YAMLError as e:
         print(f"WARN: YAML parse failed in {path}: {e}")
         fm = {}
-    return fm, parts[2].strip()
+    return fm, m.group(2).strip()
 
 
 _TLDR_RE = re.compile(r"^#\s+tl;dr\s*$", re.MULTILINE | re.IGNORECASE)
